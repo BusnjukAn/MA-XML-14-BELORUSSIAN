@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Сінхранізацыя Mi Cloud</string>
+  <string name="error_data_in_transfer">Сінхранізацыя завершыцца праз %s г.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud недаступна</string>
+  <string name="error_forbidden">Сінхранізацыя адключана з-за праблем з вашым Mi акаўнтам.</string>
+  <string name="error_not_acceptable">Сінхранізацыя адключана.</string>
+  <string name="error_title">Не атрымалася сінхранізаваць</string>
+  <string name="error_unauthorized">Сінхранізацыя адключана з-за занадта вялікай колькасці спробаў ўваходу.</string>
+  <string name="micloud_send_message_desc">Адпраўка Mi паведамлення</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Буфер абмену: атрымана паведамленне з вашага кампутара</string>
+</resources>

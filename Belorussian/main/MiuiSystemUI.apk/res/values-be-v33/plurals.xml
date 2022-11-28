@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s праграмы актыўныя</item>
+        <item quantity="one">%s праграма актыўная</item>
+        <item quantity="few">%s праграмы актыўныя</item>
+        <item quantity="many">%s праграм актыўныя</item>
+    </plurals>
+</resources>

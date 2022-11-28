@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="alarm_repeat_type">
+    <item>Адзін раз</item>
+    <item>Штодзённа</item>
+    <item>Па працоўных днях</item>
+    <item>Па будных днях</item>
+    <item>Уласны</item>
+  </string-array>
+  <string-array name="alarm_repeat_type_no_workdays">
+    <item>Адзін раз</item>
+    <item>Штодзённа</item>
+    <item>Па будных днях</item>
+    <item>Уласны</item>
+  </string-array>
+  <string-array name="app_behavior_type_menu">
+    <item>"Усе запісы       "</item>
+    <item>Аўтазапуск</item>
+    <item>Ланцуговы запуск</item>
+    <item>Дазволы</item>
+    <item>Дзеянні</item>
+  </string-array>
+  <string-array name="applock_password_types">
+    <item>Графічны ключ</item>
+    <item>Код</item>
+    <item>Пароль</item>
+  </string-array>
+  <string-array name="daily_brand">
+    <item>Карыстацкая</item>
+    <item>Xiaomi Fan карта</item>
+    <item>Xiao Tiansheng карта</item>
+    <item>Карта Tencent King</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Учора (мабільны інтэрнэт)</item>
+    <item>Сёння (мабільны інтэрнэт)</item>
+    <item>За мінулы месяц (мабільны інтэрнэт)</item>
+    <item>За гэты месяц (мабільны інтэрнэт)</item>
+    <item>Учора (Wi-Fi)</item>
+    <item>Сёння (Wi-Fi)</item>
+    <item>За мінулы месяц (Wi-Fi)</item>
+    <item>За гэты месяц (Wi-Fi)</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>"Учора "</item>
+    <item>"Сёння "</item>
+    <item>"У мінулым месяцы "</item>
+    <item>"За гэты месяц "</item>
+  </string-array>
+  <string-array name="date_of_traffic_cmcc">
+    <item>"За тыдзень "</item>
+    <item>"Сёння "</item>
+    <item>"За месяц "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>"Учора: "</item>
+    <item>"Сёння: "</item>
+    <item>"У мінулым месяцы: "</item>
+    <item>"За гэты месяц: "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix_cmcc">
+    <item>"За тыдзень: "</item>
+    <item>"Сёння: "</item>
+    <item>"За месяц: "</item>
+  </string-array>
+  <string-array name="debug_open_intercept">
+    <item>Вы зможаце атрымаць доступ і рэдагаваць файлы на вашай прыладзе з дапамогай кампутара.</item>
+    <item>Будзе даступная ўстаноўка праграм на вашй прыладзе без вашага відавочнага дазволу.</item>
+    <item>Вы зможаце выдалена адсочваць і запісваць змесціва экрана.</item>
+    <item>Будзе магчыма атрымаць доступ да падрабязнай інфармацыі аб вашай прыладзе.</item>
+  </string-array>
+  <string-array name="ew_emergency_blood_type_arrays">
+    <item>A</item>
+    <item>B</item>
+    <item>AB</item>
+    <item>O</item>
+  </string-array>
+  <string-array name="ew_emergency_organ_donation_arrays">
+    <item>Так</item>
+    <item>Не</item>
+  </string-array>
+  <string-array name="lock_mode">
+    <item>Пры блакаванні экрана</item>
+    <item>Калі прылада заблакавана або пасля выхаду з праграмы</item>
+    <item>Пры блакаванні экрана або праз хвіліну пасля выхаду з праграмы</item>
+  </string-array>
+  <string-array name="mi_service_traffic_type">
+    <item>"Мабільны трафік "</item>
+    <item>"Трафік Wi-Fi "</item>
+  </string-array>
+  <string-array name="miui_optimization_close_intercept">
+    <item>Важна: некалькі сістэмных праграм могуць перастаць працаваць правільна.</item>
+    <item>Тэкставыя макеты, уліковыя запісы і змесціва могуць адлюстроўвацца няправільна.</item>
+  </string-array>
+  <string-array name="over_limit_traffic_waring_style">
+    <item>Паказваць папярэджанне</item>
+    <item>Папярэджваць і адключаць мабільны інтэрнэт</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_entries">
+    <item>Па змаўчанні</item>
+    <item>Прыярытэт прадукцыйнасці</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_summaries">
+    <item>Выкарыстанне рэжыму кантролю тэмпературы па змаўчанні</item>
+    <item>Прадукцыйнасць мае прыярытэт</item>
+  </string-array>
+  <string-array name="perm_intercept_notification">
+    <item>Чытаць усе вашыя апавяшчэння, уключаючы змест тэкставага паведамленні і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю</item>
+    <item>Абмежаваць дазвол апавяшчэнняў для некаторых праграм</item>
+    <item>Імітаваць націск на апавяшчэнне і адкрыццё праграмы</item>
+    <item>Ўключыць і выключыць рэжым \"Не турбаваць\"</item>
+  </string-array>
+  <string-array name="perm_intercept_statitics">
+    <item>Збіраем дадзеныя аб вашых інтарэсах і паводзінах шляхам навучання, якія праграмы вы выкарыстоўваеце, як часта вы іх выкарыстоўваеце</item>
+    <item>Атрымаеце доступ да налад вашага аператара і моўных налад, а таксама да іншых дэталяў</item>
+  </string-array>
+  <string-array name="perm_intercept_unknown_source">
+    <item>Іншыя праграмы, якія не былі правераны, могуць выклікаць мноства праблем і знізіць стабільнасць сістэмы.</item>
+    <item>Некаторыя іншыя праграмы могуць утрымліваць шкоднаснае ПА, якое падвяргае рызыцы вашыя асабістыя дадзеныя.</item>
+  </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Унутранае сховішча</item>
+    <item>Знешняе сховішча</item>
+  </string-array>
+  <string-array name="roaming_network_type">
+    <item>Заўсёды</item>
+    <item>Толькі для выняткаў</item>
+    <item>Ніколі</item>
+  </string-array>
+  <string-array name="sms_report_type">
+    <item>Выкарыстанне дадзеных</item>
+    <item>Баланс</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Сартыраваць па статусе</item>
+    <item>Сартаваць па імені праграмы</item>
+    <item>Сартаванне па частаце выкарыстання</item>
+    <item>Сартаваць па выкарыстанай памяці</item>
+    <item>Сартаваць па часе ўсталёўкі</item>
+  </string-array>
+  <string-array name="sort_type">
+    <item>"Статус праграмы     "</item>
+    <item>Імя праграмы</item>
+    <item>Частата выкарыстання</item>
+    <item>Занятае месца</item>
+    <item>Час усталёўкі</item>
+  </string-array>
+  <string-array name="tether_limit_warn_type">
+    <item>Выключыць і паведаміць</item>
+    <item>Толькі паведаміць</item>
+  </string-array>
+  <string-array name="title_app_info">
+    <item>Крыніца ўсталёўкі</item>
+    <item>Час усталёўкі</item>
+    <item>Апошні рэсурс абнаўлення</item>
+    <item>Апошні час абнаўлення</item>
+  </string-array>
+  <string-array name="traffic_package_type">
+    <item>Месячны тарыф дадзеных</item>
+    <item>Сутачны тарыфны план</item>
+    <item>Неабмежаваны трафік</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>"Мабільны трафік "</item>
+    <item>"Трафік Wi-Fi "</item>
+  </string-array>
+  <string-array name="cellular_data_unit">
+        <item>Гб</item>
+        <item>Мб</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Штомесячны план</item>
+        <item>Безлімітны план</item>
+        <item>Штодзённы план</item>
+    </string-array>
+	<string-array name="daily_rent_card_brands">
+        <item>Карыстацкі</item>
+        <item>Mi Mobile</item>
+        <item>Карта Xiaomi Fan</item>
+        <item>Карта Tianshen</item>
+        <item>Карта Tencent</item>
+    </string-array>
+	<string-array name="gb_adv_touch_custom_level">
+    <item>Самы нізкі</item>
+    <item>Нізкі</item>
+    <item>Звычайны</item>
+    <item>Высокі</item>
+    <item>Самы высокі</item>
+  </string-array>
+  <string-array name="auto_task_screen_zoom_level">
+        <item>Маленькі</item>
+        <item>Па змаўчанні</item>
+        <item>Вялікі</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Вельмі маленькі</item>
+        <item>Маленькі</item>
+        <item>Па змаўчанні</item>
+        <item>Вялікі</item>
+        <item>Вельмі вялікі</item>
+        <item>Вялізны</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Памер</item>
+        <item>Імя</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Сартаваць па назве праграмы</item>
+        <item>Сартаваць па частаце выкарыстання</item>
+        <item>Сартаваць па выкарыстаным сховішчы</item>
+        <item>Сартаваць па часу ўсталёўкі</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Назва праграмы</item>
+        <item>Частата выкарыстання</item>
+        <item>Выкарыстанае сховішча</item>
+        <item>Час усталёўкі</item>
+    </string-array>
+</resources>

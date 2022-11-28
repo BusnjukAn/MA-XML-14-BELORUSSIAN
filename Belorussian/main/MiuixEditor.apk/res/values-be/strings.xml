@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add_frequent_phrases">Дадаць частыя выразы</string>
+  <string name="call">Выклiк</string>
+  <string name="edit_frequent_phrases">Рэдагаваць частыя выразы</string>
+  <string name="floating_toolbar_close_overflow_description">Закрыць лішак</string>
+  <string name="floating_toolbar_open_overflow_description">Дадатковыя параметры</string>
+  <string name="frequent_phrases">Частыя выразы</string>
+  <string name="open">Прагляд</string>
+  <string name="query">Запыт</string>
+  <string name="select">Выбраць</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="translate">Пераклад</string>
+  <string name="translation_more">Яшчэ</string>
+  <string name="translation_query_error">Нічога не знойдзена</string>
+  <string name="translation_query_error_network">Немагчыма атрымаць дадзеныя, праверце злучэнне і паўтарыце спробу</string>
+  <string name="google_call">Выклiк</string>
+  <string name="google_email">Электронная пошта</string>
+  <string name="google_map">Карта</string>
+  <string name="google_open">Адкрыць</string>
+  <string name="google_translate">Пераклад</string>
+</resources>

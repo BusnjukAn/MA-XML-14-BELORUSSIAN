@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="permission_delete_audio">
+    <item quantity="other">Дазволіць ^1 выдаліць ^2 аўдыёфайлаў?</item>
+    <item quantity="one">Дазволіць ^1 выдаліць гэты аўдыёфайл?</item>
+    <item quantity="few">Дазволіць ^1 выдаліць ^2 аўдыёфайла?</item>
+  </plurals>
+  <plurals name="permission_delete_generic">
+    <item quantity="other">Дазволіць ^1 выдаліць ^2 элементаў?</item>
+    <item quantity="one">Дазволіць ^1 выдаліць гэты элемент?</item>
+    <item quantity="few">Дазволіць ^1 выдаліць ^2 элемента?</item>
+  </plurals>
+  <plurals name="permission_delete_image">
+    <item quantity="other">Дазволіць ^1 выдаліць ^2 фота?</item>
+    <item quantity="one">Дазволіць ^1 выдаліць гэтае фота?</item>
+  </plurals>
+  <plurals name="permission_delete_video">
+    <item quantity="other">Дазволіць ^1 выдаліць ^2 відэа?</item>
+    <item quantity="one">Дазволіць ^1 выдаліць гэтае відэа?</item>
+  </plurals>
+  <plurals name="permission_more_text">
+    <item quantity="other">Плюс ^1 дадатковых элементаў</item>
+    <item quantity="one">Плюс ^1 дадатковы элемент</item>
+    <item quantity="few">Плюс ^1 дадатковых элементаў</item>
+  </plurals>
+  <plurals name="permission_more_thumb">
+    <item quantity="other">+^1</item>
+    <item quantity="one">+^1</item>
+  </plurals>
+  <plurals name="permission_progress_delete_audio">
+    <item quantity="other">Выдаленне ^1 аўдыяфайлаў…</item>
+    <item quantity="one">Выдаленне аўдыяфайла…</item>
+  </plurals>
+  <plurals name="permission_progress_delete_generic">
+    <item quantity="other">Выдаленне ^1 элементаў…</item>
+    <item quantity="one">Выдаленне элемента…</item>
+  </plurals>
+  <plurals name="permission_progress_delete_image">
+    <item quantity="other">Выдаленне ^1 фота…</item>
+    <item quantity="one">Выдаленне фота…</item>
+  </plurals>
+  <plurals name="permission_progress_delete_video">
+    <item quantity="other">Выдаленне ^1 відэа…</item>
+    <item quantity="one">Выдаленне відэа…</item>
+  </plurals>
+  <plurals name="permission_progress_trash_audio">
+    <item quantity="other">Перамяшчэнне ^1 аўдыяфайлаў у сметніцу…</item>
+    <item quantity="one">Перамяшчэнне аўдыяфайла ў сметніцу…</item>
+  </plurals>
+  <plurals name="permission_progress_trash_generic">
+    <item quantity="other">Перамяшчэнне ^1 элементаў у сметніцу…</item>
+    <item quantity="one">Перамяшчэнне элемента ў сметніцу…</item>
+  </plurals>
+  <plurals name="permission_progress_trash_image">
+    <item quantity="other">Перамяшчэнне ^1 фота ў сметніцу…</item>
+    <item quantity="one">Перамяшчэнне фота ў сметніцу…</item>
+  </plurals>
+  <plurals name="permission_progress_trash_video">
+    <item quantity="other">Перамяшчэнне ^1 відэа ў сметніцу…</item>
+    <item quantity="one">Перамяшчэнне відэа ў сметніцу…</item>
+  </plurals>
+  <plurals name="permission_progress_untrash_audio">
+    <item quantity="other">Перамяшчэнне ^1 аўдыяфайлаў са сметніцы…</item>
+    <item quantity="one">Перамяшчэнне аўдыяфайла са сметніцы…</item>
+  </plurals>
+  <plurals name="permission_progress_untrash_generic">
+    <item quantity="other">Перамяшчэнне ^1 элементаў са сметніцы…</item>
+    <item quantity="one">Перамяшчэнне элемента са сметніцы…</item>
+  </plurals>
+  <plurals name="permission_progress_untrash_image">
+    <item quantity="other">Перамяшчэнне ^1 фота са сметніцы…</item>
+    <item quantity="one">Перамяшчэнне фота са сметніцы…</item>
+  </plurals>
+  <plurals name="permission_progress_untrash_video">
+    <item quantity="other">Перамяшчэнне ^1 відэа са сметніцы…</item>
+    <item quantity="one">Перамяшчэнне відэа са сметніцы…</item>
+  </plurals>
+  <plurals name="permission_progress_write_audio">
+    <item quantity="other">Змяненне ^1 аўдыяфайлаў…</item>
+    <item quantity="one">Змяненне аўдыяфайла…</item>
+  </plurals>
+  <plurals name="permission_progress_write_generic">
+    <item quantity="other">Змяненне ^1 элементаў…</item>
+    <item quantity="one">Змяненне элемента…</item>
+  </plurals>
+  <plurals name="permission_progress_write_image">
+    <item quantity="other">Змяненне ^1 фота…</item>
+    <item quantity="one">Змяненне фота…</item>
+  </plurals>
+  <plurals name="permission_progress_write_video">
+    <item quantity="other">Змяненне відэа ^1…</item>
+    <item quantity="one">Змяненне відэа…</item>
+  </plurals>
+  <plurals name="permission_trash_audio">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 аўдыёфайлаў у кошык?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэты аўдыёфайл у кошык?</item>
+    <item quantity="few">Дазволіць ^1 перамясціць ^2 аўдыёфайла ў кошык?</item>
+  </plurals>
+  <plurals name="permission_trash_generic">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 элементаў у кошык?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэты элемент у кошык?</item>
+    <item quantity="few">Дазволіць ^1 перамясціць ^2 элемента ў кошык?</item>
+  </plurals>
+  <plurals name="permission_trash_image">
+    <item quantity="other">Дазволіць ^1 перамяшчаць ^2 фота ў кошык?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэтае фота ў кошык?</item>
+  </plurals>
+  <plurals name="permission_trash_video">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 відэа ў кошык?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэта відэа ў кошык?</item>
+  </plurals>
+  <plurals name="permission_untrash_audio">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 аўдыёфайлаў з кошыка?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэты аўдыёфайл з кошыка?</item>
+    <item quantity="few">Дазволіць ^1 перамясціць ^2 аўдыёфайла з кошыка?</item>
+  </plurals>
+  <plurals name="permission_untrash_generic">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 элементаў з кошыка?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэты элемент з кошыка?</item>
+    <item quantity="few">Дазволіць ^1 перамясціць ^2 элемента з кошыка?</item>
+  </plurals>
+  <plurals name="permission_untrash_image">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 фота з кошыка?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэтае фота з кошыка?</item>
+  </plurals>
+  <plurals name="permission_untrash_video">
+    <item quantity="other">Дазволіць ^1 перамясціць ^2 відэа з кошыка?</item>
+    <item quantity="one">Дазволіць ^1 перамясціць гэта відэа з кошыка?</item>
+  </plurals>
+  <plurals name="permission_write_audio">
+    <item quantity="other">Дазволіць ^1 змяніць ^2 аўдыёфайлаў?</item>
+    <item quantity="one">Дазволіць ^1 змяніць гэты аўдыёфайл?</item>
+    <item quantity="few">Дазволіць ^1 змяніць ^2 аўдыёфайла?</item>
+  </plurals>
+  <plurals name="permission_write_generic">
+    <item quantity="other">Дазволіць ^1 змяніць ^2 элементаў?</item>
+    <item quantity="one">Дазволіць ^1 змяніць гэты элемент?</item>
+    <item quantity="few">Дазволіць ^1 змяніць ^2 элемента?</item>
+  </plurals>
+  <plurals name="permission_write_image">
+    <item quantity="other">Дазволіць ^1 змяніць ^2 фота?</item>
+    <item quantity="one">Дазволіць ^1 змяніць гэтае фота?</item>
+  </plurals>
+  <plurals name="permission_write_video">
+    <item quantity="other">Дазволіць ^1 змяніць ^2 відэа?</item>
+    <item quantity="one">Дазволіць ^1 змяніць гэта відэа?</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Пераматаць уперад на %d секунды</item>
+        <item quantity="one">Пераматаць уперад на %d секунду</item>
+        <item quantity="few">Пераматаць уперад на %d секунды</item>
+        <item quantity="many">Пераматаць уперад на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Пераматаць назад на %d секунды</item>
+        <item quantity="one">Пераматаць назад на %d секунду</item>
+        <item quantity="few">Пераматаць назад на %d секунды</item>
+        <item quantity="many">Пераматаць назад на %d секунд</item>
+    </plurals>
+</resources>

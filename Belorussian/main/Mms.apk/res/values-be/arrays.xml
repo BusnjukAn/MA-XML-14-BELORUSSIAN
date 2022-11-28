@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="contact_entries">
+    <item>Імя</item>
+    <item>Нікнэйм</item>
+    <item>Тэлефон</item>
+    <item>Email</item>
+    <item>Арганізацыя</item>
+    <item>IM</item>
+    <item>SIP тэлефон</item>
+    <item>Дзень народзінаў</item>
+    <item>Сайт</item>
+    <item>Адрас</item>
+    <item>Нататка</item>
+    <item>Сваяк</item>
+  </string-array>
+  <string-array name="default_smiley_names">
+    <item>Шчаслівы</item>
+    <item>Сумны</item>
+    <item>Падморгваючы</item>
+    <item>Высунуты язык</item>
+    <item>Здзіўлены</item>
+    <item>Пацалунак</item>
+    <item>Галёкаючы</item>
+    <item>Выдатна</item>
+    <item>Грошы ў роце</item>
+    <item>Нага ў роце</item>
+    <item>Разгублены</item>
+    <item>Анёл</item>
+    <item>Нерашучы</item>
+    <item>Які крычыць</item>
+    <item>Рот зачынены</item>
+    <item>Смяецца</item>
+    <item>Збянтэжаны</item>
+    <item>Сэрца</item>
+    <item>Шалёны</item>
+    <item>Ухмылка</item>
+    <item>Нічога не выказваючы твар</item>
+  </string-array>
+  <string-array name="entries_date_type">
+    <item>Час атрымання</item>
+    <item>Час адпраўкі</item>
+  </string-array>
+  <string-array name="entries_date_type_rightvalue">
+    <item>Атрыманыя</item>
+    <item>Адпраўленыя</item>
+  </string-array>
+  <string-array name="entries_mms_validity_period">
+    <item>Максімум</item>
+    <item>2 дні</item>
+  </string-array>
+  <string-array name="entries_sms_validity_period">
+    <item>Не ўсталявана</item>
+    <item>1 гадзіна</item>
+    <item>6 гадзін</item>
+    <item>12 гадзін</item>
+    <item>1 дзень</item>
+    <item>Максімум</item>
+  </string-array>
+  <string-array name="prefEntries_ringtone_repeat">
+    <item>1 раз</item>
+    <item>2 разы</item>
+    <item>3 разы</item>
+    <item>5 разоў</item>
+    <item>10 разоў</item>
+  </string-array>
+  <string-array name="prefEntries_vibrateWhen">
+    <item>Заўсёды</item>
+    <item>Толькі ў бязгучным рэжыме</item>
+    <item>Ніколі</item>
+  </string-array>
+  <string-array name="reason_type">
+    <item>Махлярства</item>
+    <item>Недапушчальны або незаконны кантэнт</item>
+    <item>Спам</item>
+    <item>Іншае</item>
+    <item>Адмена</item>
+  </string-array>
+  <string-array name="recv_type">
+    <item>Атрымаць і паведаміць</item>
+    <item>Толькі атрымаць</item>
+    <item>Адхіліць</item>
+  </string-array>
+  <string-array name="resent_via_entries_mms">
+    <item>Праз MMS</item>
+    <item>Праз воблачнае паведамленне</item>
+  </string-array>
+  <string-array name="resent_via_entries_sms">
+    <item>Праз SMS</item>
+    <item>Праз воблачнае паведамленне</item>
+  </string-array>
+  <string-array name="select_dialog_items">
+    <item>1 секунда</item>
+    <item>2 секунды</item>
+    <item>3 секунды</item>
+    <item>4 секунды</item>
+    <item>5 секунд</item>
+    <item>6 секунд</item>
+    <item>7 секунд</item>
+    <item>8 секунд</item>
+    <item>9 секунд</item>
+    <item>10 секунд</item>
+    <item>Іншае</item>
+  </string-array>
+  <string-array name="wild_msg_sync_options">
+    <item>Сінхранізаваць усе паведамленні</item>
+    <item>Сінхранізаваць абраныя SIM карткі</item>
+  </string-array>
+  <string-array name="switch_sdk">
+    <item>Mi Паведамленнi</item>
+    <item>CMCC Разумныя паведамленнi</item>
+  </string-array>
+  <string-array name="dialog_choice_report_class">
+    <item>Звычайнае SMS</item>
+    <item>Рэкламнае SMS</item>
+    <item>Рэкламнае гандлёвы маркетынг</item>
+    <item>Рэкламнае службы дастаўкі</item>
+    <item>Рэкламнае фінансавае</item>
+  </string-array>
+  <string-array name="dialog_choice_specific_correct_as_normal">
+    <item>Рэкламныя паведамленні ад %s</item>
+    <item>Паведамленнi службы дастаўкі ад %s</item>
+    <item>Фінансавыя паведамленні ад %s</item>
+  </string-array>
+  <string-array name="message_sending_method">
+    <item>Прапанаваная служба паведамленняў</item>
+    <item>SMS, MMS</item>
+    <item>RCS чат, RCS перадача файлаў</item>
+  </string-array>
+  <string-array name="rcs_ft_fallback">
+    <item>Ніколі не пытацца і заўсёды адпраўляць як SMS cсылку</item>
+    <item>Ніколі не пытацца і ніколі не адпраўляць як SMS cсылку</item>
+    <item>Заўсёды пытацца</item>
+  </string-array>
+  <string-array name="rcs_message_fallback">
+    <item>Ніколі не пытацца і заўсёды адпраўляць як SMS</item>
+    <item>Ніколі не пытацца і ніколі не адпраўляць як SMS</item>
+    <item>Заўсёды пытацца</item>
+  </string-array>
+  <string-array name="rcs_picture_quality_setting">
+    <item>заўсёды пытацца</item>
+    <item>ніколі не змяняць памер</item>
+    <item>заўсёды вылучаць варыянт, які захоўваецца ў якасці значэння па змаўчанні</item>
+  </string-array>
+  <string-array name="rcs_video_quality_setting">
+    <item>заўсёды пытацца</item>
+    <item>ніколі не змяняць памер</item>
+    <item>заўсёды вылучаць варыянт, які захоўваецца ў якасці значэння па змаўчанні</item>
+  </string-array>
+</resources>

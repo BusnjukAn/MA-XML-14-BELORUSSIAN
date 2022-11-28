@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Белы</item>
+        <item>Жоўты</item>
+        <item>Шэры</item>
+        <item>Карычневы</item>
+        <item>Зялёны</item>
+        <item>Сіні</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Не цікава</item>
+        <item>Паўтор</item>
+        <item>Нізкая якасць</item>
+        <item>Недапушчальнае фота</item>
+        <item>Ашуканская інфармацыя</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Нецэнзурнае змесціва</item>
+        <item>Ілжывыя звесткі</item>
+        <item>Старыя навіны</item>
+        <item>Экстрэмізм</item>
+        <item>Падсвядомая рэклама</item>
+        <item>Мне гэта не падабаецца</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Назад/наперад</item>
+        <item>Пераключэнне паміж укладкамі</item>
+        <item>Няма</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Па змаўчанні</item>
+        <item>Уласная</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Тэлефон</item>
+        <item>Планшэт</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Вертыкальны выгляд</item>
+        <item>Гарызантальны выгляд</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Укл.</item>
+        <item>Толькі ў рэжыме Інкогніта</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Вельмі маленькі</item>
+        <item>Маленькі</item>
+        <item>Сярэдні</item>
+        <item>Вялікі</item>
+        <item>Велізарны</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>"Камп'ютар"</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Забараніць</item>
+        <item>Запыт</item>
+        <item>Дазволіць</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Забараніць</item>
+        <item>Запыт</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Забараніць</item>
+        <item>Дазволіць</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Пошук</item>
+        <item>Навіны</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Выдаліць</item>
+        <item>Не, дзякуй</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Падпісацца</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Паведамленне ад Браўзера</item>
+        <item>Сачыце за Алімпіядай з Mі</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Вельмі нізкая хуткасць злучэння. Магчыма вы знаходзіцеся ў зоне з дрэнным пакрыццём.</item>
+        <item>Нізкая хуткасць сеткавага злучэння.</item>
+        <item>Не выяўлена падлучэння да сеткі.</item>
+        <item>Высокая хуткасць сеткавага злучэння. Вы можаце глядзець фільмы анлайн!</item>
+        <item>Вельмі высокая хуткасць злучэння. Дасьледуйце Інтэрнэт на галавакружнай хуткасці!</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Спампаваць відэа і фота з сацыяльнай сеткі</item>
+        <item>Захоўвайце выявы і відэа з статусаў WhatsApp</item>
+        <item>Кіраванне файламі на прыладзе і іх утойванне</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Спампаваць відэа</item>
+        <item>Захаванне статусаў WhatsApp</item>
+        <item>Прыватныя файлы</item>
+    </string-array>
+    <string-array name="protection_name">
+         <item>Аўта</item>
+         <item>Няма</item>
+         <item>Новы карыстальнік</item>
+     </string-array>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Перайсці на галоўны экран</string>
+  <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+  <string name="abc_action_menu_overflow_description">Яшчэ</string>
+  <string name="abc_action_mode_done">Гатова</string>
+  <string name="abc_activity_chooser_view_see_all">Паказаць усё</string>
+  <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
+  <string name="abc_capital_off">ВЫКЛ.</string>
+  <string name="abc_capital_on">УКЛ.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Увод</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">Прабел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_search_hint">Увядзіце запыт</string>
+  <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+  <string name="abc_searchview_description_query">Пошукавы запыт</string>
+  <string name="abc_searchview_description_search">Пошук</string>
+  <string name="abc_searchview_description_submit">Адправіць запыт</string>
+  <string name="abc_searchview_description_voice">Галасавы пошук</string>
+  <string name="abc_shareactionprovider_share_with">Падзяліцца з дапамогай</string>
+  <string name="abc_shareactionprovider_share_with_application">Падзяліцца з дапамогай %s</string>
+  <string name="abc_toolbar_collapse_description">Згарнуць</string>
+  <string name="allow">Дазволіць</string>
+  <string name="app_label">Медыясховішча</string>
+  <string name="artist_label">Выканаўца</string>
+  <string name="cache_clearing_dialog_text">%s хоча ачысціць некаторыя часовыя файлы. Гэта можа прывесці да павелічэння выдатку зарада батарэі.</string>
+  <string name="cache_clearing_dialog_title">Ачысціць часовыя файлы праграмы</string>
+  <string name="cache_clearing_in_progress_title">Ачыстка часовых файлаў праграмы…</string>
+  <string name="clear">Ачысціць</string>
+  <string name="deny">Забараніць</string>
+  <string name="grant_dialog_button_allow">Дазволіць</string>
+  <string name="grant_dialog_button_deny">Адмовіць</string>
+  <string name="permission_required">На змену ці выдаленне гэтага элемента патрабуецца дазвол.</string>
+  <string name="permission_required_action">Працягнуць</string>
+  <string name="root_audio">Аўдыя</string>
+  <string name="root_documents">Дакументы</string>
+  <string name="root_images">Відарысы</string>
+  <string name="root_videos">Відэа</string>
+  <string name="search_menu_title">Пошук</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_description">Лакальнае сховішча</string>
+  <string name="transcode_cancel">Адмена</string>
+  <string name="transcode_denied">%s не можа апрацаваць медыяфайлы</string>
+  <string name="transcode_processing">Апрацоўка…</string>
+  <string name="transcode_processing_cancelled">Апрацоўка адменена</string>
+  <string name="transcode_processing_error">Памылка апрацоўкі</string>
+  <string name="transcode_processing_started">Пачатак апрацоўкі</string>
+  <string name="transcode_processing_success">Апрацоўка паспяхова завершана</string>
+  <string name="transcode_wait">Пачакайце…</string>
+  <string name="uid_label">Медыя</string>
+  <string name="unknown">Невядома</string>
+  <string name="add">Дадаць</string>
+  <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
+  <string name="character_counter_content_description">Уведзена сімвалаў: %1$d з %2$d</string>
+  <string name="character_counter_overflowed_content_description">Абмежаванне колькасці сімвалаў перавышана: %1$d з %2$d</string>
+  <string name="chip_text">Тэкст чыпа</string>
+  <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
+  <string name="deselect">Адмяніць выбар</string>
+  <string name="deselected">Адменены выбар</string>
+  <string name="error_icon_content_description">Памылка</string>
+  <string name="exo_controls_cc_disabled_description">Уключыць субцітры</string>
+  <string name="exo_controls_cc_enabled_description">Выключыць субцітры</string>
+  <string name="exo_controls_fastforward_description">Пераматаць уперад</string>
+  <string name="exo_controls_fullscreen_enter_description">Уключыць поўнаэкранны рэжым</string>
+  <string name="exo_controls_fullscreen_exit_description">Выключыць поўнаэкранны рэжым</string>
+  <string name="exo_controls_hide">Схаваць элементы кіравання прайгравальніка</string>
+  <string name="exo_controls_next_description">Далей</string>
+  <string name="exo_controls_overflow_hide_description">Схаваць дадатковыя налады</string>
+  <string name="exo_controls_overflow_show_description">Паказаць дадатковыя налады</string>
+  <string name="exo_controls_pause_description">Паўза</string>
+  <string name="exo_controls_play_description">Гуляць</string>
+  <string name="exo_controls_playback_speed">Хуткасць</string>
+  <string name="exo_controls_previous_description">Назад</string>
+  <string name="exo_controls_repeat_all_description">Цяпер: паўтараць усё. Змяніць.</string>
+  <string name="exo_controls_repeat_off_description">Цяпер: без паўтораў. Змяніць.</string>
+  <string name="exo_controls_repeat_one_description">Цяпер: паўтараць фрагмент. Змяніць.</string>
+  <string name="exo_controls_rewind_description">Пераматаць назад</string>
+  <string name="exo_controls_seek_bar_description">Прагрэс прайгравання</string>
+  <string name="exo_controls_settings_description">Налады</string>
+  <string name="exo_controls_show">Паказаць элементы кіравання прайгравальніка</string>
+  <string name="exo_controls_shuffle_off_description">Уключыць рэжым перамешвання</string>
+  <string name="exo_controls_shuffle_on_description">Выключыць рэжым перамешвання</string>
+  <string name="exo_controls_stop_description">Спыніць</string>
+  <string name="exo_controls_vr_description">VR-рэжым</string>
+  <string name="exo_download_completed">Загрузка завершана</string>
+  <string name="exo_download_description">Загрузіць</string>
+  <string name="exo_download_downloading">Загрузка</string>
+  <string name="exo_download_failed">Памылка загрузкі</string>
+  <string name="exo_download_notification_channel_name">Загрузкі</string>
+  <string name="exo_download_paused">Загрузкі прыпыненыя</string>
+  <string name="exo_download_paused_for_network">Загрузкі, якія чакаюць падключэння да сеткі</string>
+  <string name="exo_download_paused_for_wifi">Загрузкі, якія чакаюць падключэння да сеткі Wi-Fi</string>
+  <string name="exo_download_removing">Выдаленне загрузак</string>
+  <string name="exo_track_mono">Мона</string>
+  <string name="exo_track_role_alternate">Альтэрнатыўны запіс</string>
+  <string name="exo_track_role_closed_captions">Субцітры</string>
+  <string name="exo_track_role_commentary">Каментарыі</string>
+  <string name="exo_track_role_supplementary">Дадатковы запіс</string>
+  <string name="exo_track_selection_auto">Аўтаматычна</string>
+  <string name="exo_track_selection_none">Няма</string>
+  <string name="exo_track_selection_title_audio">Аўдыя</string>
+  <string name="exo_track_selection_title_text">Тэкст</string>
+  <string name="exo_track_selection_title_video">Відэа</string>
+  <string name="exo_track_stereo">Стэрэа</string>
+  <string name="exo_track_surround">Аб\'ёмны гук</string>
+  <string name="exo_track_surround_5_point_1">Аб\'ёмны гук 5.1</string>
+  <string name="exo_track_surround_7_point_1">Аб\'ёмны гук 7.1</string>
+  <string name="exo_track_unknown">Невядома</string>
+  <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
+  <string name="icon_content_description">Значок дыялогавага вокны</string>
+  <string name="item_view_role_description">Укладка</string>
+  <string name="material_clock_toggle_content_description">Выберыце ДП (да паўдня) або ПП (пасля паўдня)</string>
+  <string name="material_hour_selection">Выберыце гадзіну</string>
+  <string name="material_hour_suffix">%1$s гадз.</string>
+  <string name="material_minute_selection">Выберыце хвіліны</string>
+  <string name="material_minute_suffix">%1$s хв.</string>
+  <string name="material_slider_range_end">Канец дыяпазону,</string>
+  <string name="material_slider_range_start">Пачатак дыяпазону,</string>
+  <string name="material_timepicker_clock_mode_description">Пераключыцца на рэжым гадзінніка пры ўводзе часу.</string>
+  <string name="material_timepicker_hour">Гадзіна</string>
+  <string name="material_timepicker_minute">Хвіліна</string>
+  <string name="material_timepicker_select_time">Выберыце час</string>
+  <string name="material_timepicker_text_input_mode_description">Пераключыцца на рэжым тэксту пры ўводзе часу.</string>
+  <string name="mtrl_badge_numberless_content_description">Новае апавяшчэнне</string>
+  <string name="mtrl_chip_close_icon_content_description">Выдаліць %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Колькасць новых апавяшчэнняў перавысіла %1$d</string>
+  <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
+  <string name="mtrl_picker_date_header_title">Выберыце дату</string>
+  <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
+  <string name="mtrl_picker_day_of_week_column_header">Слупок дзён: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Няправільны фармат.</string>
+  <string name="mtrl_picker_invalid_format_example">Прыклад: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Неабходны фармат: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Няправільны дыяпазон.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Перайсці ў %1$s год</string>
+  <string name="mtrl_picker_out_of_range">Па-за межамі дыяпазону: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата заканчэння</string>
+  <string name="mtrl_picker_range_header_title">Выберыце дыяпазон дат</string>
+  <string name="mtrl_picker_range_header_unselected">Дата пачатку – дата заканчэння</string>
+  <string name="mtrl_picker_save">Захаваць</string>
+  <string name="mtrl_picker_text_input_date_hint">Дата</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Дата заканчэння</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Дата пачатку</string>
+  <string name="mtrl_picker_text_input_day_abbr">д</string>
+  <string name="mtrl_picker_text_input_month_abbr">м</string>
+  <string name="mtrl_picker_text_input_year_abbr">г</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Пераключыцца ў рэжым уводу \"Каляндар\"</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Дакраніцеся, каб пераключыцца на выбар дня</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу \"Тэкст\"</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
+  <string name="mtrl_timepicker_confirm">ОК</string>
+  <string name="not_selected">не абрана</string>
+  <string name="password_toggle_content_description">Паказаць пароль</string>
+  <string name="permission_delete_audio">{count, plural, =1 {Дазволіць ^1 выдаліць гэты аўдыёфайл?} other {Дазволіць ^1 выдаліць ^2 аўдыёфайла?} }</string>
+  <string name="permission_delete_generic">{count, plural, =1 {Дазволіць ^1 выдаліць гэты элемент?} other {Дазволіць ^1 выдаліць ^2 элемента?} }</string>
+  <string name="permission_delete_image">{count, plural, =1 {Дазволіць ^1 выдаліць гэтую фатаграфію?} other {Дазволіць ^1 выдаліць ^2 фатаграфіі?} }</string>
+  <string name="permission_delete_video">{count, plural, =1 {Дазволіць ^1 выдаліць гэта відэа?} other {Дазволіць ^1 выдаліць ^2 відэа?} }</string>
+  <string name="permission_more_text">{count, plural, =1 {Плюс ^1 дадатковы элемент} other {Плюс ^1 дадатковы элемент }</string>
+  <string name="permission_more_thumb">{count, plural, =1 {+^1} other {+^1}</string>
+  <string name="permission_progress_delete_audio">{count, plural, =1 {Выдаленне аўдыёфайла…} other {Выдаленне ^1 аўдыёфайла…} }</string>
+  <string name="permission_progress_delete_generic">{count, plural, =1 {Выдаленне элемента…} other {Выдаленне ^1 элемента…} }</string>
+  <string name="permission_progress_delete_image">{count, plural, =1 {Выдаленне фота…} other {Выдаленне ^1 фота…} }</string>
+  <string name="permission_progress_delete_video">{count, plural, =1 {Выдаленне відэа…} other {Выдаленне ^1 відэа…} }</string>
+  <string name="permission_progress_trash_audio">{count, plural, =1 {Перамяшчэнне аўдыёфайла у кошык…} other {Перамяшчэнне ^1 аўдыёфайла у кошык…} }</string>
+  <string name="permission_progress_trash_generic">{count, plural, =1 {Перамяшчэнне элемента у кошык…} other {Перамяшчэнне ^1 элемента у кошык…} }</string>
+  <string name="permission_progress_trash_image">{count, plural, =1 {Перамяшчэнне фота у кошык…} other {Перамяшчэнне ^1 фатаграфіі у кошык…} }</string>
+  <string name="permission_progress_trash_video">{count, plural, =1 {Перамяшчэнне відэа у кошык…} other {Перамяшчэнне ^1 відэа у кошык…} }</string>
+  <string name="permission_progress_untrash_audio">{count, plural, =1 {Перамяшчэнне аўдыёфайла з кошыка…} other {Перамяшчэнне ^1 аўдыёфайла з кошыкі…} }</string>
+  <string name="permission_progress_untrash_generic">{count, plural, =1 {Перамяшчэнне элемента з кошыка…} other {Перамяшчэнне ^1 элемента з кошыкі…} }</string>
+  <string name="permission_progress_untrash_image">{count, plural, =1 {Выдаленне фота з кошыка…} other {Перамяшчэнне ^1 фота з кошыкі…} }</string>
+  <string name="permission_progress_untrash_video">{count, plural, =1 {Выдаленне відэа з кошыка…} other {Выдаленне ^1 відэа з кошыкі…} }</string>
+  <string name="permission_progress_write_audio">{count, plural, =1 {Змяненне аўдыёфайла…} other {Змяненне аўдыёфайлаў ^1…} }</string>
+  <string name="permission_progress_write_generic">{count, plural, =1 {Змяненне элемента…} other {Змена ^1 элементаў…} }</string>
+  <string name="permission_progress_write_image">{count, plural, =1 {Змяненне фота…} other {Змена ^1 фота…} }</string>
+  <string name="permission_progress_write_video">{count, plural, =1 {Змяненне відэа…} other {Змена ^1 відэа…} }</string>
+  <string name="permission_trash_audio">{count, plural, =1 {Дазволіць ^1 перамясціць гэты аўдыёфайл у кошык?} other {Дазволіць ^1 перамясціць ^2 аўдыёфайла у кошык?} }</string>
+  <string name="permission_trash_generic">{count, plural, =1 {Дазволіць ^1 перамясціць гэты элемент у кошык?} other {Дазволіць ^1 перамясціць ^2 элемента у кошык?} }</string>
+  <string name="permission_trash_image">{count, plural, =1 {Дазволіць ^1 перамясціць гэтую фатаграфію у кошык?} other {Дазволіць ^1 перамясціць ^2 фатаграфіі у кошык?} }</string>
+  <string name="permission_trash_video">{count, plural, =1 {Дазволіць ^1 перамясціць гэта відэа у кошык?} other {Дазволіць ^1 перамясціць ^2 відэа у кошык?}} }</string>
+  <string name="permission_untrash_audio">{count, plural, =1 {Дазволіць ^1 перамясціць гэты аўдыёфайл з кошыка?} other {Дазволіць ^1 перамясціць ^2 аўдыёфайла з кошыка?} }</string>
+  <string name="permission_untrash_generic">{count, plural, =1 {Дазволіць ^1 перамясціць гэты элемент з кошыка?} other {Дазволіць ^1 перамясціць ^2 элемента з кошыка?} }</string>
+  <string name="permission_untrash_image">{count, plural, =1 {Дазволіць ^1 выдаліць гэтую фатаграфію з кошыка?} other {Дазволіць ^1 выдаліць ^2 фатаграфіі з кошыка?} }</string>
+  <string name="permission_untrash_video">{count, plural, =1 {Дазволіць ^1 перамясціць гэта відэа з кошыка?} other {Дазволіць ^1 перамясціць ^2 відэа з кошыка?} }</string>
+  <string name="permission_write_audio">{count, plural, =1 {Дазволіць ^1 змяняць гэты аўдыёфайл?} other {Дазволіць ^1 змяняць ^2 аўдыёфайлаў?} }</string>
+  <string name="permission_write_generic">{count, plural, =1 {Дазволіць ^1 змяняць гэты элемент?} other {Дазволіць ^1 змяняць ^2 элемента?} }</string>
+  <string name="permission_write_image">{count, plural, =1 {Дазволіць ^1 змяняць гэтую фатаграфію?} other {Дазволіць ^1 змяняць ^2 фатаграфіі?} }</string>
+  <string name="permission_write_video">{count, plural, =1 {Дазволіць ^1 змяняць гэта відэа?} other {Дазволіць ^1 змяняць ^2 відэа?} }</string>
+  <string name="picker_add_button_multi_select">Дадаць (^1)</string>
+  <string name="picker_album_item_count">{count, plural, =1 {^1 элемент} other {^1 элемент} }</string>
+  <string name="picker_albums">Альбомы</string>
+  <string name="picker_albums_empty_message">Няма альбомаў</string>
+  <string name="picker_app_label">Выбар фатаграфій</string>
+  <string name="picker_category_camera">Камера</string>
+  <string name="picker_category_downloads">Загрузкі</string>
+  <string name="picker_category_favorites">Выбранае</string>
+  <string name="picker_category_screenshots">Скрыншоты</string>
+  <string name="picker_item_content_desc">%1$s узята на %2$s</string>
+  <string name="picker_motion_photo">Аніміраванае фота</string>
+  <string name="picker_motion_photo_text">Аніміраванае фота</string>
+  <string name="picker_mute_video">Выключыць відэа</string>
+  <string name="picker_pause_video">Прыпыніць відэа</string>
+  <string name="picker_personal_profile">Пераключыцца на асабісты</string>
+  <string name="picker_photo">Фота</string>
+  <string name="picker_photos">Фатаграфіі</string>
+  <string name="picker_photos_empty_message">Няма фота ці відэа</string>
+  <string name="picker_play_video">Прайграць відэа</string>
+  <string name="picker_preview">Папярэдні прагляд</string>
+  <string name="picker_privacy_message">Гэта праграма можа атрымаць доступ толькі да абраных вамі фатаграфій</string>
+  <string name="picker_profile_admin_msg_from_personal">Доступ да працоўных дадзеных з асабістай праграмы забаронены</string>
+  <string name="picker_profile_admin_msg_from_work">Доступ да асабістых дадзеных з працоўнай праграмы забаронены</string>
+  <string name="picker_profile_admin_title">Заблакіравана вашым адміністратарам</string>
+  <string name="picker_profile_work_paused_msg">Каб адкрыць працоўныя фатаграфіі, уключыце працоўныя праграмы і паспрабуйце яшчэ раз</string>
+  <string name="picker_profile_work_paused_title">Рабочыя праграмы прыпыненыя</string>
+  <string name="picker_unmute_video">Уключыць гук відэа</string>
+  <string name="picker_video_item_content_desc">Відэа, знятае %1$s, працягласцю %2$s</string>
+  <string name="picker_view_selected">Прагледзець абранае</string>
+  <string name="picker_work_profile">Пераключыцца на працоўны</string>
+  <string name="recent">Нядаўнія</string>
+  <string name="select">Абраць</string>
+  <string name="select_up_to">{count, plural, =1 {Выбраць да ^1 элемента} other {Выбраць да ^1 элемента} }</string>
+  <string name="selected">Абрана</string>
+</resources>

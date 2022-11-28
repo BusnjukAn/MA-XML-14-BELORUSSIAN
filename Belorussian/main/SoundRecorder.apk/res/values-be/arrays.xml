@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+        <item>"Інтэрв'ю"</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+        <item>Інтэрвью</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Высокая</item>
+        <item>Стандартная</item>
+        <item>Нізкая</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, 192 Кбiт/с, 90 Мб/г</item>
+        <item>MP3, 100 Кбiт/с, 45 Мб/г</item>
+        <item>MP3, 75 Кбiт/с, 32 Мб/г</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Запісаць музыку з лепшай якасцю</item>
+        <item>Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</item>
+        <item>Размясціце тэлефон паміж 2 людзьмі, каб запісаць лепш іх гутарку</item>
+        <item>Тэхналогія HDR дазваляе запісваць больш дэталёвы гук</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Запісвайце праз 2 канала, праслухвайце стэрэагук у навушніках</item>
+        <item>Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</item>
+        <item>Размясціце тэлефон паміж 2 людзьмі, каб запісаць лепш іх гутарку</item>
+        <item>Тэхналогія HDR дазваляе запісваць больш дэталёвы гук</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Незашыфравана (без абароны)</item>
+        <item>4-значны PIN-код (нізкі ўзровень бяспекі)</item>
+        <item>16-значны PIN-код (высокая бяспека)</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Выключана</item>
+        <item>Уключана з фільтрацыяй</item>
+        <item>Уключана</item>
+        <item>Загалоўкі адфільтраваныя</item>
+        <item>Пакеты мультымедыя адфільтраваныя</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Вельмі дробны</item>
+        <item>Дробны</item>
+        <item>Сярэдні</item>
+        <item>Вялікі</item>
+        <item>Вельмі вялікі</item>
+    </string-array>
+     <string-array name="color_picker">
+        <item>Блакітны</item>
+        <item>Сiнi</item>
+        <item>Зялёны</item>
+        <item>Фіялетавы</item>
+        <item>Ружовы</item>
+        <item>Аранжавы</item>
+    </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Узровень 0</item>
+        <item>Узровень 1</item>
+        <item>Узровень 2</item>
+        <item>Узровень 3</item>
+        <item>Узровень 4</item>
+        <item>Узровень 5</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Заўсёды</item>
+        <item>Калі не адкрыта іншая плацежная праграма</item>
+    </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Ніколі</item>
+        <item>Праз 1 хвіліну</item>
+        <item>Праз 5 хвілін</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Зарадка</item>
+        <item>Спячы рэжым</item>
+        <item>Рэжым эканоміі зараду</item>
+        <item>Стан працэсу</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Няма</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+</resources>

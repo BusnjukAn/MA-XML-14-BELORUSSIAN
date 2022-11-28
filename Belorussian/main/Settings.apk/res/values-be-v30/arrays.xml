@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="mvno_type_entries">
+    <item>Няма</item>
+    <item>SPN</item>
+    <item>IMSI</item>
+    <item>GID</item>
+    <item>ICCID</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Адключана</item>
+    <item>Уключаны фільтры</item>
+	<item>Уключана</item>
+    <item>Уключаны фільтры загалоўкаў</item>
+    <item>Уключаны фільтры медыя-пакетаў</item>
+  </string-array>
+  <string-array name="eap_ocsp_type">
+    <item>Не правяраць</item>
+    <item>Запыт стану сертыфікату</item>
+    <item>Патрэбны стан сертыфікату</item>
+    <item>Патрабуюцца станы ўсіх недавераных сертыфікатаў</item>
+  </string-array>
+</resources>

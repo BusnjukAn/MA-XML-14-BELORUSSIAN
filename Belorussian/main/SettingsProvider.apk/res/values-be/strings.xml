@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сховішча налад</string>
+    <string name="wifi_softap_config_change">Налады пункту доступу змяніліся</string>
+    <string name="wifi_softap_config_change_summary">Дакраніцеся, каб убачыць падрабязныя звесткі</string>
+</resources>

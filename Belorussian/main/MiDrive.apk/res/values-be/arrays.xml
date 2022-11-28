@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="account_user_gender_name">
+    <item>Мужчынскі</item>
+    <item>Жаночы</item>
+  </string-array>
+  <string-array name="privacy_dialog_runtime_permission_desc">
+    <item>Для ўваходу ў Mi акаўнт</item>
+    <item>Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі файлаў</item>
+  </string-array>
+  <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Для ўваходу ў Mi акаўнт</item>
+        <item>Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі файлаў</item>
+        <item>Для выяўлення даступных абнаўленняў</item>
+    </string-array>
+</resources>

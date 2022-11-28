@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="disable_tether_notification_message">Звярніцеся да адміністратара па падрабязнасці</string>
+  <string name="disable_tether_notification_title">Мадэм адключаны</string>
+  <string name="notification_channel_tethering_status">Статус пункту доступу і мадэма</string>
+  <string name="tethered_notification_message">Націсніце, каб наладзіць.</string>
+  <string name="tethered_notification_title">Мадэм або пункт доступу актыўныя</string>
+</resources>

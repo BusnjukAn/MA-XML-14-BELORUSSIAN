@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз 1 хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">"%d аб'екта выдзеленая"</item>
+        <item quantity="one">"%d аб'ект выдзелены"</item>
+        <item quantity="few">"%d аб'екты выдзелены"</item>
+        <item quantity="many">"%d аб'ектаў выдзелена"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+   <item quantity="other">Не менш %1$d сімвалаў</item>
+   <item quantity="one">Не менш %1$d сімвала</item>
+  </plurals>
+  <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d кампаній на віджэце</item>
+        <item quantity="one">%1$d кампанія на віджэце</item>
+        <item quantity="few">%1$d кампаніi на віджэце</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d г. таму</item>
+        <item quantity="one">%d г. таму</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d хв. таму</item>
+        <item quantity="one">%d хв. таму</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d пасылак ужо ў дарозе</item>
+        <item quantity="one">%d пасылка ўжо ў дарозе</item>
+        <item quantity="few">%d пасылкі ўжо ў дарозе</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Выдаліць %s элементаў?</item>
+        <item quantity="one">Выдаліць %s элемент?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Выбрана %s элементаў</item>
+        <item quantity="one">Выбраны %s элемент</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">Вы дадалі %d тэлефонных нумара</item>
+        <item quantity="one">Вы дадалі %d тэлефонны нумар</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Магазін віджэтаў. Спіс праграм. %d элементаў у спісе праграм.</item>
+        <item quantity="one">Магазін віджэтаў. Спіс праграм. %d элемент у спісе праграм.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Нумар %d у спісе.</item>
+        <item quantity="one">Нумар %d у спісе.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Элемент утрымоўвае %d віджэтаў. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+        <item quantity="one">Элемент утрымоўвае віджэт %d. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Магазін віджэтаў. Спіс праграм. %d элементаў у спісе.</item>
+        <item quantity="one">Магазін віджэтаў. Спіс праграм. %d элемент у спісе.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Нумар %d у спісе.</item>
+        <item quantity="one">Нумар %d у спісе.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Элемент утрымоўвае %d віджэтаў. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+        <item quantity="one">Элемент утрымоўвае віджэт %d. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Магазін віджэтаў. Спіс праграм. %d элементаў у спісе.</item>
+        <item quantity="one">Магазін віджэтаў. Спіс праграм. %d элемент у спісе.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Нумар %d у спісе.</item>
+        <item quantity="one">Нумар %d у спісе.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Элемент утрымоўвае %d віджэтаў. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+        <item quantity="one">Элемент утрымоўвае віджэт %d. Двойчы націсніце, каб адкрыць апісанне віджэта.</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">Увядзіце да %1$d сімвалаў</item>
+        <item quantity="one">Увядзіце да %1$d сімвала</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d бронзавых медаляў</item>
+        <item quantity="one">%d бронзавы медаль</item>
+        <item quantity="few">%d бронзавых медаля</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d залатых медаляў</item>
+        <item quantity="one">%d залаты медаль</item>
+        <item quantity="few">%d залатых медаля</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">Усяго %d медаляў</item>
+        <item quantity="one">Усяго %d медаль</item>
+        <item quantity="few">Усяго %d медаля</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">%d месца</item>
+        <item quantity="one">%d месца</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d срэбных медаляў</item>
+        <item quantity="one">%d срэбны медаль</item>
+        <item quantity="few">%d срэбных медаля</item>
+    </plurals>
+</resources>

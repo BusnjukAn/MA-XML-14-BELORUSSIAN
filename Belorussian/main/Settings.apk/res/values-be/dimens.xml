@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_layout_lyt_page_2_paddings_left">20.0dip</dimen>
+    <dimen name="notification_card_text_size">14sp</dimen>
+    <dimen name="notification_card_horizontal_margin">2.5dip</dimen>
+    <dimen name="notification_card_horizontal_padding">1dip</dimen>
+    <dimen name="notification_card_icon_height">84.399994dip</dimen>
+    <dimen name="notification_card_icon_width">49.5dip</dimen>
+</resources>

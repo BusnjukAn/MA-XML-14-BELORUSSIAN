@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Найвышэйшая</item>
+        <item>Нізкая</item>
+        <item>Звычайная</item>
+        <item>Высокая</item>
+        <item>Найвышэйшая</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Высокая хуткасць</item>
+        <item>Збалансавана</item>
+        <item>Высокая якасць</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Збалансавана</item>
+        <item>Высокая якасць</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Збалансавана</item>
+        <item>Па змаўчанні</item>
+    </string-array>
+</resources>

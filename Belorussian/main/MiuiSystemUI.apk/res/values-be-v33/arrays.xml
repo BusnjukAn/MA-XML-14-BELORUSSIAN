@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Выбар сістэмы (па змаўчанні)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ аўдыё</item>
+    <item>Qualcomm® aptX™ HD аўдыё</item>
+	<item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive аўдыё</item>
+	<item>Qualcomm® aptX™ TWS+ аўдыё</item>
+	<item>LC3</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Выбар сістэмы (па змаўчанні)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive аўдыё</item>
+    <item>Qualcomm® aptX™ TWS+ аўдыё</item>
+	<item>LC3</item>
+  </string-array>
+  <string-array name="tile_states_color_correction">
+      <item>Недаступна</item>
+      <item>Выключана</item>
+      <item>Уключана</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+      <item>Недаступна</item>
+      <item>Выключана</item>
+      <item>Уключана</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+      <item>Недаступна</item>
+      <item>Выключана</item>
+      <item>Уключана</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Перамясціце палец улева</item>
+        <item>Перамясціце палец ніжэй</item>
+        <item>Перамясціце палец управа</item>
+        <item>Перамясціце палец уверх</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Гэта рэкамендуемы кантэнт.</item>
+        <item>Гэта рэклама.</item>
+    </string-array>
+</resources>

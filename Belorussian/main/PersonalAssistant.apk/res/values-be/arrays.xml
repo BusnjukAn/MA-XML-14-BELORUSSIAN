@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="pa_home_week_days">
+   <item>Нядзеля</item>
+   <item>Панядзелак</item>
+   <item>Аўторак</item>
+   <item>Серада</item>
+   <item>Чацвер</item>
+   <item>Пятніца</item>
+   <item>Субота</item>
+   <item>Нядзеля</item>
+  </string-array>
+  <string-array name="pa_stock_color_schema_value_array">
+    <item>Чырвоны - уверх, зялёны - уніз</item>
+    <item>Зялёны - уверх, чырвоны - уніз</item>
+  </string-array>
+  <string-array name="pa_covid_items_default">
+         <item>COVID-19</item>
+         <item>Код здароўя</item>
+         <item>ПЦР</item>
+         <item>Зоны павышанай рызыкі</item>
+     </string-array>
+</resources>

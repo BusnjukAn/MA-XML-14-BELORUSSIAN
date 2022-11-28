@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="screenrecorder_settings_bit_rate">
+    <item>200 Mбіт/c</item>
+    <item>100 Mбіт/c</item>
+    <item>50 Mбіт/c</item>
+    <item>32 Mбіт/c</item>
+    <item>24 Mбіт/c</item>
+    <item>16 Mбіт/c</item>
+    <item>8 Mбіт/c</item>
+    <item>4 Mбіт/c</item>
+    <item>1 Mбіт/c</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_frames">
+    <item>24 кадра/с</item>
+    <item>30 кадраў/с</item>
+    <item>48 кадраў/с</item>
+    <item>60 кадраў/с</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_orientation">
+    <item>Аўто</item>
+    <item>Кніжная</item>
+    <item>Альбомная</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_resolution">
+    <item>1080p</item>
+    <item>720p</item>
+    <item>480p</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_sound">
+    <item>Адключыць гук</item>
+    <item>Мікрафон</item>
+    <item>Гукі сістэмы</item>
+  </string-array>
+  <string-array name="screenrecorder_settings_storage_location">
+    <item>Унутранае сховішча</item>
+    <item>Знешняе сховішча</item>
+  </string-array>
+</resources>

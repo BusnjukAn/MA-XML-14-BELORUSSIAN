@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <plurals name="a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Праз 1 гадзіну</item>
+        <item quantity="one">Праз 1 гадзіну</item>
+        <item quantity="few">Праз 1 гадзіну</item>
+        <item quantity="many">Праз 1 гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Пераматаць на %d секунд наперад</item>
+        <item quantity="one">Пераматаць на %d секунду наперад</item>
+        <item quantity="few">Пераматаць на %d секунды наперад</item>
+        <item quantity="many">Пераматаць на %d секунд наперад</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Пераматаць на %d секунд назад</item>
+        <item quantity="one">Пераматаць на %d секунду назад</item>
+        <item quantity="few">Пераматаць на %d секунды назад</item>
+        <item quantity="many">Пераматаць на %d секунд назад</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Праз 1 гадзіну</item>
+        <item quantity="one">Праз 1 гадзіну</item>
+        <item quantity="few">Праз 1 гадзіну</item>
+        <item quantity="many">Праз 1 гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Абрана: %d</item>
+        <item quantity="one">Абрана: %d</item>
+        <item quantity="few">Абрана: %d</item>
+        <item quantity="many">Абрана: %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+<plurals name="common_selected_num">
+        <item quantity="other">Абрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+         <item quantity="other">%1$s км</item>
+         <item quantity="one">%1$s км</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+         <item quantity="other">%1$s м</item>
+         <item quantity="one">%1$s м</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" ккал"</item>
+        <item quantity="one">" ккал"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d ккал</item>
+        <item quantity="one">%1$d ккал</item>
+    </plurals>
+    <plurals name="common_unit_cm">
+        <item quantity="other">" см"</item>
+        <item quantity="one">" см"</item>
+    </plurals>
+    <plurals name="common_unit_cm_desc">
+        <item quantity="other">%1$s см</item>
+        <item quantity="one">%1$s см</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d дзён</item>
+        <item quantity="one">%1$d дзень</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дзён</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">уд/хв</item>
+        <item quantity="one">уд/хв</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+    <plurals name="common_unit_kg">
+        <item quantity="other">" кг"</item>
+        <item quantity="one">" кг"</item>
+    </plurals>
+    <plurals name="common_unit_kg_desc">
+        <item quantity="other">%1$s кг</item>
+        <item quantity="one">%1$s кг</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">" км"</item>
+        <item quantity="one">" км"</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc">
+        <item quantity="other">%1$d км</item>
+        <item quantity="one">%1$d км</item>       
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s км</item>
+        <item quantity="one">%1$s км</item>
+    </plurals>
+    <plurals name="common_unit_meter">
+        <item quantity="other">" м"</item>
+         <item quantity="one">" м"</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc">
+        <item quantity="other">%1$d м</item>
+        <item quantity="one">%1$d м</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$s м</item>
+        <item quantity="one">%1$s м</item>
+    </plurals>
+    <plurals name="common_unit_people_des">
+        <item quantity="other">%1$d чал.</item>
+        <item quantity="one">%1$d чал.</item>
+    </plurals>
+    <plurals name="common_unit_score">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+    </plurals>
+    <plurals name="common_unit_score_desc">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$s хв</item>
+    </plurals>
+    <plurals name="common_unit_score_desc_new">
+        <item quantity="other">%1$s хв</item>
+        <item quantity="one">%1$s хв</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="one">крок</item>
+        <item quantity="other">крокаў</item>
+        <item quantity="few">крока</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d крокаў</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d крока</item>
+        <item quantity="many">%1$d крокаў</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="common_unit_time_stroke_desc">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">Усяго %d сеансаў</item>
+        <item quantity="one">Усяго %d сеанс</item>
+        <item quantity="few">Усяго %d сеансы</item>
+    </plurals>
+    <plurals name="course_record_times">
+        <item quantity="other">%d разоў</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d разы</item>
+        <item quantity="many">%d разоў</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">Трэніроўкі: %d</item>
+        <item quantity="one">Трэніроўкі: %d</item>
+        <item quantity="few">Трэніроўкі: %d</item>
+        <item quantity="many">Трэніроўкі: %d</item>
+    </plurals>
+    <plurals name="day_in_simplify">
+        <item quantity="other">%1$d дзён</item>
+        <item quantity="one">%1$d дзень</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дзён</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">Вы можаце дадаць да %1$s будзільнікаў</item>
+        <item quantity="one">Вы можаце дадаць да %1$s будзільніка</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d будзільнікаў</item>
+        <item quantity="one">%1$d будзільнік</item>
+        <item quantity="few">%1$d будзільніка</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$d элементаў</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">Можна дадаць да %1$d падзей</item>
+        <item quantity="one">Можна дадаць да %1$d падзеі</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">Не больш за %1$d</item>
+        <item quantity="one">Не больш за %1$d</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">Не больш за %1$d</item>
+        <item quantity="one">Не больш за %1$d</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">уд/хв</item>
+        <item quantity="one">уд/хв</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">Дадайце да %d картак</item>
+        <item quantity="one">Дадайце да %d карткі</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">Абрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="device_unit_day">
+        <item quantity="other">%1$d дзён</item>
+        <item quantity="one">%1$d дзень</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дзён</item>
+    </plurals>
+    <plurals name="face_common_img_num">
+        <item quantity="other">%1$d выяв</item>
+        <item quantity="one">%1$d выява</item>
+        <item quantity="few">%1$d выявы</item>
+    </plurals>
+    <plurals name="habit_day_num">
+        <item quantity="other">%1$d дзён бесперапыннай рэгістрацыі</item>
+        <item quantity="one">%1$d дзень бесперапыннай рэгістрацыі</item>
+        <item quantity="few">%1$d дня бесперапыннай рэгістрацыі</item>
+        <item quantity="many">%1$d дзён бесперапыннай рэгістрацыі</item>
+    </plurals>
+    <plurals name="habit_people_num">
+        <item quantity="other">%1$d чалавек настойваюць</item>
+        <item quantity="one">%1$d чалавек настойвае</item>
+    </plurals>
+    <plurals name="habit_share_days">
+        <item quantity="other">дзён</item>
+        <item quantity="one">дзень</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дзён</item>
+    </plurals>
+    <plurals name="habit_world_clock_select_number_v2">
+        <item quantity="other">Абрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+    <plurals name="health_calorie_home_desc">
+        <item quantity="other">Спалена: %1$s ккал</item>
+        <item quantity="one">Спалена: %1$s ккал</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d крокаў</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d крока</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">Менструальны перыяд %1$d дзён</item>
+        <item quantity="one">Менструальны перыяд %1$d дзень</item>
+        <item quantity="few">Менструальны перыяд %1$d дня</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">Мяркуецца, што фертыльны перыяд пачнецца праз %d дзён</item>
+        <item quantity="one">Мяркуецца, што фертыльны перыяд пачнецца праз %d дзень</item>
+        <item quantity="few">Мяркуецца, што фертыльны перыяд пачнецца праз %d дня</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">Фертыльны перыяд пачынаецца праз %d дзён</item>
+        <item quantity="one">Фертыльны перыяд пачынаецца праз %d дзень</item>
+        <item quantity="few">Фертыльны перыяд пачынаецца праз %d дня</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d дзён)</item>
+        <item quantity="one">(%d дзень)</item>
+        <item quantity="few">(%d дня)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">Чакаецца, што скончыцца праз %d дзён</item>
+        <item quantity="one">Чакаецца, што скончыцца праз %d дзень</item>
+        <item quantity="few">Чакаецца, што скончыцца праз %d дня</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">Засталося %d дзён</item>
+        <item quantity="one">Застаўся %d дзень</item>
+        <item quantity="few">Засталося %d дня</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">Менструальны перыяд %1$d дзён</item>
+        <item quantity="one">Менструальны перыяд %1$d дзень</item>
+        <item quantity="few">Менструальны перыяд %1$d дня</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">%d дзень менструацыі</item>
+        <item quantity="one">%d дзень менструацыі</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">%d дзень менструацыі</item>
+        <item quantity="one">%d дзень менструацыі</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">Менструальны перыяд пачынаецца праз %d дзён</item>
+        <item quantity="one">Менструальны перыяд пачынаецца праз %d дзень</item>
+        <item quantity="few">Менструальны перыяд пачынаецца праз %d дня</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">Чакаецца, што менструальны перыяд пачнецца праз %d дзён</item>
+        <item quantity="one">Чакаецца, што менструальны перыяд пачнецца праз %d дзень</item>
+        <item quantity="few">Чакаецца, што менструальны перыяд пачнецца праз %d дня</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">Пачатак праз %d дзён пасля дня авуляцыі</item>
+        <item quantity="one">Пачатак праз %d дзень пасля дня авуляцыі</item>
+        <item quantity="few">Пачатак праз %d дня пасля дня авуляцыі</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">Перыяд %d дзён</item>
+        <item quantity="one">Перыяд %d дзень</item>
+        <item quantity="few">Перыяд %d дня</item>
+    </plurals>
+    <plurals name="health_data_calorie_ice_cream">
+        <item quantity="other">%1$d марозівых</item>
+        <item quantity="one">%1$d марозіва</item>
+        <item quantity="few">%1$d марозівы</item>
+    </plurals>
+    <plurals name="health_hearing_noise_count">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">Ад сярэдняй да высокай інтэнсіўнасці %1$d балаў</item>
+        <item quantity="one">Ад сярэдняй да высокай інтэнсіўнасці %1$d бал</item>
+        <item quantity="few">Ад сярэдняй да высокай інтэнсіўнасці %1$d бала</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">Якасць дыхання ў сне %1$d балаў</item>
+        <item quantity="one">Якасць дыхання ў сне %1$d бал</item>
+        <item quantity="few">Якасць дыхання ў сне %1$d бала</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">дБ</item>
+        <item quantity="one">дБ</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">Пастаянная дзейнасць</item>
+        <item quantity="one">Пастаянная дзейнасць</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">Мэта: %1$d ккал</item>
+        <item quantity="one">Мэта: %1$d ккал</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">Мэта: %1$d хв</item>
+        <item quantity="one">Мэта: %1$d хв</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">Мэта: %1$d разоў</item>
+        <item quantity="one">Мэта: %1$d раз</item>
+        <item quantity="few">Мэта: %1$d разы</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">Мэта: %1$d крокаў</item>
+        <item quantity="one">Мэта: %1$d крок</item>
+        <item quantity="few">Мэта: %1$d крока</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s кг, што на %3$s кг больш, чым %2$d дзён таму</item>
+        <item quantity="one">%1$s кг, што на %3$s кг больш, чым %2$d дзень таму</item>
+        <item quantity="few">%1$s кг, што на %3$s кг больш, чым %2$d дні таму</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s кг, што на %3$s кг менш, чым %2$d дзён таму</item>
+        <item quantity="one">%1$s кг, што на %3$s кг менш, чым %2$d дзень таму</item>
+        <item quantity="few">%1$s кг, што на %3$s кг менш, чым %2$d дні таму</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">%s кг</item>
+        <item quantity="one">%s кг</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$d г</item>
+        <item quantity="one">%1$d г</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">Усяго %1$d медалёў, %2$d медаль нядаўна</item>
+        <item quantity="one">Усяго %1$d медаль, %2$d медаль нядаўна</item>
+        <item quantity="few">Усяго %1$d медаля, %2$d медаль нядаўна</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">Усяго %1$d</item>
+        <item quantity="one">Усяго %1$d</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">Увод не можа перавышаць %1$d сімвалаў</item>
+        <item quantity="one">Увод не можа перавышаць %1$d сімвал</item>
+        <item quantity="few">Увод не можа перавышаць %1$d сімвала</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+       <item quantity="other"><Data>"Трымайце прыладу і тэлефон падлучанымі.
+Гэты працэс займае каля %1$d хв, выявіце цярпенне."</Data></item>
+       <item quantity="one"><Data>"Трымайце прыладу і тэлефон падлучанымі.
+Гэты працэс займае каля %1$d хв, выявіце цярпенне."</Data></item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$d км/г</item>
+        <item quantity="one">%1$d км/г</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">км</item>
+        <item quantity="one">км</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">м</item>
+        <item quantity="one">м</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d дзён таму</item>
+        <item quantity="one">%1$d дзень таму</item>
+        <item quantity="few">%1$d дня таму</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">Вт</item>
+        <item quantity="one">Вт</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" км"</item>
+        <item quantity="one">" км"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">Групавы/трэніровачны працэс</item>
+        <item quantity="one">Групавы/трэніровачны працэс</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">Разам: %d камплектаў</item>
+        <item quantity="one">Разам: %d камплект</item>
+        <item quantity="few">Разам: %d камплекта</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d г</item>
+        <item quantity="one">%d г</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">%d практыкаванняў</item>
+        <item quantity="one">%d практыкаванне</item>
+        <item quantity="few">%d практыкаванні</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%s км/г</item>
+        <item quantity="one">%s км/г</item>
+    </plurals>
+    <plurals name="unit_heart_rate_space">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">г</item>
+        <item quantity="one">г</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">г</item>
+        <item quantity="one">г</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d г</item>
+        <item quantity="one">%1$d г</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d г</item>
+        <item quantity="one">%1$d г</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">км</item>
+        <item quantity="one">км</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">км</item>
+        <item quantity="one">км</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">м</item>
+        <item quantity="one">м</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">м</item>
+        <item quantity="one">м</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d балаў</item>
+        <item quantity="one">%1$d бал</item>
+        <item quantity="few">%1$d бала</item>
+    </plurals>
+    <plurals name="unit_point_space">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">" сек"</item>
+        <item quantity="one">" сек"</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">м/сек</item>
+        <item quantity="one">м/сек</item>
+    </plurals>
+    <plurals name="unit_step_space">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d гадоў)</item>
+        <item quantity="one">(%1$d год)</item>
+        <item quantity="few">(%1$d года)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$d гадоў</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">ккал</item>
+        <item quantity="one">ккал</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">уд/хв</item>
+        <item quantity="one">уд/хв</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">" разоў"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">"разы"</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">Мэта: %1$d ккал</item>
+        <item quantity="one">Мэта: %1$d ккал</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">Мэта: %1$d хв</item>
+        <item quantity="one">Мэта: %1$d хв</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">Мэта: %1$d разоў</item>
+        <item quantity="one">Мэта: %1$d раз</item>
+        <item quantity="few">Мэта: %1$d разы</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">Мэта: %1$d крокаў</item>
+        <item quantity="one">Мэта: %1$d крок</item>
+        <item quantity="few">Мэта: %1$d крока</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+    <plurals name="userinfo_unit_min_1">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="other">%1$d гадоў</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+    </plurals>
+<plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">Засталося %1$d сек</item>
+        <item quantity="one">Засталася %1$d сек</item>
+    </plurals>
+<plurals name="provider_exercise_goal_unit">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+<plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$d уд/хв</item>
+        <item quantity="one">%1$d уд/хв</item>
+    </plurals>
+<plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$d ккал</item>
+        <item quantity="one">%1$d ккал</item>
+    </plurals>
+<plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$d крокаў</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d крока</item>
+        <item quantity="many">%1$d крокаў</item>
+    </plurals>
+<plurals name="health_curse_day">
+        <item quantity="other">дзён</item>
+        <item quantity="one">дзень</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дзён</item>
+    </plurals>
+<plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">ч.</item>
+        <item quantity="one">ч.</item>
+    </plurals>
+<plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+        <item quantity="many">%1$d хв</item>
+    </plurals>
+<plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">Сатурацыя: %1$d%%</item>
+        <item quantity="one">Сатурацыя: %1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+       <item quantity="other">Увядзіце да %1$d сімвалаў</item>
+       <item quantity="one">Увядзіце да %1$d сімвала</item>
+     </plurals>
+     <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+       <item quantity="other">%1$d%%</item>
+       <item quantity="one">%1$d%%</item>
+     </plurals>
+    <plurals name="trail_unit_score_desc_new">
+       <item quantity="other">%1$s хв</item>
+       <item quantity="one">%1$s хв</item>
+     </plurals>
+     <plurals name="trail_unit_time_rope_skipping">
+       <item quantity="other">" разоў"</item>
+       <item quantity="one">" раз"</item>
+       <item quantity="few">" разы"</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+    <item quantity="other">сек</item>
+    <item quantity="one">сек</item>
+  </plurals>
+  <plurals name="userinfo_unit_min">
+    <item quantity="other">хв</item>
+    <item quantity="one">хв</item>
+  </plurals>
+  <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">ккал</item>
+        <item quantity="one">ккал</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">м</item>
+        <item quantity="one">м</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">хв</item>
+        <item quantity="one">хв</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other">крокаў</item>
+        <item quantity="one">крок</item>
+        <item quantity="few">крока</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">разоў</item>
+        <item quantity="one">раз</item>
+        <item quantity="few">разы</item>
+    </plurals>
+    <plurals name="course_practised_num">
+         <item quantity="other">Трэніраваліся %d разоў</item>
+         <item quantity="one">Трэніраваліся %d раз</item>
+         <item quantity="few">Трэніраваліся %d разы</item>
+     </plurals>
+     <plurals name="device_last_charged_time">
+         <item quantity="other">%1$d дзён з моманту апошняй зарадкі</item>
+         <item quantity="one">%1$d дзень з моманту апошняй зарадкі</item>
+         <item quantity="few">%1$d днi з моманту апошняй зарадкі</item>
+     </plurals>
+     <plurals name="trail_label_step">
+        <item quantity="one">крок</item>
+        <item quantity="other">крокаў</item>
+        <item quantity="few">крока</item>
+    </plurals>
+</resources>

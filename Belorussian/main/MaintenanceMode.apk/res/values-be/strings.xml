@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+  <string name="abc_capital_off">ВЫКЛ.</string>
+  <string name="abc_capital_on">УКЛ.</string>
+  <string name="agree">Згодзен</string>
+  <string name="cancel">Адмена</string>
+  <string name="check_protocol_msg">"Каб выкарыстоўваць рэжым абслугоўвання, націсніце тут і пагадзіцеся з нашай "</string>
+  <string name="check_protocol_msg_detail">Перад запускам рэжыму абслугоўвання пераканайцеся, што дадзеныя былі зарэзерваваныя. Пасляпродажны сэрвіс не нясе адказнасці за магчымую страту дадзеных, выкліканую рамонтам прылады.</string>
+  <string name="check_protocol_msg_sub">Адмова ад адказнасці</string>
+  <string name="click_to_close">Націсніце тут, каб выйсці з рэжыму абслугоўвання</string>
+  <string name="close_maintenance_mode">Зачыніць рэжым абслугоўвання</string>
+  <string name="create_fail">Не атрымалася стварыць рэжым абслугоўвання, паўтарыце спробу пазней</string>
+  <string name="create_fail_because_max_user">Дасягнута максімальная колькасць карыстальнікаў у сістэме, выдаліце ​​другую прастору, дадзеныя кланаваных праграм або дзіцячага рэжыму, і паспрабуйце ізноў.</string>
+  <string name="delete_maintenance_mode">выдаленне рэжыму абслугоўвання...</string>
+  <string name="disagree">Не згодны</string>
+  <string name="forbid_create">Рэжым абслугоўвання можна стварыць толькі ў асноўнай прасторы</string>
+  <string name="maintenance_mode">Рэжым абслугоўвання</string>
+  <string name="maintenance_mode_close_title">У рэжыме абслугоўвання</string>
+  <string name="maintenance_mode_loading">Запуск рэжыму абслугоўвання, хутка прылада перазагрузіцца...</string>
+  <string name="maintenance_mode_reboot">Перазагрузка рэжыму абслугоўвання</string>
+  <string name="maintenance_mode_title">Комплексная абарона дадзеных вашай прылады</string>
+  <string name="maintenance_mode_watch_out">Абараніце важныя асабістыя дадзеныя, такія як фота, відэа, кантакты, паведамленнi.</string>
+  <string name="open">Адкрыць рэжым абслугоўвання</string>
+  <string name="open_maintenance_mode">Адкрыць рэжым абслугоўвання</string>
+  <string name="open_maintenance_mode_msg">"Каб пазбегнуць страты дадзеных, рэкамендуецца адпраўляць прылада на пасляпродажнае абслугоўванне пасля "</string>
+  <string name="open_maintenance_mode_msg_sub">рэзервовага капіявання дадзеных</string>
+  <string name="open_maintenance_mode_tips">Вы толькі што выключылі рэжым тэхнічнага абслугоўвання і выдаляеце звязаныя даныя. Паўтарыце спробу пазней</string>
+  <string name="reached_max_user">Дасягнута максімальная колькасць карыстальнікаў</string>
+  <string name="reboot_maintenance_mode">выдаленне рэжыму завершана, для павышэння прадукцыйнасці прылады перазагрузіце яе.</string>
+  <string name="reboot_msg">Пры ўключэнні рэжыму абслугоўвання тэлефон аўтаматычна перазагружаецца. Пераканайцеся, што ён уключаны.</string>
+  <string name="reopen_maintenance_mode">Выяўлена, што асноўны карыстальнік прылады быў разблакіраваны. Каб абараніць прыватнасць карыстальнікаў і бяспеку дадзеных, рэкамендуецца паўторна ўвайсці ў рэжым абслугоўвання</string>
+  <string name="search_menu_title">Пошук</string>
+  <string name="set_password_main_user">Усталюйце пароль</string>
+  <string name="set_password_main_user_context">Каб забяспечыць бяспеку вашых дадзеных, усталюйце пароль экрана блакавання. Пароль не можа быць адноўлены, запомніце яго. Пры выхадзе з рэжыму абслугоўвання вам неабходна пацвердзіць ўсталяваны пароль экрана блакавання.</string>
+  <string name="setting">Усталяваць</string>
+  <string name="switch_to_maintenance_mode">Перайсці ў рэжым абслугоўвання</string>
+</resources>

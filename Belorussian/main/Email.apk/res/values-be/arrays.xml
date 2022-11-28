@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="all_month_str">
+    <item>Студз</item>
+    <item>Лют</item>
+    <item>Сак</item>
+    <item>Крас</item>
+    <item>Трав</item>
+    <item>Чэрв</item>
+    <item>Ліп</item>
+    <item>Жнів</item>
+    <item>Вер</item>
+    <item>Каст</item>
+    <item>Ліст</item>
+    <item>Снеж</item>
+  </string-array>
+  <string-array name="calendar_remind_string_array">
+    <item>Сёння ўвечары</item>
+    <item>Заўтра</item>
+    <item>Выходныя</item>
+    <item>Наступны тыдзень</item>
+    <item>Наступны месяц</item>
+    <item>Выбраць дату</item>
+  </string-array>
+  <string-array name="compose_modes">
+    <item>Адказаць</item>
+    <item>Адказаць усім</item>
+    <item>Пераслаць</item>
+  </string-array>
+  <string-array name="general_preference_text_zoom_summary_array">
+    <item>Маленечкі</item>
+    <item>Маленькі</item>
+    <item>Нармальны</item>
+    <item>Вялікі</item>
+    <item>Велізарны</item>
+  </string-array>
+  <string-array name="menu_att_mgr_sort_string_array">
+    <item>Нядаўна прагледжаныя</item>
+    <item>Фармат</item>
+    <item>Імя</item>
+    <item>Адпраўнік</item>
+    <item>Дата атрымання</item>
+  </string-array>
+  <string-array name="moveto_folder_sections">
+    <item>Сістэма</item>
+    <item>Найчасцей карыстаныя</item>
+    <item>Усе тэчкі</item>
+  </string-array>
+  <string-array name="prefEntries_autoAdvance">
+    <item>Наступнае паведамленне</item>
+    <item>Папярэдняе паведамленне</item>
+    <item>Уваходныя</item>
+  </string-array>
+  <string-array name="prefEntries_contact_add">
+    <item>Усе</item>
+    <item>Толькі адпраўнікоў</item>
+  </string-array>
+  <string-array name="signature_normal_string_array">
+    <item>Блог:</item>
+    <item>Сайт:</item>
+    <item>Email:</item>
+    <item>Мабільны тэлефон:</item>
+    <item>Дамашні тэлефон:</item>
+    <item>T:</item>
+    <item>www.</item>
+    <item>F:</item>
+    <item>E:</item>
+    <item>Email:</item>
+    <item>Тэл:</item>
+    <item>Факс:</item>
+    <item>Пошта:</item>
+    <item>QQ:</item>
+    <item />
+  </string-array>
+  <string-array name="signature_normal_string_array_next">
+    <item>Адрас:</item>
+    <item>Тэлефон:</item>
+    <item>Імя:</item>
+    <item>Email:</item>
+    <item>Мабільны:</item>
+    <item>WeChat:</item>
+    <item>Факс:</item>
+    <item>Паштовы індэкс:</item>
+  </string-array>
+  <string-array name="signature_special_string_array">
+    <item>Адмова ад адказнасці:</item>
+    <item>Адмова ад адказнасці Email</item>
+    <item>Адпраўлена праз WPSMail</item>
+    <item>Адпраўлена з</item>
+    <item>Адпраўлена з</item>
+    <item>Дзякуй,</item>
+    <item>З павагай</item>
+  </string-array>
+  <string-array name="signature_special_string_array_next">
+    <item>Дзякуй,</item>
+    <item>З найлепшымі пажаданнямі</item>
+    <item>Адпраўлена з майго</item>
+    <item>Арыгінальны Email</item>
+    <item>Адпраўлена з майго</item>
+    <item>Адпраўлена з</item>
+    <item>З</item>
+    <item>Гэты Email</item>
+    <item>Адмова ад адказнасці</item>
+    <item>Ліст-адмова ад адказнасці</item>
+  </string-array>
+  <string-array name="error_message_respond">
+        <item>LOGIN Памылка ўваходу або няправільны пароль</item>
+        <item>LOGIN Памылка ўваходу. Няправільны пароль.</item>
+        <item>Няправільны лагін ці пароль</item>
+        <item>LOGIN Памылка ўваходу, няправільнае імя карыстальніка/пароль</item>
+        <item>LOGIN Памылка ўваходу: 1424, уліковы запіс не існуе (md return: 2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Выкарыстоўвайце код аўтарызацыі для ўваходу. Падрабязней: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Няправільны код. Дадатковыя звесткі гл. на старонцы https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Памылка ўваходу. Карыстальнік заблакаваны.</item>
+        <item>LOGIN Памылка ўваходу.</item>
+        <item>LOGIN errno:1423, памылка пароля карыстальніка (sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Няправільныя ўліковыя дадзеныя</item>
+        <item>Памылка ўваходу. Няправільны пароль ці служба не даступная.</item>
+        <item>LOGIN imap4 не падтрымліваецца</item>
+        <item>LOGIN errno:1328, карыстацкі imap адключаны</item>
+        <item>LOGIN Памылка ўваходу. Карыстальнік заблакаваны.</item>
+        <item>LOGIN карыстальнік у чорным спісе</item>
+        <item>LOGIN Памылка ўваходу. Акаўнт заблакаваны. Увайдзіце ў свой рахунак праз вэб-браўзэр, каб пацвердзіць сваю асобу.</item>
+        <item>LOGIN карыстальнік у чорным спісе</item>
+        <item>LOGIN errno:1412 status=51 Пароль даўно не мяняўся. Змяніце пароль. http://mail.10086.cn</item>
+        <item>LOGIN imap4 не падтрымліваецца</item>
+        <item>LOGIN Памылка ўваходу. Акаўнт заблакаваны. Увайдзіце ў свой рахунак праз вэб-браўзэр, каб пацвердзіць сваю асобу.</item>
+        <item>ERR Памылка ўваходу або няправільны пароль</item>
+        <item>Памылка ўваходу. Выкарыстоўвайце пароль праграмы для ўваходу. Падрабязней: http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR карыстацкі pop3 адключаны</item>
+        <item>LOGIN Памылка ўваходу. Памылка імя карыстальніка ці пароля.</item>
+        <item>Няслушны лагін ці пароль</item>
+        <item>IP-адрас XXXXXXX у чорным спісе. Пераключыце сетку ці ўвайдзіце на https://mail.sohu.com, каб наладзіць белы спіс IP-адрасоў кліента</item>
+        <item>java.net.UnknownHostException: Немагчыма вызначыць хост</item>
+        <item>кліент адключаны, калі ласка, змяніце статус на сайце https://mail.sohu.com</item>
+        <item>няма пачатковага пароля, увайдзіце на https://mail.sohu.com, каб згенераваць кліенцкі пароль</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>Рахунак</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>Рахунак</item>
+        <item>invoice</item>
+    </string-array>
+</resources>

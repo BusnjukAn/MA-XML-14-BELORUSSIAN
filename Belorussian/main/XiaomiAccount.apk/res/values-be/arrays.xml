@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Акаўнты</item>
+        <item>Даданне акаўнтаў трэціх бакоў і кіраванне імі</item>
+        <item>Акаўнты;Сацсеткі;Facebook;Google;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Акаўнты</item>
+        <item>Даданне акаўнтаў трэціх бакоў і кіраванне імі</item>
+        <item>Акаўнты;SNS;WeChat;QQ;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Змяніць пароль</item>
+        <item>Змяніць пароль Xiaomi акаўнта</item>
+        <item>Змяніць пароль;Абнавіць пароль;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Дапамога</item>
+        <item>Дапамога і падтрымка Xiaomi акаўнта</item>
+        <item>Xiaomi акаўнт;Акаўнт;Даведка па акаўнце;Даведачны цэнтр</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Двухкрокавая праверка</item>
+        <item>Наладзьце двухкрокавую праверку Xiaomi акаўнта</item>
+        <item>Уваход;Аўтарызацыя;Двухкрокавая;Праверка;Xiaomi;Акаўнт;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Бяспека акаўнта</item>
+        <item>Нумар тэлефона і email для аднаўлення, кіраванне паролямі</item>
+        <item>Бяспека акаўнта;Уваход у сістэму;Тэлефон для аднаўлення;Адрас электроннай пошты для аднаўлення;Абарона акаўнта;Нумар тэлефона;Электронная пошта;Змяніць пароль;Дадаць нумар тэлефона;Дадаць адрас электроннай пошты;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Прылады</item>
+        <item>Кіраванне прыладамі, звязанымі з вашым Xiaomi акаўнтам</item>
+        <item>Кіраванне прыладамі;Мае прылады;Прылады;Спіс прылад;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Плацежная інфармацыя</item>
+        <item>Прагляд плацежнай інфармацыі і яе змяненне</item>
+        <item>Аплаціць;Аплата;Спосаб аплаты;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Палітыка прыватнасці</item>
+        <item>Прагляд Палітыкі прыватнасці Xiaomi акаўнта</item>
+        <item>Xiaomi акаўнт;Акаўнт;Палітыка прыватнасці</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Email для аднаўлення</item>
+        <item>Дадаць email для аднаўлення</item>
+        <item>Электронная пошта для аднаўлення;Электронная пошта;Дадаць адрас электроннай пошты;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Тэлефон для аднаўлення</item>
+        <item>Дадаць тэлефон для аднаўлення</item>
+        <item>Тэлефон для аднаўлення;Дадаць тэлефон;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Рэклама</item>
+        <item>Упраўленне сістэмнай рэкламай</item>
+        <item>Рэклама;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Інфармацыя аб акаўнце</item>
+        <item>Прагляд фота профілю і кіраванне інфармацыяй аб акаўнце</item>
+        <item>Асабістая інфармацыя;фота профілю;нікнэйм;інфармацыя аб акаўнце;Mi ID;ID;Xiaomi акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Карыстальніцкае пагадненне</item>
+        <item>Карыстальніцкае пагадненне</item>
+        <item>Xiaomi акаўнт;Акаўнт;Карыстальніцкае пагадненне,ЛПКК</item>
+    </string-array>
+</resources>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d хвілін таму</item>
+        <item quantity="one">%1$d хвіліну таму</item>
+        <item quantity="few">%1$d хвіліны таму</item>
+        <item quantity="many">%1$d хвілін таму</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d гадзін назад</item>
+        <item quantity="one">%1$d гадзіну назад</item>
+        <item quantity="few">%1$d гадзіны назад</item>
+        <item quantity="many">%1$d гадзін назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дзён таму</item>
+        <item quantity="one">%1$d дзень таму</item>
+        <item quantity="few">%1$d дні таму</item>
+        <item quantity="many">%1$d дзён таму</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Спампоўкі: %1$d</item>
+        <item quantity="one">Спамповак: %1$d</item>
+        <item quantity="few">Спамповак: %1$d</item>
+        <item quantity="many">Спамповак: %1$d</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Спампоўкі: %1$d</item>
+        <item quantity="one">Спамповак: %1$d</item>
+        <item quantity="few">Спамповак: %1$d</item>
+        <item quantity="many">Спамповак: %1$d</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Спампоўкі: %1$d</item>
+        <item quantity="one">Спамповак: %1$d</item>
+        <item quantity="few">Спамповак: %1$d</item>
+        <item quantity="many">Спамповак: %1$d</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$s праглядаў</item>
+        <item quantity="one">%1$s прагляд</item>
+        <item quantity="few">%1$s прагляда</item>
+        <item quantity="many">%1$s праглядаў</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d груп</item>
+        <item quantity="one">%d група</item>
+        <item quantity="few">%d групы</item>
+        <item quantity="many">%d груп</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Выдаліць %d фота?</item>
+        <item quantity="one">Выдаліць %d фота?</item>
+        <item quantity="few">Выдаліць %d фота?</item>
+        <item quantity="many">Выдаліць %d фота?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Выдаліць %1$s фота з усіх прылад?</item>
+        <item quantity="one">Выдаліць %1$s фота з усіх прылад?</item>
+        <item quantity="few">Выдаліць %1$s фота з усіх прылад?</item>
+        <item quantity="many">Выдаліць %1$s фота з усіх прылад?</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Можна выдаліць дадзеныя %d праграм</item>
+        <item quantity="one">Можна выдаліць дадзеныя %d праграмы</item>
+        <item quantity="few">Можна выдаліць дадзеныя %d праграм</item>
+        <item quantity="many">Можна выдаліць дадзеныя %d праграм</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">Знойдзена %d праграмы, якія можна выдаліць</item>
+        <item quantity="one">Знойдзена %d праграма, якую можна выдаліць</item>
+        <item quantity="few">Знойдзена %d праграмы, якія можна выдаліць</item>
+        <item quantity="many">Знойдзена %d праграм, якія можна выдаліць</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Знойдзена %d вялікага файла, якія можна выдаліць</item>
+        <item quantity="one">Знойдзены %d вялікі файл, які можна выдаліць</item>
+        <item quantity="few">Знойдзена %d вялікіх файла, якія можна выдаліць</item>
+        <item quantity="many">Знойдзена %d вялікіх файлаў, якія можна выдаліць</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Знойдзена %d фота, можна выдаліць непатрэбныя або паўторныя здымкі</item>
+        <item quantity="one">Знойдзена %d фота, можна выдаліць непатрэбныя або паўторныя здымкі</item>
+        <item quantity="few">Знойдзена %d фота, можна выдаліць непатрэбныя або паўторныя здымкі</item>
+        <item quantity="many">Знойдзена %d фота, можна выдаліць непатрэбныя або паўторныя здымкі</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="one">Знойдзена %d APK, Можна выдаліце яго.</item>
+        <item quantity="few">Знойдзена %d APK, Можна выдаліць іх.</item>
+        <item quantity="many">Знойдзена %d APK, Можна выдаліць іх.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="one">Знойдзена %d відэа, Можна выдаліць яго.</item>
+        <item quantity="few">Знойдзена %d відэа, Можна выдаліць іх.</item>
+        <item quantity="many">Знойдзена %d відэа, Можна выдаліць іх</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d праграм ўсталявана</item>
+        <item quantity="one">%d праграма ўсталявана</item>
+        <item quantity="few">%d праграмы ўсталявана</item>
+        <item quantity="many">%d праграм ўсталявана</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Не атрымалася экспартаваць %d відэа. Вызваліце ​​месца і паспрабуйце ізноў</item>
+        <item quantity="one">Не атрымалася экспартаваць %d відэа. Вызваліце ​​месца і паспрабуйце ізноў.</item>
+        <item quantity="few">Не атрымалася экспартаваць %d відэа. Вызваліце ​​месца і паспрабуйце ізноў</item>
+        <item quantity="many">Не атрымалася экспартаваць %d відэа. Вызваліце ​​месца і паспрабуйце ізноў</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="one">(%1$d пусты файл)</item>
+        <item quantity="few">(%1$d пустыя файлы)</item>
+        <item quantity="many">(%1$d пустых файлаў)</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="one">Не запускалася %d дзень</item>
+        <item quantity="few">Не запускалася %d дні</item>
+        <item quantity="many">Не запускалася %d дзён</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="one">Не запускалася %d месяц</item>
+        <item quantity="few">Не запускалася %d месяцы</item>
+        <item quantity="many">Не запускалася %d месяцаў</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="one">Не запускалася %d год</item>
+        <item quantity="few">Не запускалася %d гады</item>
+        <item quantity="many">Не запускалася %d гадоў</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="one">%d праграма доўга не запускалася, звярніце ўвагу.</item>
+        <item quantity="few">%d праграмы доўга не запускалася, звярніце ўвагу.</item>
+        <item quantity="many">%d праграм доўга не запускалася, звярніце ўвагу.</item>
+    </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="one">"Ачыстка %1$d файла (%2$d%%)
+"</item>
+        <item quantity="few">"Ачыстка %1$d файлаў (%2$d%%)
+"</item>
+        <item quantity="many">"Ачыстка %1$d файлаў (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="one">"%1$d аб'ект за секунду | Засталося часу: %2$s"</item>
+        <item quantity="few">"%1$d аб'екты за секунду | Засталося часу: %2$s"</item>
+        <item quantity="many">"%1$d аб'ектаў за секунду | Засталося часу: %2$s"</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d гадзін</item>
+        <item quantity="one">%1$d гадзіна</item>
+        <item quantity="few">%1$d гадзіны</item>
+        <item quantity="many">%1$d гадзін</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d хвілін</item>
+        <item quantity="one">%1$d хвіліна</item>
+        <item quantity="few">%1$d хвіліны</item>
+        <item quantity="many">%1$d хвілін</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">"Выдаліць %1$d аб'ектаў?"</item>
+        <item quantity="one">"Выдаліць %1$d аб'ект?"</item>
+        <item quantity="few">"Выдаліць %1$d аб'екта?"</item>
+        <item quantity="many">"Выдаліць %1$d аб'ектаў?"</item>
+    </plurals>
+  <plurals name="dc_group_title_normal">
+    <item quantity="other">Зрабіце %1$d крокаў, каб вызваліць %2$s</item>
+    <item quantity="few">Зрабіце %1$d крока, каб вызваліць %2$s</item>
+    <item quantity="one">Зрабіце %1$d крок, каб вызваліць %2$s</item>
+  </plurals>
+  <plurals name="dc_item_summary_apk">
+    <item quantity="other">Знойдзена %d усталявальных пакетаў</item>
+    <item quantity="few">Знойдзена %d усталявальных пакета</item>
+    <item quantity="one">Знойдзен %d усталявальны пакет</item>
+  </plurals>
+  <plurals name="dc_item_summary_app_data">
+    <item quantity="other">Можна ачысціць дадзеныя %d праграм</item>
+    <item quantity="one">Можна ачысціць дадзеныя %d праграмы</item>
+  </plurals>
+  <plurals name="dc_item_summary_image">
+    <item quantity="other">Знойдзена %d непатрэбных фота</item>
+    <item quantity="one">Знойдзена %d непатрэбнае фота</item>
+  </plurals>
+  <plurals name="dc_item_summary_large_file">
+    <item quantity="other">Знойдзена %d вялікіх файлаў</item>
+    <item quantity="few">Знойдзена %d вялікіх файла</item>
+    <item quantity="one">Знойдзен %d вялікі файл</item>
+  </plurals>
+  <plurals name="dc_item_summary_uninstall_app">
+    <item quantity="other">Знойдзена %d рэдка выкарыстоўваемых праграм</item>
+    <item quantity="few">Знойдзена %d рэдка выкарыстоўваемых праграмы</item>
+    <item quantity="one">Знойдзена %d рэдка выкарыстоўваемая праграма</item>
+  </plurals>
+  <plurals name="dc_item_summary_video">
+    <item quantity="other">Знойдзена %d відэа</item>
+    <item quantity="one">Знойдзена %d відэа</item>
+  </plurals>
+  <plurals name="global_wa_clean_finish_audio">
+    <item quantity="other">Вызваляецца %1$s (дастаткова для %2$d песень)</item>
+    <item quantity="one">Вызваляецца %1$s (дастаткова для %2$d песні)</item>
+  </plurals>
+  <plurals name="global_wa_clean_finish_picture">
+    <item quantity="other">Вызваляецца %1$s (дастаткова для %2$d фота)</item>
+    <item quantity="one">Вызваляецца %1$s (дастаткова для %2$d фота)</item>
+  </plurals>
+  <plurals name="global_wa_image">
+    <item quantity="other">%1$d элементаў</item>
+	<item quantity="few">%1$d элемента</item>
+    <item quantity="one">%1$d элемент</item>
+  </plurals>
+  <plurals name="global_wa_video">
+    <item quantity="other">%1$d элементаў</item>
+	<item quantity="few">%1$d элемента</item>
+    <item quantity="one">%1$d элемент</item>
+  </plurals>
+  <plurals name="global_wa_voice">
+    <item quantity="other">Знойдзена %1$d галасавых паведамленняў</item>
+	<item quantity="few">Знойдзена %1$d галасавых паведамлення</item>
+    <item quantity="one">Знойдзена %1$d галасавое паведамленне</item>
+  </plurals>
+  <plurals name="install_find_application">
+        <item quantity="other">Пошук сярод %d праграм</item>
+        <item quantity="one">Пошук сярод %d праграмы</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Знойдзена %d праграм</item>
+        <item quantity="one">Знойдзена %d праграма</item>
+		<item quantity="few">Знойдзена %d праграмы</item>
+    </plurals>
+	  <plurals name="notification_checker_installed_apk_text">
+    <item quantity="other">Выдаліць %d ўсталявальных пакетаў</item>
+    <item quantity="one">Выдаліць %d ўсталявальны пакет</item>
+    <item quantity="few">Выдаліць %d ўсталявальных пакета</item>
+  </plurals>
+  <plurals name="rs_clean_size_hint_image">
+     <item quantity="other">Дастаткова для %d фота</item>
+     <item quantity="one">Дастаткова для %d фота</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+     <item quantity="other">Дастаткова для %d трэкаў</item>
+     <item quantity="one">Дастаткова для %d трэка</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+     <item quantity="other">%d праграм з кэшаваным відэа</item>
+     <item quantity="one">%d праграма з кэшаваным відэа</item>
+     <item quantity="few">%d праграмы з кэшаваным відэа</item>
+    </plurals>
+	<plurals name="whatsapp_file_audio_dec">
+    <item quantity="other">%1$s аўдыёфайлаў</item>
+    <item quantity="one">%1$s аўдыёфайл</item>
+    <item quantity="few">%1$s аўдыёфайла</item>
+  </plurals>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Гадзіну таму</item>
+    <item quantity="one">Гадзіну таму</item>
+    <item quantity="few">Гадзіну таму</item>
+    <item quantity="many">Гадзіну таму</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Гадзіну таму</item>
+    <item quantity="one">Гадзіну таму</item>
+    <item quantity="few">Гадзіну таму</item>
+    <item quantity="many">Гадзіну таму</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Паўгадзіны таму</item>
+    <item quantity="one">Паўгадзіны таму</item>
+    <item quantity="few">Паўгадзіны таму</item>
+    <item quantity="many">Паўгадзіны таму</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Праз гадзіну</item>
+    <item quantity="one">Праз гадзіну</item>
+    <item quantity="few">Праз гадзіну</item>
+    <item quantity="many">Праз гадзіну</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Праз паўгадзіны</item>
+    <item quantity="one">Праз паўгадзіны</item>
+    <item quantity="few">Праз паўгадзіны</item>
+    <item quantity="many">Праз паўгадзіны</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Неадкладна</item>
+    <item quantity="one">Неадкладна</item>
+    <item quantity="few">Неадкладна</item>
+    <item quantity="many">Неадкладна</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">праз %d хв.</item>
+    <item quantity="one">праз 1 хв.</item>
+    <item quantity="few">праз %d хв.</item>
+    <item quantity="many">праз %d хв.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Толькі што</item>
+    <item quantity="one">Толькі што</item>
+    <item quantity="few">Толькі што</item>
+    <item quantity="many">Толькі што</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d хв. таму</item>
+    <item quantity="one">1 хв. таму</item>
+    <item quantity="few">%d хв. таму</item>
+    <item quantity="many">%d хв. таму</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Паўгадзіны таму</item>
+    <item quantity="one">Паўгадзіны таму</item>
+    <item quantity="few">Паўгадзіны таму</item>
+    <item quantity="many">Паўгадзіны таму</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Праз гадзіну</item>
+    <item quantity="one">Праз гадзіну</item>
+    <item quantity="few">Праз гадзіну</item>
+    <item quantity="many">Праз гадзіну</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Праз паўгадзіны</item>
+    <item quantity="one">Праз паўгадзіны</item>
+    <item quantity="few">Праз паўгадзіны</item>
+    <item quantity="many">Праз паўгадзіны</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Неадкладна</item>
+    <item quantity="one">Неадкладна</item>
+    <item quantity="few">Неадкладна</item>
+    <item quantity="many">Неадкладна</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">праз %d хвілін</item>
+    <item quantity="one">праз 1 хвіліну</item>
+    <item quantity="few">праз %d хвіліны</item>
+    <item quantity="many">праз %d хвілін</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Толькі што</item>
+    <item quantity="one">Толькі што</item>
+    <item quantity="few">Толькі што</item>
+    <item quantity="many">Толькі што</item>
+  </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">Абрана %d элементаў</item>
+    <item quantity="one">Абраны %d элемент</item>
+    <item quantity="few">Абрана %d элемента</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d хвілін таму</item>
+    <item quantity="one">1 хвіліну таму</item>
+    <item quantity="few">%d хвіліны таму</item>
+    <item quantity="many">%d хвілін таму</item>
+  </plurals>
+   <plurals name="every_x_day">
+        <item quantity="other">Кожныя %d дн.</item>
+        <item quantity="one">Кожны %d дзень</item>
+    </plurals>
+     <plurals name="last_x_day">
+        <item quantity="other">Апошнія %d дн.</item>
+        <item quantity="one">Апошні %d дзень</item>
+    </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Абрана %d праграм для ачысткі дадзеных</item>
+        <item quantity="one">Абрана %d праграма для ачысткі дадзеных</item>
+        <item quantity="few">Абрана %d праграмы для ачысткі дадзеных</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграм займаюць шмат месца&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграма займае шмат месца&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграмы займаюць шмат месца&lt;/Data></item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Абрана %d праграм для скіду</item>
+        <item quantity="one">Абрана %d праграма для скіду</item>
+        <item quantity="few">Абрана %d праграмы для скіду</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Абрана %d праграм</item>
+        <item quantity="one">Выбраны %d праграма</item>
+        <item quantity="few">Абрана %d праграмы</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Абрана %d праграм для выдалення</item>
+        <item quantity="one">Абрана %d праграма для выдалення</item>
+        <item quantity="few">Абрана %d праграмы для выдалення</item>
+    </plurals>
+</resources>

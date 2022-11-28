@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Здароўе</item>
+        <item>Трэніроўкі</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Выява</item>
+        <item>Маршрут</item>
+        <item>Картка</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Бег</item>
+        <item>Шпацыр</item>
+        <item>Велапаездка</item>
+        <item>Скакалка</item>
+        <item>Трэніроўка</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Нармальна</item>
+        <item>Доўга</item>
+        <item>Занадта доўга</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Час рухацца!</item>
+        <item>Больш падрабязна</item>
+        <item>Выпіце вады і прагуляйцеся.</item>
+        <item>Больш падрабязна</item>
+        <item>Паўстанце па лесвіцы</item>
+        <item>Больш падрабязна</item>
+        <item>Не сядзіце занадта доўга</item>
+        <item>Больш падрабязна</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 гадзіна</item>
+        <item>2 гадзіны</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+        <item>A(II) Rh-</item>
+        <item>A(II) Rh+</item>
+        <item>B(III) Rh-</item>
+        <item>B(III) Rh+</item>
+        <item>AB(IV) Rh-</item>
+        <item>AB(IV) Rh+</item>
+        <item>O(I) Rh-</item>
+        <item>O(I) Rh+</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Не пазначана</item>
+        <item>Бацькі</item>
+        <item>Сёстра</item>
+        <item>Брат</item>
+        <item>Сужэнец</item>
+        <item>Партнёр</item>
+        <item>Сябр</item>
+        <item>Калега</item>
+        <item>Аднакласнік</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" ккал"</item>
+        <item>" кДж"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Не пазначаны</item>
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" см."</item>
+        <item>" м."</item>
+        <item>" км."</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Не пазначана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Дзень</item>
+        <item>Тыдзень</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Пн, Ср, Пт</item>
+        <item>Аўт, Чц, Сб</item>
+        <item>Ср, Пт, Нд</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Кожны панядзелак</item>
+        <item>Кожны аўторак</item>
+        <item>Кожную сераду</item>
+        <item>Кожны чацвер</item>
+        <item>Кожную пятніцу</item>
+        <item>Кожную суботу</item>
+        <item>Кожную нядзелю</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Не пазначаны</item>
+        <item>Адмоўны</item>
+        <item>Станоўчы</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Без абмежаванняў</item>
+        <item>Абмежаванне фонавай актыўнасці</item>
+        <item>Прыпынак пасля 10 хвілін</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" км/г"</item>
+        <item>" м/с"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Сiдзячы лад жыцця выклікае мноства праблем са здароўем. Нават калі вы не можаце скараціць час, якi вы праводзіце седзячы, час ад часу уставайце і размінайцеся.</item>
+        <item>Памочнік будзе нагадваць аб неабходнасці ўстаць і размяцца па меншай меры 1 хвіліну ў гадзіну для дасягнення штодзённай мэты, каб пазбегнуць праблем сiдзячага жыцця.</item>
+        <item>Націсніце кнопку «Працягнуць» для ўключэння памочніка.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Здароўе можа выяўляць і запісваць, калі вы ўстаеце. Вы таксама можаце атрымліваць напамін пра неабходнасць размяцца пасля 1 гадзіны бяздзейнасці.</item>
+        <item>Гэта функцыя адсочвае вашыя рухi і адпраўляе напамінкi ў залежнасці ад вынікаў.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Нядзеля</item>
+        <item>Панядзелак</item>
+        <item>Аўторак</item>
+        <item>Серада</item>
+        <item>Чацвер</item>
+        <item>Пятніца</item>
+        <item>Субота</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Аў</item>
+        <item>Ср</item>
+        <item>Ча</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Аў</item>
+        <item>Ср</item>
+        <item>Ча</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" г"</item>
+        <item>" кг"</item>
+        <item>" т"</item>
+        <item>" лян"</item>
+        <item>" цзінь"</item>
+        <item>" фунт"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Не пазначаны</item>
+        <item>Так</item>
+        <item>Не</item>
+    </string-array>
+</resources>

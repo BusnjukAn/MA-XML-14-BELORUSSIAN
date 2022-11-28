@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_streaming_blocked_message">Не ўдаецца атрымаць доступ з прылады \"%1$s\". Паспрабуйце скарыстаць тэлефон.</string>
+  <string name="app_streaming_blocked_message_for_fingerprint_dialog">Гэтай праграме патрабуецца дадатковая бяспека. Паспрабуйце скарыстаць тэлефон.</string>
+  <string name="app_streaming_blocked_message_for_permission_dialog">Не ўдаецца атрымаць доступ з прылады \"%1$s\". Паспрабуйце скарыстаць тэлефон.</string>
+  <string name="app_streaming_blocked_title">Недаступна: %1$s</string>
+  <string name="app_streaming_blocked_title_for_camera_dialog">Камера недаступная</string>
+  <string name="app_streaming_blocked_title_for_fingerprint_dialog">Працягніце на тэлефоне</string>
+  <string name="app_streaming_blocked_title_for_microphone_dialog">Мікрафон недаступны</string>
+  <string name="app_streaming_blocked_title_for_permission_dialog">Патрабуецца дазвол</string>
+  <string name="app_streaming_blocked_title_for_settings_dialog">Налады тэлефона недаступныя</string>
+  <string name="autofill_picker_some_suggestions">{count,plural, =1{Адна прапанова аўтазапаўнення}one{# прапанова аўтазапаўнення}few{# прапановы аўтазапаўнення}many{# прапаноў аўтазапаўнення}other{# прапановы аўтазапаўнення}}</string>
+  <string name="bugreport_countdown">{count,plural, =1{Здымак экрана для справаздачы пра памылкі будзе зроблены праз # секунду.}one{Здымак экрана для справаздачы пра памылкі будзе зроблены праз # секунду.}few{Здымак экрана для справаздачы пра памылкі будзе зроблены праз # секунды.}many{Здымак экрана для справаздачы пра памылкі будзе зроблены праз # секунд.}other{Здымак экрана для справаздачы пра памылкі будзе зроблены праз # секунды.}}</string>
+  <string name="device_policy_manager_service">Сэрвіс кіравання палітыкай карыстання прыладай</string>
+  <string name="duration_days_relative">{count,plural, =1{# дзень таму}one{# дзень таму}few{# дні таму}many{# дзён таму}other{# дня таму}}</string>
+  <string name="duration_days_relative_future">{count,plural, =1{# дзень}one{# дзень}few{# дні}many{# дзён}other{# дня}}</string>
+  <string name="duration_days_shortest">%d сут.</string>
+  <string name="duration_days_shortest_future">праз %d сут</string>
+  <string name="duration_hours_relative">{count,plural, =1{# гадзіну таму}one{# гадзіну таму}few{# гадзіны таму}many{# гадзін таму}other{# гадзіны таму}}</string>
+  <string name="duration_hours_relative_future">{count,plural, =1{# гадзіна}one{# гадзіна}few{# гадзіны}many{# гадзін}other{# гадзіны}}</string>
+  <string name="duration_hours_shortest">%d гадз.</string>
+  <string name="duration_hours_shortest_future">праз %d гадз</string>
+  <string name="duration_minutes_relative">{count,plural, =1{# хвіліну таму}one{# хвіліну таму}few{# хвіліны таму}many{# хвілін таму}other{# хвіліны таму}}</string>
+  <string name="duration_minutes_relative_future">{count,plural, =1{# хвіліна}one{# хвіліна}few{# хвіліны}many{# хвілін}other{# хвіліны}}</string>
+  <string name="duration_minutes_shortest">%d хв.</string>
+  <string name="duration_minutes_shortest_future">праз %d хв</string>
+  <string name="duration_years_relative">{count,plural, =1{# год таму}one{# год таму}few{# гады таму}many{# гадоў таму}other{# года таму}}</string>
+  <string name="duration_years_relative_future">{count,plural, =1{# год}one{# год}few{# гады}many{# гадоў}other{# года}}</string>
+  <string name="duration_years_shortest">%d г.</string>
+  <string name="duration_years_shortest_future">праз %d г.</string>
+  <string name="face_error_vendor_unknown">Нешта пайшло не так. Паўтарыце спробу.</string>
+  <string name="face_sensor_privacy_enabled">Каб выкарыстоўваць распазнаванне твару, уключыце <b>доступ да камеры</b> праз раздзел \"Налады\" > \"Прыватнасць\"</string>
+  <string name="file_count">{count,plural, =1{{file_name} + # файл}one{{file_name} + # файл}few{{file_name} + # файлы}many{{file_name} + # файлаў}other{{file_name} + # файла}}</string>
+  <string name="fingerprint_acquired_imager_dirty_alt">Ачысціце сканер і паўтарыце спробу</string>
+  <string name="fingerprint_error_not_match">Адбітак пальца не распазнаны</string>
+  <string name="fingerprint_error_vendor_unknown">Нешта пайшло не так. Паўтарыце спробу.</string>
+  <string name="fingerprint_udfps_error_not_match">Адбітак пальца не распазнаны</string>
+  <string name="fp_power_button_bp_message">Вы націснулі кнопку сілкавання. Звычайна ў выніку гэтага дзеяння выключаецца экран.\n\nКаб спраўдзіць адбітак пальца, злёгку дакраніцеся да кнопкі.</string>
+  <string name="fp_power_button_bp_negative_button">Працягнуць</string>
+  <string name="fp_power_button_bp_positive_button">Выключыць экран</string>
+  <string name="fp_power_button_bp_title">Працягнуць спраўджанне адбітка пальца?</string>
+  <string name="fp_power_button_enrollment_message">Вы націснулі кнопку сілкавання. Звычайна ў выніку гэтага дзеяння выключаецца экран.\n\nПадчас наладжвання адбітка пальца злёгку дакраніцеся да кнопкі.</string>
+  <string name="fp_power_button_enrollment_negative_button">Працягнуць наладку</string>
+  <string name="fp_power_button_enrollment_positive_button">Выключыць экран</string>
+  <string name="fp_power_button_enrollment_title">Працягнуць наладжванне?</string>
+  <string name="guest_name">Госць</string>
+  <string name="in_progress">выконваецца</string>
+  <string name="input_method_ime_switch_button_desc">Пераключэнне рэжыму ўводу</string>
+  <string name="input_method_nav_back_button_desc">Назад</string>
+  <string name="last_num_days">{count,plural, =1{Апошні # дзень}one{Апошні # дзень}few{Апошнія # дні}many{Апошнія # дзён}other{Апошнія # дня}}</string>
+  <string name="log_access_confirmation_allow">Дазволіць аднаразовы доступ</string>
+  <string name="log_access_confirmation_body">Журналы прылад запісваюць усё, што адбываецца на вашай прыладзе. Праграмы выкарыстоўваюць гэтыя журналы для пошуку і выпраўлення памылак.\n\nУ некаторых журналах можа ўтрымлівацца канфідэнцыяльная інфармацыя, таму давайце доступ да ўсіх журналаў прылады толькі тым праграмам, якім вы давяраеце. \n\nКалі вы не дасце гэтай праграме доступу да ўсіх журналаў прылад, у яе ўсё роўна застанецца доступ да ўласных журналаў. Для вытворцы вашай прылады будуць даступнымі некаторыя журналы і інфармацыя на вашай прыладзе. Даведацца больш</string>
+  <string name="log_access_confirmation_deny">Не дазваляць</string>
+  <string name="log_access_confirmation_title">Дазволіць праграме \"%s\" мець доступ да ўсіх журналаў прылады?</string>
+  <string name="log_access_do_not_show_again">Больш не паказваць</string>
+  <string name="matches_found">{count,plural, =1{# супадзенне}one{# з {total}}few{# з {total}}many{# з {total}}other{# з {total}}}</string>
+  <string name="mte_override_notification_message">Можа паўплываць на прадукцыйнасць і стабільнасць. Перазагрузіце, каб адключыць. Калі для ўключэння выкарыстоўваўся параметр \"arm64.memtag.bootctl\", спачатку задайце для яго значэнне \"none\".</string>
+  <string name="mte_override_notification_title">Эксперыментальнае пашырэнне тэгаў памяці (MTE) уключана</string>
+  <string name="notification_action_check_bg_apps">Праверце актыўныя праграмы</string>
+  <string name="notification_channel_abusive_bg_apps">Фонавая дзейнасць</string>
+  <string name="notification_content_abusive_bg_apps">Праграма \"%1$s\" працуе ў фонавым рэжыме. Націсніце, каб кіраваць выкарыстаннем зараду.</string>
+  <string name="notification_content_long_running_fgs">%1$s можа скараціць час працы прылады ад акумулятара. Націсніце, каб праглядзець актыўныя праграмы.</string>
+  <string name="notification_title_abusive_bg_apps">Праграма разраджае акумулятар</string>
+  <string name="notification_title_long_running_fgs">Праграма па-ранейшаму актыўная</string>
+  <string name="permdesc_bodySensors_background">Праграма ў час яе працы ў фонавым рэжыме будзе мець доступ да дадзеных датчыкаў цела, такіх як пульс, тэмпература і працэнт утрымання ў крыві кіслароду.</string>
+  <string name="permdesc_nearby_wifi_devices">Праграма зможа адпраўляць дадзеныя на прылады Wi-Fi паблізу, падключацца да іх і вызначаць іх месцазнаходжанне</string>
+  <string name="permdesc_postNotification">Дазваляе праграме паказваць апавяшчэнні</string>
+  <string name="permdesc_readBasicPhoneState">Дазваляе праграме мець доступ да асноўных функцый тэлефаніі на прыладзе.</string>
+  <string name="permdesc_readMediaAudio">Праграма зможа счытваць аўдыяфайлы з абагуленага сховішча.</string>
+  <string name="permdesc_readMediaImages">Праграма зможа счытваць файлы відарысаў з абагуленага сховішча.</string>
+  <string name="permdesc_readMediaVideo">Праграма зможа счытваць відэафайлы з абагуленага сховішча.</string>
+  <string name="permdesc_startReviewPermissionDecisions">Дазваляе ўладальніку запускаць экран, на якім можна праглядаць рашэнні наконт дазволаў. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_startViewAppFeatures">Дазваляе трымальніку запусціць прагляд інфармацыі пра функцыі для праграмы.</string>
+  <string name="permgroupdesc_notifications">Паказваць апавяшчэнні</string>
+  <string name="permgroupdesc_readMediaAural">Доступ да музыкі і аўдыя на вашай прыладзе</string>
+  <string name="permgroupdesc_readMediaVisual">Доступ да фота і відэа на вашай прыладзе</string>
+  <string name="permgrouplab_notifications">Апавяшчэнні</string>
+  <string name="permgrouplab_readMediaAural">Музыка і аўдыя</string>
+  <string name="permgrouplab_readMediaVisual">Фота і відэа</string>
+  <string name="permlab_bodySensors_background">Доступ да дадзеных датчыкаў цела, такіх як пульс, у фонавым рэжыме</string>
+  <string name="permlab_nearby_wifi_devices">Узаемадзейнічаць з прыладамі з Wi‑Fi паблізу</string>
+  <string name="permlab_postNotification">Паказваць апавяшчэнні</string>
+  <string name="permlab_readBasicPhoneState">Счытваць дадзеныя пра асноўны стан тэлефаніі і ідэнтыфікацыю</string>
+  <string name="permlab_readMediaAudio">Счытваць аўдыяфайлы з абагуленага сховішча</string>
+  <string name="permlab_readMediaImages">Счытваць файлы відарысаў з абагуленага сховішча</string>
+  <string name="permlab_readMediaVideo">Счытваць відэафайлы з абагуленага сховішча</string>
+  <string name="permlab_startReviewPermissionDecisions">Запускаць прагляд рашэнняў наконт дазволаў</string>
+  <string name="permlab_startViewAppFeatures">Запусціць прагляд функцый праграмы</string>
+  <string name="review_notification_settings_dismiss">Закрыць</string>
+  <string name="review_notification_settings_remind_me_action">Нагадаць пазней</string>
+  <string name="review_notification_settings_text">Пачынаючы з версіі Android 13 усталяваным вамі праграмам неабходна даваць дазвол на адпраўку апавяшчэнняў. Націсніце, каб змяніць дазвол для існуючых праграм.</string>
+  <string name="review_notification_settings_title">Праверце налады апавяшчэнняў</string>
+  <string name="ssl_ca_cert_warning">{count,plural, =1{Усталяваны цэнтр сертыфікацыі}one{Усталяваны цэнтры сертыфікацыі}few{Усталяваны цэнтры сертыфікацыі}many{Усталяваны цэнтры сертыфікацыі}other{Усталяваны цэнтры сертыфікацыі}}</string>
+  <string name="supervised_user_creation_label">Дадаць падкантрольнага карыстальніка</string>
+  <string name="system_locale_title">Стандартная сістэмная налада</string>
+  <string name="vdm_camera_access_denied">Не ўдалося атрымаць доступ да камеры тэлефона з прылады \"%1$s\"</string>
+  <string name="zen_mode_duration_hours">{count,plural, =1{На працягу 1 гадзіны}one{На працягу # гадзіны}few{На працягу # гадзін}many{На працягу # гадзін}other{На працягу # гадзіны}}</string>
+  <string name="zen_mode_duration_hours_short">{count,plural, =1{На працягу 1 гадз}one{На працягу # гадз}few{На працягу # гадз}many{На працягу # гадз}other{На працягу # гадз}}</string>
+  <string name="zen_mode_duration_hours_summary">{count,plural, =1{На працягу 1 гадзіны (да {formattedTime})}one{На працягу # гадзіны (да {formattedTime})}few{На працягу # гадзін (да {formattedTime})}many{На працягу # гадзін (да {formattedTime})}other{На працягу # гадзіны (да {formattedTime})}}</string>
+  <string name="zen_mode_duration_hours_summary_short">{count,plural, =1{На працягу 1 гадз (да {formattedTime})}one{На працягу # гадз (да {formattedTime})}few{На працягу # гадз (да {formattedTime})}many{На працягу # гадз (да {formattedTime})}other{На працягу # гадз (да {formattedTime})}}</string>
+  <string name="zen_mode_duration_minutes">{count,plural, =1{На працягу адной хвіліны}one{На працягу # хвіліны}few{На працягу # хвілін}many{На працягу # хвілін}other{На працягу # хвіліны}}</string>
+  <string name="zen_mode_duration_minutes_short">{count,plural, =1{На працягу 1 хв}one{На працягу # хв}few{На працягу # хв}many{На працягу # хв}other{На працягу # хв}}</string>
+  <string name="zen_mode_duration_minutes_summary">{count,plural, =1{На працягу адной хвіліны (да {formattedTime})}one{На працягу # хвіліны (да {formattedTime})}few{На працягу # хвілін (да {formattedTime})}many{На працягу # хвілін (да {formattedTime})}other{На працягу # хвіліны (да {formattedTime})}}</string>
+  <string name="zen_mode_duration_minutes_summary_short">{count,plural, =1{На працягу 1 хв (да {formattedTime})}one{На працягу # хв (да {formattedTime})}few{На працягу # хв (да {formattedTime})}many{На працягу # хв (да {formattedTime})}other{На працягу # хв (да {formattedTime})}}</string>
+</resources>

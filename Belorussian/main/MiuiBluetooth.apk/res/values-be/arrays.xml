@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ble_profile_mi_band">
+    <item>Вібраваць пры выкліку</item>
+    <item>Вібраваць пры атрыманні SMS</item>
+    <item>Вібраваць пры будзільніку</item>
+  </string-array>
+  <string-array name="ble_profile_mi_key">
+    <item>Зняць фота</item>
+    <item>Пошук прылады</item>
+    <item>Пошук MiKey</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Выбар сістэмы (па змаўчанні)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Актыўна"</item>
+        <item>" | Актыўна (медыя)"</item>
+        <item>" | Актыўна (выклікi)"</item>
+    </string-array>
+</resources>

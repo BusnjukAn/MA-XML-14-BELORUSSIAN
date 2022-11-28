@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="antispam_marked_count">
+    <item quantity="other">Паведаміла %d карыстальнікаў MIUI</item>
+    <item quantity="one">Паведаміл %d карыстальнік MIUI</item>
+    <item quantity="few">Паведаміла %d карыстальніка MIUI</item>
+    <item quantity="many">Паведаміла %d карыстальнікаў MIUI</item>
+  </plurals>
+  <plurals name="call_recording_notification_complete">
+    <item quantity="other">Запісаны %d выклікаў.</item>
+    <item quantity="one">Запісаны %d выклік.</item>
+    <item quantity="few">Запісаны %d выкліка.</item>
+    <item quantity="many">Запісаны %d выклікаў.</item>
+  </plurals>
+  <plurals name="call_title_redialing_with_times">
+    <item quantity="other">Паўторных выклікаў: %d</item>
+    <item quantity="one">Паўторных выклікаў: %d</item>
+    <item quantity="few">Паўторных выклікаў: %d</item>
+    <item quantity="many">Паўторных выклікаў: %d</item>
+  </plurals>
+  <plurals name="conference_call_number">
+    <item quantity="other">%s чалавек</item>
+    <item quantity="one">%s чалавек</item>
+    <item quantity="few">%s чалавека</item>
+    <item quantity="many">%s чалавек</item>
+  </plurals>
+  <plurals name="duration_hours">
+    <item quantity="other">%d г.</item>
+    <item quantity="one">%d г.</item>
+    <item quantity="few">%d г.</item>
+    <item quantity="many">%d г.</item>
+  </plurals>
+  <plurals name="duration_minutes">
+    <item quantity="other">%d хв.</item>
+    <item quantity="one">%d хв.</item>
+    <item quantity="few">%d хв.</item>
+    <item quantity="many">%d хв.</item>
+  </plurals>
+  <plurals name="duration_seconds">
+    <item quantity="other">%d сек.</item>
+    <item quantity="one">%d сек.</item>
+    <item quantity="few">%d сек.</item>
+    <item quantity="many">%d сек.</item>
+  </plurals>
+  <plurals name="livetalk_left_minute">
+    <item quantity="other">Засталося %d хвілін</item>
+    <item quantity="one">Засталась %d хвіліна</item>
+    <item quantity="few">Засталося %d хвіліны</item>
+    <item quantity="many">Засталося %d хвілін</item>
+  </plurals>
+  <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Адбой праз %1$s сек…</item>
+        <item quantity="one">Адбой праз %1$s сек…</item>
+    </plurals>
+	<plurals name="a_hour_ago">
+    <item quantity="other">Гадзіну таму</item>
+    <item quantity="one">Гадзіну таму</item>
+    <item quantity="few">Гадзіну таму</item>
+    <item quantity="many">Гадзіну таму</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Гадзіну таму</item>
+    <item quantity="one">Гадзіну таму</item>
+    <item quantity="few">Гадзіну таму</item>
+    <item quantity="many">Гадзіну таму</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Паўгадзіны таму</item>
+    <item quantity="one">Паўгадзіны таму</item>
+    <item quantity="few">Паўгадзіны таму</item>
+    <item quantity="many">Паўгадзіны таму</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Праз гадзіну</item>
+    <item quantity="one">Праз гадзіну</item>
+    <item quantity="few">Праз гадзіну</item>
+    <item quantity="many">Праз гадзіну</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Праз паўгадзіны</item>
+    <item quantity="one">Праз паўгадзіны</item>
+    <item quantity="few">Праз паўгадзіны</item>
+    <item quantity="many">Праз паўгадзіны</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Неадкладна</item>
+    <item quantity="one">Неадкладна</item>
+    <item quantity="few">Неадкладна</item>
+    <item quantity="many">Неадкладна</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">праз %d хв.</item>
+    <item quantity="one">праз 1 хв.</item>
+    <item quantity="few">праз %d хв.</item>
+    <item quantity="many">праз %d хв.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Толькі што</item>
+    <item quantity="one">Толькі што</item>
+    <item quantity="few">Толькі што</item>
+    <item quantity="many">Толькі што</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d хв. таму</item>
+    <item quantity="one">1 хв. таму</item>
+    <item quantity="few">%d хв. таму</item>
+    <item quantity="many">%d хв. таму</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Паўгадзіны таму</item>
+    <item quantity="one">Паўгадзіны таму</item>
+    <item quantity="few">Паўгадзіны таму</item>
+    <item quantity="many">Паўгадзіны таму</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Праз гадзіну</item>
+    <item quantity="one">Праз гадзіну</item>
+    <item quantity="few">Праз гадзіну</item>
+    <item quantity="many">Праз гадзіну</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Праз паўгадзіны</item>
+    <item quantity="one">Праз паўгадзіны</item>
+    <item quantity="few">Праз паўгадзіны</item>
+    <item quantity="many">Праз паўгадзіны</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Неадкладна</item>
+    <item quantity="one">Неадкладна</item>
+    <item quantity="few">Неадкладна</item>
+    <item quantity="many">Неадкладна</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">праз %d хвілін</item>
+    <item quantity="one">праз 1 хвіліну</item>
+    <item quantity="few">праз %d хвіліны</item>
+    <item quantity="many">праз %d хвілін</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Толькі што</item>
+    <item quantity="one">Толькі што</item>
+    <item quantity="few">Толькі што</item>
+    <item quantity="many">Толькі што</item>
+  </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">Абрана %d элементаў</item>
+    <item quantity="one">Абраны %d элемент</item>
+    <item quantity="few">Абрана %d элемента</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d хвілін таму</item>
+    <item quantity="one">1 хвіліну таму</item>
+    <item quantity="few">%d хвіліны таму</item>
+    <item quantity="many">%d хвілін таму</item>
+  </plurals>
+  <plurals name="call_log_day_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s дзён. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s дзень таму</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s¸д. таму</item>
+        <item quantity="one">Вы тэлефанавалі на гэты нумар %1$s дзень таму</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s г. назад</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s гадзіну назад</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s ч. назад</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s гадзіну таму</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s мін. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s мін. таму</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Вы тэлефанавалі на гэты нумар %1$s мін. таму</item>
+        <item quantity="one">Вы тэлефанавалі на гэты нумар %1$s мін. таму</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$sмес. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s месяц таму</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$sмес. таму</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s месяц таму</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s гадоў назад</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s год таму</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s гадоў назад</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s год таму</item>
+    </plurals>
+</resources>

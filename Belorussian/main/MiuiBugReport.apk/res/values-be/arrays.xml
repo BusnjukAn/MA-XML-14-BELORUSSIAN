@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Дрэннае злучэнне Wi-Fi. Пераключыце дыяпазоны бесправадной сеткі або перазагрузіце маршрутызатар.</item>
+        <item>"Няма доступу да сеткі. Перападключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Дрэннае злучэнне Wi-Fi. Пераключыце дыяпазоны бесправадной сеткі або перазагрузіце маршрутызатар.</item>
+        <item>"Няма доступу да сеткі. Паўторна падключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Для доступу да сеткі патрабуецца аўтэнтыфікацыя </item>
+        <item>"Доступ да сеткі абмежаваны. Наладзьце час на гэтай прыладзе і праверце настройкі маршрутызатара."</item>
+        <item>Памылка сеткі. Праверце налады проксі-сервера HTTP.</item>
+        <item>Памылка сеткі. Праверце, ці можа маршрутызатар атрымаць доступ да Інтэрнэту.</item>
+        <item>"Немагчыма падключыцца да сеткі. Перападключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Для доступу да сеткі патрабуецца аўтэнтыфікацыя </item>
+        <item>"Доступ да сеткі абмежаваны. Наладзьце час на гэтай прыладзе і праверце настройкі маршрутызатара."</item>
+        <item>Памылка сеткі. Праверце налады проксі-сервера HTTP.</item>
+        <item>Памылка сеткі. Праверце, ці можа маршрутызатар атрымаць доступ да Інтэрнэту.</item>
+        <item>"Немагчыма падключыцца да сеткі. Паўторна падключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Памылка DNS-сервера. Праверце канфігурацыю DNS маршрутызатара."</item>
+        <item>"Сур'ёзныя затрымкі з DNS-серверам. Праверце канфігурацыю DNS маршрутызатара."</item>
+        <item>"Немагчыма атрымаць доступ да шлюза. Перападключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Памылка DNS-сервера. Праверце канфігурацыю DNS маршрутызатара."</item>
+        <item>"Сур'ёзныя затрымкі з DNS-серверам. Праверце канфігурацыю DNS маршрутызатара."</item>
+        <item>"Няма доступу да шлюза. Паўторна падключыцеся да Wi-Fi або перазагрузіце маршрутызатар."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Значныя затрымкі з-за лакальнай сеткі. Перазагрузіце роўтэр ці падключыцеся да іншай сеткі.</item>
+        <item>Значныя затрымкі з-за Інтэрнэту. Праверце настройкі сеткі аператара або падключыцеся да іншай сеткі.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Пераключэнне са статычнага IP на DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Памылка сеткавага пратакола. Паўторна падключыцеся да Wi-Fi або перазагрузіце прыладу.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Памылка сеткавага пратакола. Паўторна падключыцеся да Wi-Fi або перазагрузіце прыладу.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Перайдзіце ў зону з лепшым пакрыццём Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Перайдзіце ў зону з лепшым пакрыццём Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Праверце налады DHCP маршрутызатара і правадное злучэнне"</item>
+    </string-array>
+</resources>

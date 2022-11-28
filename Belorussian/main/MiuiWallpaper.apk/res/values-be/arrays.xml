@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="settings_search_earth">
+    <item>Зямля</item>
+    <item>Шпалеры/Супершпалеры/Зямля</item>
+    <item>Зямля;Супершпалеры;Шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_geometry">
+    <item>Геаметрыя</item>
+    <item>Шпалеры/Супершпалеры/Геаметрыя</item>
+    <item>Геаметрыя;Абстракцыя;Супершпалеры;Шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_mars">
+    <item>Марс</item>
+    <item>Шпалеры/Супершпалеры/Марс</item>
+    <item>Марс;Супер Марс;Супершпалеры;Шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_saturn">
+    <item>Кольцы Сатурна</item>
+    <item>Шпалеры/Супершпалеры/Кольцы Сатурна</item>
+    <item>Планета;Сатурн;Супершпалеры;Шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_snowmountain">
+    <item>Снежныя вяршыні</item>
+    <item>Шпалеры/Супершпалеры/Снежныя вяршыні</item>
+    <item>Зямля;Горы;Супершпалеры;Шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_superwp">
+    <item>Супершпалеры</item>
+    <item>Шпалеры/Супершпалеры</item>
+    <item>Супершпалеры;Шпалеры;Дынамічныя шпалеры;3D-шпалеры</item>
+  </string-array>
+  <string-array name="settings_search_weather">
+    <item>Надвор\'е</item>
+    <item>Шпалеры/Супершпалеры/Надвор\'е</item>
+    <item>Надвор\'е;Інфармацыя пра надвор\'е;Супершпалеры;Шпалеры</item>
+  </string-array>
+</resources>

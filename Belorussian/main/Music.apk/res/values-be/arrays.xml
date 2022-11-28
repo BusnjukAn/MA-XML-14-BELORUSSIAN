@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Рэкамендацыі на нядзелю</item>
+        <item>Рэкамендацыі на панядзелак</item>
+        <item>Рэкамендацыі на аўторак</item>
+        <item>Рэкамендацыі на сераду</item>
+        <item>Рэкамендацыі на чацвер</item>
+        <item>Рэкамендацыі на пятніцу</item>
+        <item>Рэкамендацыі на суботу</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+</resources>
