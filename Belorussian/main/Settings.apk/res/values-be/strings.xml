@@ -10649,4 +10649,5 @@ ID:%s
   <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">ОК</string>
   <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Разблакаванне па твару</string>
   <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">Яркасць экрана не будзе рэгулявацца аўтаматычна</string>
+  <string name="legacy_power_menu">Старое меню сiлкавання</string>
 </resources>

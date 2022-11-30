@@ -754,4 +754,9 @@
         <item quantity="other">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дзён</item>
         <item quantity="one">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дня</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+      <item quantity="one">%1$d экран</item>
+      <item quantity="other">%1$d экранаў</item>
+      <item quantity="few">%1$d экрана</item>
+    </plurals>
 </resources>

@@ -3270,8 +3270,8 @@
   <string name="share_album_home_pref_share_home_summary">Агульныя экранныя прылады: %1$d</string>
   <string name="share_album_home_pref_unshare_home_summary">%1$d хатніх гаспадарак на выбар</string>
   <string name="share_album_home_pref_unshare_nonOwner_summary">Яшчэ не апублікаваны</string>
-  <string name="share_album_home_share_to_home">Падзяліцца сям\'ёй</string>
-  <string name="share_album_home_text_tip">Пасля выбару сям\'і альбом будзе круціцца на вашым экране і будзе бачны толькі членам сям\'і</string>
+  <string name="share_album_home_share_to_home">Падзяліцца з сям\'ёй</string>
+  <string name="share_album_home_text_tip">Гэты альбом будзе даступны вашай сямейнай групе. Ён таксама будзе прайгравацца ў выглядзе слайд-шоў на экранах, даступных для членаў вашай сямейнай групы.</string>
   <string name="share_album_invite_send_failed">Не атрымалася запрасіць, паспрабуйце пазней</string>
   <string name="share_album_invite_send_success">Запрашэнне адпраўлена</string>
   <string name="share_album_pref_album_name">Назва альбома</string>
@@ -3585,5 +3585,14 @@
   <string name="stop_use_secret_ok">Перанос элементаў</string>
   <string name="stop_use_secret_title">Асабісты альбом больш недаступны</string>
   <string name="collect_diagnosis_log">Сабраць часопісы</string>
-  <string name="please_agree_protocal">Калі ласка, пагадзіцеся з пратаколам</string> 
+  <string name="please_agree_protocal">Калі ласка, пагадзіцеся з пратаколам</string>
+  <string name="equivalent_focal_length">(Эквівалентная фокусная адлегласць %d мм.)</string>
+  <string name="error_check_network_later">Праверце настройкі сеткі і паспрабуйце яшчэ раз</string>
+  <string name="error_create_share_album_fail_default">Не атрымалася стварыць з-за невядомай памылкі</string>
+  <string name="hdr_show_hint">Наладзьце адлюстраванне, каб паказаць больш дэталяў у ценях і на святле на аб\'ектах з высокім дынамічным дыяпазонам</string>
+  <string name="hdr_show_title">Паказаць HDR</string>
+  <string name="privacy_share_album_confirm">Палажэння і ўмовы</string>
+  <string name="privacy_share_album_confirm_detail">Агульныя альбомы працуюць на базе Воблака Xiaomi. Перш чым выкарыстаць гэту функцыю, прачытайце і пагадзіцеся з нашым  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Карыстальніцкiм пагадненнем>&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font>.</string>
+  <string name="share_album_home_switch_family">Пераключыць</string>
+  <string name="sort_and_showmode">Сартаванне і прагляд</string>
 </resources>

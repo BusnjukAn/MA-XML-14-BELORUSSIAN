@@ -1371,7 +1371,7 @@
   <string name="menu_item_notification_power_text">Аптымізацыя батарэі</string>
   <string name="menu_item_notification_title">Адлюстроўваць выкарыстанне ў панэлі апавяшчэнняў</string>
   <string name="menu_item_shortcut_summary">Дадаванне цэтлікаў на галоўны экран для хуткага доступу да функцый аптымізацыі</string>
-  <string name="menu_item_shortcut_title">Цэтлікі</string>
+  <string name="menu_item_shortcut_title">Цэтлiк агульных функцый</string>
   <string name="menu_item_uninstall">Выдаліць</string>
   <string name="menu_item_virus_cloud_scan_summary">Запампоўваць назвы і дадзеныя праграм на сервер і правяраць на наяўнасць вірусаў</string>
   <string name="menu_item_virus_cloud_scan_title">Анлайн-база азначэнняў вірусаў</string>
@@ -6235,7 +6235,7 @@
   <string name="gb_beauty_light">Запаўняльнае святло</string>
   <string name="gb_beauty_nature_light">Натуральны</string>
   <string name="gb_beauty_warm_light">Цёплы</string>
-  <string name="manual_item_create_icon_title">Цэтлiк на працоўным стале</string>
+  <string name="manual_item_create_icon_title">Цэтлiк \"Бяспека\"</string>
   <string name="power_center_battery_duration_screen_on">Засталося экраннага часу</string>
   <string name="power_center_dialog_msg_title_screen_on">Вы атрымаеце %1$s экраннага часу, калі ўключыце гэтую функцыю. Вось парады па эканоміі зарада батарэі:</string>
   <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
@@ -6325,8 +6325,8 @@
   <string name="beauty_portrait_center_desc">Аўтаматычнае вызначэнне і цэнтраванне твараў падчас вiдэавыклiкаў і канферэнцый. Гэтая функцыя не падтрымліваецца некаторымі праграмамі.</string>
   <string name="dialog_msg_delete_icon_content_pad">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
   <string name="dialog_msg_delete_icon_content_phone">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
-  <string name="dialog_msg_delete_icon_title_pad">Выдаліць гэты цэтлік на працоўным стале?</string>
-  <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік на працоўным стале?</string>
+  <string name="dialog_msg_delete_icon_title_pad">Выдаліць цэтлiк \"Бяспека\" з працоўнага стала?</string>
+  <string name="dialog_msg_delete_icon_title_phone">Выдаліць цэтлiк \"Бяспека\" з працоўнага стала?</string>
   <string name="pc_xiaoai_create_auto_task">Новая задача ад Mi ШІ</string>
   <string name="eletric_no_grant_dialog_message_for_phone">Надайце неабходныя дазволы, каб мець магчымасць ідэнтыфікаваць невядомыя нумары.</string>
   <string name="eletric_no_grant_dialog_negative_button">Адмена</string>
@@ -6379,11 +6379,31 @@
   <string name="terminal_privacy_ability_summary">*Функцыі і механізмы абароны канфідэнцыйнасці на прыладзе могуць адрознівацца ў залежнасці ад мадэлі прылады</string>
   <string name="terminal_privacy_ability_txt">Тэкст</string>
   <string name="terminal_privacy_ability_txt_summary">Рэдагаванне тэксту, разумныя субтытры, Taplus, паведамленні і агульны буфер абмену</string>
-  <string name="terminal_privacy_ability_voice">Разнаванне гаворкі</string>
+  <string name="terminal_privacy_ability_voice">Разпазнаванне гаворкі</string>
   <string name="terminal_privacy_ability_voice_summary">Галасавыя каманды Mi ШІ і разумныя субтытры</string>
   <string name="terminal_privacy_instruction">Абарона канфідэнцыйнасці на прыладзе ўключае функцыі, якія гарантуюць, што ваша асабістая інфармацыя будзе захоўвацца на гэтай прыладзе, а не загружацца ў воблака</string>
   <string name="terminal_privacy_summary">Апрацоўваць асабістую інфармацыю на гэтай прыладзе</string>
-  <string name="gamebox_game_center_app_not_find">Спачатку ўсталюеце гульні</string>
+  <string name="gamebox_game_center_app_not_find">Спачатку ўсталюйце гульні</string>
   <string name="gb_barrage_dnd_conflict_toast">Каб выкарыстоўваць каментары на экране, спачатку адключыце функцыю \"Не турбаваць\"</string>
   <string name="gb_dnd_barrage_conflict_toast">Вы не зможаце выкарыстоўваць каментары на экране, калі ўключаны рэжым \"Не турбаваць\"</string>
+  <string name="blacklist_prefix_add_hint_only_sms">Блакіраваць паведамленні з нумароў з пэўнымі прэфіксамі</string>
+  <string name="exit_dialog_homepage_optimise_message_pad">Паказчык прадукцыйнасці вашай прылады ніжэй за %d балаў. Аптымізаваць зараз?</string>
+  <string name="memory_clean_no_need_clean_pad" formatted="false">Вызвалена %s.\nЗараз ваша прылада працуе на %s хутчэй.</string>
+  <string name="st_summary_blacklist_numbers_international_only_sms">Блакаваць паведамленні з пэўных нумароў і прэфіксаў</string>
+  <string name="st_summary_blacklist_numbers_only_sms">Блакіраваць паведамленні з пэўных нумароў, прэфіксаў і рэгіёнаў</string>
+  <string name="st_summary_whitelist_numbers_international_only_sms">Дазволіць паведамленні з пэўных нумароў і прэфіксаў</string>
+  <string name="st_summary_whitelist_numbers_only_sms">Дазволіць паведамленні з пэўных нумароў, прэфіксаў і рэгіёнаў</string>
+  <string name="whitelist_prefix_add_hint_only_sms">Дазволіць паведамленні з нумароў з пэўнымі прэфіксамі</string>
+  <string name="pc_emergency_call">Экстранная сітуацыя</string>
+  <string name="pc_high_temp_protection_noti_bt_text">Зразумела</string>
+  <string name="pc_high_temp_protection_noti_summary">Цяпер нельга выкарыстоўваць пункты доступу, мабільныя дадзеныя і службы вызначэння месцазнаходжання</string>
+  <string name="pc_high_temp_protection_noti_tile">Ваша прылада перагрэлася</string>
+  <string name="pc_temperature_too_high">Прылада перагрэлася</string>
+  <string name="pc_wait_device_cools_down">Пачакайце, пакуль ваша прылада астыне, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="permission_instruction_shake">Гэты дазвол дазваляе праграмам адсочваць арыентацыю і рух вашай прылады (напрыклад, трасяніну, нахіл і кручэнне)</string>
+  <string name="power_settings_firmware_update_title">Абнаўленні прашыўкі</string>
+  <string name="storage_system_other_tip_new">Уключае прастору для захоўвання, неабходную для працы сістэмы і абнаўленняў. Памер гэтай часткі будзе мяняцца ў залежнасці ад стану сістэмы.</string>
+  <string name="vb_video_effects_immersion_sound">Імерсіўны гук</string>
+  <string name="vb_video_effects_immersion_sound_summary">Адчуйце эфект прасторы пры прайграванні падтрымліваемага гуку праз навушнiкі</string>
+  <string name="vb_video_effects_spatial_summary_new">Адчуйце палепшанае адчуванне прасторы і напрамка для падтрымліваемых аўдыё і відэа, і наладзьце імерсіўны гук у залежнасці ад руху галавы</string>
 </resources>
