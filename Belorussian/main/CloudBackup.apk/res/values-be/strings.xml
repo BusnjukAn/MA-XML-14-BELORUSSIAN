@@ -175,7 +175,7 @@
   <string name="dialog_cancel_backup_msg">Адключэнне рэзервавання перапыніць бягучыя працэсы капіявання.</string>
   <string name="dialog_cancel_backup_title">Скасаваць капіяванне?</string>
   <string name="dialog_cloud_space_not_enough">Для гэтай рэзервовай копіі патрабуецца %1$s вольнага месца ў воблачным сховішча. Павялічце тарыфны план сховішча для рэзервовага капіявання элементаў.</string>
-  <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Мі Cloud. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
+  <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Воблаке Xiaomi. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
   <string name="dialog_msg_restore_require_wlan">Каб аднавіць з рэзервовай копіі, патрабуецца злучэнне з Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">Для аднаўлення файлаў патрабуецца Wi-Fi.</string>
   <string name="dialog_need_permission">Патрабуюцца дазволы</string>
@@ -580,4 +580,7 @@
   <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Вы можаце зрабіць рэзервовыя копіі працоўнага стала, праграм, сістэмных налад. &lt;font color=#0D84FF>&lt;a href=>Падрабязней&lt;/a>&lt;/font>."</string>
   <string name="cta_dialog_all_purpose">Сардэчна запрашаем у воблачнае рэзервовае капіяванне! Вы можаце выкарыстоўваць гэту праграму для рэзервовага капіявання макета працоўнага стала, праграм, сістэмных налад і даных WeChat ў воблака. Упэўніцеся, што вы карыстаецеся апошняй версіяй, каб выкарыстоўваць усе нашы магчымасці.</string>
   <string name="cta_dialog_permission_description_storage">Для рэзервовага капіявання і аднаўлення элементаў</string>
+  <string name="cloud_backup_get_installed_apps_summary">Для рэзервовага капіявання і аднаўленні праграм працоўнага стала</string>
+  <string name="cloud_backup_get_installed_apps_title">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
+  <string name="cta_dialog_permission_description_get_installed_apps">Для рэзервовага капіявання і аднаўлення праграм</string>
 </resources>

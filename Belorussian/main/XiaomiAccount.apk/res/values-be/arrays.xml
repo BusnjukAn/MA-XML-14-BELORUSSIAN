@@ -74,4 +74,14 @@
         <item>Карыстальніцкае пагадненне</item>
         <item>Xiaomi акаўнт;Акаўнт;Карыстальніцкае пагадненне,ЛПКК</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Сямейнае сховішча</item>
+        <item>Прагляд/уключэнне Сямейнага сховішча</item>
+        <item>Сямейнае сховішча;Сумеснае выкарыстанне сховішча</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Сямейныя службы</item>
+        <item>Прагляд/уключэньне сямейных службаў</item>
+        <item>"Сям'я; Сямейныя службы;Сумеснае выкарыстанне сям'ёй"</item>
+    </string-array>
 </resources>
