@@ -3595,4 +3595,8 @@
   <string name="privacy_share_album_confirm_detail">Агульныя альбомы працуюць на базе Воблака Xiaomi. Перш чым выкарыстаць гэту функцыю, прачытайце і пагадзіцеся з нашым  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Карыстальніцкiм пагадненнем>&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font>.</string>
   <string name="share_album_home_switch_family">Пераключыць</string>
   <string name="sort_and_showmode">Сартаванне і прагляд</string>
+  <string name="annual_speci_year_title">Азіраючыся на %d</string>
+  <string name="secret_album_password_first_use_with_sms_msg">Будзе выкарыстоўвацца пароль для абароны прыватнасці. Ён працуе з паведамленнямі, фатаграфіямі, нататкамі і ўтоенымі тэчкамі.</string>
+  <string name="secret_album_password_update_with_sms_dialog_msg">Пароль абароны прыватнасці працуе для паведамленняў, фатаграфій, нататак і схаваных тэчак.</string>
+  <string name="secret_album_set_pc_password_with_sms_dialog_msg">Будзе выкарыстоўвацца пароль для абароны прыватнасці. Ён працуе з паведамленнямі, фатаграфіямі, нататкамі і ўтоенымі тэчкамі.</string>
 </resources>

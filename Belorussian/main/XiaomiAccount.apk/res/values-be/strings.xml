@@ -963,7 +963,7 @@ ID:%s
   <string name="xiaomi_market_sdk_update_dialog_title">Даступнае абнаўленне</string>
   <string name="cloud_service_cloud_open">Уключыць</string>
   <string name="cloud_service_space_full">Сховішча запоўнена</string>
-  <string name="cloud_service_space_not_enough">Недастаткова месца для захоўвання</string>
+  <string name="cloud_service_space_not_enough">Недастаткова месца</string>
   <string name="cloud_service_space_used">Занята</string>
   <string name="cloud_service_state_error">Не атрымалася загрузіць</string>
   <string name="dind_device_service_not_open">Выкл.</string>
@@ -976,6 +976,6 @@ ID:%s
   <string name="qrcode_login_entry_text"><Data>Увайшлі ў сістэму на іншай прыладзе? Скарыстайцеся &lt;a href=>хуткім уваходам&lt;/a></Data></string>
   <string name="qrcode_login_load_refresh"><Data>Тэрмін дзеяння QR-кода скончыўся. Націсніце, каб &lt;a href=>абнавіць&lt;/a>.</Data></string>
   <string name="qrcode_login_load_retry"><Data>Не атрымалася загрузіць. &lt;a href=>Паспрабуйце зноў&lt;/a>.</Data></string>
-  <string name="qrcode_login_message">Каб увайсці, адскануйце з дапамогай праграмы «Сканер» на тэлефоне або планшэце Xiaomi, Xiaomi Home або іншай праграмы Xiaomi</string>
+  <string name="qrcode_login_message">Адскануйце код пры дапамозе праграмы Сканар, Mi Home або іншай праграмы Xiaomi на вашым тэлефоне ці планшэце Xiaomi</string>
   <string name="qrcode_login_title">Адскануйце, каб увайсці</string>
 </resources>
