@@ -1705,6 +1705,8 @@
   <string name="ucrop_scale">Маштаб</string>
   <string name="tips_click_here_to_continue">Націсніце, каб аднавіць прайграванне</string>
   <string name="passport_dialog_captcha_title">Код</string>
-  <string name="auto_play_switch">Аўтопрайграванне відэа</string>
-  <string name="auto_play_toast">Аўтопрайграванне ўключана. Вы можаце адключыць яго ў Наладах.</string>
+  <string name="auto_play_switch">Аўтапрайграванне відэа</string>
+  <string name="auto_play_toast">Аўтапрайграванне ўключана. Вы можаце адключыць яго ў Наладах.</string>
+  <string name="go_agree">OК</string>
+  <string name="youtube_share_guide_tip">Цяпер вы можаце дзяліцца відэа з сябрамі</string>
 </resources>

@@ -440,4 +440,16 @@
   <string name="label">Пазнака</string>
   <string name="settings_view_btn_check_off">Выкл.</string>
   <string name="settings_view_btn_check_on">Укл.</string>
+  <string name="bottomsheet_action_collapse">Згарнуць ніжні ліст</string>
+  <string name="bottomsheet_action_expand">Разгарнуць ніжні ліст</string>
+  <string name="bottomsheet_drag_handle_clicked">Ручное перацягванне па падвойным націсканні</string>
+  <string name="bottomsheet_drag_handle_content_description">Ручное перацягванне</string>
+  <string name="error_a11y_label">Памылка: няправільна</string>
+  <string name="mtrl_checkbox_state_description_checked">Пазначана</string>
+  <string name="mtrl_checkbox_state_description_indeterminate">Часткова пазначана</string>
+  <string name="mtrl_checkbox_state_description_unchecked">Не пазначана</string>
+  <string name="mtrl_picker_cancel">Скасаваць</string>
+  <string name="mtrl_picker_confirm">ОК</string>
+  <string name="mtrl_timepicker_cancel">Скасаваць</string>
+  <string name="mtrl_timepicker_confirm">ОК</string>
 </resources>
