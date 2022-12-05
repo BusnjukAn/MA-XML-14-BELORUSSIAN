@@ -1274,4 +1274,8 @@
   <string name="dialog_msg_delete_icon_content_phone">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
   <string name="dialog_msg_delete_icon_title_pad">Выдаліць гэты цэтлік з працоўнага стала?</string>
   <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік з працоўнага стала?</string>
+  <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
+  <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
 </resources>
