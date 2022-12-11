@@ -1079,7 +1079,7 @@
   <string name="work_mode_toggle_off">Выключыць працоўныя праграмы</string>
   <string name="work_mode_toggle_on">Уключыць працоўныя праграмы</string>
   <string name="all_apps_setting_jeejen_title">Палегчаны рэжым</string>
-  <string name="edit_folder">Змяніць тэчку</string>
+  <string name="edit_folder">Перайменаваць тэчку</string>
   <string name="fold_pair_install_shortcut_launcher_success">Паспяхова створаны</string>
   <string name="folder_picker_big_text">Павялічаны</string>
   <string name="folder_picker_default_text">Звычайны</string>
@@ -1100,4 +1100,5 @@
   <string name="toast_split_app_unsupported">Гэтая праграма не падтрымлівае падзел экрана</string>
   <string name="toast_split_select_app">Націсніце на праграму, каб выкарыстоўваць падзелены экран</string>
   <string name="miui_widget_toast_for_not_support_by_pa">Віджэты такога памеру не падтрымліваюцца.</string>
+  <string name="app_set_icon">Прызначыць абразок</string>
 </resources>

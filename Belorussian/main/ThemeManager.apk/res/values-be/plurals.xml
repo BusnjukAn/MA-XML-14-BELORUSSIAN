@@ -288,4 +288,17 @@
         <item quantity="one">Заплаціць %1$s Mi манету</item>
         <item quantity="few">Заплаціць %1$s Mi манеты</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+         <item quantity="other">Даступнае абнаўленне для %1$d суперабразкоў</item>
+         <item quantity="one">Даступнае абнаўленне для %1$d суперабразкоў</item>
+     </plurals>
+     <plurals name="large_icon_batch_updating_text">
+         <item quantity="other">Абнаўленне %1$d суперабразкоў</item>
+         <item quantity="one">Абнаўленне %1$d суперабразкоў</item>
+     </plurals>
+     <plurals name="resource_mibi_per_set">
+         <item quantity="other">%1$s Mi манет/набор</item>
+         <item quantity="one">%1$s Mi манета/набор</item>
+         <item quantity="few">%1$s Mi манеты/набор</item>
+     </plurals>
 </resources>

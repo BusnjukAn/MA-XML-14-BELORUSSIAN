@@ -770,4 +770,5 @@
   <string name="storage_dialog_content">Надаць дазвол на доступ да сховішча для выкарыстання функцый праграмы, звязаных з кіраваннем загрузкай</string>
   <string name="storage_dialog_go">Налады</string>
   <string name="storage_dialog_title">Доступ да сховішча прылады</string>
+  <string name="jump_rank_hint2">Паглядзець самыя папулярныя загрузкі</string>
 </resources>

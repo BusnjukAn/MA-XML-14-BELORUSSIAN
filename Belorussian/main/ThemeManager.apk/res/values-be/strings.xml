@@ -1592,4 +1592,24 @@
   <string name="component_title_widget_suit">Віджэты</string>
   <string name="paying">Купля…</string>
   <string name="search_view_description_clear">Ачысціць пошук</string>
+  <string name="has_mamual_hide_large_icons">Суперабразок паспяхова ўтоены</string>
+  <string name="hide_mamual_hide_large_icons">Не паказваць схаваныя суперабразкi</string>
+  <string name="large_icon_apply_fail_for_in_dock">Немагчыма выкарыстоўваць суперабразкi ў панэлі праграм</string>
+  <string name="large_icon_apply_fail_for_in_folder">Немагчыма выкарыстоўваць суперабразкi для праграм у тэчках</string>
+  <string name="large_icon_apply_fail_for_in_oldmode">Суперабразкi не падтрымліваюцца ў спрошчаным рэжыме</string>
+  <string name="large_icon_apply_fail_for_not_in_launcher">Немагчыма выкарыстоўваць суперабразкi для праграм, якіх няма на працоўным стале</string>
+  <string name="large_icon_detail_title">%s Суперабразкi</string>
+  <string name="large_icon_no_more">Тут пакуль нічога няма</string>
+  <string name="large_icon_no_network">Не ўдалося падключыцца да сеткі</string>
+  <string name="large_icon_not_support">Немагчыма ўсталяваць абразкі для %s</string>
+  <string name="large_icon_official">Афіцыйныя</string>
+  <string name="large_icon_picker_haven">Даступныя абразкі</string>
+  <string name="large_icon_picker_more">Яшчэ</string>
+  <string name="large_icon_picker_size">Памер абразка</string>
+  <string name="large_icon_to_find_more">Паглядзець яшчэ</string>
+  <string name="large_icon_warning_install">Усталяваць</string>
+  <string name="large_icon_warning_not_install">Усталяваць %s</string>
+  <string name="large_icon_warning_not_install_msg">Усталюйце %s, каб мець магчымасць выкарыстоўваць суперабразок. Усталяваць?</string>
+  <string name="show_mamual_hide_large_icons">Паказваць схаваныя суперабразкi</string>
+  <string name="theme_component_title_large_icon">Суперабразкi</string>
 </resources>

@@ -1278,4 +1278,24 @@
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
   <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
+  <string name="audio">Аўдыёфайлы</string>
+  <string name="audio_compression">Аўдыёфайлы</string>
+  <string name="be_figuring">Вылічэнне…</string>
+  <string name="exit_guide_track_component_value_clean_master">Ачыстка смецця 2*2</string>
+  <string name="exit_guide_track_function_value_clean_master">Ачыстка смецця</string>
+  <string name="exit_guide_track_quite_value_activity_finish">Закрыць старонку</string>
+  <string name="exit_guide_track_quite_value_click_add">Націсніце, каб дадаць віджэт</string>
+  <string name="exit_guide_track_quite_value_click_exit">Націсніце, каб закрыць</string>
+  <string name="image">Выявы</string>
+  <string name="image_compression">Выявы</string>
+  <string name="is_compressed">Сціск…</string>
+  <string name="other_file">Іншыя элементы</string>
+  <string name="other_file_compression">Іншыя элементы</string>
+  <string name="repeated_file_compression">Сціскаць паўтаральныя файлы</string>
+  <string name="repeated_file_compression_result_subtitle"><Data>Сціснуць ≈&lt;font color=#F22424>%s&lt;/font> файлаў і працягваць праглядаць іх як звычайна</Data></string>
+  <string name="stop_compression">Спыніць</string>
+  <string name="stop_compression_tips">Спыніць сціск файлаў? Элементы, якія ўжо былі сціснутыя, будуць захаваны.</string>
+  <string name="to_compress">Сціснуць</string>
+  <string name="video">Відэа</string>
+  <string name="video_compression">Відэа</string>
 </resources>

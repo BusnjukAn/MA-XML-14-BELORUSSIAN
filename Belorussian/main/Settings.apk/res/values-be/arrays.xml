@@ -1608,8 +1608,16 @@
         <item>8 Мб</item>
     </string-array>
     <string-array name="typing_style_entries">
-        <item>Стандарт</item>
-        <item>Дотык</item>
-        <item>Прамы дотык</item>
+        <item>Стандартны</item>
+         <item>Сэнсарны</item>
+         <item>Прамы дотык</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+     <item>Выразны</item>
+     <item>Суцэльны</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+     <item>Не</item>
+     <item>Так</item>
     </string-array>
 </resources>

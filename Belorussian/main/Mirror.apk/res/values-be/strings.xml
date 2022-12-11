@@ -510,4 +510,5 @@
   <string name="call_error_notify_content">Вы можаце зноў пераключыцца на тэлефон, каб працягнуць гэты выклік</string>
   <string name="call_error_notify_title">Нестабільнае сеткавае злучэнне</string>
   <string name="toast_calling_warning">Завяршыць бягучы выклік і паўтарыць спробу</string>
+  <string name="file_transferring">Пачакайце завяршэння бягучай перадачы і паспрабуйце яшчэ раз</string>
 </resources>

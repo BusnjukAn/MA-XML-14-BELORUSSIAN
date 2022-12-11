@@ -10650,4 +10650,22 @@ ID:%s
   <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Разблакаванне па твару</string>
   <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">Яркасць экрана не будзе рэгулявацца аўтаматычна</string>
   <string name="legacy_power_menu">Старое меню сiлкавання</string>
+  <string name="keyboard_select">Налада памеру</string>
+  <string name="keyboard_select_summary">Налада памеру клавіятуры пад свой захоп</string>
+  <string name="complete_parameters_new">Падрабязная інфармацыя і характарыстыкі</string>
+  <string name="data_acceleration_summery">Выкарыстоўваць як Wi-Fi, так і мабільныя дадзеныя для павелічэння хуткасці пры дрэнным злучэнні Wi-Fi</string>
+  <string name="dds_preference_smart_dds_switch_is_on">Пераключальнік Smart DDS уключаны</string>
+  <string name="enable_snpn">Уключыць SNPN</string>
+  <string name="freeform_guide_vedio_description">Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым акне</string>
+  <string name="haptic_descripthion_for_max_level">Моцная</string>
+  <string name="haptic_descripthion_for_middle_level">Па змаўчанні</string>
+  <string name="haptic_descripthion_for_min_level">Лёгкая</string>
+  <string name="immersive_audio_sources">Імерсіўны гук</string>
+  <string name="multi_network_acceleration_summery">Падключайцеся да некалькіх сетак Wi-Fi адначасова, каб павялічыць хуткасць</string>
+  <string name="network_acceleration">Паскарэнне сеткі</string>
+  <string name="network_auto_switch">Пераключэнне паміж сеткамі</string>
+  <string name="network_auto_switch_summery">"Пераключацца на мабільныя дадзеныя, калі сігнал Wi-Fi слабы або сетка недаступная"</string>
+  <string name="solid_text">Выкарыстоўвае нізкачашчынную вібрацыю і адпаведныя візуальныя пераходы для стварэння надзейнага і магутнага жэсту</string>
+  <string name="wifi_primary">Асноўная сетка</string>
+  <string name="wifi_saved_access_point">Захаваныя сеткі</string>
 </resources>

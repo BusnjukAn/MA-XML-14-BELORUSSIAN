@@ -296,7 +296,7 @@
   <string name="allowed">Прадастаўлены</string>
   <string name="get_location">Доступ да месцазнаходжання</string>
   <string name="new_cta_v2_app_purpose">Адлюстраванне напрамкаў, каардынатаў, атмасфернага ціску і бягучай вышыні</string>
-  <string name="new_permission_camera_desc">Для каліброўкі</string>
+  <string name="new_permission_camera_desc">Для паказу папярэдняга прагляду ў рэальным часе</string>
   <string name="new_permission_location_desc">Для адлюстравання каардынатаў</string>
   <string name="not_allowed">Не прадастаўлены</string>
   <string name="open_camera">Выкарыстоўваць камеру</string>

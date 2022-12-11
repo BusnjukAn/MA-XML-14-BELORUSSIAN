@@ -635,4 +635,7 @@
   <string name="rescuepartyplus_config_reset_context">Некаторыя дадзеныя маглі быць выдаленыя. Націсніце, каб прагледзець падрабязнасці.</string>
   <string name="rescuepartyplus_config_reset_title">Аднаўленне сістэмы завершана</string>
   <string name="wallpaper_group_macaron_title">Каменьчыкі</string>
+  <string name="wallpaper_group_curves_title">Крывыя</string>
+  <string name="wallpaper_group_light_cycles_title">Неонавыя кругі</string>
+  <string name="wallpaper_group_petros_koublis_title">Мроі</string>
 </resources>
