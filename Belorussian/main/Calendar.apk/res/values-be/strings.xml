@@ -1177,7 +1177,7 @@
   <string name="calendar_privacy_policy">Палітыка прыватнасці</string>
   <string name="default_reminder_later_time">Інтэрвал па змаўчанні для «Нагадаць пазней»</string>
   <string name="edit_event_reminder_3_days_before_time">Таксама нагадаць за %d д.</string>
-  <string name="edit_event_reminder_summary_3_days_before_today">За %1$d д. да і ў %1$s у зададзены дзень</string>
+  <string name="edit_event_reminder_summary_3_days_before_today">За %2$d д. да і ў %1$s у зададзены дзень</string>
   <string name="edit_event_title_create_agenda">Дадаць падзею</string>
   <string name="edit_event_title_create_anniversary">Дадаць гадавіну</string>
   <string name="edit_event_title_create_birthday">Дадаць дзень нараджэння</string>
