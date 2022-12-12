@@ -418,4 +418,17 @@
     <item quantity="few">%d хв.</item>
     <item quantity="many">%d хв.</item>
   </plurals>
+  <plurals name="opr_activity_news_task">
+        <item quantity="other">Праглядзець %d навін</item>
+        <item quantity="one">Праглядзець %d навіну</item>
+        <item quantity="few">Праглядзець %d навіны</item>
+     </plurals>
+     <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Паглядзець %d кароткіх відэа</item>
+        <item quantity="one">Паглядзець %d кароткае відэа</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+     </plurals>
 </resources>
