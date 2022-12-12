@@ -980,4 +980,8 @@
         <item quantity="other">%d сек.</item>
         <item quantity="one">%d сек.</item>
     </plurals>
+    <plurals name="nrca_info">
+    <item quantity="other">Змены набудуць моц праз %d сек.</item>
+    <item quantity="one">Змены набудуць моц праз %d сек.</item>
+  </plurals>
 </resources>
