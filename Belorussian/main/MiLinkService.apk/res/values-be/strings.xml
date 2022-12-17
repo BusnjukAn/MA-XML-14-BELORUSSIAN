@@ -881,7 +881,6 @@
   <string name="circulate_headset_error_self_upgrade">Не ўдалося выканаць гэтае дзеянне. Спачатку абновіце Mi Smart Hub.</string>
   <string name="dc_network_err">Бягучая сетка недаступная, праверце сетку і паспрабуйце яшчэ раз.</string>
   <string name="dc_retry_upgrade">Націсніце, каб паўтарыць спробу</string>
-  <string name="dc_upgrade_first">Калі ласка, абнавіце сервіс Magic Center\nАцэніце найноўшыя функцыі</string>
   <string name="dialog_cancel">Адмена</string>
   <string name="dialog_confirm">Ок</string>
   <string name="dialog_title">Сумесны ўклад</string>
@@ -917,7 +916,5 @@
   <string name="mr_user_route_category_name">Прылады</string>
   <string name="title_activity_permission">Дазвол актыўнасцi</string>
   <string name="headset_circulate_connect_success">падлучана</string>
-  <string name="dc_network_err">Бягучая сетка недаступная, праверце сетку і паспрабуйце яшчэ раз</string>
-  <string name="dc_retry_upgrade">Націсніце, каб паўтарыць</string>
   <string name="dc_upgrade_first">Калі ласка, абновіце сэрвіс\nПаспрабуйце найноўшыя функцыі</string>
 </resources>
