@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="a_hour_ago">
+  <plurals name="additional_permissions_more">
+    <item quantity="other">Яшчэ %1$d</item>
+    <item quantity="one">Яшчэ %1$d</item>
+  </plurals>
+  <plurals name="miui_permission_detail">
+    <item quantity="other">%d дазволаў</item>
+    <item quantity="few">%d дазвола</item>
+    <item quantity="one">%d дазвол</item>
+  </plurals>
+  <plurals name="miui_app_all_permission_number">
+    <item quantity="other">%d дазволаў</item>
+    <item quantity="one">%d дазвол</item>
+	<item quantity="few">%d дазвола</item>
+  </plurals>
+  <plurals name="miui_app_privacy_permission_number">
+    <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазволаў&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйны дазвол&lt;/Data></item>
+	<item quantity="few">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазвола&lt;/Data></item>
+  </plurals>
+  <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s дазволаў</item>
+        <item quantity="one">%1$s дазвол</item>
+        <item quantity="few">%1$s дазвола</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s канфідэнцыйных дазволаў</item>
+        <item quantity="one">%1$s канфідэнцыйны дазвол</item>
+        <item quantity="few">%1$s канфідэнцыйных дазвола</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="one">%1$s водгук</item>
+        <item quantity="other">%1$s водгукаў</item>
+        <item quantity="few">%1$s водгука</item>
+    </plurals>
+	<plurals name="a_hour_ago">
     <item quantity="other">Гадзіну таму</item>
     <item quantity="one">Гадзіну таму</item>
     <item quantity="few">Гадзіну таму</item>
@@ -54,26 +88,6 @@
     <item quantity="few">%d хв. таму</item>
     <item quantity="many">%d хв. таму</item>
   </plurals>
-  <plurals name="app_info_permission_count">
-    <item quantity="other">%1$s дазволаў</item>
-    <item quantity="one">%1$s дазвол</item>
-    <item quantity="few">%1$s дазвола</item>
-  </plurals>
-  <plurals name="app_info_permission_count_">
-    <item quantity="other">%1$s дазволаў,</item>
-    <item quantity="one">%1$s дазвол,</item>
-    <item quantity="few">%1$s дазвола,</item>
-  </plurals>
-  <plurals name="app_info_private_permission_count">
-    <item quantity="other">%1$s канфідэнцыйных дазволаў</item>
-    <item quantity="one">%1$s канфідэнцыйны дазвол</item>
-    <item quantity="few">%1$s канфідэнцыйных дазвола</item>
-  </plurals>
-  <plurals name="comment_count">
-    <item quantity="one">%1$s водгукаў</item>
-    <item quantity="other">%1$s водгук</item>
-    <item quantity="few">%1$s водгука</item>
-  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Паўгадзіны таму</item>
     <item quantity="one">Паўгадзіны таму</item>
@@ -115,39 +129,44 @@
     <item quantity="one">Абраны %d элемент</item>
     <item quantity="few">Абрана %d элемента</item>
   </plurals>
-  <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d новых апавяшчэнняў</item>
-    <item quantity="few">%d новае апавяшчэнне</item>
-    <item quantity="one">%d новых апавяшчэння</item>
-  </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d хвілін таму</item>
     <item quantity="one">1 хвіліну таму</item>
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
-  <plurals name="password_wrong_retry_msg">
+   <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d новых апавяшчэнняў</item>
+    <item quantity="few">%d новых апавяшчэння</item>
+    <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
+  <plurals name="app_info_permission_count_">
+         <item quantity="other">%1$s дазволаў,</item>
+         <item quantity="one">%1$s дазвол,</item>
+         <item quantity="few">%1$s дазвола,</item>
+    </plurals>
+    <plurals name="password_wrong_retry_msg">
     <item quantity="other">Занадта шмат няўдалых спроб. Паўтарыце спробу праз %1$S сек.</item>
     <item quantity="one">Занадта шмат няўдалых спроб. Паўтарыце спробу праз %1$S сек.</item>
   </plurals>
-  <plurals name="pure_mode_guard_day">
-    <item quantity="other">Бяспечны рэжым уключаны на працягу %d дзён</item>
-    <item quantity="one">Бяспечны рэжым уключаны на працягу %d дня</item>
-  </plurals>
   <plurals name="settings_security_mode_enable_count">
-    <item quantity="other">Уключаны на &lt;font color=#0D84FF>%1$s&lt;/font> прыладах</item>
-    <item quantity="one">Уключаны на &lt;font color=#0D84FF>%1$s&lt;/font> прыладзе</item>
-  </plurals>
-  <plurals name="settings_security_mode_protect_count">
-    <item quantity="other">Бяспечны рэжым заблакаваў рызыкі: &lt;font color=#0D84FF>%1$s&lt;/font></item>
-    <item quantity="one">Бяспечны рэжым заблакаваў рызыкі: &lt;font color=#0D84FF>%1$s&lt;/font></item>
-  </plurals>
-  <plurals name="settings_security_mode_protect_days">
-    <item quantity="other">Уключаны на працягу &lt;font color=#0D84FF>%1$s&lt;/font> дз.</item>
-    <item quantity="one">Уключаны на працягу &lt;font color=#0D84FF>%1$s&lt;/font> дня</item>
-  </plurals>
-  <plurals name="settings_security_mode_title_on_msg">
-    <item quantity="other">Уключаны на працягу %1$s дз.</item>
-    <item quantity="one">Уключаны на працягу %1$s дня</item>
-  </plurals>
+         <item quantity="other">Уключаны на &lt;font color=#0D84FF>%1$s&lt;/font> прыладах</item>
+         <item quantity="one">Уключаны на &lt;font color=#0D84FF>%1$s&lt;/font> прыладзе</item>
+     </plurals>
+     <plurals name="settings_security_mode_protect_count">
+         <item quantity="other">Бяспечны рэжым заблакаваў рызыкі: &lt;font color=#0D84FF>%1$s&lt;/font></item>
+         <item quantity="one">Бяспечны рэжым заблакаваў рызыкі: &lt;font color=#0D84FF>%1$s&lt;/font></item>
+     </plurals>
+     <plurals name="settings_security_mode_protect_days">
+         <item quantity="other">Уключаны на працягу &lt;font color=#0D84FF>%1$s&lt;/font> дз.</item>
+         <item quantity="one">Уключаны на працягу &lt;font color=#0D84FF>%1$s&lt;/font> дня</item>
+     </plurals>
+     <plurals name="settings_security_mode_title_on_msg">
+         <item quantity="other">Уключаны на працягу %1$s дз.</item>
+         <item quantity="one">Уключаны на працягу %1$s дня</item>
+     </plurals>
+     <plurals name="pure_mode_guard_day">
+        <item quantity="other">Бяспечны рэжым уключаны на працягу %d дзён</item>
+        <item quantity="one">Бяспечны рэжым уключаны на працягу %d дня</item>
+    </plurals>
 </resources>
