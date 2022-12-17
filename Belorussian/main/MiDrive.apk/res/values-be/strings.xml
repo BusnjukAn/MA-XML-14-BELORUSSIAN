@@ -625,4 +625,6 @@
   <string name="query_quota_exception">Адбылася памылка сервера. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="query_quota_searching">Секундачку…</string>
   <string name="reminder_card_title">Увага</string>
+  <string name="talkback_close">Закрыць</string>
+  <string name="talkback_close_open_picture">Адмена</string>
 </resources>

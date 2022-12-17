@@ -880,4 +880,9 @@
   <string name="pa_world_cup_widget_request_retry">Паспрабаваць яшчэ раз</string>
   <string name="pa_world_cup_widget_reserve_success_toast">Вы атрымаеце напамін перад пачаткам матчу</string>
   <string name="pa_world_cup_widget_title">Чэмпіянат свету па футболе</string>
+  <string name="pa_express_provider_jitu">Jitu Express</string>
+  <string name="pa_shopping_page_product_delete_limit">Дасягнута мяжа выдалення.</string>
+  <string name="pa_shopping_widget_no_privacy_content_main_desc">Пакупкі</string>
+  <string name="pa_shopping_widget_no_privacy_content_sub_desc">Надайце гэтаму віджэту дазволы на атрыманне купонаў і прапаноў для вашых любімых платформаў электроннай камерцыі</string>
+  <string name="pa_shopping_widget_np_privacy_bottom_text">Прадастаўленне</string>
 </resources>

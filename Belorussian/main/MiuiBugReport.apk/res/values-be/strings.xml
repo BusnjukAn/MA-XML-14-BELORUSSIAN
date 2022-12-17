@@ -936,4 +936,5 @@
   <string name="net_diag_toast_wifi_disconnected_china">Каб праверыць сетку, спачатку падключыцеся да Wi-Fi.</string>
   <string name="feedback_account_inconsistent_login_hint">Здаецца, вы змянілі акаўнты. Увайдзіце ў свой папярэдні акаўнт Xiaomi.</string>
   <string name="feedback_account_login_hint">Спачатку ўвайдзіце ў свой акаўнт Xiaomi</string>
+  <string name="login_out">Выйсці</string>
 </resources>

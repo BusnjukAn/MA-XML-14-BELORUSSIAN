@@ -528,7 +528,7 @@
   <string name="noti_quota_button_text">Абнавіць</string>
   <string name="noti_quota_full_sum">Абнавіце тарыфны план для захоўвання, каб працягнуць сінхранізацыю элементаў.</string>
   <string name="noti_quota_full_sum_without_button">Атрымайце больш месца для захоўвання, каб працягнуць сінхранізацыю элементаў.</string>
-  <string name="noti_quota_full_title">Воблачнае сховішча запоўнена</string>
+  <string name="noti_quota_full_title">Воблачнае сховішча &lt;font color=#F22424>запоўнена&lt;/font></string>
   <string name="noti_quota_full_title_without_button">Воблачнае сховішча запоўнена</string>
   <string name="noti_quota_low_sum">Абнавіце тарыфны план для захоўвання, каб працягнуць сінхранізацыю элементаў.</string>
   <string name="noti_quota_low_sum_without_button">Атрымайце больш месца для захоўвання, каб працягнуць сінхранізацыю элементаў.</string>
@@ -592,7 +592,7 @@
   <string name="privacy_runtime_perm_call_log_title">Доступ да запісааў выклікаў і іх рэдагаванне</string>
   <string name="privacy_runtime_perm_contacts_desc">Для сінхранізацыі кантактаў</string>
   <string name="privacy_runtime_perm_contacts_title">Доступ да кантактаў і іх рэдагаванне</string>
-  <string name="privacy_runtime_perm_external_storage_desc">Для сінхранізацыі фота профілю кантакту і укладанняў паведамленняў</string>
+  <string name="privacy_runtime_perm_external_storage_desc">Для сінхранізацыі фота профілю кантакту</string>
   <string name="privacy_runtime_perm_external_storage_title">Доступ да сховішча</string>
   <string name="privacy_runtime_perm_phone_state_desc">Для доступу да нумара тэлефона і статусу прылады</string>
   <string name="privacy_runtime_perm_phone_state_title">Доступ да інфармацыі аб прыладзе</string>
@@ -766,7 +766,7 @@
   <string name="storage_manage_cloud_data_title">Прагляд аб\'ектаў у воблаку</string>
   <string name="storage_manage_list_title">Воблачныя дадзеныя</string>
   <string name="storage_manage_list_title_action">Паказаць больш</string>
-  <string name="storage_upgrade_card_title">Падпіска</string>
+  <string name="storage_upgrade_card_title">Абнавіць</string>
   <string name="sub_alert_notif_content">Уключыць Воблака Xiaomi</string>
   <string name="sub_alert_notif_title">Сінхранізаваць з Воблака Xiaomi</string>
   <string name="sub_sync_item_sms_summary">Сінхранізаваць паведамленні, якія змяшчаюць фатаграфіі, аўдыя ці іншыя мультымедыйныя файлы, толькі калі вы падлучаныя да сеткі Wi-Fi</string>
@@ -926,4 +926,15 @@
   <string name="gallery_service_termination_more_info">Больш падрабязна глядзіце \"%s\"</string>
   <string name="menu_migrate_to_google_photos">Перанос дадзеных у Google Фота</string>
   <string name="start_transfer_gallery_data">Перанос дадзеных</string>
+  <string name="cloud_manage_storage_text">Кіраванне воблачным сховішчам</string>
+  <string name="cloud_storage_almost_full_upgrade_text">Сховішча амаль запоўнена. Магчыма, не ўдасца сінхранізаваць фота.</string>
+  <string name="cloud_storage_common_functions_text">Часта выкарыстоўваемыя</string>
+  <string name="cloud_storage_full_upgrade_default_text">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць фота.</string>
+  <string name="cloud_storage_sufficient_text">Палепшыце, каб атрымаць да%d Тб у сховішчы</string>
+  <string name="cloud_storage_upgrade_text">Палепшыць</string>
+  <string name="cloud_storage_upgrade_text_now">Палепшыць</string>
+  <string name="cloud_storage_zero_upgrade_button_text_now">Палепшыце бясплатна</string>
+  <string name="customize_notification_btn_text">Абнавіць</string>
+  <string name="default_noti_quota_full_title">Воблачнае сховішча запоўнена</string>
+  <string name="noti_quota_low_title_with_storage">У воблачным сховішчы застаецца &lt;font color=#F22424>менш за &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> Гб&lt;/font></string>
 </resources>

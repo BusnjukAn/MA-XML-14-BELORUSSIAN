@@ -1612,4 +1612,11 @@
   <string name="large_icon_warning_not_install_msg">Усталюйце %s, каб мець магчымасць выкарыстоўваць суперабразок. Усталяваць?</string>
   <string name="show_mamual_hide_large_icons">Паказваць схаваныя суперабразкi</string>
   <string name="theme_component_title_large_icon">Суперабразкi</string>
+  <string name="dynamic_large_icon_not_support_current_type">%s не падтрымліваецца для гэтага дынамічнага абразка</string>
+  <string name="large_icon_detail_warning_dialog_btn_keep">Суперабразкі</string>
+  <string name="large_icon_detail_warning_dialog_btn_not_keep">Абразкі па змаўчанні</string>
+  <string name="large_icon_detail_warning_dialog_msg">У некаторых праграмах выкарыстоўваюцца суперабразкі. Працягваць выкарыстоўваць суперабразкі або вярнуцца да абразкоў вашай тэмы па змаўчанні?</string>
+  <string name="large_icon_detail_warning_dialog_title">Налады суперабразкоў</string>
+  <string name="large_icon_not_support_current_type">%s не падтрымліваецца для гэтага абразка</string>
+  <string name="large_icon_theme">Тэмы</string>
 </resources>

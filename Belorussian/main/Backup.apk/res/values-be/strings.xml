@@ -967,6 +967,26 @@
   <string name="backup_notice_title">Увага</string>
   <string name="category_contacts">Кантакты</string>
   <string name="category_message_contacts">Паведамленні і кантакты</string>
-  <string name="permission_read_write_sys_app1">Дазволіце гэтай функцыі доступ да вашых паведамленняў і кантактаў, каб мець магчымасць ствараць рэзервовыя копіі і аднаўляць гэтыя элементы.</string>
+  <string name="permission_read_write_sys_app1">Дазвольце гэтай функцыі доступ да вашых паведамленняў і кантактаў, каб мець магчымасць ствараць рэзервовыя копіі і аднаўляць гэтыя элементы.</string>
   <string name="permission_read_write_sys_app2">Дазвольце гэтай функцыі доступ да вашых кантактаў, каб мець магчымасць ствараць рэзервовыя копіі і аднаўляць гэтыя элементы.</string>
+  <string name="broken_screen_rescue_service">Рэзервовыя копіі з пашкоджаным экранам</string>
+  <string name="broken_screen_rescue_service_content">Гэтая функцыя дазваляе ствараць рэзервовыя копіі элементаў з дапамогай USB-кабеля, калі экран вашай прылады пашкоджаны ці не адказвае. Каб мець магчымасць ствараць рэзервовыя копіі элементаў, калі экран не адказвае, уключыце гэтую функцыю, калі экран усё яшчэ працуе належным чынам.</string>
+  <string name="broken_screen_rescue_service_disable">Выключыць рэзервовае капіяванне з пашкоджаным экранам</string>
+  <string name="broken_screen_rescue_service_enable">Уключыць рэзервовае капіяванне з пашкоджаным экранам</string>
+  <string name="broken_screen_rescue_service_learn_subcontent1">Папытайце любога чалавека з вашых кантактаў адправіць вам SMS-паведамленне ў наступным фармаце, замяніўшы літары на пароль блакавання экрана: *#*#SCREENLOCK#*#*.</string>
+  <string name="broken_screen_rescue_service_learn_subcontent2">Пасля адпраўкі паведамлення падлучыце гэтую прыладу да кампутара праз USB, каб пачаць рэзервовае капіяванне элементаў.</string>
+  <string name="broken_screen_rescue_service_learn_subtitle1">Актываваць гэтую функцыю</string>
+  <string name="broken_screen_rescue_service_learn_subtitle2">Рэзервовае капіяванне элементаў</string>
+  <string name="broken_screen_rescue_service_learn_title">Як выкарыстоўваць гэтую функцыю</string>
+  <string name="broken_screen_rescue_service_tips_1">%1$d. Калі ваш пароль блакавання экрана %2$d, паведамленне павінна выглядаць так: *#*#%3$d#*#*. Калі вы выкарыстоўваеце пароль які змяшчае як літары, так і лічбы, папытайце суразмоўцу ўключыць яго ў паведамленне без пропускаў.</string>
+  <string name="broken_screen_rescue_service_tips_2">%1$d. Калі вы выкарыстоўваеце шаблон, ён можа быць прадстаўлены лічбамі ў паведамленні. Кропка ў верхнім левым куце - %2$d. Нумарацыя ідзе злева направа, радок за радком, і заканчваецца %3$d у правым ніжнім куце.</string>
+  <string name="broken_screen_rescue_service_tips_3">%1$d. Калі вы не выкарыстоўваеце блакаванне экрана, выкарыстоўвайце \"nopassword\" замест сімвалаў, якія прадстаўляюць яго ў паведамленні.</string>
+  <string name="broken_screen_rescue_service_tips_4">%1$d. У вас будзе толькі %2$d спроб актываваць гэтую функцыю. Упэўніцеся, што SMS-паведамленне, якое адпраўляе іншы чалавек, правільнае, і гэты чалавек знаходзіцца сярод вашых кантактаў.</string>
+  <string name="broken_screen_rescue_service_tips_5">%1$d. Мы рэкамендуем выкарыстоўваць гэтую функцыю ў прысутнасці нашага персанала службы падтрымкі.</string>
+  <string name="broken_screen_rescue_service_tips_6">%1$d. Калі вы не можаце выканаць рэзервовае капіяванне элементаў на свой кампутар, вы можаце даведацца, як вырашыць гэтую праблему, у нашай даведачнай дакументацыі.</string>
+  <string name="broken_screen_rescue_service_tips_title">Парады</string>
+  <string name="broken_screen_rescue_service_turn_off">Выключыць</string>
+  <string name="broken_screen_rescue_service_turn_off_confirm">Выключыць рэзервовае капіяванне з пашкоджаным экранам?</string>
+  <string name="broken_screen_rescue_service_turn_on">Уключыць</string>
+  <string name="broken_screen_rescue_service_turn_on_confirm">Уключыць рэзервовае капіяванне з пашкоджаным экранам?</string>
 </resources>

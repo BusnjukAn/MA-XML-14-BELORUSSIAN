@@ -3599,4 +3599,6 @@
   <string name="secret_album_password_first_use_with_sms_msg">Будзе выкарыстоўвацца пароль для абароны прыватнасці. Ён працуе з паведамленнямі, фатаграфіямі, нататкамі і ўтоенымі тэчкамі.</string>
   <string name="secret_album_password_update_with_sms_dialog_msg">Пароль абароны прыватнасці працуе для паведамленняў, фатаграфій, нататак і схаваных тэчак.</string>
   <string name="secret_album_set_pc_password_with_sms_dialog_msg">Будзе выкарыстоўвацца пароль для абароны прыватнасці. Ён працуе з паведамленнямі, фатаграфіямі, нататкамі і ўтоенымі тэчкамі.</string>
+  <string name="hdr_switch_show_hint">Выкарыстоўваць HDR, каб паказаць больш дэталяў на свеце і ў цені</string>
+  <string name="hdr_switch_show_title">Адлюстроўваць пашыраны дынамічны дыяпазон</string>
 </resources>

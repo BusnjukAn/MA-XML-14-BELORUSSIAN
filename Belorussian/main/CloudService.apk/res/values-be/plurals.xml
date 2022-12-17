@@ -287,4 +287,22 @@
         <item quantity="one">Не атрымалася сінхранізаваць %s элемент</item>
         <item quantity="few">Не атрымалася сінхранізаваць %s элемента</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+    <item quantity="other">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць %d фота.</item>
+    <item quantity="one">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць %d фота.</item>
+    <item quantity="few">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць %d фота.</item>
+    <item quantity="many">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць %d фота.</item>
+  </plurals>
+  <plurals name="gallery_auto_sync_fail_noti_red_title">
+    <item quantity="other">Не атрымалася сінхранізаваць &lt;font color=#F22424>%s аб\'ектаў&lt;/font></item>
+    <item quantity="one">Не атрымалася сінхранізаваць &lt;font color=#F22424>%s аб\'ект&lt;/font></item>
+    <item quantity="few">Не атрымалася сінхранізаваць &lt;font color=#F22424>%s аб\'екта&lt;/font></item>
+    <item quantity="many">Не атрымалася сінхранізаваць &lt;font color=#F22424>%s аб\'ектаў&lt;/font></item>
+  </plurals>
+  <plurals name="noti_quota_full_title_with_icon_text">
+    <item quantity="other">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font></item>
+    <item quantity="one">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграму&lt;/font></item>
+    <item quantity="few">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграмы&lt;/font></item>
+    <item quantity="many">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font></item>
+  </plurals>
 </resources>

@@ -249,7 +249,6 @@
   <string name="video_crbt_title">Прайграваецца відэа профіля…</string>
   <string name="video_switch_to_voice_call_prompt">Галасавы выклік</string>
   <string name="voicemail">Галасавая пошта</string>
-  <string name="volte_call">Выклік VoLTE</string>
   <string name="volume_boost_text">Максімальная гучнасць</string>
   <string name="wait_prompt_str">Адправіць наступныя танальныя сігналы\n</string>
   <string name="waiting_close_airplane_mode">Хвілінку…</string>
@@ -258,7 +257,6 @@
   <string name="incoming_circle_text_video_answer_p">Правядзіце пальцам угору, каб адказаць з відэа</string>
   <string name="manager_conference_done">Гатова</string>
   <string name="change_to_voice_tips_when_background">Іншы бок пераключыўся на галасавы выклік</string>
-  <string name="wifi_call">Выклік VoWiFi</string>
   <string name="ai_assistant">Асістэнт выклікаў</string>
   <string name="ai_assistant_not_installed">Асістэнт выклікаў не усталяваны</string>
   <string name="enter_ai_assistant">Выкарыстоўваць</string>

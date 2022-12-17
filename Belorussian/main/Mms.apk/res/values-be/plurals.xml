@@ -217,4 +217,24 @@
         <item quantity="one">Абраны %d элемент</item>
         <item quantity="few">Абрана %d элемента</item>
    </plurals>
+   <plurals name="max_audio_length">
+         <item quantity="other">Аўдыё можа доўжыцца да %1$4d сек.</item>
+         <item quantity="one">Аўдыё можа доўжыцца да %1$4d сек.</item>
+     </plurals>
+     <plurals name="max_file_size">
+         <item quantity="other">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+         <item quantity="one">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+     </plurals>
+     <plurals name="max_recipients_size">
+         <item quantity="other">Можна адправіць паведамленне %1$4d кантактам</item>
+         <item quantity="one">Можна адправіць паведамленне %1$4d кантакту</item>
+     </plurals>
+     <plurals name="max_text_size">
+         <item quantity="other">Паведамленні могуць змяшчаць да %1$4d сімвалаў</item>
+         <item quantity="one">Паведамленні могуць змяшчаць да %1$4d сімвала</item>
+     </plurals>
+     <plurals name="max_video_length">
+         <item quantity="other">Відэа можа доўжыцца да %1$4d сек.</item>
+         <item quantity="one">Відэа можа доўжыцца да %1$4d сек.</item>
+     </plurals>
 </resources>

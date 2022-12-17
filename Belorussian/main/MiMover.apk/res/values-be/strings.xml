@@ -1009,4 +1009,20 @@
   <string name="use_purpose_description">Для падлучэння да пункту доступу новай прылады</string>
   <string name="use_scene">Сцэнар выкарыстання</string>
   <string name="use_scene_description">Для пераносу элементаў са старой прылады на новую</string>
+  <string name="league_acquire_accept">Згодзен</string>
+  <string name="league_acquire_message1">Каб мець магчымасць пераносіць іншыя праграмы і іх дадзеныя з гэтай прылады на новую прыладу %s, неабходны наступныя дазволы:</string>
+  <string name="league_acquire_message2">Дазвольце Mi Трансфер доступ да дадзеных іншых праграм</string>
+  <string name="league_acquire_message3">Гэта аднаразовы дазвол, які выкарыстоўваецца толькі для перадачы дадзеных. Пасля завяршэння перадачы Mi Трансфер аўтаматычна перастане выкарыстоўваць гэты дазвол.</string>
+  <string name="league_acquire_message4">Калі вы не згодны даць гэты дазвол, вы не зможаце перадаваць іншыя праграмы і іх дадзеныя.</string>
+  <string name="league_acquire_refuse">Не згодны</string>
+  <string name="league_acquire_title">Патрабуюцца дазволы</string>
+  <string name="league_check_service_content">Mi Трансфер прадастаўляе паслугі пераносу для %s і ў цяперашні час недаступны.</string>
+  <string name="league_check_service_title">Перанос з дапамогай %s</string>
+  <string name="league_client_acquire">Адкрыць %s</string>
+  <string name="league_client_hint_text">Альянс кланавання можа дапамагчы ў перадачы дадзеных іншых праграм (напрыклад, гісторыі чатаў WeChat і QQ). Націсніце \"%s\", каб працягнуць з намі, або націсніце \"Не зараз\", каб працягнуць без пераносу іншых праграм і дадзеных.</string>
+  <string name="league_client_install">Усталяваць %s</string>
+  <string name="league_client_title">Перанос з дапамогай Mi Трансфер</string>
+  <string name="league_client_traditional">Не зараз</string>
+  <string name="league_client_update">Абнавіць %s</string>
+  <string name="request_permission">Дазволіць</string>
 </resources>

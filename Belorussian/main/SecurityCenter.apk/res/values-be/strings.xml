@@ -6045,7 +6045,7 @@
   <string name="gb_predownload_noti_title">%s паспяхова абноўлена ў фонавым рэжыме</string>
   <string name="gb_predownload_title">Фонавыя абнаўленні</string>
   <string name="gb_smart_battery_surplus_new">%1$s %2$s засталося</string>
-  <string name="antivirus_antidefraud_risk_desc">Гэта праграма класіфікуецца Нацыянальным цэнтрам па барацьбе з махлярствам як праграма для фінансавага махлярства. Выдаліце ​​яе, каб пазбегнуць магчымых рызык.</string>
+  <string name="antivirus_antidefraud_risk_desc">Гэта праграма можа выкарыстоўвацца для фінансавага махлярства. Выдаліце яе, каб пазбегнуць магчымых рызык.</string>
   <string name="antivirus_antidefraud_risk_type">Фінансавае махлярства</string>
   <string name="antivirus_antidefraud_risk_type_label">Фінансавае махлярства і рызыкі бяспекі</string>
   <string name="antivirus_detect_apps_dialog_cancel">Зразумела</string>
@@ -6371,16 +6371,16 @@
   <string name="terminal_privacy_ability_img">Апрацоўка выяў</string>
   <string name="terminal_privacy_ability_img_summary">Разумнае рэдагаванне і распазнанне фота і відэа ў праграме \"Камера\", \"Галерэя\" і Taplus</string>
   <string name="terminal_privacy_ability_model">Разнаванне таго, як ваша прылада ўзаемадзейнічае з навакольным асяроддзем</string>
-  <string name="terminal_privacy_ability_model_summary">Лічыльнік крокаў, разумныя жэсты, кішэнны рэжым і аўтаяркасць</string>
+  <string name="terminal_privacy_ability_model_summary">Лічыльнік крокаў, інтэлектуальныя жэсты, кішэнны рэжым і аўтаяркасць</string>
   <string name="terminal_privacy_ability_others">Іншыя механізмы</string>
   <string name="terminal_privacy_ability_others_summary">Дэманстрацыя экрана, тэсціраванне плацежнага асяроддзя, распазнаванне адбіткаў пальцаў і твару</string>
   <string name="terminal_privacy_ability_suggest">Рэкамендацыі</string>
-  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з правадыра, стужкі віджэтаў і Mi ШІ</string>
+  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з тэчак працоўнага стала, стужкі віджэтаў і Mi ШІ</string>
   <string name="terminal_privacy_ability_summary">*Функцыі і механізмы абароны канфідэнцыйнасці на прыладзе могуць адрознівацца ў залежнасці ад мадэлі прылады</string>
   <string name="terminal_privacy_ability_txt">Тэкст</string>
-  <string name="terminal_privacy_ability_txt_summary">Рэдагаванне тэксту, разумныя субтытры, Taplus, паведамленні і агульны буфер абмену</string>
+  <string name="terminal_privacy_ability_txt_summary">Рэдагаванне тэксту, інтэлектуальныя субтытры, Taplus, паведамленні і агульны буфер абмену</string>
   <string name="terminal_privacy_ability_voice">Разпазнаванне гаворкі</string>
-  <string name="terminal_privacy_ability_voice_summary">Галасавыя каманды Mi ШІ і разумныя субтытры</string>
+  <string name="terminal_privacy_ability_voice_summary">Галасавыя каманды і інтэлектуальныя субтытры</string>
   <string name="terminal_privacy_instruction">Абарона канфідэнцыйнасці на прыладзе ўключае функцыі, якія гарантуюць, што ваша асабістая інфармацыя будзе захоўвацца на гэтай прыладзе, а не загружацца ў воблака</string>
   <string name="terminal_privacy_summary">Апрацоўваць асабістую інфармацыю на гэтай прыладзе</string>
   <string name="gamebox_game_center_app_not_find">Спачатку ўсталюйце гульні</string>
@@ -6406,4 +6406,5 @@
   <string name="vb_video_effects_immersion_sound">Імерсіўны гук</string>
   <string name="vb_video_effects_immersion_sound_summary">Адчуйце эфект прасторы пры прайграванні падтрымліваемага гуку праз навушнiкі</string>
   <string name="vb_video_effects_spatial_summary_new">Адчуйце палепшанае адчуванне прасторы і напрамка для падтрымліваемых аўдыё і відэа, і наладзьце імерсіўны гук у залежнасці ад руху галавы</string>
+  <string name="pc_high_temp_protection_noti_summary2">Цяпер нельга выкарыстоўваць пункт доступу</string>
 </resources>

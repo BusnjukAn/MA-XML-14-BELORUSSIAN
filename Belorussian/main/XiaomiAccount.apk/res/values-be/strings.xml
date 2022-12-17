@@ -978,4 +978,6 @@ ID:%s
   <string name="qrcode_login_load_retry"><Data>Не атрымалася загрузіць. &lt;a href=>Паспрабуйце зноў&lt;/a>.</Data></string>
   <string name="qrcode_login_message">Адскануйце код пры дапамозе праграмы Сканар, Mi Home або іншай праграмы Xiaomi на вашым тэлефоне ці планшэце Xiaomi</string>
   <string name="qrcode_login_title">Адскануйце, каб увайсці</string>
+  <string name="confirm_bundled_phone_dialog_confirm">Пацвярджаю</string>
+  <string name="confirm_bundled_phone_dialog_confirm_timer">Пацвярджаю (%d сек.)</string>
 </resources>
