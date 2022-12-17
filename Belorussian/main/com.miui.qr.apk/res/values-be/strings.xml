@@ -37,4 +37,5 @@
   <string name="qualitative_title">Узгодненая інфармацыя</string>
   <string name="ration_title">ID катэгорыі інфармацыі</string>
   <string name="search_menu_title">Пошук</string>
+  <string name="hint_close_app">Націсніце двойчы, каб закрыць</string>
 </resources>

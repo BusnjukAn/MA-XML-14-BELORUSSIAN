@@ -1031,4 +1031,7 @@
   <string name="permission_photos_desc_pad">Для дадання выяў у нататкі</string>
   <string name="send_notifications_for_reminder">Для адпраўкі напамінкаў</string>
   <string name="toast_refuse_to_use_photos_in_excerpt">Каб дадаваць выявы ў нататкі, дазвольце гэтай праграме доступ да фота</string>
+  <string name="app_widget_name_create_note">Стварыць нататку</string>
+  <string name="app_widget_name_create_todo">Стварыць задачу</string>
+  <string name="app_widget_name_fast_entry">Цэтлікі</string>
 </resources>
