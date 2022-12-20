@@ -61,7 +61,7 @@
   <string name="ad_tag_text_1">Папулярныя</string>
   <string name="ad_tag_text_2">Модныя</string>
   <string name="add_resource_detail_fail">Не атрымалася дадаць рэсурс</string>
-  <string name="afternoon">РМ</string>
+  <string name="afternoon">ПП</string>
   <string name="all_resources">Усе</string>
   <string name="already_latest_version">Абноўлена</string>
   <string name="already_newest_version">Абнаўленне не патрабуецца</string>
@@ -250,7 +250,7 @@
   <string name="enable_transparent_wallpaper">Выкарыстоўваць празрыстыя шпалеры</string>
   <string name="enabling_all_free_mode">Атрыманне падарунка…</string>
   <string name="error_icon_content_description">Памылка</string>
-  <string name="evening">РМ</string>
+  <string name="evening">ПП</string>
   <string name="exchange_alert">Вы можаце атрымаць купоны падчас нашых рэкламных акцый і абмяняць іх на тэмы.</string>
   <string name="exit_extreme_mode_dialog_agree">Згадзіцца</string>
   <string name="exit_extreme_mode_dialog_cancel">Скасаваць</string>
@@ -392,7 +392,7 @@
   <string name="long_click_can_hide_resource">Націсніце і ўтрымлівайце, каб схаваць аб\'екты</string>
   <string name="material_slider_range_end">Канец дыяпазону,</string>
   <string name="material_slider_range_start">Пачатак дыяпазону,</string>
-  <string name="mi_wallpaper">Mi шпалеры</string>
+  <string name="mi_wallpaper">MIUI шпалеры</string>
   <string name="midnight">ДП</string>
   <string name="mine_tab_not_login">Увайдзіце, каб прагледзець элементы.\nНацісніце тут, каб увайсці.</string>
   <string name="mine_tab_title_favorite">Абраныя</string>
@@ -412,8 +412,8 @@
   <string name="miuishare_account_login_cancel">Адмена</string>
   <string name="miuishare_account_login_confirmation">Увайсці ў Xiaomi акаўнт</string>
   <string name="miuishare_account_login_ok">Уваход</string>
-  <string name="miuishare_account_need_activate">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Актывіруйце Мі аккаўнт.</string>
-  <string name="miuishare_account_need_login">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Увайдзіце ў Мі аккаўнт.</string>
+  <string name="miuishare_account_need_activate">Патрабуецца акаўнт Weibo, звязаны з вашым Xiaomi акаўнтам. Актывіруйце Xiaomi акаўнт.</string>
+  <string name="miuishare_account_need_login">Патрабуецца акаўнт Weibo, звязаны з вашым Xiaomi акаўнтам. Увайдзіце ў Xiaomi акаўнт.</string>
   <string name="miuishare_app_name">Абмен файламі</string>
   <string name="miuishare_mini_program_title">Паглядзіце, якія прыгожыя шпалеры!</string>
   <string name="miuishare_no_network">Не атрымалася злучыцца з сеткай.</string>
@@ -534,8 +534,8 @@
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Не паказваць зноў</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Праблемы сумяшчальнасці</string>
   <string name="network_exception">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
-  <string name="new_resource_price_unit"> Mi</string>
-  <string name="night">РМ</string>
+  <string name="new_resource_price_unit">" Mi"</string>
+  <string name="night">ПП</string>
   <string name="no_cta_agreed">GetApps не мае CTA-дазволаў</string>
   <string name="no_data">Немагчыма злучыцца з сеткай</string>
   <string name="no_install_permission">Адсутнічаюць дазволы на ўсталеўку</string>
@@ -543,7 +543,7 @@
   <string name="no_network_desc">Не атрымалася падлучыцца да сеткі</string>
   <string name="no_network_please_retry">Праверце налады сеткі і паспрабуйце зноў</string>
   <string name="no_wallpaper">Тут пакуль няма элементаў</string>
-  <string name="noon">РМ</string>
+  <string name="noon">ПП</string>
   <string name="not_set">Не зададзена</string>
   <string name="not_support_incall_show">Гэтыя шпалеры не працуюць з профілем відэа</string>
   <string name="official_accounts">WeChat</string>
@@ -748,7 +748,7 @@
   <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
   <string name="resource_present">Падарунак</string>
   <string name="resource_price_free">Бясплатна</string>
-  <string name="resource_price_unit"> Mi Credits</string>
+  <string name="resource_price_unit">" Mi Credits"</string>
   <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
   <string name="resource_purchase_continue_to_pay">Працягваць аплачваць %s</string>
   <string name="resource_purchase_getting_order">Атрыманне інфармацыі аб заказе…</string>
@@ -1016,7 +1016,7 @@
   <string name="theme_component_title_launcher">Працоўны стол</string>
   <string name="theme_component_title_lockstyle">Стыль блакавання</string>
   <string name="theme_component_title_lockwallpaper">Экран блакавання</string>
-  <string name="theme_component_title_miwallpaper">Mi шпалеры</string>
+  <string name="theme_component_title_miwallpaper">MIUI шпалеры</string>
   <string name="theme_component_title_mms">Паведамленні</string>
   <string name="theme_component_title_notification">Апавяшчэнні</string>
   <string name="theme_component_title_others">Іншае</string>
@@ -1493,7 +1493,7 @@
   <string name="system_cta_retry_get_permission_msg_pad">Патрабуюцца дазволы</string>
   <string name="system_cta_runtime_perm_desc_storage_pad">Для выкарыстання элементаў, якія захоўваюцца на вашай прыладзе, для персаналізацыі і захавання набытых элементаў</string>
   <string name="voice_input">Галасавы ўвод</string>
-  <string name="wallpaper_apply_full">Усе</string>
+  <string name="wallpaper_apply_full">Усталяваць усюды</string>
   <string name="wallpaper_apply_large">Унутраны экран</string>
   <string name="wallpaper_apply_small">Знешні экран</string>
   <string name="wallpaper_set_as_both_large">Усталяваць на абодва</string>
