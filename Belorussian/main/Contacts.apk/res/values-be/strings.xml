@@ -922,9 +922,9 @@
   <string name="t9_search_empty_send_sms">Адправіць паведамленне</string>
   <string name="t9_search_empty_video_call">Відэавыклік</string>
   <string name="t9_search_guide_pinyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці &lt;font fgcolor="">Е&lt;/font>хiм &lt;font fgcolor="">Ф&lt;/font>ралоў</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці Ехiм Фралоў</string>
   <string name="t9_search_guide_zhuyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці &lt;font fgcolor="">М&lt;/font>аксiм &lt;font fgcolor="">С&lt;/font>яроў</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці Максiм Сяроў</string>
   <string name="take_new_photo">Зняць новае фота</string>
   <string name="take_photo">Зняць фота</string>
   <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>

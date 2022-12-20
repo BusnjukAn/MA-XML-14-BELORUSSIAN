@@ -869,7 +869,7 @@
   <string name="privacy_authorize_revoke_success">Аўтарызацыя паспяхова адклікана</string>
   <string name="privacy_authorize_revoking">Адкліканне аўтарызацыі…</string>
   <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
-  <string name="privacy_policy">Палітыка прыватнасці</string>
+  <string name="privacy_policy">Прыватнасць</string>
   <string name="privacy_request_desc">&lt;Data&gt;Праграме \"Mi Музыка\" трэба ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам анлайнавыя струменевыя сэрвісы. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю ў &lt;a href=\"%1$s\"&gt;Палітыцы прыватнасці&lt;/a&gt;. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці праграмы \"Мі Музыка\" ў Наладах.\nПерад пачаткам выкарыстання праграмы \"Мі Музыка\", азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\"&gt;Карыстальніцкім пагадненнем&lt;/a&gt; і &lt;a href=\"%1$s\"&gt;Палітыкай прыватнасці&lt;/a&gt;.\nКалі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі.&lt;/Data&gt;</string>
   <string name="privacy_request_subtitle">Сардэчна запрашаем у Mi Музыку! Гэтая праграма прадастаўляе наступныя паслугі:\n\n- Лакальны аўдыяплэер\n\n- Анлайнавыя струменевыя сэрвісы</string>
   <string name="privacy_request_title">Умовы і палажэння</string>
@@ -1194,7 +1194,7 @@
   <string name="upload_playlist_to_hungama_positive_text">Сінхранізаваць</string>
   <string name="upload_playlist_to_hungama_title">Сінхранізаваць анлайн-песні з Hungama, каб атрымліваць доступ да іх на іншых прыладах, дзе вы выкарыстоўваеце Xiaomi акаўнт.</string>
   <string name="upload_playlist_to_hungama_toast">Анлайн песні будуць сінхранізаваныя з Hungama</string>
-  <string name="user_agreement">Карыстальніцкае пагадненне</string>
+  <string name="user_agreement">Пагадненне</string>
   <string name="user_playlist_plaza">Плэйлісты</string>
   <string name="user_privacy_dialog_negative_text">Адмена</string>
   <string name="user_privacy_dialog_positive_count_down_text">Адмена аўтарызацыі (%s сек.)</string>

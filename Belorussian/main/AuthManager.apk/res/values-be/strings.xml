@@ -111,12 +111,12 @@
   <string name="grant_dialog_button_allow">Дазволіць</string>
   <string name="grant_dialog_button_allow_always">Заўсёды дазваляць</string>
   <string name="grant_dialog_button_allow_background">Заўсёды дазваляць</string>
-  <string name="grant_dialog_button_allow_foreground">Дазваляць толькі падчас выкарыстання</string>
+  <string name="grant_dialog_button_allow_foreground">Толькі падчас выкарыстання</string>
   <string name="grant_dialog_button_allow_onetime">Адзін раз</string>
   <string name="grant_dialog_button_deny">Забараніць</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Забараніць і больш не пытацца</string>
   <string name="grant_dialog_button_deny_background">Толькі падчас выкарыстання</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Дазваляць толькі падчас выкарыстання</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Толькі падчас выкарыстання</string>
   <string name="grant_dialog_storage_category_title">Гэтай праграме патрабуюцца дазволы для доступу да галерэі і паведамленняў у праграмах сацыяльных сетак</string>
   <string name="grant_dialog_storage_gallery_title">Галерэя</string>
   <string name="grant_dialog_storage_sociality_title">Паведамленнi ў праграмах сацыяльных сетак</string>

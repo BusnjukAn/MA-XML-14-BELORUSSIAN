@@ -204,4 +204,47 @@
         <item quantity="one">%d срэбны медаль</item>
         <item quantity="few">%d срэбных медаля</item>
     </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">Абрана %d элементаў</item>
+        <item quantity="one">Абраны %d элемент</item>
+        <item quantity="few">Абрана %d элемента</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d пасылак закінуты</item>
+        <item quantity="one">%d пасылка закінутая</item>
+        <item quantity="few">%d пасылкі закінуты</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">Пасылак, якія чакаюць атрымання: %d</item>
+        <item quantity="one">Пасылак, якія чакаюць атрымання: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">Пасылак адменена: %d</item>
+        <item quantity="one">Пасылак адменена: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">Пасылак адпраўлена на дастаўку: %d</item>
+        <item quantity="one">Пасылак адпраўлена на дастаўку: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">Праблемы з пасылкамі: %d</item>
+        <item quantity="one">Праблемы з пасылкамі: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">Пасылак у дарозе: %d</item>
+        <item quantity="one">Пасылак у дарозе: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">Немагчыма даставіць: %d</item>
+        <item quantity="one">Немагчыма даставіць: %d</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">Дастаўлена пасылак: %d</item>
+        <item quantity="one">Дастаўлена пасылак: %d</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Выдаліць %d абраных элементаў?</item>
+        <item quantity="one">Выдаліць %d абраны элемент?</item>
+        <item quantity="few">Выдаліць %d абраных элементаў?</item>
+    </plurals>
 </resources>

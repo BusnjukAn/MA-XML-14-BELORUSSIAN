@@ -1535,7 +1535,7 @@
   <string name="video_download_login_guide">Увайдзіце ў %s, каб спампаваць відэа</string>
   <string name="video_download_play_video_step1">Крок %1$d</string>
   <string name="video_download_play_video_step2">Крок %2$d</string>
-  <string name="video_download_title">Спампаваць відэа</string>
+  <string name="video_download_title">Спампаваныя відэа</string>
   <string name="video_download_youtube_copyright_forbidden">Немагчыма спампаваць гэтае відэа з YouTube з-за абмежаваньняў аўтарскага права</string>
   <string name="background_playback_enabled">Фонавае прайграванне ўключана</string>
   <string name="video_download_folder_title">Спампоўкі Mi Відэа</string>
@@ -2181,4 +2181,17 @@
   <string name="trylook_end">Бясплатны прагляд скончыўся</string>
   <string name="version_update_install_apk_fail">Памылка ўсталёўкі</string>
   <string name="vip_skip">Падаць заяўку на VIP, каб прапусціць рэкламу</string>
+  <string name="agree_label">Прыняць</string>
+  <string name="cmp_tier_privacy_policy">Палітыкі прыватнасці трэціх бакоў</string>
+  <string name="default_title">Загаловак</string>
+  <string name="dialog_disagree_continue">Працягнуць</string>
+  <string name="dialog_disagree_info">Калі вы не згодныя з Палітыкай прыватнасці Mi Відэа, вы не зможаце карыстацца нашымі анлайн-сэрвісамі і зможаце толькі праглядаць відэа, якія захоўваюцца на вашай прыладзе. Усё роўна працягнуць?</string>
+  <string name="dialog_disagree_title">Палітыка прыватнасці</string>
+  <string name="reject_all_label">Адхіліць усё</string>
+  <string name="show_options_label">Паказаць параметры</string>
+  <string name="widget_add_dialog_button_add">Дадаць</string>
+  <string name="widget_add_dialog_button_cancel">Скасаваць</string>
+  <string name="widget_add_dialog_desc_local">З дапамогай гэтага віджэта вы можаце прайграваць аўдыё і відэафайлы, якія захоўваюцца на вашай прыладзе, адным націскам на працоўным стале. Дадаць зараз?</string>
+  <string name="widget_add_dialog_desc_online">З дапамогай гэтага віджэта вы можаце глядзець папулярныя сёння відэа адным націскам на працоўным стале. Дадаць зараз?</string>
+  <string name="widget_add_dialog_title">Дадаць віджэт</string>
 </resources>

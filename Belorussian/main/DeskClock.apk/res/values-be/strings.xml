@@ -757,6 +757,6 @@ EEEE"</string>
 dd.MM"</string>
   <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
-  <string name="force_start_permission_desc">Дазволіць нармальную працу будзільніка, нават калі вы закрылі праграму</string>
+  <string name="force_start_permission_desc">Магчымасць працы будзільніка пры закрыцці праграмы</string>
   <string name="force_start_permission_title">Аўтазапуск</string>
 </resources>

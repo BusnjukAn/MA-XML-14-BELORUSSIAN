@@ -99,12 +99,12 @@
         <item>Вельмі высокая хуткасць злучэння. Дасьледуйце Інтэрнэт на галавакружнай хуткасці!</item>
     </string-array>
     <string-array name="user_guide_info_array">
-        <item>Спампаваць відэа і фота з сацыяльнай сеткі</item>
-        <item>Захоўвайце выявы і відэа з статусаў WhatsApp</item>
+        <item>Спампоўка відэа і фота з сацыяльных сетак</item>
+        <item>Захаванне выяў і відэа з статусаў WhatsApp</item>
         <item>Кіраванне файламі на прыладзе і іх утойванне</item>
     </string-array>
     <string-array name="user_guide_title_array">
-        <item>Спампаваць відэа</item>
+        <item>Спампоўка відэа</item>
         <item>Захаванне статусаў WhatsApp</item>
         <item>Прыватныя файлы</item>
     </string-array>

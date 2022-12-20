@@ -90,7 +90,7 @@
   <string name="action_menu_text_snapshot">Захаваць старонку</string>
   <string name="action_menu_text_speed_test">Дыягностыка сеткі</string>
   <string name="action_menu_text_video">Відэа</string>
-  <string name="action_menu_text_video_download">Спампаваць відэа</string>
+  <string name="action_menu_text_video_download">Спампоўка відэа</string>
   <string name="action_menu_text_web_mode">Рэжым кампутара</string>
   <string name="action_menu_toolbox">Інструменты</string>
   <string name="action_menu_useful_page">Дадаць цэтлiк</string>
@@ -542,7 +542,7 @@
   <string name="download_title">Спампоўкі</string>
   <string name="download_unknown_title">Невядома</string>
   <string name="download_update_background">Загрузка абнаўленняў у фонавым рэжыме</string>
-  <string name="download_video_from_social_site">Спампаваць відэа з сацыяльнай сеткі</string>
+  <string name="download_video_from_social_site">Спампоўка відэа з сацыяльных сетак</string>
   <string name="download_videos_from_here">Вы можаце спампоўваць відэа з гэтых сэрвісаў</string>
   <string name="download_wait_connect">Чаканне падлучэння</string>
   <string name="downloading">Спампоўка…</string>
@@ -2165,7 +2165,7 @@
   <string name="branch_search_in_browser">Пошук «%1$s» у Браўзеры</string>
   <string name="branch_setting">Налады</string>
   <string name="branch_short_message">Паведамленні</string>
-  <string name="branch_shortcuts">Ярлыкі</string>
+  <string name="branch_shortcuts">Цэтлiкі</string>
   <string name="branch_show_more">Яшчэ</string>
   <string name="branch_terms_condition">Правілы і ўмовы</string>
   <string name="btn_agree">Згадзіцца</string>
@@ -2327,7 +2327,7 @@
   <string name="setting_sms_content">Утрыманне SMS</string>
   <string name="shear_plate_permission_name">Доступ да буфера абмену і захаванне аб\'ектаў у ім</string>
   <string name="short_cut_name_novel">Бясплатныя кнігі</string>
-  <string name="shortcut_function">Ярлыкі</string>
+  <string name="shortcut_function">Цэтлiкі</string>
   <string name="shortcuts_boost_speed">Паскарэнне</string>
   <string name="shortcuts_cleanup_cache">Ачыстка</string>
   <string name="shortcuts_cleanup_memory">Ачысціць кэш</string>
@@ -2491,14 +2491,14 @@
   <string name="unload_residue">Смецце</string>
   <string name="view_details">Падрабязнасці</string>
   <string name="click_clean">Ачысціць</string>
-  <string name="display__quick_entry_of_search">Паказваць ярлыкі функцый у Панэлі апавяшчэнняў</string>
+  <string name="display__quick_entry_of_search">Паказваць цэтлiкі функцый у Панэлі апавяшчэнняў</string>
   <string name="enable_notification_permission_in_settings">Дазвольце паведамлення ў Наладах, каб мець магчымасць выкарыстоўваць гэтую функцыю.</string>
   <string name="garbage_cleaning">Ачыстка</string>
   <string name="home_page_simple">Спрошчаны выгляд</string>
   <string name="homepage_default">Па змаўчанні</string>
   <string name="homepage_setting">Налады галоўнай старонкі</string>
   <string name="junk_files_found">Знойдзена смецце</string>
-  <string name="notice_bar_shortcut_entry">Ярлыкі у Панэлі апавяшчэнняў</string>
+  <string name="notice_bar_shortcut_entry">Цэтлiкі у Панэлі апавяшчэнняў</string>
   <string name="quick_search_and_access_to_functions">Хуткі пошук дазваляе лёгка атрымаць доступ да функцый, якія вы выкарыстоўваеце часцей за ўсё.</string>
   <string name="simple_page_toast">Вы можаце змяніць выгляд галоўнай старонкі ў раздзеле \"Налады\" &gt; \"Налады галоўнай старонкі\"</string>
   <string name="web_tag_desc">Паказваць мініяцюры наведаных раней старонак</string>

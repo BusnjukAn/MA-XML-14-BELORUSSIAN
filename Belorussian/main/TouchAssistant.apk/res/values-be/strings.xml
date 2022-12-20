@@ -43,7 +43,7 @@
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="early_morning">Раніца</string>
-  <string name="edge_distance_pref_summary">Краніце вобласці абуджэння побач з краем экрана, каб з\'явіўся памочнік націскаў</string>
+  <string name="edge_distance_pref_summary">Краніце вобласці абуджэння побач з краем экрана, каб з\'явіўся асiстэнт дотыку</string>
   <string name="edge_distance_pref_title">Вобласць абуджэння</string>
   <string name="edge_mode_custom_summary">Налады памеру вобласці абуджэння побач з краем экрана</string>
   <string name="edge_mode_custom_title">Карыстацкі</string>
@@ -95,9 +95,9 @@
   <string name="function_settings">Налады цэтлiкаў</string>
   <string name="handy_mode_default_to_close_whether_open">Рэжым кіравання адной рукой адключаны па змаўчанні. Уключыць?</string>
   <string name="hide_touch_assistant">Хаваць аўтаматычна</string>
-  <string name="hide_touch_assistant_intro">Схаваць асістэнт дотыку ў выбраных праграмах</string>
-  <string name="hide_when_fullscreen">Схаваць у поўнаэкранных рэжыме</string>
-  <string name="hide_when_fullscreen_intro">Хаваць пры ўваходзе ў поўнаэкранны рэжым</string>
+  <string name="hide_touch_assistant_intro">Схаваць асістэнт дотыку ў абраных праграмах</string>
+  <string name="hide_when_fullscreen">Схаваць у поўнаэкранным рэжыме</string>
+  <string name="hide_when_fullscreen_intro">Схаваць пры ўваходзе ў поўнаэкранны рэжым</string>
   <string name="mi_ai">Цэтлікі Mi ШI</string>
   <string name="mi_wallet_summary">Транспартная карта/Mi Pay/Ключ-карта</string>
   <string name="midnight">Ноч</string>

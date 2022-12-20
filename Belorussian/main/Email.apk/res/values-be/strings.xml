@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_add_title">Выберыце паштовы сэрвіс</string>
+  <string name="account_add_title">Абярыце паштовы сэрвіс</string>
   <string name="account_duplicate_dlg_message_fmt">Вы ўжо выкарыстоўваеце гэтае імя для акаўнта \"%s\".</string>
   <string name="account_duplicate_dlg_title">Дублікат акаўнта</string>
   <string name="account_failure">Час сеанса скончыўся</string>
@@ -64,7 +64,7 @@
   <string name="account_settings_user_usage">Налады акаўнта</string>
   <string name="account_settings_using_ringtone">Мелодыя</string>
   <string name="account_settings_vibrate_when_label">Вібрацыя</string>
-  <string name="account_setup_account_type_instructions">Выберыце тып акаўнта</string>
+  <string name="account_setup_account_type_instructions">Абярыце тып акаўнта</string>
   <string name="account_setup_account_type_title">Наладка акаўнта</string>
   <string name="account_setup_address_label">Email</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Пацвердзіце карэктнасць імя карыстальніка, пароля і параметраў акаўнта.</string>
@@ -224,7 +224,7 @@
   <string name="attendee_needed">Дадайце хаця б аднаго запрошанага.</string>
   <string name="auto_advance_help_title">Пасля выдалення паведамлення, праглядзець…</string>
   <string name="auto_advance_label">Выдаліць гутарку</string>
-  <string name="auto_advance_summary">Выберыце паведамленне для прагляду пасля выдалення папярэдняга</string>
+  <string name="auto_advance_summary">Абярыце паведамленне для прагляду пасля выдалення папярэдняга</string>
   <string name="auto_login_fail">Не атрымалася ўвайсці аўтаматычна</string>
   <string name="auto_login_fail_to_retry">Не атрымалася ўвайсці аўтаматычна, паспрабуйце зноў.</string>
   <string name="auto_mail_enable_txt">Уключыць</string>
@@ -362,7 +362,7 @@
   <string name="conversation_item_mark_unread">Не прачытана</string>
   <string name="conversation_message_encrypt_tips">Гэты email зашыфраваны. Дадайце сертыфікат, неабходны для расшыфроўкі.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Адпраўлена "</string>
-  <string name="conversation_photo_welcome_text">Націсніце на выяву адпраўніка, каб выбраць гэтую гутарку.</string>
+  <string name="conversation_photo_welcome_text">Націсніце на выяву адпраўніка, каб абраць гэтую гутарку.</string>
   <string name="conversation_pull_ad_content">Кіруйце вашымі Email-лістамі без асаблівых высілкаў</string>
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">Скасаваць</string>
@@ -401,7 +401,7 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Дыспетчар прылад не актываваны</string>
   <string name="device_not_activiey_lint2">Паштовая служба не працуе з Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Вы выбралі сінхранізацыю лістоў уручную. Абнавіце, каб сінхранізаваць.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Вы абралі сінхранізацыю лістоў уручную. Абнавіце, каб сінхранізаваць.</string>
   <string name="dialog_agree">Згодзен</string>
   <string name="dialog_change_sync_lookback">Пошта, атрыманая %s таму, будзе выдаленая аўтаматычна. Націсніце, каб змяніць.</string>
   <string name="dialog_disagree">Не згодны</string>
@@ -598,8 +598,8 @@
   <string name="login_des_rediff">Уваход у Rediffmail</string>
   <string name="login_des_yahoo">Уваход у Yahoo Mail</string>
   <string name="login_des_yangdex">Уваход у Yandex Mail</string>
-  <string name="login_err_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы выбралі гэтую опцыю раней. Перайдзіце па адрасе https://email.163.com/ для скіду пароля або кода доступу.</string>
-  <string name="login_err_sina_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы выбралі гэтую опцыю раней. Перайдзіце па адрасе https://mail.sina.com.cn/ для скіду пароля або кода доступу.</string>
+  <string name="login_err_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы абралі гэтую опцыю раней. Перайдзіце па адрасе https://email.163.com/ для скіду пароля або кода доступу.</string>
+  <string name="login_err_sina_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы абралі гэтую опцыю раней. Перайдзіце па адрасе https://mail.sina.com.cn/ для скіду пароля або кода доступу.</string>
   <string name="login_failed_ticker">Няўдалы ўваход у акаўнт \"%s\".</string>
   <string name="login_failed_tip">"Звяжыцеся з намі ў WeChat, каб атрымаць дапамогу: "</string>
   <string name="login_failed_title">Памылка аўтарызацыі</string>
@@ -607,7 +607,7 @@
   <string name="login_qq_psw">Увайдзіце, выкарыстоўваючы код аўтарызацыі</string>
   <string name="login_support_tip_text">Падтрымка ўсіх асноўных акаўнтаў электроннай пошты</string>
   <string name="login139">Увайсці з дапамогай China Mobile</string>
-  <string name="long_press_to_select_tip">Націсніце i ўтрымлівайце, каб выбраць адну гутарку, а затым націскайце, каб выбраць больш.</string>
+  <string name="long_press_to_select_tip">Націсніце i ўтрымлівайце, каб абраць адну гутарку, а затым націскайце, каб абраць больш.</string>
   <string name="long_string">доооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооўгі радок</string>
   <string name="mail">Пошта</string>
   <string name="mail_body_turncated">Гэта паведамленне занадта вялікае, каб загрузіць, таму адлюстроўваецца толькі яго частка. Калі ласка, прачытайце яго цалкам пазней на камп\'ютары.</string>
@@ -792,7 +792,7 @@
   <string name="outbox_alert_failed_edit_resend">Не атрымалася адправіць. Змяніце паведамленне і паўтарыце спробу.</string>
   <string name="outbox_alert_mailbox_not_found">Email-адрас не знойдзены</string>
   <string name="outbox_alert_rw_io_error">Адбылася памылка. Пачакайце адну-дзве хвіліны і паспрабуйце зноў.</string>
-  <string name="outbox_alert_select_operation">Выберыце дзеянне</string>
+  <string name="outbox_alert_select_operation">Абярыце дзеянне</string>
   <string name="outbox_alert_title_sent_failed">Не атрымалася адправіць пошту</string>
   <string name="outbox_no_mails">Пуста</string>
   <string name="outlook_login_failed_non_proxy_title">Няма доступу да сервера Outlook</string>
@@ -837,7 +837,7 @@
   <string name="permission_access_provider_desc">Дазваляе праграме атрымаць доступ да электроннай пошты, імёнам карыстальнікаў і паролям</string>
   <string name="permission_access_provider_label">Доступ да даных карыстальніка</string>
   <string name="permission_des_calendar">Для сінхранізацыі падзей календара</string>
-  <string name="permission_des_contact">Для сінхранізацыі вашых кантактаў электроннай пошты як сістэмных кантактаў. Мы рэкамендуем выбраць \"Заўсёды дазваляць\", каб пазбегнуць перапыненняў.</string>
+  <string name="permission_des_contact">Для сінхранізацыі вашых кантактаў электроннай пошты як сістэмных кантактаў. Мы рэкамендуем абраць \"Заўсёды дазваляць\", каб пазбегнуць перапыненняў.</string>
   <string name="permission_des_detail">Калі вы не згодныя прадастаўляць такія дазволы або дзяліцца асабістай інфармацыяй і загружаць яе, вы не зможаце скарыстацца гэтай праграмай. Вы можаце выдаліць яе, выйсці з сістэмы або абмежаваць дазволы ў Наладах.</string>
   <string name="permission_des_external_storage">Для стварэння новых лістоў, а таксама захавання і дадання прымацаванняў</string>
   <string name="permission_des_phone_status">Для доступу да IMEI ў мэтах ідэнтыфікацыі вашай прылады</string>
@@ -949,7 +949,7 @@
   <string name="quick_2">Гучыць выдатна!</string>
   <string name="quick_3">Я адкажу пазней.</string>
   <string name="quick_4">Давайце сустрэнемся, каб абмеркаваць гэта.</string>
-  <string name="quick_reply_dialog_title">Выберыце адказ</string>
+  <string name="quick_reply_dialog_title">Абярыце адказ</string>
   <string name="quick_reply_expend">Больш</string>
   <string name="quick_reply_hint_bcc">(Да ўтоеных копій)</string>
   <string name="quick_reply_hint_cc">(у копію)</string>
@@ -1044,9 +1044,9 @@
   <string name="security_notification_content_update_title">Патрабуецца абнаўленне сістэмы бяспекі</string>
   <string name="security_unsupported_ticker_fmt">Акаўнт \"%s\" не можа быць сінхранізаваны з-за патрабаванняў сістэмы бяспекі.</string>
   <string name="see_more_content">Паказаць больш</string>
-  <string name="select_attachment_type">Выберыце прымацаванне з</string>
-  <string name="select_no_file">Прымацаванні не выбраны</string>
-  <string name="select_path">Выберыце шлях</string>
+  <string name="select_attachment_type">Абярыце прымацаванне з</string>
+  <string name="select_no_file">Прымацаванні не абраны</string>
+  <string name="select_path">Абярыце шлях</string>
   <string name="send">Даслаць</string>
   <string name="send_encrypt_dialog_fail_content">У атрымальніка няма праверанага сертыфіката, неабходнага для расшыфроўкі гэтага email. Адправіць звычайны email?</string>
   <string name="send_encrypt_dialog_fail_title">Немагчыма адправіць зашыфраваны email</string>
@@ -1059,7 +1059,7 @@
   <string name="sending">Адпраўка…</string>
   <string name="sending_message">Адпраўка паведамлення…</string>
   <string name="sending_quick_reply">Адпраўка: \"%s\"</string>
-  <string name="sent_folder_selection_title">Выберыце тэчку \"Адпраўленыя\" на серверы для %s</string>
+  <string name="sent_folder_selection_title">Абярыце тэчку \"Адпраўленыя\" на серверы для %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">Не атрымалася спраўдзіць сертыфікат сервера\n(Пераканайцеся, што \'Аўтаматычная сінхранізацыя\' уключана ў Наладах)</string>
   <string name="ser_resp_err_map_landing_more_failure">Занадта шмат няўдалых спроб увайсці</string>
   <string name="ser_resp_err_map_landing_too_frequently">Занадта шмат спроб увайсці</string>
@@ -1078,7 +1078,7 @@
   <string name="setting_kids_subtitle">Пацвердзіце ўзрост карыстальніка</string>
   <string name="setting_kids_title">Больш за 16 гадоў</string>
   <string name="settings_activity_title">Налады</string>
-  <string name="share_choose">Выберыце файл, каб падзяліцца</string>
+  <string name="share_choose">Абярыце файл, каб падзяліцца</string>
   <string name="sharing">Падзяліцца</string>
   <string name="shortcut_name_title">Назва цэтлiка тэчкі</string>
   <string name="show_contact_address">Паказаць email-адрас кантакта</string>
@@ -1115,12 +1115,12 @@
   <string name="syncing_wait_restart">Паспрабаваць ізноў</string>
   <string name="syncing_wait_restart_title">Перавышаны час чакання</string>
   <string name="system_account_create_failed">Не атрымалася стварыць акаўнт. Паўтарыць.</string>
-  <string name="system_folders_sent_dlg">Выберыце тэчку \"Адпраўленыя\" на вашым серверы</string>
-  <string name="system_folders_sent_summary">Выберыце тэчку \"Адпраўленыя\" на вашым серверы</string>
+  <string name="system_folders_sent_dlg">Абярыце тэчку \"Адпраўленыя\" на вашым серверы</string>
+  <string name="system_folders_sent_summary">Абярыце тэчку \"Адпраўленыя\" на вашым серверы</string>
   <string name="system_folders_sent_title">Тэчка \"Адпраўленыя\"</string>
   <string name="system_folders_title">Сыстэмныя тэчкі</string>
-  <string name="system_folders_trash_dlg">Выберыце тэчку \"Сметніца\" на вашым серверы</string>
-  <string name="system_folders_trash_summary">Выберыце тэчку \"Сметніца\" на вашым серверы</string>
+  <string name="system_folders_trash_dlg">Абярыце тэчку \"Сметніца\" на вашым серверы</string>
+  <string name="system_folders_trash_summary">Абярыце тэчку \"Сметніца\" на вашым серверы</string>
   <string name="system_folders_trash_title">Сметніца</string>
   <string name="system_root_path">Налады ўнутранага сховішча</string>
   <string name="system_security_open_error">Надайце дазволы ў Наладах, каб адкрыць Бяспеку</string>
@@ -1163,7 +1163,7 @@
   <string name="translation_pronunciation_other">Машынны</string>
   <string name="translation_query_failure">Нічога не знойдзена</string>
   <string name="translation_technology_support">Тэхнічная падтрымка на iciba.com</string>
-  <string name="trash_folder_selection_title">Выберыце тэчку \"Сметніца\" на серверы для %s</string>
+  <string name="trash_folder_selection_title">Абярыце тэчку \"Сметніца\" на серверы для %s</string>
   <string name="trigger_before_day">За %d дз. да пачатку</string>
   <string name="trigger_before_hour">За %d г. да пачатку</string>
   <string name="trigger_before_minute">За %d хв. да пачатку</string>
@@ -1234,7 +1234,7 @@
   <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
   <string name="abc_action_mode_done">Гатова</string>
   <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
-  <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+  <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
   <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -1262,7 +1262,7 @@
   <string name="b_contacts_remove_tips">Выдаліць гэты адрас з чорнага спісу?</string>
   <string name="bContact_list_search_hint">Пошук заблакаваных кантактаў</string>
   <string name="choose_an_office365_international">Міжнародная версія</string>
-  <string name="choose_an_office365_provider">Выберыце пастаўшчыка паслуг office365</string>
+  <string name="choose_an_office365_provider">Абярыце пастаўшчыка паслуг office365</string>
   <string name="choose_an_office365_sj">Версія 21Vianet</string>
   <string name="conversation_report_spam">Паведаміць пра спам</string>
   <string name="conversation_spam_dig_msg">Пазначыць гэта паведамленне як спам? Гэта паведамленне будзе перамешчана ў тэчку «Спам», а адпраўнік будзе дададзены ў чорны спіс.</string>
@@ -1467,7 +1467,7 @@
   <string name="miuix_appcompat_search_input_description">Пошук</string>
   <string name="miuix_appcompat_select_all">Выбраць усё</string>
   <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
-  <string name="miuix_appcompat_select_item">Выберыце аб\'екты</string>
+  <string name="miuix_appcompat_select_item">Абярыце аб\'екты</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
@@ -1522,7 +1522,7 @@
   <string name="night">Вечар</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_install_qq_tip">Паспяхова скапіявана. Адкрыйце QQ і знайдзіце групу, да якой хочаце далучыцца.</string>
-  <string name="notification_message">Апавяшчаць аб новых паведамленнях толькі ў выбраных тэчках?</string>
+  <string name="notification_message">Апавяшчаць аб новых паведамленнях толькі ў абраных тэчках?</string>
   <string name="notification_off">Выкл.</string>
   <string name="notification_on">Укл.</string>
   <string name="operation_settging">Дзеянні</string>
@@ -1641,7 +1641,7 @@
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
   <string name="compose_add_attachment_permission_denied">Не ўдаецца перасылаць электронную пошту. Патрабуюцца дазволы для доступу да знешняга сховішча.</string>
   <string name="default_signature_pad">Адпраўлена з маёй Mi прылады</string>
-  <string name="download_before_sharing2">Некаторыя з выбраных элементаў не загружаныя. Спачатку загрузіце іх.</string>
+  <string name="download_before_sharing2">Некаторыя з абраных элементаў не загружаныя. Спачатку загрузіце іх.</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць раскрываючаяся меню</string>
   <string name="folder_list_current_account">Бягучы акаўнт</string>
@@ -1668,7 +1668,7 @@
   <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
   <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
   <string name="mtrl_picker_announce_current_selection">Бягучы выбар: %1$s</string>
-  <string name="mtrl_picker_date_header_title">Выберыце дату</string>
+  <string name="mtrl_picker_date_header_title">Абярыце дату</string>
   <string name="mtrl_picker_date_header_unselected">Абраная дата</string>
   <string name="mtrl_picker_day_of_week_column_header">Слупок дзён: %1$s</string>
   <string name="mtrl_picker_invalid_format">Няправільны фармат.</string>
@@ -1679,7 +1679,7 @@
   <string name="mtrl_picker_out_of_range">Па-за дыяпазону: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку - %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s - Дата заканчэння</string>
-  <string name="mtrl_picker_range_header_title">Выберыце дыяпазон дат</string>
+  <string name="mtrl_picker_range_header_title">Абярыце дыяпазон дат</string>
   <string name="mtrl_picker_range_header_unselected">Дата пачатку - Дата заканчэння</string>
   <string name="mtrl_picker_save">Захаваць</string>
   <string name="mtrl_picker_text_input_date_hint">Дата</string>
@@ -1698,9 +1698,9 @@
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="privacy_and_help">Прыватнасць</string>
   <string name="progress">Ход выканання:</string>
-  <string name="welcome_contact_list_title">Выберыце кантакт</string>
-  <string name="welcome_folder_list_title">Выберыце тэчку для прагляду</string>
-  <string name="welcome_mail_list_title">Выберыце ліст для прагляду</string>
+  <string name="welcome_contact_list_title">Абярыце кантакт</string>
+  <string name="welcome_folder_list_title">Абярыце тэчку для прагляду</string>
+  <string name="welcome_mail_list_title">Абярыце ліст для прагляду</string>
   <string name="show_attachment">Паказаць ўкладанне</string>
   <string name="copy_toast_msg">Спасылка скапіяваная ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
@@ -1772,8 +1772,8 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="account_setup_domain_invalid_toast">Увядзіце сапраўдны дамен электроннай пошты</string>
   <string name="attachment_drag_add_inline">Убудаваць</string>
-  <string name="attachment_drag_add_picture_prompt">Вы хочаце ўбудаваць ці прымацаваць выбраныя выявы?</string>
-  <string name="attachment_drag_create_email_prompt">Прымацаваць выбраныя файлы да новага ліста?</string>
+  <string name="attachment_drag_add_picture_prompt">Вы хочаце ўбудаваць ці прымацаваць абраныя выявы?</string>
+  <string name="attachment_drag_create_email_prompt">Прымацаваць абраныя файлы да новага ліста?</string>
   <string name="compose_encrypt_lock_description">Зашыфраваць</string>
   <string name="compose_encrypt_unlock_description">Расшыфраваць</string>
   <string name="compose_encrypt_unlock_w_description">Не давераны кантакт</string>

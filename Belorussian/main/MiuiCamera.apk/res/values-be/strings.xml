@@ -1046,7 +1046,7 @@
   <string name="module_name_square">Квадрат</string>
   <string name="module_name_super_moon">Супермесяц</string>
   <string name="module_name_video">Відэа</string>
-  <string name="module_name_vlog">ВІДЭАБЛОГ</string>
+  <string name="module_name_vlog">Відэаблог</string>
   <string name="moive_frame">Кадр фільма</string>
   <string name="moon">Месяц</string>
   <string name="more_mode_style">Наладзьце размяшчэнне рэжымаў камеры</string>
@@ -1121,7 +1121,7 @@
   <string name="parameter_peak_focus_title">Вызначэнне вобласці факусіравання</string>
   <string name="parameter_peak_raw_description">Здымка ў дадзеным фармаце дазваляе захаваць усе дадзеныя аб выяве, атрыманыя фотаматрыцай. Несціснутыя дадзеныя даюць дадатковыя магчымасці падчас постапрацоўкі.</string>
   <string name="parameter_peak_raw_title">Фармат RAW</string>
-  <string name="parameter_videos_title">Кіноэфекты</string>
+  <string name="parameter_videos_title">Кінаэфекты</string>
   <string name="parameter_wb_description">Уключае ў сябе «Аўта», перадусталёўкі (лямпа напальвання, дзённае святло, люмінесцэнтная, воблачна) і прыстасаваныя наладкі (можна ўсталяваць дыяпазон каляровай тэмпературы ў дыяпазоне %1$d-%2$d Кельвінаў).</string>
   <string name="parameter_wb_title">Баланс белага</string>
   <string name="parameter_zoom_slider_description">Перацягвайце паўзунок маштабавання гарызантальна, каб плаўна змяняць набліжэнне вашага здымка ад далёкага да буйнога плана.</string>

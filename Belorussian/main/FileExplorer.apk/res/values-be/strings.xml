@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
   <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
   <string name="abc_toolbar_collapse_description">Згарнуць</string>
-  <string name="access_limit">Абмежаванні доступу</string>
+  <string name="access_limit">Абмежаванне доступу</string>
   <string name="access_tips">Няма доступу да элементаў. Паспрабуйце замест гэтага выкарыстоўваць Android Storage Access Framework.</string>
   <string name="action_mode_deselect_all">Зняць выбар з усіх</string>
   <string name="action_mode_select_all">Абраць усё</string>
@@ -42,7 +42,7 @@
   <string name="am">ДП</string>
   <string name="app_all_purpose">Вы можаце выкарыстоўваць гэту праграму для кіравання файламі ў тэлефоне.</string>
   <string name="app_all_purpose_pad">Сардэчна запрашаем у Правадыр! Выкарыстоўвайце гэту праграму для кіравання файламі, захаванымі на вашай прыладзе.</string>
-  <string name="app_function">Упраўленне файламі на вашай прыладзе</string>
+  <string name="app_function">Кіраванне файламі на вашай прыладзе</string>
   <string name="app_name">Правадыр</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Камера</string>
@@ -56,7 +56,7 @@
   <string name="app_name_recorder">Дыктафон</string>
   <string name="app_name_screenshot">Скрыншоты</string>
   <string name="available_size">Даступна: %s</string>
-  <string name="big5_summary">Стандартная кадыроўка ў традыцыйнай кітайскай версіі Windows</string>
+  <string name="big5_summary">Стандартнае кадаванне ў традыцыйнай кітайскай версіі Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="by_date">Па даце</string>
   <string name="by_name">Па iмя</string>
@@ -83,7 +83,7 @@
   <string name="category_file">Файлы</string>
   <string name="category_files">Файлы</string>
   <string name="category_installed_app">Усталяваныя праграмы</string>
-  <string name="category_midrive">Mi Дыск</string>
+  <string name="category_midrive">Mi дыск</string>
   <string name="category_more">Яшчэ</string>
   <string name="category_music">Музыка</string>
   <string name="category_other">Іншыя</string>
@@ -98,7 +98,7 @@
   <string name="category_type_other">Іншыя</string>
   <string name="category_video">Відэа</string>
   <string name="category_zip">Архівы</string>
-  <string name="cdd_message">З-за абмежаванняў Android 11 вы не зможаце праглядаць некаторыя файлы ў Правадыру, створаныя ў іншых праграмах.</string>
+  <string name="cdd_message">З-за абмежаванняў Android вы не зможаце праглядаць некаторыя файлы ў Правадыру, створаныя ў іншых праграмах.</string>
   <string name="cdd_title">Увага</string>
   <string name="character_counter_content_description">Уведзена знакаў %1$d з %2$d</string>
   <string name="character_counter_overflowed_content_description">Перавышаны абмежаванне на колькасць знакаў %1$d з %2$d</string>
@@ -247,9 +247,9 @@
   <string name="function_file_operation">"Для доступу да файлаў і іх адкрыцця; "</string>
   <string name="function_set_private">"Для прагляду і шыфравання файлаў; "</string>
   <string name="function_use_imei">"Для доступу да IMEI і шыфравання файлаў; "</string>
-  <string name="gbk_summary">Стандартная кадыроўка ў спрошчанай кітайскай версіі Windows</string>
+  <string name="gbk_summary">Стандартнае кадаванне ў спрошчанай кітайскай версіі Windows</string>
   <string name="gbk_title">GBK</string>
-  <string name="gigabyteShort">ГБ</string>
+  <string name="gigabyteShort">Гб</string>
   <string name="go_ahead">Адкрыць</string>
   <string name="grid_mode">Прагляд табліцай</string>
   <string name="group_title">%2$s з %1$s</string>
@@ -281,7 +281,7 @@
   <string name="internal_storage">Унутранае сховішча</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="just_now">Толькі што</string>
-  <string name="kilobyteShort">КБ</string>
+  <string name="kilobyteShort">Кб</string>
   <string name="launcher_icon_add_description">Дадаць цэтлiк на працоўны стол</string>
   <string name="launcher_icon_remove_description_content">\"Правадыр\" - гэта сістэмная праграма. Пасля выдалення цэтліка на працоўным стале вы не зможаце кіраваць файламі на сваей прыладзе.</string>
   <string name="launcher_icon_remove_description_title">Выдаліць \"Правадыр\" з працоўнага стала?</string>
@@ -298,9 +298,9 @@
   <string name="make_private_msg_3">Усе файлы ў гэтай тэчке будуць зробленыя прыватнымі.</string>
   <string name="material_slider_range_end">Канец дыяпазону,</string>
   <string name="material_slider_range_start">Пачатак дыяпазону,</string>
-  <string name="megabyteShort">МБ</string>
+  <string name="megabyteShort">Мб</string>
   <string name="menu_item_cleanup">Ачыстка</string>
-  <string name="menu_item_ftp">Далучыцца да камп\'ютара</string>
+  <string name="menu_item_ftp">Падлучэнне да кампутара</string>
   <string name="menu_item_router">Маршрутызтар</string>
   <string name="menu_item_search">Пошук</string>
   <string name="menu_item_sort">Сартаваць па</string>
@@ -317,7 +317,7 @@
   <string name="mi_share">Атрыманыя файлы</string>
   <string name="midnight">Ноч</string>
   <string name="midriver_install_button_text">Усталяваць</string>
-  <string name="midriver_not_install_title">Mi Дыск выдалены</string>
+  <string name="midriver_not_install_title">Mi дыск выдалены</string>
   <string name="mirror_can_not_drag_mask">Перацягнiце, каб выкарыстоўваць Абмен файламі</string>
   <string name="mirror_can_not_drag_mask_new">Перацягнiце элементы ў %s</string>
   <string name="mirror_new_name">Стварыць тэчку (%s)</string>
@@ -336,7 +336,7 @@
   <string name="mirror_storage_internal_desc">Памяць тэлефона</string>
   <string name="mirror_tip_add_file">Стварыць тэчку</string>
   <string name="mirror_tip_backward">Назад</string>
-  <string name="mirror_tip_cloud">Mi Дыск</string>
+  <string name="mirror_tip_cloud">Mi дыск</string>
   <string name="mirror_tip_forward">Наперад</string>
   <string name="mirror_tip_grid">Табліца</string>
   <string name="mirror_tip_list">Спіс</string>
@@ -521,7 +521,7 @@
   <string name="permission_denial">Няма доступу да файлаў. Дазвольце доступ да файлаў у раздзеле Налады.</string>
   <string name="permission_description">Інфармацыя пра дазволы</string>
   <string name="permission_required">Няма доступу да файлаў. Дазвольце доступ да файлаў у раздзеле Налады.​</string>
-  <string name="petabyteShort">ПБ</string>
+  <string name="petabyteShort">Пб</string>
   <string name="phone">Сховішча</string>
   <string name="phone_storage">Сховішча</string>
   <string name="phone_storage_apk_title">Праграмы: </string>
@@ -615,7 +615,7 @@
   <string name="select_volume">Выбірайце месца захавання</string>
   <string name="send">Адаслаць</string>
   <string name="server_control_advanced_settings">Дадатковыя налады</string>
-  <string name="server_control_charset">Кадыроўка падчас перадачы</string>
+  <string name="server_control_charset">Кадаванне падчас перадачы</string>
   <string name="server_control_settings">Налады</string>
   <string name="set_pattern">Абнавіце ваш пароль</string>
   <string name="set_pattern_btn">Задаць</string>
@@ -683,7 +683,7 @@
   <string name="tab_local">Лакальна</string>
   <string name="tab_more">Больш</string>
   <string name="tab_source">Праграмы</string>
-  <string name="terabyteShort">ТВ</string>
+  <string name="terabyteShort">Тб</string>
   <string name="text_select_all">Выбраць</string>
   <string name="text_select_nothing">Адмяніць</string>
   <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>
@@ -765,7 +765,7 @@
   <string name="used">Выкарыстана</string>
   <string name="user_guide_continue_use">ОК</string>
   <string name="user_not_login">Спачатку трэба ўвайсці</string>
-  <string name="utf8_summary">Тып кадавання па змаўчанні</string>
+  <string name="utf8_summary">Кадаванне па змаўчанні</string>
   <string name="utf8_title">UTF-8</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
@@ -807,24 +807,24 @@
   <string name="widget_name">Нядаўна прагледжаныя файлы</string>
   <string name="action_cache_to_local">Спампаваць на прыладу</string>
   <string name="action_release_file_cache">Ачысціць кэш</string>
-  <string name="cancel_mi_drive">Адмяніць паслугі Mi Дыска</string>
-  <string name="cancel_mi_drive_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi Дыска, каб адмяніць паслугі. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. На пачатковай старонцы Mi Дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
-  <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi Дыск і спампуйце свае аб\'екты на кампутар.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
+  <string name="cancel_mi_drive">Адмяніць паслугі Mi дыска</string>
+  <string name="cancel_mi_drive_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi дыска, каб адмяніць паслугі. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. На пачатковай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
+  <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi дыск і спампуйце свае аб\'екты на кампутар.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
   <string name="cancel_mi_drive_confirm_button">Адмяніць паслугі</string>
-  <string name="cancel_mi_drive_confirm_description">Калі вы працягнеце, вы адмяніце паслугі Mi Дыска. Мы спынім збор вашай асабістай інфармацыі, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяду ў адпаведнасці з дастасавальнымі законамі і правіламі, калі не патрабуецца іншае.</string>
-  <string name="cancel_mi_drive_confirm_hint">Адмена паслуг Mi Дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і паслуг Xiaomi. Калі вы хочаце выдаліць свой Xiaomi акаўнт, вы можаце зрабіць гэта &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;тут&lt;/a&gt;&lt;/font&gt;.</string>
-  <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Наступныя аб\'екты будуць выдаленыя назаўжды пасля адмены паслуг:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Усе аб\'екты ў Mi Дыску, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя аб\'екты.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Гісторыя спамповак і запамповак Mi Дыска.</string>
-  <string name="cancel_mi_drive_privacy_revoked_retry">Уключыце Mi Дыск і паспрабуйце зноў</string>
+  <string name="cancel_mi_drive_confirm_description">Калі вы працягнеце, вы адмяніце паслугі Mi дыска. Мы спынім збор вашай асабістай інфармацыі, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяду ў адпаведнасці з дастасавальнымі законамі і правіламі, калі не патрабуецца іншае.</string>
+  <string name="cancel_mi_drive_confirm_hint">Адмена паслуг Mi дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і паслуг Xiaomi. Калі вы хочаце выдаліць свой Xiaomi акаўнт, вы можаце зрабіць гэта &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;тут&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Наступныя аб\'екты будуць выдаленыя назаўжды пасля адмены паслуг:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Усе аб\'екты ў Mi дыску, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя аб\'екты.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Гісторыя спамповак і запамповак Mi дыска.</string>
+  <string name="cancel_mi_drive_privacy_revoked_retry">Уключыце Mi дыск і паспрабуйце зноў</string>
   <string name="cancel_mi_drive_success">Паслугі паспяхова адмененыя</string>
   <string name="cancel_mi_drive_title">Адмяніць паслугі</string>
-  <string name="category_cloud_drive">Mi Дыск</string>
+  <string name="category_cloud_drive">Mi дыск</string>
   <string name="cloud_copy_to_local_title">Захаваць у…</string>
-  <string name="cloud_drive_files">Файлы Mi Дыска</string>
+  <string name="cloud_drive_files">Файлы Mi дыска</string>
   <string name="cloud_drive_not_login_summary">Уваход не выкананы</string>
-  <string name="cloud_drive_settings">Налады Mi Дыска</string>
-  <string name="cloud_empty_hint_text">Тут пакуль нічога няма.\nПаспрабуйце перамясціць файлы са сваёй прылады на Mi Дыск.</string>
+  <string name="cloud_drive_settings">Налады Mi дыска</string>
+  <string name="cloud_empty_hint_text">Тут пакуль нічога няма.\nПаспрабуйце перамясціць файлы са сваёй прылады на Mi дыск.</string>
   <string name="cloud_guide_summary_text">Аўтаматычна сінхранізуйце свае аб\'екты з усімі вашымі прыладамі</string>
-  <string name="cloud_guide_title_text">Сінхранізаваць з Mi Дыскам</string>
+  <string name="cloud_guide_title_text">Сінхранізаваць з Mi дыскам</string>
   <string name="cloud_permission_storage_desc">Для захавання фота і дакументаў на прыладзе</string>
   <string name="cloud_recycle_bin">Нядаўна выдаленыя аб\'екты</string>
   <string name="cloud_space_full">Воблачнае сховішча запоўнена. Павысьце ўзровень плана сховішча, каб загружаць больш аб\'ектаў.</string>
@@ -841,12 +841,12 @@
   <string name="data_consume_dialog_message">Зараз вы карыстаецеся мабільным інтэрнэтам. Калі вы працягнеце, будзе выкарыстана %s дадзеных.</string>
   <string name="data_consume_dialog_title">Карыстацца мабільным інтэрнэтам?</string>
   <string name="data_consume_dialog_upload_title">Запампаваць праз мабільны інтэрнэт</string>
-  <string name="dialog_account_permission_denied_msg">Дазвольце гэтай праграме доступ да акаўнтаў прылады, каб увайсці ў Mi Дыск. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="dialog_account_permission_denied_msg">Дазвольце гэтай праграме доступ да акаўнтаў прылады, каб увайсці ў Mi дыск. Вы можаце прадаставіць гэты дазвол у наладах.</string>
   <string name="dialog_account_permission_denied_negative_button">Скасаваць</string>
   <string name="dialog_account_permission_denied_positive_button">Налады</string>
   <string name="dialog_account_permission_denied_title">Патрабуюцца дазволы</string>
   <string name="dialog_open_mi_drive_button">Зразумела</string>
-  <string name="dialog_open_mi_drive_err">Перазагрузіце Mi Дыск і паспрабуйце зноў.</string>
+  <string name="dialog_open_mi_drive_err">Перазагрузіце Mi дыск і паспрабуйце зноў.</string>
   <string name="dialog_open_mi_drive_title">Памылка сервера</string>
   <string name="exception_net_not_available">Праверце налады сеткі і паспрабуйце зноў</string>
   <string name="h5_ppt_to_pdf_introduce_title">Аб стварэнні PDF-файлаў</string>
@@ -854,10 +854,10 @@
   <string name="manage_cloud_space">Кіраванне воблачным сховішчам</string>
   <string name="midrive_display_related">Паказваць</string>
   <string name="midrive_get_cloudvideo_file">Хвілінку…</string>
-  <string name="midrive_hide_recent_cloud_files">Не паказваць файлы Mi Дыска у Нядаўніх</string>
+  <string name="midrive_hide_recent_cloud_files">Не паказваць файлы Mi дыска у Нядаўніх</string>
   <string name="midrive_not_found">Не ўдалося атрымаць доступ да аб\'екта</string>
   <string name="midrive_overseas_unavailable">Гэтая функцыя даступная толькі ў мацерыковым Кітаі.</string>
-  <string name="midrive_reset_privacy_and_check_availability_retry">Не атрымалася ўключыць Mi Дыск. Паспрабуйце зноў.</string>
+  <string name="midrive_reset_privacy_and_check_availability_retry">Не атрымалася ўключыць Mi дыск. Паспрабуйце зноў.</string>
   <string name="new_storage_info_detail">Вольна: %1$s | Усяго: %2$s</string>
   <string name="no_network">Немагчыма злучыцца з сеткай</string>
   <string name="no_network_error_message">Праверце налады сеткі і паспрабуйце зноў.</string>
@@ -865,7 +865,7 @@
   <string name="notification_title_sync_result">Сінхранізацыя завершана</string>
   <string name="notification_title_syncing">Сінхранізацыя…</string>
   <string name="notification_title_syncing_with_count">Сінхранізацыя аб\'ектаў. Засталося файлаў: %1$s</string>
-  <string name="open_cloud_drive">Уключыць Mi Дыск</string>
+  <string name="open_cloud_drive">Уключыць Mi дыск</string>
   <string name="operation_batch_failed_err">Не атрымалася выканаць гэтае дзеянне для некалькіх файлаў.</string>
   <string name="operation_cache_use_data">Спампаваць</string>
   <string name="operation_cache_use_free_network">Чаканне Wi-Fi</string>
@@ -914,20 +914,20 @@
   <string name="permission_storage_title">Атрымаць доступ да сховішча прылады</string>
   <string name="permission_storage_title_pad">Доступ да сховішча прылады</string>
   <string name="pre_privacy_recall">Адкліканне згоды</string>
-  <string name="privacy_recall_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi Дыска, каб адклікаць згоду. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. На пачатковай старонцы Mi Дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
-  <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi Дыск і спампуйце свае аб\'екты на кампутар.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
+  <string name="privacy_recall_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi дыска, каб адклікаць згоду. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. На пачатковай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
+  <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi дыск і спампуйце свае аб\'екты на кампутар.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
   <string name="privacy_recall_confirm_button">Адклікаць</string>
   <string name="privacy_recall_confirm_description">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай канфідэнцыйнасці Правадыра. Мы перастанем збіраць вашу асабістую інфармацыю. Асабістая інфармацыя, якая ўжо сабрана і захавана, будзе выдаленая на працягу пэўнага перыяду ў адпаведнасці з дастасавальнымі законамі і нарматыўнымі актамі, калі не патрабуецца іншае.</string>
-  <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Наступныя аб\'екты будуць выдаленыя назаўжды пасля адклікання згоды:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Усе аб\'екты ў Mi Дыске, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя аб\'екты.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Гісторыя спамповак і запамповак Mi Дыска.</string>
+  <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Наступныя аб\'екты будуць выдаленыя назаўжды пасля адклікання згоды:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Усе аб\'екты ў Mi дыске, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя аб\'екты.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Гісторыя спамповак і запамповак Mi дыска.</string>
   <string name="privacy_recall_success">Згода адклікана</string>
   <string name="privacy_recall_title">Адкліканне згоды</string>
   <string name="privacy_recalling">Адкліканне згоды…</string>
   <string name="query_quota_exception">Здарылася памылка на серверы. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
   <string name="query_quota_searching">Хвілінку…</string>
-  <string name="recent_hide_cloud_drive_files">Не паказваць файлы Mi Дыска у Нядаўніх</string>
+  <string name="recent_hide_cloud_drive_files">Не паказваць файлы Mi дыска у Нядаўніх</string>
   <string name="reminder_card_title">Увага</string>
   <string name="update_no_network">Не атрымалася падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
-  <string name="use_mobile_data_update_summary">Выкарыстоўвайце мабільны інтэрнэт для аўтаматычнай сінхранізацыі змен у файлах, спампаваных з Mi Дыска.</string>
+  <string name="use_mobile_data_update_summary">Выкарыстоўвайце мабільны інтэрнэт для аўтаматычнай сінхранізацыі змен у файлах, спампаваных з Mi дыска.</string>
   <string name="use_mobile_data_update_title">Выкарыстоўвайце мабільныя інтэрнэт для сінхранізацыі</string>
   <string name="video_data_consume_dialog_confirm">Працягнуць</string>
   <string name="video_data_consume_dialog_title">Карыстацца мабільным інтэрнэтам?</string>

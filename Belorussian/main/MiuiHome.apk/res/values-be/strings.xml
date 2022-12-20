@@ -1101,8 +1101,8 @@
   <string name="toast_split_select_app">Націсніце на праграму, каб выкарыстоўваць падзелены экран</string>
   <string name="miui_widget_toast_for_not_support_by_pa">Віджэты такога памеру не падтрымліваюцца.</string>
   <string name="app_set_icon">Прызначыць абразок</string>
-  <string name="app_edit_icon">Рэдагаваць абразок</string>
-  <string name="dock_and_folder_not_edit_icon_tip">Для рэдагавання спачатку перамесціце праграму з панэлі і тэчкі</string>
-  <string name="dock_not_edit_icon_tip">Для рэдагавання спачатку перамесціце праграму з панэлі</string>
-  <string name="folder_not_edit_icon_tip">Для рэдагавання спачатку перамесціце праграму з тэчкі</string>
+  <string name="app_edit_icon">Змяніць абразок</string>
+  <string name="dock_and_folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм або тэчкі</string>
+  <string name="dock_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм</string>
+  <string name="folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з тэчкі</string>
 </resources>

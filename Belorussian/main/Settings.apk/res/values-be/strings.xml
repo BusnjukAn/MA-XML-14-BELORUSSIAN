@@ -3282,7 +3282,7 @@
   <string name="instant_app_details_summary">Дадатковая інфармацыя ў %1$s</string>
   <string name="instant_apps_settings">Параметры імгненных праграм</string>
   <string name="instruction_privacy_password">Гэты пароль абараняе наступныя элементы</string>
-  <string name="instruction_title">Звесткі аб бяспецы</string>
+  <string name="instruction_title">Інфармацыя аб бяспецы</string>
   <string name="insufficient_storage">Не хапае месца для захоўвання.</string>
   <string name="intelligence_suppression_summary">Дынамічна рэгулюйце памер вобласці побач з краямі, дзе выпадковы дотык будзе ігнаравацца ў залежнасці ад вашага захопу</string>
   <string name="intelligence_suppression_title">Аўта (рэкамендуецца)</string>
@@ -4272,7 +4272,7 @@
   <string name="mode_enable">Укл.</string>
   <string name="model_hardware_summary">Мадэль: %1$s; Абсталяванне: %2$s</string>
   <string name="model_info">Мадэль</string>
-  <string name="model_name">Мадэль</string>
+  <string name="model_name">Нумар мадэлі</string>
   <string name="model_number">Мадэль прылады</string>
   <string name="model_summary">Мадэль: %1$s</string>
   <string name="modern_control_center_desc">Пацягніце ўніз радок стану злева, каб праглядзець апавяшчэнні. Пацягніце ўніз радок стану справа, каб адкрыць Цэнтр кіравання.</string>
@@ -6026,7 +6026,7 @@
   <string name="security_keyguard_category_name">Экран блакавання</string>
   <string name="security_password_category_name">Блакаванне экрана</string>
   <string name="security_passwords_title">Прыватнасць</string>
-  <string name="security_patch">Абнаўленне сiстэмы бяспекі</string>
+  <string name="security_patch">Абнаўленне бяспекі</string>
   <string name="security_privacy_settings_title">Прыватнасць</string>
   <string name="security_relative">Бяспека</string>
   <string name="security_settings_face_enroll_dialog_ok">ОК</string>
@@ -10403,7 +10403,7 @@
   <string name="charge_animation_style_title">Выгляд анімацыі</string>
   <string name="charge_animation_style_video">Свячэнне</string>
   <string name="charge_animation_style_wave">Хваля</string>
-  <string name="control_panel_switch_side">Памяняць бок цэнтра кіравання</string>
+  <string name="control_panel_switch_side">Змянiць бок выклiку цэнтра кіравання</string>
   <string name="corner_assistant_gesture_summary">Правядзіце пальцам уверх ад ніжняга левага або правага кута, каб запусціць Google Асістэнт.</string>
   <string name="corner_assistant_gesture_title">Правядзіце пальцам уверх ад вугла для Google Асістэнт</string>
   <string name="default_vol_stream_title">Рэгулёўка гучнасці</string>
@@ -10440,7 +10440,7 @@
   <string name="stylus_connect">Націсніце, каб падключыць</string>
   <string name="stylus_function_and_action">Функцыі</string>
   <string name="stylus_keyboard_settings_title">Стылус і клавіятура</string>
-  <string name="stylus_language_summary">Разнаваць лічбы і рукапісны тэкст на англійскай і дадаткова абранай мове</string>
+  <string name="stylus_language_summary">Разпазнаваць лічбы і рукапісны тэкст на англійскай і дадаткова абранай мове</string>
   <string name="stylus_not_connect_message">Стылус не падлучаны</string>
   <string name="stylus_primary_key">Першая кнопка</string>
   <string name="stylus_quick_write">Рукапісны ўвод</string>

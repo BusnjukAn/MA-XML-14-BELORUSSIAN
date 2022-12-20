@@ -208,7 +208,7 @@
   <string name="edit_event_input_year">Увядзіце год</string>
   <string name="edit_event_label">Падрабязнасці</string>
   <string name="edit_event_no_reminder_value">Не нагадваць</string>
-  <string name="edit_event_reminder_3_days_before">І нагадаць за %d 3 дні (дзён)</string>
+  <string name="edit_event_reminder_3_days_before">І нагадаць за %d дні (дзён)</string>
   <string name="edit_event_reminder_summary">У той жа дзень у %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">За %2$d дні (дзён) і ў дзень падзеі ў %1$s</string>
   <string name="edit_event_reminder_text">%1$s у %2$s</string>
@@ -549,7 +549,7 @@
   <string name="no_visiable_calendar_title">Дадаць акаўнт</string>
   <string name="none">Няма</string>
   <string name="noon">Сярэдзіна дня</string>
-  <string name="not_more_than_three_weekday">Вы можаце выбраць да 3 дзён</string>
+  <string name="not_more_than_three_weekday">Вы можаце выбраць да %d  дзён</string>
   <string name="not_set">Не зададзена</string>
   <string name="notes_hint">Націсніце, каб дадаць задачу</string>
   <string name="notes_reminders_channel">Напаміны аб нататках</string>

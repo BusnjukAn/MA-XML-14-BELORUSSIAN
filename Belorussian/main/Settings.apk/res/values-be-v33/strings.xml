@@ -23,7 +23,7 @@
   <string name="accessibility_color_inversion_qs_tooltip_content">Вы можаце дадаць інверсію колераў і ў хуткія налады, якія адкрываюцца ўверсе экрана</string>
   <string name="accessibility_control_timeout_about_title">Пра час чакання дзеяння (спецыяльных магчымасцей)</string>
   <string name="accessibility_control_timeout_footer_learn_more_content_description">Даведацца больш пра час чакання дзеяння (спецыяльных магчымасцей)</string>
-  <string name="accessibility_control_timeout_preference_intro_text">Выберыце, колькі часу паказваць часовыя паведамленні з заклікамі да дзеянняў</string>
+  <string name="accessibility_control_timeout_preference_intro_text">Абярыце, колькі часу паказваць часовыя паведамленні з заклікамі да дзеянняў</string>
   <string name="accessibility_daltonizer_about_intro_text">Наладзьце адлюстраванне колераў на экране тэлефона</string>
   <string name="accessibility_daltonizer_about_title">Пра карэкцыю колераў</string>
   <string name="accessibility_daltonizer_footer_learn_more_content_description">Даведацца больш пра карэкцыю колераў</string>
@@ -90,7 +90,7 @@
   <string name="assistant_long_press_home_gesture_summary">Націсніце і ўтрымлівайце кнопку галоўнага экрана, каб выклікаць праграму \"Лічбавы памочнік\".</string>
   <string name="assistant_long_press_home_gesture_title">Для выкліку Памочніка ўтрымлівайце кнопку галоўнага экрана</string>
   <string name="auto_clean_description">Аб гэтай функцыі\n%3$d. Запусціце гэтую функцыю адзін ці два разы, калі выявіце, што дынамік злёгку забіты пылам.\n%4$d. Калі дынамік моцна заблакаваны, запусціце гэтую функцыю %1$d-%2$d разоў, калыхаючы прыладу дынамікам уніз.</string>
-  <string name="avatar_picker_title">Выберыце відарыс профілю</string>
+  <string name="avatar_picker_title">Абярыце відарыс профілю</string>
   <string name="battery_info_status_full_charged">Акумулятар поўнасцю зараджаны</string>
   <string name="battery_manager_summary_unsupported">Павялічыць тэрмін службы акумулятара</string>
   <string name="battery_tip_limited_temporarily_dialog_msg">Каб павялічыць тэрмін службы акумулятара, у пэўных абставінах, напрыклад пры працяглай зарадцы ва ўмовах высокай тэмпературы, узровень зараду можа быць абмежаваны %1$s.\n\nКалі абставіны зменяцца, тэлефон аўтаматычна пяройдзе ў звычайны рэжым зарадкі.</string>
@@ -144,10 +144,10 @@
   <string name="dream_complications_toggle_summary">Паказ на экраннай застаўцы часу, даты, інфармацыі пра надвор\'е і якасць паветра, а таксама звестак пра трансляцыю</string>
   <string name="dream_complications_toggle_title">Паказваць дадатковую інфармацыю</string>
   <string name="dream_more_settings_category">Дадатковыя налады</string>
-  <string name="dream_picker_category">Выберыце экранную застаўку</string>
+  <string name="dream_picker_category">Абярыце экранную застаўку</string>
   <string name="dream_preview_button_title">Прагледзець</string>
-  <string name="dream_setup_description">Выберыце змесціва, якое будзе паказвацца на экране, калі планшэт падключаны да док-станцыі. Пры выкарыстанні экраннай застаўкі прылада можа спажываць больш энергіі.</string>
-  <string name="dream_setup_title">Выберыце экранную застаўку</string>
+  <string name="dream_setup_description">Абярыце змесціва, якое будзе паказвацца на экране, калі планшэт падключаны да док-станцыі. Пры выкарыстанні экраннай застаўкі прылада можа спажываць больш энергіі.</string>
+  <string name="dream_setup_title">Абярыце экранную застаўку</string>
   <string name="enable_2g_summary_disabled_carrier">Для выкарыстання аператара \"%1$s\" неабходна ўключыць 2G</string>
   <string name="encrypt_title">Зашыфраваць дадзеныя</string>
   <string name="encrypted_summary">Зашыфравана</string>
@@ -352,7 +352,7 @@
   <string name="unused_apps_switch_summary">Выдаліць дазволы, часовыя файлы і спыніць апавяшчэнні</string>
   <string name="user_add_max_count">Вы больш не можаце дадаваць карыстальнікаў. Выдаліце аднаго з карыстальнікаў, каб дадаць новага.</string>
   <string name="user_add_user">Дадаць карыстальніка</string>
-  <string name="user_choose_copy_apps_to_another_user">Выберыце праграмы для ўсталёўкі</string>
+  <string name="user_choose_copy_apps_to_another_user">Абярыце праграмы для ўсталёўкі</string>
   <string name="user_copy_apps_menu_title">Усталяваць даступныя праграмы</string>
   <string name="vibrate_icon_title">У рэжыме вібрацыі заўсёды паказваць значок</string>
   <string name="vpn_version">Версія</string>
@@ -374,8 +374,8 @@
   <string name="zen_mode_from_important_conversations_second">важныя размовы</string>
   <string name="accessibility_autoclick_default_title">Аўтанацісканне выключана</string>
   <string name="accessibility_autoclick_description">Аўтанацісканне можа спатрэбіцца карыстальнікам, якім складана націскаць на кнопку мышы</string>
-  <string name="accessibility_button_description">&lt;b>Каб пачаць, выканайце наступныя дзеянні:&lt;/b>"\n1. Перайдзіце да налад спецыяльных магчымасцей.\n2. Выберыце патрэбную функцыю і націсніце ярлык.\n3. Выберыце кнопку для доступу да функцыі."</string>
-  <string name="accessibility_button_gesture_description">&lt;b>Каб пачаць, выканайце наступныя дзеянні:&lt;/b>"\n1. Перайдзіце да налад спецыяльных магчымасцей.\n2. Выберыце патрэбную функцыю і націсніце ярлык.\n3. Выберыце, як вы будзеце атрымліваць доступ да гэтай функцыі: праз кнопку ці праз жэст."</string>
+  <string name="accessibility_button_description">&lt;b>Каб пачаць, выканайце наступныя дзеянні:&lt;/b>"\n1. Перайдзіце да налад спецыяльных магчымасцей.\n2. Абярыце патрэбную функцыю і націсніце цэтлiк.\n3. Абярыце кнопку для доступу да функцыі."</string>
+  <string name="accessibility_button_gesture_description">&lt;b>Каб пачаць, выканайце наступныя дзеянні:&lt;/b>"\n1. Перайдзіце да налад спецыяльных магчымасцей.\n2. Абярыце патрэбную функцыю і націсніце цэтлiк.\n3. Абярыце, як вы будзеце атрымліваць доступ да гэтай функцыі: праз кнопку ці праз жэст."</string>
   <string name="accessibility_hearingaid_pair_instructions_message">На наступным экране націсніце на слыхавы апарат. Вам можа спатрэбіцца спалучыць паасобку левы і правы навушнікі.\n\nПераканайцеся, што слыхавы апарат уключаны і гатовы да спалучэння.</string>
   <string name="accessibility_screen_magnification_summary">&lt;b>Каб павялічыць маштаб:&lt;/b>&lt;br/> {0,number,integer}. Скарыстайце хуткі доступ для запуску функцыі павелічэння&lt;br/> {1,number,integer}. Націсніце на экран&lt;br/> {2,number,integer}. Каб перамясціць выяву, перацягніце яе двума пальцамі&lt;br/> {3,number,integer}. Звядзіце ці развядзіце два пальцы для змены маштабу&lt;br/> {4,number,integer}. Скарыстайце хуткі доступ, каб выключыць функцыю павелічэння&lt;br/>&lt;br/>&lt;b>Каб часова павялічыць маштаб:&lt;/b>&lt;br/> {0,number,integer}. Упэўніцеся, што ў якасці тыпу павелічэння выбраны поўнаэкранны рэжым&lt;br/> {1,number,integer}. Скарыстайце хуткі доступ для запуску функцыі павелічэння&lt;br/> {2,number,integer}. Утрымлівайце палец націснутым у любым месцы экрана&lt;br/> {3,number,integer}. Каб перамясціць выяву, перацягніце яе пальцам&lt;br/> {4,number,integer}. Падніміце палец, каб спыніць функцыю павелічэння.</string>
   <string name="one_handed_mode_intro_text">Пацягніце верхнюю палову экрана ўніз, каб было лягчэй працаваць адной рукой</string>

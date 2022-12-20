@@ -2564,7 +2564,7 @@
   <string name="miuix_appcompat_select_item">Выбраць элементы</string>
   <string name="nearby_share">Абагульванне паблiзу</string>
   <string name="no_network">Не ўдаецца падключыцца да сеткі</string>
-  <string name="ocr_save_to_note_new">Захаваць у нататкі</string>
+  <string name="ocr_save_to_note_new">У нататкі</string>
   <string name="send">Адправіць</string>
   <string name="toast_download_with_metered_network_btn_continue">Загрузіць</string>
   <string name="toast_download_with_metered_network_msg">Здаецца, ваша прылада не падлучана да Wi-Fi. Загрузіць элементы з дапамогай мабільных дадзеных?</string>
@@ -3196,8 +3196,8 @@
   <string name="assistant_today_of_year_function_closed_tip">Уключыць</string>
   <string name="assistant_today_of_year_function_no_address_tip">У мінулае…</string>
   <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
-  <string name="ocr_switch_hint">Разнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
-  <string name="ocr_switch_title">Разнаваць тэкст на выявах</string>
+  <string name="ocr_switch_hint">Разпазнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
+  <string name="ocr_switch_title">Разпазнаваць тэкст на выявах</string>
   <string name="gallery_uninstall_description_content">Галерэя – гэта сістэмная праграма, якая дазваляе праглядаць, кіраваць і сінхранізаваць фота і відэа на ўсіх падлучаных прыладах. Калі вы выдаліце Галерэю, вы страціце элементы, якія вы зрабілі асабістымі. Усё роўна выдаліць?</string>
   <string name="gallery_uninstall_description_title">Выдаліць Галерэю?</string>
   <string name="change_baby_album_choose_from_photos">Выбраць з альбома</string>

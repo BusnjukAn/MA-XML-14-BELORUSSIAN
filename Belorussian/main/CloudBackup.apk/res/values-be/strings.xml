@@ -125,8 +125,8 @@
   <string name="cloud_backup_detail_frequence_every_7_day">Кожныя %d дзён</string>
   <string name="cloud_backup_detail_frequence_every_day">Кожны дзень</string>
   <string name="cloud_backup_detail_manage">Кіраванне рэзервовымі копіямі</string>
-  <string name="cloud_backup_detail_state">Аўтарэзерваванне</string>
-  <string name="cloud_backup_detail_state_summary">Стварыць рэзервовыя копіі аўтаматычна пры падлучэнні да Wi-Fi.</string>
+  <string name="cloud_backup_detail_state">Аўтакапiяванне</string>
+  <string name="cloud_backup_detail_state_summary">Стварыць рэзервовыя копіі аўтаматычна пры падлучэнні да Wi-Fi</string>
   <string name="cloud_backup_detail_state_summary_china">Прылада павінна быць падлучана да Wi-Fi, зараджацца і быць заблакаванай.</string>
   <string name="cloud_backup_detail_time">Апошняя рэзервовая копія: %1$s</string>
   <string name="cloud_backup_detail_title">Рэзервовае капіяванне элементаў</string>

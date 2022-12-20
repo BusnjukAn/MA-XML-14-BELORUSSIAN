@@ -144,7 +144,7 @@
   <string name="music_headset_optimization">Аптымізацыя гуку</string>
   <string name="music_headset_scenario_intelligent">Аўтаматычна</string>
   <string name="music_headset_scenario_music">Музыка</string>
-  <string name="music_headset_scenario_select">Выбар сцэны</string>
+  <string name="music_headset_scenario_select">Перадусталёўка</string>
   <string name="music_headset_scenario_video">Відэа</string>
   <string name="music_headset_scenario_vocal">Голас</string>
   <string name="music_headset_select_settings">Выберыце навушнікі</string>
@@ -223,7 +223,7 @@
   <string name="sound_transmission_function_generalize">Перадаваць гук з мікрафона вашага тэлефона на вонкавую прыладу Bluetooth</string>
   <string name="dolby_dax_geq_select_title">Перадусталёўкі</string>
   <string name="dolby_dax_geq_title">Графічны эквалайзер</string>
-  <string name="dolby_dax_profile_dynamic">Дынамічны</string>
+  <string name="dolby_dax_profile_dynamic">Дынамічная</string>
   <string name="dolby_dax_setting">Эфекты Dolby</string>
   <string name="dolby_dax_title">Аб\'ёмны гук</string>
   <string name="misound_effect_setting">Mi Гук</string>
