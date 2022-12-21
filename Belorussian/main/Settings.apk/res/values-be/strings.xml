@@ -2468,14 +2468,14 @@
   <string name="edge_mode_back">Вярнуцца</string>
   <string name="edge_mode_back_summary">Падвойны дотык на край тэлефона, каб вярнуцца назад</string>
   <string name="edge_mode_clean">Ачысціць сістэмны кэш</string>
-  <string name="edge_mode_clean_summary">Працягніце адначасова па абодвух краях, каб ачысціць сістэмны кэш</string>
+  <string name="edge_mode_clean_summary">Працягніце адначасова па абедзвюх краях, каб ачысціць сістэмны кэш</string>
   <string name="edge_mode_guide_title">Дакраніцеся да вылучанай зоны, каб кіраваць з дапамогай краю экрана</string>
   <string name="edge_mode_notification_summary">Націсніце, каб даведацца больш.</string>
   <string name="edge_mode_notification_title">Выкарыстоўваць элементы кіравання краю экрана</string>
   <string name="edge_mode_photo">Зрабіць фота</string>
   <string name="edge_mode_photo_summary">У праграме Камера націсніце край тэлефона для факусіроўкі. Націсніце яшчэ раз, каб зрабіць фота</string>
   <string name="edge_mode_screenshot">Скрыншот</string>
-  <string name="edge_mode_screenshot_summary">Падвойны дотык да абодвух краёў, каб зрабіць здымак экрана</string>
+  <string name="edge_mode_screenshot_summary">Падвойны дотык да абедзвюх краёў, каб зрабіць здымак экрана</string>
   <string name="edge_mode_state_summary">Вобласць каля краёў экрана не будзе рэагаваць на дотыкi</string>
   <string name="edge_mode_state_title">Ігнараваць выпадковыя дотыкi</string>
   <string name="edge_to_edge_navigation_summary">Каб вярнуцца на Галоўную, правядзіце пальцам па экране знізу ўверх. Каб вярнуцца назад, правядзіце пальцам па экране злева направа ці справа налева. Каб пераключыцца паміж праграмамі, пачніце праводзіць пальцам па экране знізу ўверх, утрымліваючы яго націснутым перад тым, як адпусціць.</string>
@@ -5756,7 +5756,7 @@
   <string name="screensaver_settings_dream_start">Пачаць</string>
   <string name="screensaver_settings_summary_dock">Пры прыстыкоўцы</string>
   <string name="screensaver_settings_summary_either_long">Пакуль прылада зараджаецца ці прыстыкавана</string>
-  <string name="screensaver_settings_summary_either_short">У абодвух выпадках</string>
+  <string name="screensaver_settings_summary_either_short">У абедзвюх выпадках</string>
   <string name="screensaver_settings_summary_never">Ніколі</string>
   <string name="screensaver_settings_summary_off">Выключана</string>
   <string name="screensaver_settings_summary_sleep">Падчас зарадкі</string>
@@ -9561,7 +9561,7 @@
   <string name="emergency_gesture_screen_title">Экстранны выклік SOS</string>
   <string name="emergency_gesture_sound_setting_summary">У пачатку экстраннага выкліку прайграць гучны сігнал</string>
   <string name="emergency_gesture_sound_setting_title">Прайграць сігнал з адваротным адлікам</string>
-  <string name="emergency_gesture_switchbar_title">Выкарыстоўваць экстранны выклік</string>
+  <string name="emergency_gesture_switchbar_title">Выкарыстоўваць</string>
   <string name="emergency_settings_preference_title">Бяспека і экстранны выклік</string>
   <string name="enable_2g_summary">Выкарыстоўваць сотавае падлучэнне 2G. Для экстранных выклікаў сетка 2G заўсёды ўключана.</string>
   <string name="enable_2g_title">Дазволіць 2G</string>
@@ -10252,7 +10252,7 @@
   <string name="miheadset_custom_sound">Карыстацкі гук</string>
   <string name="miheadset_custom_sound_summary">Наладзіць гук пры выкарыстанні навушнікаў</string>
   <string name="miheadset_double_connection">Двайное падлучэнне</string>
-  <string name="miheadset_double_connection_summary">Калі вы ўключыце гэтую функцыю, вы зможаце адказваць на выклікі ці прайграваць аўдыё ці відэа на абодвух падлучаных прыладах без неабходнасці пераключацца ўручную</string>
+  <string name="miheadset_double_connection_summary">Калі вы ўключыце гэтую функцыю, вы зможаце адказваць на выклікі ці прайграваць аўдыё ці відэа на абедзвюх падлучаных прыладах без неабходнасці пераключацца ўручную</string>
   <string name="miheadset_feedback">Водгук</string>
   <string name="miheadset_function_settings">Функцыі</string>
   <string name="miheadset_gesture_operation">Жэсты</string>

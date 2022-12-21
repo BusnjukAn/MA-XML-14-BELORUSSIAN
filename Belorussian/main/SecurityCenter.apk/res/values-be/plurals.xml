@@ -173,16 +173,16 @@
     <item quantity="few">%s праграмы будуць абаронены блакаваннем праграм</item>
   </plurals>
   <plurals name="bg_network_allow_count">
-    <item quantity="other">%d праграм з падключэннем да сеткі ў фоне</item>
-    <item quantity="one">%d праграма з падключэннем да сеткі ў фоне</item>
-    <item quantity="few">%d праграмы з падключэннем да сеткі ў фоне</item>
-    <item quantity="many">%d праграм з падключэннем да сеткі ў фоне</item>
+    <item quantity="other">%d праграм з падлучэннем да сеткі ў фоне</item>
+    <item quantity="one">%d праграма з падлучэннем да сеткі ў фоне</item>
+    <item quantity="few">%d праграмы з падлучэннем да сеткі ў фоне</item>
+    <item quantity="many">%d праграм з падлучэннем да сеткі ў фоне</item>
   </plurals>
   <plurals name="bg_network_restrict_count">
-    <item quantity="other">%d праграм без падключэння да сеткі ў фоне</item>
-    <item quantity="one">%d праграма без падключэння да сеткі ў фоне</item>
-    <item quantity="few">%d праграмы без падключэння да сеткі ў фоне</item>
-    <item quantity="many">%d праграм без падключэння да сеткі ў фоне</item>
+    <item quantity="other">%d праграм без падлучэння да сеткі ў фоне</item>
+    <item quantity="one">%d праграма без падлучэння да сеткі ў фоне</item>
+    <item quantity="few">%d праграмы без падлучэння да сеткі ў фоне</item>
+    <item quantity="many">%d праграм без падлучэння да сеткі ў фоне</item>
   </plurals>
   <plurals name="cache_check_content">
     <item quantity="other">Абаронена %d праграм</item>
@@ -837,9 +837,9 @@
     <item quantity="one">Зразумела (%d сек.)</item>
   </plurals>
   <plurals name="power_off_warning_notification_message">
-    <item quantity="other">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
-    <item quantity="one">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
-    <item quantity="few">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
+    <item quantity="other">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
+    <item quantity="one">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
+    <item quantity="few">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
   </plurals>
   <plurals name="power_optimize_app_autostart_summary">
     <item quantity="other">%d праграм запускаюцца аўтаматычна</item>

@@ -21,7 +21,7 @@
   <string name="back">Назад</string>
   <string name="birthday">Дзень нараджэння</string>
   <string name="btn_got_it">Зразумела</string>
-  <string name="btn_install_complete">Устаноўлена</string>
+  <string name="btn_install_complete">Гатова</string>
   <string name="button_finish">Завяршыць</string>
   <string name="button_import">Імпарт</string>
   <string name="button_return">Назад</string>
@@ -775,7 +775,7 @@
   <string name="fail_list_tips">Наступныя элементы не могуць быць перанесены на новую прыладу.</string>
   <string name="guest_connect_dialog_ensure_text">Падлучыцца</string>
   <string name="guest_connect_dialog_fail_message">Не атрымалася падлучыцца. Паспрабуйце яшчэ раз.</string>
-  <string name="host_install_hint">Mi Трансфер не ўстаноўлены?</string>
+  <string name="host_install_hint">Mi Трансфер не ўсталяваны?</string>
   <string name="main_receiver_summary">Націсніце для атрымання</string>
   <string name="main_receiver_title">Новая</string>
   <string name="main_sender_summary">Націсніце для адпраўкі</string>
@@ -799,7 +799,7 @@
   <string name="title_request_alert_window_perm">Дазволіць плаваючыя вокны</string>
   <string name="expect_restore_aod">Пасля пераносу ўсіх праграм экран адновіць працу</string>
   <string name="waiting_restore_aod">Аднаўленне AOD…</string>
-  <string name="host_new_device_hint">Гэта прылада</string>
+  <string name="host_new_device_hint">Гэтая прылада</string>
   <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
   <string name="abc_action_mode_done">Гатова</string>
   <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>

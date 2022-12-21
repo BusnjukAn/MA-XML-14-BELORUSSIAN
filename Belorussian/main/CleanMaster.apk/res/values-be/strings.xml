@@ -162,7 +162,7 @@
   <string name="button_text_select_all_photos">Выбраць усе</string>
   <string name="button_text_select_pic">Выбраць</string>
   <string name="button_text_uninstall">Выдаліць</string>
-  <string name="button_text_uninstall_only">Выдаліць \"%s\"</string>
+  <string name="button_text_uninstall_only">Выдаліць %s</string>
   <string name="button_text_unselect_all">Зняць выбар</string>
   <string name="button_text_unselect_pic">Зняць выбар</string>
   <string name="button_text_view_detail">Падрабязней</string>
@@ -242,7 +242,7 @@
   <string name="deepclean_cache_header_left">Файлы: %d</string>
   <string name="deepclean_cache_summary_empty">Усё добра, ачыстка не патрабуецца</string>
   <string name="deepclean_empty">Ачыстка не патрабуецца</string>
-  <string name="deepclean_install_info_desc2">Выдаліце ​​праграму, каб вызваліць месца</string>
+  <string name="deepclean_install_info_desc2">Выдаліце, каб вызваліць месца</string>
   <string name="deepclean_large_content">Выдаліць файлы большыя за 10МБ</string>
   <string name="deepclean_large_summary_empty">Усё добра, файлы выдаляць не трэба</string>
   <string name="deepclean_list_item_from_app">App Store</string>

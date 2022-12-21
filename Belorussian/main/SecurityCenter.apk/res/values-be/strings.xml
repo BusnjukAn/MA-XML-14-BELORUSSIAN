@@ -425,9 +425,9 @@
   <string name="bind_xiaomi_account_cancel">Скасаваць</string>
   <string name="bind_xiaomi_account_confirm">Дадаць</string>
   <string name="bind_xiaomi_account_dialog_summery">Вы збіраецеся дадаць Xiaomi акаўнт %s. Калі вы забудзеце свой пароль, можна будзе выкарыстоўваць гэты акаўнт для яго скіду. Пасля выхаду акаўнт будзе аўтаматычна выдалены.</string>
-  <string name="bind_xiaomi_account_success">Мі Акаўнт паспяхова дададзены</string>
-  <string name="bind_xiaomi_account_summary">Выкарыстоўваць Мі Акаўнт для скідвання пароля</string>
-  <string name="bind_xiaomi_account_title">Дадаць Мі Акаўнт</string>
+  <string name="bind_xiaomi_account_success">Xiaomi акаўнт паспяхова дададзены</string>
+  <string name="bind_xiaomi_account_summary">Выкарыстоўваць Xiaomi акаўнт для скідвання пароля</string>
+  <string name="bind_xiaomi_account_title">Дадаць Xiaomi акаўнт</string>
   <string name="birthday">Дзень нараджэння</string>
   <string name="bl_no_blacklist">Няма заблакаваных нумароў.</string>
   <string name="bl_no_block_call">Няма заблакаваных выклікаў.</string>
@@ -753,7 +753,7 @@
   <string name="examination_score_80_60">Рэкамендуецца аптымізацыя</string>
   <string name="examination_score_80_100">Магчыма аптымізацыя</string>
   <string name="examination_score_100">Аптымізацыя не патрабуецца</string>
-  <string name="examination_score_has_virus">Знойдзеныя падазроныя праграмы.</string>
+  <string name="examination_score_has_virus">Знойдзены падазроныя праграмы</string>
   <string name="exception_dialog_message">Не атрымалася падлічыць статыстыку трафіка праз памылку. Без дакладнай статыстыкі Бяспека не здолее кантраляваць выкарыстанне дадзеных. Перазагрузіць прыладу, каб аднавіць гэтую функцыю?</string>
   <string name="exception_dialog_ok_button">Перазагрузіць</string>
   <string name="exception_notify_message">Не атрымалася падлічыць статыстыку трафіка праз памылку. Перазагрузіце або аднавіце.</string>
@@ -1610,7 +1610,7 @@
   <string name="optimize_result_header_view_summary">Хуткасць павялічана</string>
   <string name="optimize_result_summary_sucurity_risk">Некаторыя функцыі бяспекі адключаныя. Уключыце іх, каб павысіць узровень бяспекі прылады:</string>
   <string name="optimize_result_summary_system_default_settings">Выкарыстоўвайце сістэмныя праграмы MIUI для павышэння ўзроўню стабільнасці і бяспекі сістэмы.</string>
-  <string name="optimize_result_title_sucurity_risk">Знойдзеныя пагрозы беспецы</string>
+  <string name="optimize_result_title_sucurity_risk">Знойдзены пагрозы беспецы</string>
   <string name="optimize_result_title_system_default_settings">Налады па змаўчанні былі зменены</string>
   <string name="optimize_result_title_uninstall_apps">Выдаліць праграмы</string>
   <string name="optimize_result_toast_system_default_settings">Налады па змаўчанні адноўленыя</string>
@@ -1954,9 +1954,9 @@
   <string name="report_error">Не ўдаецца адправіць справаздачу</string>
   <string name="report_only">Выберыце паведамленне для справаздачы</string>
   <string name="report_success">Справаздача адпраўлена</string>
-  <string name="report_warning">Паскардзіцца на %1$s SMS праз сэрвіс Mi? Паведамленні і адпаведныя нумары тэлефонаў будуць дасланы на Mi-серверы і своечасова разгледжаны. Любая асабістая інфармацыя, звязаная з гэтымі паведамленнямі, застанецца ананімнай.</string>
+  <string name="report_warning">Паскардзіцца на %1$s SMS праз сэрвіс Xiaomi? Паведамленні і адпаведныя нумары тэлефонаў будуць дасланы на Xiaomi-сэрверы і своечасова разгледжаны. Любая асабістая інфармацыя, звязаная з гэтымі паведамленнямі, застанецца ананімнай.</string>
   <string name="report_warning_title">Увага</string>
-  <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Мі акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
+  <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Xiaomi акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
   <string name="reset_data_dialog_ok">Скід налад</string>
   <string name="reset_data_title">Не ўдаецца аднавіць пароль</string>
   <string name="resource_antispam">Чорны спіс</string>
@@ -2162,8 +2162,8 @@
   <string name="st_antispam_mode_only_whitelist_sum">Дазваліць толькі выклікі і паведамленні ад абанентаў з белага спісу</string>
   <string name="st_antispam_mode_smart">Разумная блакіроўка</string>
   <string name="st_antispam_mode_smart_sum">Блакаваць нумары, дададзеныя ўручную, і нумары, адзначаныя іншымі карыстальнікамі</string>
-  <string name="st_antispam_title_anoy_incoming">Выклікі ад незнаёмых</string>
-  <string name="st_antispam_title_anoy_sms">Паведамленні ад незнаёмых</string>
+  <string name="st_antispam_title_anoy_incoming">Выклікі ад незнаёмцаў</string>
+  <string name="st_antispam_title_anoy_sms">Паведамленні ад незнаёмцаў</string>
   <string name="st_antispam_title_contact_incoming">Выклікі ад кантактаў</string>
   <string name="st_antispam_title_contact_sms">Паведамленні ад кантактаў</string>
   <string name="st_antispam_title_contactandanoy_group">Налады</string>
@@ -2266,14 +2266,14 @@
   <string name="summary_auto_update">MIUI падбярэ найбольш прыдатны час для спампоўкі і ўсталёўкі абнаўленняў.</string>
   <string name="summary_background_connection">Вы абмежавалі фонавае злучэнне для гэтай праграмы.</string>
   <string name="summary_block_calls_from_cantacts">Выклікі ад кантактаў заблакаваныя.</string>
-  <string name="summary_block_calls_from_strangers">Выклікі ад незнаёмых заблакаваныя.</string>
+  <string name="summary_block_calls_from_strangers">Выклікі ад незнаёмцаў заблакаваныя.</string>
   <string name="summary_cleaner_cloudscan">Запампоўваць імёны тэчак на сервер і правяраць на наяўнасць смецця</string>
   <string name="summary_cloud_account">Каб атрымаць доступ да ўсіх сэрвісаў, трэба ўвайсці ў Xiaomi акаўнт</string>
   <string name="summary_cloud_service">Сінхранізаваць фота, кантакты і іншыя дадзеныя на ўсіх прыладах</string>
   <string name="summary_cloud_space_almost_full">Атрымаць больш месца</string>
   <string name="summary_cloud_space_full">Атрымаць больш месца ў воблачным сховішчы, а таксама доступ да дадатковага функцыяналу</string>
   <string name="summary_cmcc_app_check">Не атрымалася праверыць некаторыя праграмы</string>
-  <string name="summary_consume_power">Знойдзеныя праблемы з нагрэвам батарэі, яны могуць паўплываць на яе тэрмін службы</string>
+  <string name="summary_consume_power">Пошук праблем, якія ўплываюць на эканомію зарада</string>
   <string name="summary_dark_mode">Некаторыя старонкі адлюстроўваюцца чорным з-за ўсталяваных сэрвісаў</string>
   <string name="summary_data_flow">Кантралюйце выкарстанне мабільнага трафіка, каб пазбегнуць дадатковых расходаў</string>
   <string name="summary_default_app">%s не ўсталявана як сістэмная праграма па змаўчанні</string>
@@ -2421,8 +2421,8 @@
   <string name="timeshow_s">%d сек.</string>
   <string name="tips_dialog_title">Ліміт невядомы</string>
   <string name="tips_message">Каб даведацца больш пра свой тарыфны план, набярыце нумар %2$s (%1$s).</string>
-  <string name="tips_of_app_manage">Выдаляйце рэдка выкарыстаныя праграмы для эканоміі памяці</string>
-  <string name="tips_of_auto_launch_manage">Забараніць аўтазапуск рэдка выкарыстоўваных праграм</string>
+  <string name="tips_of_app_manage">Выдаліце ​​рэдка выкарыстоўваемыя праграмы для эканоміі памяці</string>
+  <string name="tips_of_auto_launch_manage">Забараніце аўтазапуск рэдка выкарыстоўваемых праграм</string>
   <string name="title_app_lock_disable">Абарона праграм</string>
   <string name="title_app_update">Даступнае абнаўленне</string>
   <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
@@ -3631,7 +3631,7 @@
   <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Гэтая функцыя выкарыстоўвае вызначэння антывіруса, прадастаўленыя AVL і Tencent. Прачытайце адпаведныя &lt;a href=\"%1$s\">ліцэнзійныя пагаднення&lt;/a>, каб даведацца больш.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Гэтая функцыя выкарыстоўвае вызначэння антывіруса, прадастаўленыя Avast i AVL. Прачытайце адпаведныя &lt;a href=\"%1$s\">ліцэнзійныя пагаднення&lt;/a>, каб даведацца больш.</Data></string>
   <string name="clean_master_icon_recall_button_text">Дадаць</string>
-  <string name="clean_master_icon_recall_summary">Дадайце цэтлік на працоўны стол, каб ачысціць кошык у любы час.</string>
+  <string name="clean_master_icon_recall_summary">Дадайце цэтлік на працоўны стол, каб ачысціць кошык у любы час</string>
   <string name="clean_master_icon_recall_title">Хуткая ачыстка кошыка</string>
   <string name="clean_master_icon_recall_toast_text">Цэтлік паспяхова дададзены</string>
   <string name="app_behavior_media_volume">%1s - спроба змены гучнасці мультымедыя</string>

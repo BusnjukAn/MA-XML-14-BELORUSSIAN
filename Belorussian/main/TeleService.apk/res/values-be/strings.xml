@@ -823,7 +823,7 @@
   <string name="dtmf_tone_entries_normal">Звычайны</string>
   <string name="dtmf_tones_summary">Наладзіць даўжыню DTMF-сігналаў</string>
   <string name="dtmf_tones_title">DTMF-сігналы</string>
-  <string name="dual_4g_switch_summary">Дазволіць сувязь 4G для абодвух слотаў SIM</string>
+  <string name="dual_4g_switch_summary">Дазволіць сувязь 4G для абедзвюх слотаў SIM</string>
   <string name="dual_4g_switch_title">Рэжым двайнога 4G</string>
   <string name="eab_provisioned_switch_string">EAB/Presence уключана</string>
   <string name="early_morning">Раніца</string>
@@ -881,7 +881,7 @@
   <string name="enable_disable_stock_quotes">Каціроўкі каштоўных папер</string>
   <string name="enable_disable_technology_news">Навіны тэхналогій</string>
   <string name="enable_dual_4g_if_dual_ct">Аддаваць перавагу 4G-сеткам для абедзвюх SIM-карт, каб выкарыстоўваць VoLTE на другой SIM-карце, калі абедзве ўсталяваныя SIM-карты з China Telecom.</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE патрабуе падлучэння 4G для абодвух SIM-слотаў. Пераключыцца на двайны 4G цяпер?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE патрабуе падлучэння 4G для абедзвюх SIM-слотаў. Пераключыцца на двайны 4G?</string>
   <string name="enable_fdn">Уключыць фіксаваны набор</string>
   <string name="enable_fdn_ok">Адключыць фіксаваны набор</string>
   <string name="enable_freeform_support">Уключыць адвольную форму вокнаў</string>

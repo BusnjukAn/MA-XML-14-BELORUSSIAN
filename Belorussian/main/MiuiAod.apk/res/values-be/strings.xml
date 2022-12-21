@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
   <string name="abc_action_mode_done">Гатова</string>
   <string name="abc_activity_chooser_view_see_all">Прагледзець усё</string>
-  <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
+  <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
   <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -66,7 +66,7 @@
   <string name="character_counter_overflowed_content_description">Перавышаны ліміт сімвалаў %1$d з %2$d</string>
   <string name="chip_text">Чып тэкст</string>
   <string name="choose_aod_style">Абярыце тэму</string>
-  <string name="chosen_picture">Выберыце фон</string>
+  <string name="chosen_picture">Абярыце фон</string>
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="clock_panel_icon">Цыферблат</string>
@@ -160,7 +160,7 @@
   <string name="mtrl_picker_a11y_next_month">Змяніць на наступны месяц</string>
   <string name="mtrl_picker_a11y_prev_month">Змяніць на папярэдні месяц</string>
   <string name="mtrl_picker_announce_current_selection">Бягучы выбар: %1$s</string>
-  <string name="mtrl_picker_date_header_title">Выберыце дату</string>
+  <string name="mtrl_picker_date_header_title">Абярыце дату</string>
   <string name="mtrl_picker_date_header_unselected">Абраная дата</string>
   <string name="mtrl_picker_day_of_week_column_header">Калонка дзён: %1$s</string>
   <string name="mtrl_picker_invalid_format">Недапушчальны фармат.</string>
@@ -172,7 +172,7 @@
   <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку - %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s - Дата заканчэння</string>
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-  <string name="mtrl_picker_range_header_title">Выберыце дыяпазон дат</string>
+  <string name="mtrl_picker_range_header_title">Абярыце дыяпазон дат</string>
   <string name="mtrl_picker_range_header_unselected">Дата пачатку - Дата заканчэння</string>
   <string name="mtrl_picker_save">Захаваць</string>
   <string name="mtrl_picker_text_input_date_hint">Дата</string>
@@ -215,8 +215,8 @@
   <string name="scope_icon">Стыль калейдаскопа</string>
   <string name="scope_time">Калейдаскоп</string>
   <string name="search_menu_title">Пошук</string>
-  <string name="select_notification_animation_style">Выберыце спецыяльны эфект</string>
-  <string name="select_notification_notify_style">Выберыце эфект апавяшчэння</string>
+  <string name="select_notification_animation_style">Абярыце спецыяльны эфект</string>
+  <string name="select_notification_notify_style">Абярыце эфект апавяшчэння</string>
   <string name="show_battery">Паказваць стан батарэі</string>
   <string name="show_battery_status">Паказваць стан батарэі</string>
   <string name="show_lunar">Паказаць традыцыйны кітайскі каляндар</string>
@@ -347,8 +347,8 @@
   <string name="material_slider_range_end">Канец дыяпазону,</string>
   <string name="material_slider_range_start">Пачатак дыяпазону,</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
-  <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Выбраць аб\'екты</string>
+  <string name="miuix_appcompat_action_mode_select_all">Абраць усё</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Абраць аб\'екты</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Больш</string>
   <string name="miuix_appcompat_cancel_description">Скасаваць</string>
   <string name="miuix_appcompat_confirm_description">Пацвердзіць</string>
@@ -356,7 +356,7 @@
   <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
   <string name="miuix_appcompat_search_input_description">Пошук</string>
-  <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
+  <string name="miuix_appcompat_select_all_description">Абраць усё</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Больш чым %1$d новых апавяшчэнняў</string>
   <string name="dual_clock_tip">Налада падвойнага гадзіннiка</string>
   <string name="fmt_date_day">dd</string>
@@ -397,7 +397,7 @@
   <string name="ambient_display_screen_title_sp">Актыўны экран</string>
   <string name="off">Выключаны</string>
   <string name="on">Уключаны</string>
-  <string name="scheduled_style_summary">Выберыце час</string>
+  <string name="scheduled_style_summary">Абярыце час</string>
   <string name="temporary_style_summary">Рэкамендавана</string>
   <string name="aod_theme_store">Тэмы</string>
   <string name="align_center_horizontally">Па гарызанталі і цэнтру</string>

@@ -1457,7 +1457,7 @@
   <string name="projection_device_connection_failed">Не атрымалася падключыць праектар</string>
   <string name="projection_local_mobile">Гэтая прылада</string>
   <string name="projection_multi_title">Прылада</string>
-  <string name="projection_screen_project_in_screening">Вы карыстаецеся сваё прылада для трансляцыі зараз</string>
+  <string name="projection_screen_project_in_screening">Вы карыстаецеся сваёй прыладай для трансляцыі зараз</string>
   <string name="projection_single_title">Трансляваць на %s</string>
   <string name="projection_slide_exit">Спыніць слайд-шоу</string>
   <string name="projection_slide_fail_cause_loading">Перазапуск слайд-шоу пасля спампоўкi фота</string>

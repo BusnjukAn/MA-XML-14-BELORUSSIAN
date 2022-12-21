@@ -330,7 +330,7 @@
   <string name="phone_pad_wifi_introduction_title">Аўтаматычнае падлучэнне</string>
   <string name="phone_pc_app_introduction_summary">Выкарыстоўвайце праграмы для тэлефона на сваім кампутары</string>
   <string name="phone_pc_app_introduction_title">Праграмы</string>
-  <string name="phone_pc_connect_introduction_summary">Пасля першага падлучэння тэлефон, злучаны з тым жа акаўнтам, будзе аўтаматычна падлучацца, калі дзве прылады знаходзяцца блізка сябар да сябра</string>
+  <string name="phone_pc_connect_introduction_summary">Пасля першага падлучэння тэлефон, злучаны з тым жа акаўнтам, будзе аўтаматычна падлучацца, калі дзве прылады знаходзяцца блізка</string>
   <string name="phone_pc_connect_introduction_title">Аўтаматычнае падлучэнне</string>
   <string name="phone_pc_doc_introduction_summary">Проста перацягнеце файлы, каб перадаць іх на падлучаныя прылады</string>
   <string name="phone_pc_doc_introduction_title">Файлы</string>

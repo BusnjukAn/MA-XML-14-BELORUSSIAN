@@ -296,8 +296,8 @@
   <string name="pm">ПП</string>
   <string name="preference_clear_data">Выдаліць дадзеныя</string>
   <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
-  <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання</string>
-  <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання аўдыя</string>
+  <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання аўдыё</string>
+  <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання</string>
   <string name="preference_led_indicator">Індыкатар запісу</string>
   <string name="preference_led_indicator_prompt">Паказваць сіні індыкатар на экране блакавання і міргаць святлодыёдным індыкатарам падчас запісу</string>
   <string name="preference_online_orders">Анлайн-заказы</string>
