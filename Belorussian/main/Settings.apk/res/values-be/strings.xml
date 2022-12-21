@@ -10665,9 +10665,9 @@ ID:%s
   <string name="network_acceleration">Паскарэнне сеткі</string>
   <string name="network_auto_switch">Пераключэнне паміж сеткамі</string>
   <string name="network_auto_switch_summery">"Пераключацца на мабільныя дадзеныя, калі сігнал Wi-Fi слабы або сетка недаступная"</string>
-  <string name="solid_text">Выкарыстоўвае нізкачашчынную вібрацыю і адпаведныя візуальныя пераходы для стварэння надзейнага і магутнага жэсту</string>
+  <string name="solid_text">Выкарыстоўваць нізкачастотны вібраадгук і візуальныя пераходы для рэалістычнасці жэстаў</string>
   <string name="wifi_primary">Асноўная сетка</string>
   <string name="wifi_saved_access_point">Захаваныя сеткі</string>
   <string name="enable_crbt_pref_summary">Не паказваць відэа профіля для ўваходных выклікаў падчас тэставання</string>
-  <string name="enable_crbt_pref_title">Адключыць відэа профілю для ўваходных выклікаў</string>
+  <string name="enable_crbt_pref_title">Адключыць відэа профіля для ўваходных выклікаў</string>
 </resources>
