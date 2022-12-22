@@ -6407,4 +6407,16 @@
   <string name="vb_video_effects_immersion_sound_summary">Адчуйце эфект прасторы пры прайграванні падтрымліваемага гуку праз навушнiкі</string>
   <string name="vb_video_effects_spatial_summary_new">Адчуйце палепшанае адчуванне прасторы і напрамка для падтрымліваемых аўдыё і відэа, і наладзьце імерсіўны гук у залежнасці ад руху галавы</string>
   <string name="pc_high_temp_protection_noti_summary2">Цяпер нельга выкарыстоўваць пункт доступу</string>
+  <string name="app_behavior_record_cancel">Адмена</string>
+  <string name="app_behavior_record_close">Выключыць</string>
+  <string name="app_behavior_record_close_title">Выключыць</string>
+  <string name="app_behavior_record_hide_system">Схаваць сістэмныя праграмы</string>
+  <string name="app_behavior_record_open">Уключыць</string>
+  <string name="app_behavior_record_open_content_text">Запісы аб дзеяннях праграм паказваюць, што робяць праграмы, і дапамагаюць пазбегнуць пагроз бяспекі.</string>
+  <string name="app_behavior_record_show_system">Паказаць сістэмныя праграмы</string>
+  <string name="global_dock_guide_desc_with_split_screen">"· Краніцесь праграмы на бакавой панэлі, каб адкрыць яе ў плаваючым акне.
+· Перацягнуць праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым акне, або ў бок, каб выкарыстоўваць падзелены экран.
+· Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
+  <string name="global_dock_guide_desc_without_split_screen">"· Краніцесь праграмы на бакавой панэлі, каб адкрыць яе ў плаваючым акне.
+· Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
 </resources>
