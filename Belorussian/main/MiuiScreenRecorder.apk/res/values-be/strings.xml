@@ -332,4 +332,5 @@
   <string name="invisible_mode_error_tip">Вы інкогніта. Немагчыма запісаць гук.</string>
   <string name="app_notification_record_saved">"Запіс паспяхова захаваная.
 Націсніце для прагляду."</string>
+  <string name="record_time_too_short">Запісанае відэа занадта кароткае</string>
 </resources>

@@ -28,7 +28,7 @@
     <item>480p</item>
   </string-array>
   <string-array name="screenrecorder_settings_sound">
-    <item>Адключыць гук</item>
+    <item>Няма</item>
     <item>Мікрафон</item>
     <item>Гукі сістэмы</item>
   </string-array>
@@ -36,4 +36,10 @@
     <item>Унутранае сховішча</item>
     <item>Знешняе сховішча</item>
   </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+         <item>Няма</item>
+         <item>Мікрафон</item>
+         <item>Гукі сістэмы</item>
+         <item>Абодва</item>
+    </string-array>
 </resources>

@@ -511,4 +511,43 @@
   <string name="call_error_notify_title">Нестабільнае сеткавае злучэнне</string>
   <string name="toast_calling_warning">Завяршыць бягучы выклік і паўтарыць спробу</string>
   <string name="file_transferring">Пачакайце завяршэння бягучай перадачы і паспрабуйце яшчэ раз</string>
+  <string name="cast_mcc_tips_message_china">Каб пазбегнуць затрымак пры выкарыстанні MIUI+, падлучыце абедзве прылады да адной і той жа сеткі Wi-Fi.</string>
+  <string name="cast_mcc_tips_title_china">Змяніць налады Wi-Fi</string>
+  <string name="circulate_cta_premission_wlan_subtitle_china">Для перадачы элементаў і падлучэння прылад праз Wi-Fi</string>
+  <string name="circulate_cta_premission_wlan_title_china">Уключэнне і выключэнне Wi-Fi</string>
+  <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ дазваляе лёгка пераключацца паміж прыладамі, калі вам трэба адрэдагаваць фота, зробленыя з дапамогай тэлефона, на планшэце. Уключыць Wi-Fi, каб выкарыстоўваць перадачу абслугоўвання?</string>
+  <string name="global_cta_agree">Згодзен</string>
+  <string name="global_cta_desc">Сардэчна запрашаем у %s! Наша праграма забяспечвае наступныя паслугі:</string>
+  <string name="global_cta_exit">Не згодзен</string>
+  <string name="global_cta_feature_connect">Падключэнне тэлефонаў і планшэтаў з дапамогай вашага акаўнта Xiaomi</string>
+  <string name="global_cta_feature_control">Прагляд і выкарыстанне праграм для смартфонаў на планшэце</string>
+  <string name="global_cta_user_agreement">Перад выкарыстаннем %1$s прачытайце і прыміце нашы &lt;txt href=\"%2$s\">Угоду карыстальніка&lt;/txt> і &lt;txt href=\"%3$s\">Палітыку прыватнасці&lt;/txt>.</string>
+  <string name="loading_view_load_timeout_sub_china">"Пераканайцеся, што Wi-Fi уключаны на абедзвюх прыладах і яны знаходзяцца блізка адна да адной.
+Вы можаце пачаць іншы сеанс на сваім кампутары."</string>
+  <string name="login_xiaomi_account_cancel">Адмена</string>
+  <string name="login_xiaomi_account_goto_login">Увайсці</string>
+  <string name="login_xiaomi_account_summary_pad">Каб мець магчымасць падлучацца да іншых тэлефонаў, выкарыстоўвайце адзін і той жа акаўнт Xiaomi на абедзвюх падлучаных прыладах. Увайсці ў акаўнт?</string>
+  <string name="login_xiaomi_account_summary_phone">Каб мець магчымасць падлучацца да іншых планшэтаў, выкарыстоўвайце адзін і той жа акаўнт Xiaomi на абедзвюх падлучаных прыладах. Увайсці ў акаўнт?</string>
+  <string name="login_xiaomi_account_title">Увайсці ў акаўнт Xiaomi</string>
+  <string name="notification_state_cancel">Адключыць</string>
+  <string name="notification_state_content">Гэтая прылада падлучана да кампутара %1$s. Цяпер вы можаце абменьвацца прыладамі ўводу, файламі і выявамі.</string>
+  <string name="notification_state_title">Падлучана паспяхова</string>
+  <string name="pad_mirror_disconnect_tips_2_china">Пераканайцеся, што Wi-Fi і Bluetooth уключаны на абедзвюх прыладах, і паспрабуйце яшчэ раз.</string>
+  <string name="pad_pc_share_introduction_summary">Выкарыстоўваць мыш і клавіятуру кампутара з гэтым планшэтам</string>
+  <string name="pad_pc_share_introduction_title">Прылады ўводу</string>
+  <string name="privacy_describe_change_wifi_state_china">Для падлучэння прылад і перадачы файлаў праз Wi-Fi</string>
+  <string name="share_pc_abort_dialog_message">Пераканайцеся, што Bluetooth і Wi-Fi уключаны на абедзвюх прыладах, і зноў запусціце сеанс на сваім кампутары.</string>
+  <string name="share_pc_abort_dialog_message_china">Пераканайцеся, што Bluetooth і Wi-Fi уключаны на абедзвюх прыладах, і зноў запусціце сеанс на сваім кампутары.</string>
+  <string name="share_pc_abort_dialog_ok">Зразумела</string>
+  <string name="share_pc_abort_dialog_title">Злучэнне перарвана</string>
+  <string name="share_pc_file_transfer_finish">Перанесена паспяхова</string>
+  <string name="share_pc_folder_error_dialog_message">Перацягванне тэчак для іх пераносу ў цяперашні час не падтрымліваецца.</string>
+  <string name="share_pc_folder_error_dialog_ok">Зразумела</string>
+  <string name="share_pc_folder_error_dialog_title">Немагчыма перанесці</string>
+  <string name="share_pc_folder_multi_error_dialog_message">Вылучаныя файлы паспяхова перададзены. У цяперашні час перанос тэчак не падтрымліваецца.</string>
+  <string name="share_pc_folder_multi_error_dialog_ok">Зразумела</string>
+  <string name="share_pc_folder_multi_error_dialog_title">Немагчыма перадаць усе элементы</string>
+  <string name="switch_wlan_failed_desc_china">Не атрымалася аўтаматычна падлучыцца да гэтай сеткі Wi-Fi. Паспрабуйце падлучыцца ўручную ў наладах.</string>
+  <string name="switch_wlan_tips_china">Падлучыцца да той жа сеткі</string>
+  <string name="switch_wlan_tips_desc_china">Вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада, для большай зручнасці. Падлучыцца?</string>
 </resources>
