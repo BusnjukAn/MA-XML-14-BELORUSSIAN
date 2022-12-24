@@ -558,7 +558,7 @@
   <string name="enable_geolocation_confirm_message">Адключэнне службаў вызначэння месцазнаходжання паўплывае на рэкамендацыі, якія вы атрымліваеце.</string>
   <string name="encrypt_success">Паспяхова схаваны</string>
   <string name="encrypting">Шыфраванне…</string>
-  <string name="enter_developer_mode">Рэжым распрацоўшчыка</string>
+  <string name="enter_developer_mode">Рэжым распрацоўніка</string>
   <string name="enter_incongnito_mode">Увайсці ў рэжым Інкогніта</string>
   <string name="enter_news_by_pull_down">Адпусціце для адкрыцця Стужкі кантэнту</string>
   <string name="eras_ad">н. э.</string>
@@ -2556,4 +2556,14 @@
   <string name="summary_use_local_ad_config">Уключыце, каб выкарыстоўваць канфігурацыю лакальнай рэкламы</string>
   <string name="title_use_local_ad_config">Выкарыстоўваць канфігурацыю лакальнай рэкламы</string>
   <string name="web_tools_moved_here">Інструменты былі перанесены сюды</string>
+  <string name="app_library_category_financial_management">Фінансы</string>
+  <string name="app_library_category_health_and_exercise">Здароўе</string>
+  <string name="app_library_category_individualization">Персаналізацыя</string>
+  <string name="app_library_category_originality">Творчасць</string>
+  <string name="app_library_category_reading_and_information">Навіны</string>
+  <string name="app_library_category_shopping_and_food">Шопінг</string>
+  <string name="app_library_category_travel">Падарожжа</string>
+  <string name="app_library_category_work_and_efficiency">Прадукцыйнасць</string>
+  <string name="close_desktop">Версія для ПК адключаная</string>
+  <string name="open_desktop">Паспяхова пераключана на версію для ПК</string>
 </resources>
