@@ -352,9 +352,9 @@
   <string name="old_wait_link_extra">Націсніце «Перадача»</string>
   <string name="option_feedback_title">Зваротная сувязь</string>
   <string name="organization">Арганізацыя</string>
-  <string name="other_system_data">Дадзеныя сістэмнай праграмы</string>
-  <string name="other_user_app">Іншыя прыкладанні</string>
-  <string name="other_user_app_data">Іншыя прыкладанні і дадзеныя прыкладанняў</string>
+  <string name="other_system_data">Дадзеныя сістэмных праграм</string>
+  <string name="other_user_app">Іншыя праграмы</string>
+  <string name="other_user_app_data">Іншыя праграмы і дадзеныя праграм</string>
   <string name="other_user_data">Дадзеныя іншых праграм</string>
   <string name="password">Пароль</string>
   <string name="password_null">Пароль не можа быць пустым</string>

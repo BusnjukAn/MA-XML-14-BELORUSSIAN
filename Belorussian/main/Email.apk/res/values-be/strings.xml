@@ -414,8 +414,8 @@
   <string name="discard_drafts">Выдаліць чарнавікі</string>
   <string name="dismiss_tip_hover_text">Адхіліць параду</string>
   <string name="disturb_switch">Не турбаваць</string>
-  <string name="done">Выканана</string>
-  <string name="done_action">Зроблена</string>
+  <string name="done">Гатова</string>
+  <string name="done_action">Гатова</string>
   <string name="donot_disturb_endtime_title">Да</string>
   <string name="donot_disturb_starttime_title">З</string>
   <string name="donot_disturb_summary">Апавяшчэнні для лістоў, якія прыходзяць будуць без гуку</string>
@@ -993,7 +993,7 @@
   <string name="reduce_the_receiving_frequencye_title">Сінхранізаваць радзей</string>
   <string name="refresh">Абнавіць</string>
   <string name="refreshing">Абнаўленне…</string>
-  <string name="refreshing_done">Зроблена</string>
+  <string name="refreshing_done">Гатова</string>
   <string name="release_to_refresh">Адпусціце, каб абнавіць</string>
   <string name="remind_attachment_size_limit">Вашыя лісты павінны быць меншымі за %s МБ</string>
   <string name="reminder">Нагадванне</string>
@@ -1849,4 +1849,6 @@
   <string name="folder_junk_name_en5">Спам</string>
   <string name="message_invite_calendar_download_prompt">Спампуйце Каляндар, каб выкарыстоўваць гэтую функцыю</string>
   <string name="translated_text_too_long">Змест перакладу занадта доўгі, паменшыце змест і паспрабуйце яшчэ раз.</string>
+  <string name="body_forward_email_text">[Пераслаць]</string>
+  <string name="body_inline_pic_text">[Выява]</string>
 </resources>

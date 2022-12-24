@@ -1178,7 +1178,7 @@
   <string name="portrait_mode_use_hint">Партрэтны рэжым размывае фон\nі павялічвае выразнасць пярэдняга плана.</string>
   <string name="portrait_mode_use_hint_for_bokeh">Паспрабуйце зрабіць фота ў партрэтным рэжыме.\nАб\'еут здымкі застанецца ў фокусе, а фон будзе размыты.</string>
   <string name="pre_volume_gain_adjust">Рэгуляванне ўзмацнення</string>
-  <string name="pref_960_watermark_title">Вадзяной знак 960 кадр/с</string>
+  <string name="pref_960_watermark_title">Вадзяны знак 960 кадр/с</string>
   <string name="pref_a_c_f">Санограф</string>
   <string name="pref_advance_settings">Дадатковыя налады</string>
   <string name="pref_ai_detect">Вызначэнне ШI</string>
@@ -1694,7 +1694,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">Інтэрвал</string>
   <string name="pref_watermark_off">Адкл.</string>
   <string name="pref_watermark_on">Укл.</string>
-  <string name="pref_watermark_title">Вадзяной знак</string>
+  <string name="pref_watermark_title">Вадзяны знак</string>
   <string name="pref_wind_denoise_title">Фільтр ветру</string>
   <string name="preference_copied">\"%1$s\" скапіявана ў буфер абмену.</string>
   <string name="prek_b_j_o">Уключыце, каб стварыць эфект аб\'ёмнага гучання. Для найлепшага эфекту пераключыцеся ў альбомны рэжым або падключыце навушнікі.</string>

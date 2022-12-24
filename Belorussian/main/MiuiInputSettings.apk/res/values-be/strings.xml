@@ -76,7 +76,7 @@
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_suppression_title">Па змаўчанні (рэкамендуецца)</string>
   <string name="disable_power_key_long_press_under_keyguard">Адключыць меню кнопкі \"Сілкаванне\"</string>
-  <string name="diy_suppression_summary">Адрэгулюйце памер вобласці паблізу краёў, дзе ігнаруецца выпадковы дотык</string>
+  <string name="diy_suppression_summary">Адрэгулюйце памер вобласці паблізу краёў, дзе ігнаруюцца выпадковыя дотыкi</string>
   <string name="diy_suppression_title">Карыстальніцкі</string>
   <string name="double_click_power_key">Двайное націсканне на кнопку Сілкаванне</string>
   <string name="double_click_volume_down_when_lock">Падвойны націск кнопкі памяншэння гучнасці ў спячым рэжыме</string>
@@ -421,7 +421,7 @@
   <string name="split_screen">Адчыніць Падзяленне экрана</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
-  <string name="strong_suppression_summary">Прылада будзе менш рэагаваць на выпадковыя дотыку. Некаторыя жэсты могуць перастаць працаваць побач з краямі экрана</string>
+  <string name="strong_suppression_summary">Прылада будзе менш рэагаваць на выпадковыя дотыкi. Некаторыя жэсты могуць перастаць працаваць побач з краямі экрана</string>
   <string name="strong_suppression_title">Вялікая вобласць</string>
   <string name="stylus_btn_continue">Далей</string>
   <string name="stylus_btn_learn">Кіраўніцтва</string>
@@ -542,7 +542,7 @@
   <string name="v7_preference_on">УКЛ.</string>
   <string name="voice_assist">Mi ШI</string>
   <string name="voice_category">Гаворка</string>
-  <string name="wake_suppression_summary">Прылада можа мацней рэагаваць на выпадковыя дотыкі, а таксама на некаторыя элементы кіравання жэстамі паблізу ад краёў</string>
+  <string name="wake_suppression_summary">Прылада будзе мацней рэагаваць на выпадковыя дотыкі, а таксама на некаторыя элементы кіравання жэстамі паблізу ад краёў</string>
   <string name="wake_suppression_title">Маленькая вобласць</string>
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>

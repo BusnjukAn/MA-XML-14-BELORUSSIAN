@@ -40,7 +40,7 @@
   <string name="activity_title_contacts_filter">Фільтр кантактаў</string>
   <string name="add_account">Дадаць акаўнт</string>
   <string name="add_blacklist">Блакаваць</string>
-  <string name="add_blacklist_dialog_message">Блакаваць званкі і паведамленні ад гэтага нумара?</string>
+  <string name="add_blacklist_dialog_message">Блакаваць выклікі і паведамленні ад гэтага нумара?</string>
   <string name="add_blacklist_dialog_title">Заблакаваць гэты нумар?</string>
   <string name="add_connection_button">Дадаць сац.сетку</string>
   <string name="add_field">Дадаць поле</string>

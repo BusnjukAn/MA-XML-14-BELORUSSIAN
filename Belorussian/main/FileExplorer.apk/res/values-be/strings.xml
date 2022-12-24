@@ -927,8 +927,8 @@
   <string name="recent_hide_cloud_drive_files">Не паказваць файлы Mi дыска у Нядаўніх</string>
   <string name="reminder_card_title">Увага</string>
   <string name="update_no_network">Не атрымалася падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
-  <string name="use_mobile_data_update_summary">Выкарыстоўвайце мабільны інтэрнэт для аўтаматычнай сінхранізацыі змен у файлах, спампаваных з Mi дыска.</string>
-  <string name="use_mobile_data_update_title">Выкарыстоўвайце мабільныя інтэрнэт для сінхранізацыі</string>
+  <string name="use_mobile_data_update_summary">Выкарыстоўваць мабільны інтэрнэт для аўтаматычнай сінхранізацыі змен у файлах, спампаваных з Mi дыска.</string>
+  <string name="use_mobile_data_update_title">Выкарыстоўваць мабільныя інтэрнэт для сінхранізацыі</string>
   <string name="video_data_consume_dialog_confirm">Працягнуць</string>
   <string name="video_data_consume_dialog_title">Карыстацца мабільным інтэрнэтам?</string>
   <string name="web_sso_login_fail">Неабходна ўвайсці яшчэ раз</string>
