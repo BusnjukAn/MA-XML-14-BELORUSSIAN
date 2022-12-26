@@ -967,7 +967,7 @@
   <string name="pa_picker_tab_title_recommend">Рэкамендаваныя</string>
   <string name="pa_shopping_page_product_item_icon_tag_new">Вам таксама можа спадабацца</string>
   <string name="pa_shopping_widget_full_title_desc_new">Атрымаеце зніжку %s пры размяшчэнні замовы</string>
-  <string name="pa_widget_menu_replace">Змяніць</string>
+  <string name="pa_widget_menu_replace">Замяніць</string>
   <string name="pa_widget_need_download_permission">Дазволы</string>
   <string name="pa_widget_need_download_privacy">Прыватнасць</string>
   <string name="pa_widget_need_download_version">Версія %1$s</string>
