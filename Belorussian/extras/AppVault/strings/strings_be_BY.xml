@@ -7,7 +7,7 @@
     <string name="search_filter_color_all">Усе колеры</string>
     <string name="search_filter_size_all">Усе памеры</string>
     <string name="widget_apps">Праграмы з віджэтамі</string>
-    <string name="widget_num_limit">Немагчыма дадаць віджэты. Выдаліце ​​віджэты, каб дадаць новыя.</string>
+    <string name="widget_num_limit">Немагчыма дадаць віджэты. Выдаліце віджэты, каб дадаць новыя.</string>
     <string name="widget_num_warn">Дададзена. Вялікая колькасць віджэтаў на працоўным стале можа запаволіць працу прылады.</string>
     <!-- Categories -->
     <string name="theme_clock">Гадзіннік</string>
