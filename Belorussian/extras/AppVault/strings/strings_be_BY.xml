@@ -3,9 +3,14 @@
     <!-- General -->
     <string name="app_needs_update">Абнавіце праграму</string>
     <string name="app_not_installed">Усталюйце праграму</string>
+    <string name="search_filter_category_all">Усе катэгорыі</string>
+    <string name="search_filter_color_all">Усе колеры</string>
+    <string name="search_filter_size_all">Усе памеры</string>
     <string name="widget_apps">Праграмы з віджэтамі</string>
     <string name="widget_num_limit">Немагчыма дадаць віджэты. Выдаліце ​​віджэты, каб дадаць новыя.</string>
     <string name="widget_num_warn">Дададзена. Вялікая колькасць віджэтаў на працоўным стале можа запаволіць працу прылады.</string>
+    <!-- Categories -->
+    <string name="theme_clock">Гадзіннік</string>
     <!-- App names -->
     <string name="app_appvault">Стужка віджэтаў</string>
     <string name="app_calculator">Калькулятар</string>
@@ -15,7 +20,7 @@
     <string name="app_google">Google</string>
     <string name="app_health">Здароўе</string>
     <string name="app_midrop">Абмен файламi</string>
-    <string name="app_mihome">Mi Home</string>
+    <string name="app_mihome">Разумны дом</string>
     <string name="app_notes">Нататкі</string>
     <string name="app_recorder">Дыктафон</string>
     <string name="app_scanner">Сканар</string>
@@ -23,6 +28,10 @@
     <string name="app_settings">Налады</string>
     <string name="app_weather">Надвор'е</string>
     <string name="app_whatsapp">WhatsApp</string>
+    <string name="app_browser">Браўзэр</string>
+    <string name="app_camera">Камера</string>
+    <string name="app_mifitness">Mi Фітнес</string>
+    <string name="app_mipay">Кашалёк</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Знешнія цэтлікі</string>
     <string name="shortcuts_system">Сістэмныя цэтлікі</string>
@@ -68,7 +77,7 @@
     <string name="widget_clock_world_desc">Час у іншых гарадах</string>
     <string name="widget_gallery_custom">Выбраныя фота</string>
     <string name="widget_gallery_custom_desc">Дадайце віджэт і націсніце на яго для выбару фатаграфій</string>
-    <string name="widget_gallery_recommend">Моманты</string>
+    <string name="widget_gallery_recommend">Гісторыі</string>
     <string name="widget_gallery_recommend_desc">Успомніце самыя яркія моманты</string>
     <string name="widget_health_steps">Крокі</string>
     <string name="widget_health_steps_desc">Прагляд колькасці крокаў і прагрэсу ў дасягненні мэты</string>
@@ -93,7 +102,7 @@
     <string name="widget_settings_usage_stats">Час экрана</string>
     <string name="widget_settings_usage_stats_desc">Статыстыка выкарыстання праграм</string>
     <string name="widget_smarthome_control">Цэтлікі прылад</string>
-    <string name="widget_smarthome_control_desc">Кіраванне прыладамі Разумнай хаты</string>
+    <string name="widget_smarthome_control_desc">Кіраванне прыладамі разумнага дому</string>
     <string name="widget_weather_forecast">Прагноз</string>
     <string name="widget_weather_forecast_desc">Прагноз надвор'я</string>
     <string name="widget_weather_forecast_detail">Прагноз</string>
@@ -102,4 +111,34 @@
     <string name="widget_weather_realtime_desc">Бягучая інфармацыя аб надвор'і</string>
     <string name="widget_weather_today">Надвор'е</string>
     <string name="widget_weather_today_desc">Падрабязная інфармацыя аб надвор'і</string>
+    <string name="widget_browser_search">Пошук</string>
+    <string name="widget_browser_search_desc">Пошук у Інтэрнэце</string>
+    <string name="widget_browser_shortcuts">Цэтлікі</string>
+    <string name="widget_browser_shortcuts_desc">Усе асноўныя функцыі</string>
+    <string name="widget_calculator_basic">Асноўны</string>
+    <string name="widget_calculator_basic_desc">Асноўныя матэматычныя аперацыі</string>
+    <string name="widget_calculator_currency">Валюта</string>
+    <string name="widget_calculator_currency_desc">Канвертар валют</string>
+    <string name="widget_camera_filter">Фільтры Leica</string>
+    <string name="widget_camera_filter_desc">Чатыры наборы фільтраў Leica</string>
+    <string name="widget_camera_lens">Pro-аб\'ектывы</string>
+    <string name="widget_camera_lens_desc">Эксперыменты з фокуснай адлегласцю</string>
+    <string name="widget_health_sleep">Сон</string>
+    <string name="widget_health_sleep_desc">Звесткі аб сне</string>
+    <string name="widget_health_stats">Статыстыка</string>
+    <string name="widget_health_stats_desc">Статыстыка вашай актыўнасці</string>
+    <string name="widget_mipay_wallet">Фінансавы памочнік</string>
+    <string name="widget_mipay_wallet_desc">Хуткі прагляд фінансавай, крэдытнай, страхавой інфармацыі і важных напамінкаў</string>
+    <string name="widget_notes_quick">Цэтлікі</string>
+    <string name="widget_notes_quick_desc">Хуткае стварэнне нататак і задач</string>
+    <string name="widget_notes_quick_note">Нататкі</string>
+    <string name="widget_notes_quick_note_desc">Хуткае стварэнне нататак</string>
+    <string name="widget_notes_quick_task">Задачы</string>
+    <string name="widget_notes_quick_task_desc">Хуткае стварэнне задач</string>
+    <string name="widget_smarthome_batch">Кіраванне</string>
+    <string name="widget_smarthome_batch_desc">Хуткае кіраванне інтэлектуальнымі прыладамі</string>
+    <string name="widget_smarthome_environment">Навакольнае асяроддзе</string>
+    <string name="widget_smarthome_environment_desc">Тэмпература, вільготнасць і якасць паветра ў вашым доме</string>
+    <string name="widget_weather_aqi">Якасць паветра</string>
+    <string name="widget_weather_aqi_desc">ІЯП для выбраных месцаў</string>
 </resources>
