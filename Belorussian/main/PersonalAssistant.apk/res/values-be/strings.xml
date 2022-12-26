@@ -347,7 +347,7 @@
   <string name="pa_picker_detail_theme_app_cta">Запытаць дазвол</string>
   <string name="pa_picker_detail_theme_app_cta_pre">"Каб выкарыстоўваць гэты віджэт, спачатку дазвольце Тэмам падлучацца да Інтэрнэту. "</string>
   <string name="pa_picker_detail_wait_wifi_download_maml">Гэты элемент будзе загружаны праз Wi-Fi</string>
-  <string name="pa_picker_home_app_group_title">Падтрымліваемыя віджэты</string>
+  <string name="pa_picker_home_app_group_title">Праграмы з віджэтамi</string>
   <string name="pa_picker_home_group_more">Усе</string>
   <string name="pa_picker_home_request_failed">Памылка сеткі</string>
   <string name="pa_picker_home_search_hint">Пошук віджэтаў</string>
@@ -964,7 +964,7 @@
   <string name="pa_picker_search_result_type_suit">Наборы віджэтаў</string>
   <string name="pa_picker_search_result_type_widget">Віджэты</string>
   <string name="pa_picker_tab_title_category">Катэгорыі</string>
-  <string name="pa_picker_tab_title_recommend">Рэкамендуецца</string>
+  <string name="pa_picker_tab_title_recommend">Рэкамендаваныя</string>
   <string name="pa_shopping_page_product_item_icon_tag_new">Вам таксама можа спадабацца</string>
   <string name="pa_shopping_widget_full_title_desc_new">Атрымаеце зніжку %s пры размяшчэнні замовы</string>
   <string name="pa_widget_menu_replace">Змяніць</string>
