@@ -517,7 +517,7 @@
   <string name="circulate_cta_premission_wlan_title_china">Уключэнне і выключэнне Wi-Fi</string>
   <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ дазваляе лёгка пераключацца паміж прыладамі, калі вам трэба адрэдагаваць фота, зробленыя з дапамогай тэлефона, на планшэце. Уключыць Wi-Fi, каб выкарыстоўваць перадачу абслугоўвання?</string>
   <string name="global_cta_agree">Згодзен</string>
-  <string name="global_cta_desc">Сардэчна запрашаем у %s! Наша праграма забяспечвае наступныя паслугі:</string>
+  <string name="global_cta_desc">Сардэчна запрашаем у %s! Наша праграма прадастаўляе наступныя магчымасці:</string>
   <string name="global_cta_exit">Не згодзен</string>
   <string name="global_cta_feature_connect">Падключэнне тэлефонаў і планшэтаў з дапамогай вашага акаўнта Xiaomi</string>
   <string name="global_cta_feature_control">Прагляд і выкарыстанне праграм для смартфонаў на планшэце</string>
@@ -540,11 +540,11 @@
   <string name="share_pc_abort_dialog_message_china">Пераканайцеся, што Bluetooth і Wi-Fi уключаны на абедзвюх прыладах, і зноў запусціце сеанс на сваім кампутары.</string>
   <string name="share_pc_abort_dialog_ok">Зразумела</string>
   <string name="share_pc_abort_dialog_title">Злучэнне перарвана</string>
-  <string name="share_pc_file_transfer_finish">Перанесена паспяхова</string>
-  <string name="share_pc_folder_error_dialog_message">Перацягванне тэчак для іх пераносу ў цяперашні час не падтрымліваецца.</string>
+  <string name="share_pc_file_transfer_finish">Перададзена паспяхова</string>
+  <string name="share_pc_folder_error_dialog_message">Перацягванне тэчак для іх перадачы ў цяперашні час не падтрымліваецца.</string>
   <string name="share_pc_folder_error_dialog_ok">Зразумела</string>
-  <string name="share_pc_folder_error_dialog_title">Немагчыма перанесці</string>
-  <string name="share_pc_folder_multi_error_dialog_message">Вылучаныя файлы паспяхова перададзены. У цяперашні час перанос тэчак не падтрымліваецца.</string>
+  <string name="share_pc_folder_error_dialog_title">Не ўдалося перадаць</string>
+  <string name="share_pc_folder_multi_error_dialog_message">Вылучаныя файлы паспяхова перададзены. Перадача тэчак у цяперашні час не падтрымліваецца.</string>
   <string name="share_pc_folder_multi_error_dialog_ok">Зразумела</string>
   <string name="share_pc_folder_multi_error_dialog_title">Немагчыма перадаць усе элементы</string>
   <string name="switch_wlan_failed_desc_china">Не атрымалася аўтаматычна падлучыцца да гэтай сеткі Wi-Fi. Паспрабуйце падлучыцца ўручную ў наладах.</string>

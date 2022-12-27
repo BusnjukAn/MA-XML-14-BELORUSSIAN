@@ -930,8 +930,11 @@
   <string name="use_mobile_data_update_summary">Выкарыстоўваць мабільны інтэрнэт для аўтаматычнай сінхранізацыі змен у файлах, спампаваных з Mi дыска.</string>
   <string name="use_mobile_data_update_title">Выкарыстоўваць мабільныя інтэрнэт для сінхранізацыі</string>
   <string name="video_data_consume_dialog_confirm">Працягнуць</string>
-  <string name="video_data_consume_dialog_title">Карыстацца мабільным інтэрнэтам?</string>
+  <string name="video_data_consume_dialog_title">Выкарыстоўваць мабільны інтэрнэт?</string>
   <string name="web_sso_login_fail">Неабходна ўвайсці яшчэ раз</string>
   <string name="web_sso_login_message">Уваход…</string>
   <string name="webview_reload">Паспрабаваць зноў</string>
+  <string name="install_media_editor_button_text">Загрузіць</string>
+  <string name="install_media_editor_message">Каб мець магчымасць рэдагаваць элементы, спачатку загрузіце плагін. Загрузіць?</string>
+  <string name="install_media_editor_title">Патрабуецца плагін</string>
 </resources>
