@@ -989,4 +989,5 @@
   <string name="broken_screen_rescue_service_turn_off_confirm">Выключыць рэзервовае капіяванне з пашкоджаным экранам?</string>
   <string name="broken_screen_rescue_service_turn_on">Уключыць</string>
   <string name="broken_screen_rescue_service_turn_on_confirm">Уключыць рэзервовае капіяванне з пашкоджаным экранам?</string>
+  <string name="backup_for_broken_screen">Рэзервовыя копіі з пашкоджаным экранам</string>
 </resources>

@@ -640,4 +640,12 @@
   <string name="wallpaper_group_petros_koublis_title">Мроі</string>
   <string name="wallpaper_group_glassy_light_title">Шматслаёвае шкло</string>
   <string name="wallpaper_group_shadow_geometry_title">Геаметрыя ценяў</string>
+  <string name="freeform_guide_tip_dock">Перацягніце праграму ў цэнтр экрана, каб адкрыць яго ў плывучым акне</string>
+  <string name="freeform_guide_tip_down">Каб закрыць плаваючае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым хутка пацягніце яе ўверх</string>
+  <string name="freeform_guide_tip_drag">Каб змяніць памер акна, націсніце і ўтрымлівайце яго кут і пацягніце</string>
+  <string name="freeform_guide_tip_notification">Каб адкрыць плаваючае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым пацягніце яе ўніз</string>
+  <string name="freeform_guide_tip_pin">Каб згарнуць акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым хутка пацягніце акно да краю экрана</string>
+  <string name="freeform_guide_tip_pin_up">Перацягнеце згорнутае акно, каб вярнуць яго назад</string>
+  <string name="freeform_guide_tip_sidebar">Правядзіце вонкі, каб адкрыць бакавую панэль</string>
+  <string name="freeform_guide_tip_top">Каб перамясціць акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым пацягніце акно</string>
 </resources>

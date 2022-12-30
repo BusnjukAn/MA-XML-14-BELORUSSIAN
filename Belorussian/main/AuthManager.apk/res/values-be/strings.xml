@@ -479,4 +479,7 @@
   <string name="permdesc_post_notification">Дазволіць %1$s адпраўляць апавяшчэнні?</string>
   <string name="carwith_grant_permission_tips_when_lock">Спачатку разблакуйце тэлефон</string>
   <string name="permdesc_read_phone_numbers">Дазволіць %1$s чытаць тэлефонныя нумары на гэтай прыладзе?</string>
+  <string name="deny_fine_keep_blur_location">Прыблізнае месцазнаходжанне</string>
+  <string name="tilte_request_coarse_location">Дазволіць %1$s доступ да вашага прыблізнага месцазнаходжання?</string>
+  <string name="tilte_request_fine_location">Дазволіць %1$s доступ да вашага дакладнага месцазнаходжання або выкарыстоўваць замест гэтага прыблізнае месцазнаходжанне?</string>
 </resources>

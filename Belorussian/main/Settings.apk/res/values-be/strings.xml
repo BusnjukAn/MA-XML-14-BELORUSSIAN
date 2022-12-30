@@ -10670,4 +10670,7 @@ ID:%s
   <string name="wifi_saved_access_point">Захаваныя сеткі</string>
   <string name="enable_crbt_pref_summary">Не паказваць відэа профіля для ўваходных выклікаў падчас тэставання</string>
   <string name="enable_crbt_pref_title">Адключыць відэа профіля для ўваходных выклікаў</string>
+  <string name="bluetooth_inband_ringing">Дазволіць унутрапалосныя рынгтоны</string>
+  <string name="bluetooth_inband_ringing_summary">Дазволіць прайграванне рынгтонаў тэлефона праз навушнікі Bluetooth. Гэтая функцыя можа выкарыстоўвацца толькі пры падлучэнні адной прылады і можа быць несумяшчальная з некаторымі прыладамі.</string>
+  <string name="wifi_tether_high_temperature_toast">Пры абароне ад высокай тэмпературы функцыя часова недаступная</string>
 </resources>
