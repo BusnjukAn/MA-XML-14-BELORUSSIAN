@@ -31,7 +31,7 @@
   <string name="account_bind_secure_email_title">Дадайце адрас электроннай пошты</string>
   <string name="account_bind_secure_phone_title">Дадайце нумар тэлефона</string>
   <string name="account_crop_user_avatar">Абрэзаць фота</string>
-  <string name="account_empty_user_name">Увядзіце імя карыстальніка Mi Акаўнта</string>
+  <string name="account_empty_user_name">Увядзіце імя карыстальніка Xiaomi акаўнта</string>
   <string name="account_error_all_space_user_name">Імя не можа складацца толькі з прабелаў</string>
   <string name="account_error_invalid_user_name">Імя не можа ўтрымліваць &lt;, >, /</string>
   <string name="account_error_longer_user_name">Імя не можа ўтрымліваць больш за 20 сімвалаў</string>
@@ -53,7 +53,7 @@
   <string name="account_user_details">Персанальная інфармацыя</string>
   <string name="account_user_email">Email для аднаўлення</string>
   <string name="account_user_gender">Пол</string>
-  <string name="account_user_id">ID Mi Акаўнта</string>
+  <string name="account_user_id">ID Xiaomi акаўнта</string>
   <string name="account_user_name">Імя карыстальніка</string>
   <string name="account_user_name_dialog_title">Увядзіце імя карыстальніка</string>
   <string name="account_user_other_info">Іншае</string>
@@ -74,7 +74,7 @@
   <string name="app_name">Справаздачы</string>
   <string name="app_search">Пошук праграм</string>
   <string name="auth_fail_warning">Час сесіі скончыўся, увайдзіце пазней зноў</string>
-  <string name="bind_sign_in_title">Дадаць Mi акаунт</string>
+  <string name="bind_sign_in_title">Дадаць Xiaomi акаунт</string>
   <string name="btn_send">Адправіць</string>
   <string name="bugreport_dialog_not_show_again">Больш не паказваць</string>
   <string name="bugreport_dialog_submit_content"><Data>Зараз вы захоўваеце часопісы праграмнага забеспячэння на гэтай прыладзе. Часопісы могуць утрымліваць асабістую інфармацыю і дадзеныя аб вашым месцазнаходжанні. Не дзяліцеся часопісамі з кім-небудзь яшчэ, калі вы не хочаце, каб гэтая інфармацыя была раскрытая. Выбар «Згодны» азначае, што вы прачыталі і пагадзіліся з нашымі &lt;a href=%1$s>Палітыкай прыватнасці&lt;/a> і &lt;a href=%2$s>Карыстацкай дамовай&lt;/a>.</Data></string>
@@ -136,7 +136,7 @@
   <string name="confirm_activate_email">Праверана</string>
   <string name="confirm_bundled_phone_dialog_title">Пацвердзіце звязаны нумар тэлефона</string>
   <string name="confirm_new_pwd">Падцвердзіце новы пароль</string>
-  <string name="confirm_unbundled_phone_dialog_message">Нумар тэлефона %1$s быў звязаны з Mi Акаўнтам %2$s. Калі вы працягніце, нумар больш не будзе звязаны з Mi Акаўнтам %3$s. Працягнуць?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Нумар тэлефона %1$s быў звязаны з Xiaomi акаўнтам %2$s. Калі вы працягніце, нумар больш не будзе звязаны з Xiaomi акаўнтам %3$s. Працягнуць?</string>
   <string name="copy">Капіяваць</string>
   <string name="cta_cancel">Скасаваць</string>
   <string name="cta_confirm">ОК</string>
@@ -180,12 +180,12 @@
   <string name="err_type_translate">Мова</string>
   <string name="err_type_xiaomi_family">Mi Сям\'я</string>
   <string name="err_type_xiaomi_service">Абслугоўванне карыстальнікаў</string>
-  <string name="error_dup_binded_email">Гэты адрас электроннай пошты звязаны з іншым Mi Акаўнтам.</string>
+  <string name="error_dup_binded_email">Гэты адрас электроннай пошты звязаны з іншым Xiaomi акаўнтам.</string>
   <string name="error_invalid_bind_address">Няслушны адрас электроннай пошты.</string>
   <string name="evening">Поўдзень</string>
-  <string name="exceed_binded_phone_times_notice">Гэты тэлефон звязаны з іншым Mi Акаўнтам.</string>
+  <string name="exceed_binded_phone_times_notice">Гэты тэлефон звязаны з іншым Xiaomi акаўнтам.</string>
   <string name="expand_button_title">Дадаткова</string>
-  <string name="failed_dup_secure_phone_number">Гэты нумар тэлефона ўжо звязаны з іншым Mi Акаўнтам</string>
+  <string name="failed_dup_secure_phone_number">Гэты нумар тэлефона ўжо звязаны з іншым Xiaomi акаўнтам</string>
   <string name="failed_to_fetch_fql">Не ўдалося атрымаць інфармацыю аб часта задаваных пытаннях, праверце падключэнне да сеткі</string>
   <string name="feedback_answer_detail_feedback_resolved">Так</string>
   <string name="feedback_answer_detail_feedback_result">Дзякуй за Ваш водгук!</string>
@@ -228,13 +228,13 @@
   <string name="feedback_edit_popup_window_related_title">Гэта можа быць актуальна</string>
   <string name="feedback_empty_report_list">Справаздачы адсутнічаюць</string>
   <string name="feedback_guess">Нашы прапановы</string>
-  <string name="feedback_history_remind_login_desc">Увайдзіце ў свой Mi Акаўнт для прагляду падрабязнасцяў аб вашых справаздачах</string>
+  <string name="feedback_history_remind_login_desc">Увайдзіце ў свой Xiaomi акаўнт для прагляду падрабязнасцяў аб вашых справаздачах</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Ключ JIRA: %s</string>
   <string name="feedback_jira_key_place_holder">Стварэнне Jira…</string>
   <string name="feedback_package_log_failed">Не атрымалася сціснуць логі</string>
   <string name="feedback_remind_login_btn">Увайсці</string>
-  <string name="feedback_report_remind_login_desc">Увайдзіце ў свой Mi Акаўнт, каб нашы інжынеры маглі звязацца з Вамі.</string>
+  <string name="feedback_report_remind_login_desc">Увайдзіце ў свой Xiaomi акаўнт, каб нашы інжынеры маглі звязацца з Вамі.</string>
   <string name="feedback_report_remind_login_desc2">Вы можаце прагледзець ход выканання сваёй справаздачы ў раздзеле \"Мой водгук\".</string>
   <string name="feedback_reproductivity_everytime">Кожны раз</string>
   <string name="feedback_reproductivity_occasionally">Рэдка</string>
@@ -351,7 +351,7 @@
   <string name="friday_shortest">Птн</string>
   <string name="get_back_pwd">Скідванне пароля</string>
   <string name="get_ph_ticket">Атрымаць код</string>
-  <string name="get_phone_bind_exceed_limit">З тэлефонным нумарам можна звязаць да 3 Mi Акаўнтаў. Немагчыма дадаць новы акаўнт.</string>
+  <string name="get_phone_bind_exceed_limit">З тэлефонным нумарам можна звязаць да 3 Xiaomi акаўнтаў. Немагчыма дадаць новы акаўнт.</string>
   <string name="get_phone_verifycode_exceed_limit">На гэты нумар адпраўлена зашмат кодаў пацвярджэння. Пачакайце 24 гадзіны і паўтарыце спробу.</string>
   <string name="getverifycode_seconde">сек.</string>
   <string name="goon_feedback_main">Працягнуць</string>
@@ -365,7 +365,7 @@
   <string name="input_email_address_notice">Мы будзем выкарыстоўваць гэты email для праверкі вашага акаўнта</string>
   <string name="input_length_exceeds_limit">Уведзены вамі тэкст занадта доўгі</string>
   <string name="input_new_pwd">Увядзіце новы пароль</string>
-  <string name="isornot_your_mi_account">Гэта ваш Mi акаунт?</string>
+  <string name="isornot_your_mi_account">Гэта ваш Xiaomi акаунт?</string>
   <string name="issue_search">Пошук</string>
   <string name="jump_full_log_dialog_cancel">Адмена</string>
   <string name="jump_full_log_dialog_confirm">Стварыць</string>
@@ -374,7 +374,7 @@
   <string name="just_a_second">Хвілінку…</string>
   <string name="kr_authorization_agree">Прыняць</string>
   <string name="kr_authorization_contact">Акаўнты</string>
-  <string name="kr_authorization_contact_desc">Атрыманне даных Mi акаўнта і пацвярджэнне вашага акаўнта</string>
+  <string name="kr_authorization_contact_desc">Атрыманне даных Xiaomi акаўнта і пацвярджэнне вашага акаўнта</string>
   <string name="kr_authorization_exit">Выйсці</string>
   <string name="kr_authorization_function">Адпраўка водгукаў, стварэнне часопісаў, прагляд часта задаваных пытанняў</string>
   <string name="kr_authorization_log_protocol">Пратакол журнала (неабавязкова)</string>
@@ -393,7 +393,7 @@
   <string name="loading_apps">Спампоўка спісу праграм…</string>
   <string name="login_by_local_phone_long_text">Увайсці зараз</string>
   <string name="login_by_local_phone_short_text">Увайсці</string>
-  <string name="login_other">Іншы Mi акаўнт</string>
+  <string name="login_other">Іншы Xiaomi акаўнт</string>
   <string name="login_register_by_local_phone_long_text">Стварыць акаўнт</string>
   <string name="login_with_sns">Іншыя спосабы ўваходу</string>
   <string name="logo_title">Справаздачы аб памылках</string>
@@ -609,7 +609,7 @@
   <string name="passport_wrong_vcode">Уведзены няправільны код</string>
   <string name="passport_wrong_voice">Уведзены няправільны код</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
-  <string name="phone_bind_too_many">Гэты тэлефон быў звязаны з некалькімі Mi акаўнтамі за кароткі прамежак часу. Паспрабуйце выкарыстаць іншы нумар тэлефона.</string>
+  <string name="phone_bind_too_many">Гэты тэлефон быў звязаны з некалькімі Xiaomi акаўнтамі за кароткі прамежак часу. Паспрабуйце выкарыстаць іншы нумар тэлефона.</string>
   <string name="phone_hint">Нумар тэлефона</string>
   <string name="phone_num_use_for">Функцыі нумара тэлефона:</string>
   <string name="phone_number">Нумар тэлефона</string>
@@ -667,7 +667,7 @@
   <string name="set_success">Паспяхова</string>
   <string name="sign_in">Аўтарызацыя</string>
   <string name="sign_in_progress">Уваход у сістэму…</string>
-  <string name="sign_in_title">Увайдзіце ў свой Mi акаунт</string>
+  <string name="sign_in_title">Увайдзіце ў свой Xiaomi акаунт</string>
   <string name="skip_query_account">Прапусціць</string>
   <string name="sms_send_success">Адпраўлена</string>
   <string name="sns_access_token_expired_warning">Час увахода ў акаўнт скончыўся. Увайдзіце ў акаўнт зноў.</string>
@@ -799,21 +799,21 @@
   <string name="update_phone_notice">Налады бяспекі</string>
   <string name="upload_error_log">Загрузіць часопіс</string>
   <string name="upload_log_failed">Не атрымалася адправіць логі</string>
-  <string name="user_agreement_hint_3rd_app">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_3rd_app_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_3rd_app_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_3rd_app_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_default">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_default">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
   <string name="user_agreement_hint_default_1">Прачытайце і пагадзіцеся з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці</string>
-  <string name="user_agreement_hint_default_extra">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта. Пры першым уваходзе ў сістэму аўтаматычна ствараецца Mi акаўнт.</string>
-  <string name="user_agreement_hint_first_login">Мы створым Mi акаўнт аўтаматычна, калі вы ўпершыню карыстаецеся сваiм нумарам тэлефона.</string>
-  <string name="user_agreement_hint_with_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
-  <string name="user_agreement_hint_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Mi акаўнта</string>
+  <string name="user_agreement_hint_default_extra">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта. Пры першым уваходзе ў сістэму аўтаматычна ствараецца Xiaomi акаўнт.</string>
+  <string name="user_agreement_hint_first_login">Мы створым Xiaomi акаўнт аўтаматычна, калі вы ўпершыню карыстаецеся сваiм нумарам тэлефона.</string>
+  <string name="user_agreement_hint_with_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
   <string name="user_agreement_protocal_dialog_hint_default">Прачытайце і пагадзіцеся з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці</string>
   <string name="user_avatar_update_title">Змяніць фота профілю</string>
   <string name="user_avatar_uploading">Хвілінку…</string>
-  <string name="user_id_hint">Электронная пошта/Тэлефон/ID Mi Акаўнта</string>
+  <string name="user_id_hint">Электронная пошта/Тэлефон/ID Xiaomi акаўнта</string>
   <string name="user_must_known">Увага</string>
   <string name="user_must_known_content">Вы не зможаце працягваць карыстацца нашымі паслугамі, калі не пагадзіцеся з новай версіяй нашай %s. Ці згодны з абноўленай Палітыкай прыватнасці?</string>
   <string name="user_name_phone_number">Нумар тэлефона</string>
@@ -937,4 +937,5 @@
   <string name="feedback_account_inconsistent_login_hint">Здаецца, вы змянілі акаўнты. Увайдзіце ў свой папярэдні акаўнт Xiaomi.</string>
   <string name="feedback_account_login_hint">Спачатку ўвайдзіце ў свой акаўнт Xiaomi</string>
   <string name="login_out">Выйсці</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 </resources>

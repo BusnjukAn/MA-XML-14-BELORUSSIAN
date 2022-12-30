@@ -860,4 +860,7 @@
   <string name="verification_word">Праверка</string>
   <string name="wait_install">Усталёўка</string>
   <string name="wait_install_source">Праграма з %1$s</string>
+  <string name="auth_type_human_verify">Праверка рызыкаў</string>
+  <string name="auth_type_security_verify">Аўтэнтыфікацыя</string>
+  <string name="verify_failed">Праверка не ўдалася</string>
 </resources>

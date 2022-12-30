@@ -286,7 +286,7 @@ ID:%s
   <string name="google">Google</string>
   <string name="google_login">Увайсці праз Google</string>
   <string name="goto_accept">OK</string>
-  <string name="guest_account_label">Mi гасцявы акаўнт</string>
+  <string name="guest_account_label">Xiaomi гасцявы акаўнт</string>
   <string name="health_action_activate">Актываваць</string>
   <string name="health_action_install">Усталяваць</string>
   <string name="health_action_update">Абнавіць</string>
@@ -536,7 +536,7 @@ ID:%s
   <string name="passport_login_other_account">Іншы акаўнт</string>
   <string name="passport_login_other_phone">Выкарыстаць іншы акаўнт</string>
   <string name="passport_login_other_way">Іншыя спосабы ўваходу</string>
-  <string name="passport_login_prompt">Усе Mi сэрвісы. Адзін Xiaomi акаўнт.</string>
+  <string name="passport_login_prompt">Усе Xiaomi сэрвісы. Адзін Xiaomi акаўнт.</string>
   <string name="passport_login_recycle_account_no">Не</string>
   <string name="passport_login_recycle_account_yes">Так</string>
   <string name="passport_login_title">Увайдзіце ў Xiaomi акаўнт</string>
@@ -980,4 +980,10 @@ ID:%s
   <string name="qrcode_login_title">Адскануйце, каб увайсці</string>
   <string name="confirm_bundled_phone_dialog_confirm">Пацвярджаю</string>
   <string name="confirm_bundled_phone_dialog_confirm_timer">Пацвярджаю (%d сек.)</string>
+  <string name="current_account_can_use_pwd_login">Увядзіце пароль для ўваходу</string>
+  <string name="keep_phone_ticket_login">Увайсці з дапамогай праверачнага кода</string>
+  <string name="messenger_send_button_text">Адправіць</string>
+  <string name="phone_ticket_login">Увайсці з дапамогай праверачнага кода</string>
+  <string name="phone_ticket_register">Стварыць акаўнт з дапамогай нумара тэлефона</string>
+  <string name="use_google_account_login">Увайсці праз Google</string>
 </resources>
