@@ -1992,9 +1992,9 @@
   <string name="widget_camera_filter_description">Чатыры камплекты фільтраў Leica</string>
   <string name="widget_camera_filter_talk_back">Фільтры Leica</string>
   <string name="widget_camera_label">Фільтры Leica</string>
-  <string name="widget_camera_lens_35mm_description">Трыццаць пяць міліметраў</string>
-  <string name="widget_camera_lens_50mm_description">Пяцьдзесят міліметраў</string>
-  <string name="widget_camera_lens_90mm_description">Дзевяноста міліметраў</string>
+  <string name="widget_camera_lens_35mm_description">35 мм</string>
+  <string name="widget_camera_lens_50mm_description">50 мм</string>
+  <string name="widget_camera_lens_90mm_description">90 мм</string>
   <string name="widget_camera_lens_description">Эксперыментуйце з фокуснай адлегласцю</string>
   <string name="widget_camera_lens_none_description">Пяцідзесяціміліметровы аб\'ектыў для партрэтаў</string>
   <string name="widget_camera_lens_talk_back">Pro аб\'ектывы</string>
@@ -2267,7 +2267,7 @@
   <string name="ultra_pixel_capture_process_tip">Апрацоўка выявы…</string>
   <string name="ultra_pixel_pro_xxxxm_message">Гэтая функцыя дазваляе палепшыць выразнасць выявы. Калі яна ўключана, фота могуць апрацоўвацца даўжэй, чым звычайна.</string>
   <string name="accessibility_doc4_content_page_close_btn">Закрыць старонку распазнання тэксту</string>
-  <string name="accessibility_doc4_entrance_tip">Знойдзены тэкст. Націсніце, каб распазнаць.</string>
+  <string name="accessibility_doc4_entrance_tip">Распазнаць тэкст</string>
   <string name="accessibility_mimoji_split_screen">Падзелены экран</string>
   <string name="cv_lens_humanities">Дакументальны</string>
   <string name="cv_lens_none">Па змаўчанні</string>
@@ -2287,5 +2287,6 @@
   <string name="mimoji_bg_indoor">Студыя гуказапісу</string>
   <string name="mimoji_bg_station">Станцыя</string>
   <string name="mimoji_bg_wall">Палац</string>
-  <string name="widget_camera_lens_75mm_description">75 міліметраў</string>
+  <string name="widget_camera_lens_75mm_description">75 мм</string>
+  <string name="msg_toast_doc4_recognition_failed">Адбылася памылка. Паспрабуйце яшчэ раз.</string>
 </resources>
