@@ -141,4 +141,12 @@
     <string name="widget_smarthome_environment_desc">Тэмпература, вільготнасць і якасць паветра ў вашым доме</string>
     <string name="widget_weather_aqi">Якасць паветра</string>
     <string name="widget_weather_aqi_desc">ІЯП для выбраных месцаў</string>
+    <string name="app_files">Правадыр</string>
+    <string name="theme_pals">Сябры</string>
+    <string name="widget_files_pin">Частыя файлы</string>
+    <string name="widget_files_pin_desc">Замацуйце часта праглядваемыя файлы для хуткага доступу</string>
+    <string name="widget_pals_cat">Кацяня</string>
+    <string name="widget_pals_cat_desc">Мяў ~ не турбуйце мяне, калі я сплю…</string>
+    <string name="widget_pals_dog">Сабачка</string>
+    <string name="widget_pals_dog_desc">Гаў ~ пагуляй са мной!</string>
 </resources>
