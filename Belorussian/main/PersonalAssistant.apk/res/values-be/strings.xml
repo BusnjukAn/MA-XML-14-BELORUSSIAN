@@ -813,12 +813,17 @@
   <string name="pa_get_installed_app_permission_description">Для ўсталёўкі праграм і дадання віджэтаў</string>
   <string name="pa_read_storage_permission_description">Для адлюстравання шпалер працоўнага стала ў якасці фону праграмы</string>
   <string name="pa_accessibility_picker_home_appList_entrance">Прагледзець спіс падтрымліваемых віджэтаў</string>
-  <string name="pa_accessibility_picker_home_bigBanner_slected">Абрана %1$s, радок %2$d, нумар %3$d. Націсніце двойчы, каб пачаць.</string>
+  <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s.
+Двойчы націсніце, каб пачаць."</string>
   <string name="pa_accessibility_picker_home_search">Пошук віджэтаў</string>
-  <string name="pa_accessibility_picker_home_smallBanner_slected">Абрана %1$s, радок %2$d, нумар %3$d. Націсніце двойчы, каб пачаць.</string>
+  <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s.
+Двойчы націсніце, каб пачаць."</string>
   <string name="pa_accessibility_picker_home_title">Дадаць віджэт</string>
-  <string name="pa_accessibility_picker_home_widget_slected">Абрана %1$s, Памер: %2$s, Стан усталёўкі: %3$s. Двойчы націсніце, каб прагледзець падрабязную інфармацыю. Двойчы націсніце і ўтрымлівайце, каб перацягнуць элемент.</string>
-  <string name="pa_accessibility_picker_home_widget_with_add_slected">Абрана %1$s, радок %2$d, нумар %3$d. Націсніце двойчы, каб паглядзець падрабязнасці.</string>
+  <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, стан усталёўкі: %3$s.
+Двойчы націсніце, каб прагледзець падрабязную інфармацыю.
+Двойчы націсніце і ўтрымлівайце, каб перацягнуць элемент."</string>
+  <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, радок %2$d, нумар %3$d.
+Двойчы націсніце, каб праглядзець падрабязную інфармацыю."</string>
   <string name="pa_express_main_mul_choice_title">Абраны элемент %d</string>
   <string name="pa_lite_setting_service_shopping">Пакупкі</string>
   <string name="pa_lite_setting_service_shopping_summary">Атрымлівайце зніжкі і гандлёвыя прапановы</string>
@@ -857,7 +862,7 @@
   <string name="pa_accessibility_picker_close">Закрыць</string>
   <string name="pa_accessibility_picker_home_widget_replace">Выбраны %s. Пераключэнне віджэтаў.</string>
   <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Віджэт: %s. Двойчы націсніце кнопку пад ім, каб замяніць яго іншым віджэт.</string>
-  <string name="pa_filter_accessibility_filter_item">Выбраны %s. Націсніце двойчы, каб адфільтраваць іншыя варыянты.</string>
+  <string name="pa_filter_accessibility_filter_item">%s. Націсніце двойчы, каб адфільтраваць іншыя варыянты.</string>
   <string name="pa_filter_accessibility_filter_popup_item_selected">Націсніце двойчы, каб выбраць %s.</string>
   <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Націсніце двойчы, каб выбраць.</string>
   <string name="pa_setting_perm_empty">Тут яшчэ нічога няма</string>
@@ -865,13 +870,15 @@
   <string name="pa_open_personal_assistant_dialog_title">Адключыць Стужку віджэтаў?</string>
   <string name="pa_setting_simplify_title_bar">Стужка віджэтаў</string>
   <string name="pa_accessibility_picker_bigBanner_widget_collection">Калекцыі віджэтаў</string>
-  <string name="pa_accessibility_picker_home_maml_slected">Абрана: %1$s. Памер: %2$s. Націсніце двойчы, каб прагледзець старонку звестак. Двойчы націсніце і ўтрымлівайце, каб перацягнуць.</string>
+  <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s.
+Націсніце двойчы, каб праглядзець старонку падрабязных звестак.
+Націсніце двойчы і ўтрымлівайце, каб перацягнуць."</string>
   <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус усталёўкі: %3$s. Кнопка \"Пераключыць\" знаходзіцца ніжэй. Націсніце двойчы для пераключэння.</string>
   <string name="pa_accessibility_picker_status_installed">Усталяваны</string>
   <string name="pa_accessibility_picker_status_uninstalled">Не ўсталяваны</string>
   <string name="pa_accessibility_picker_status_unkonw">Невядома</string>
   <string name="pa_accessibility_picker_status_upgraded">Чаканне абнаўлення</string>
-  <string name="pa_accessibility_widget_slected_status">Абрана: %1$s. Статус усталёўкі: %2$s.</string>
+  <string name="pa_accessibility_widget_slected_status">%1$s. Статус усталёўкі: %2$s.</string>
   <string name="pa_setting_privacy_revoke_cta_negative">Вы можаце адклікаць згоду праз дзесяць секунд</string>
   <string name="pa_world_cup_widget_authority_tip">Надаць дазволы на прагляд інфармацыі аб матчах чэмпіянату свету па футболе.</string>
   <string name="pa_world_cup_widget_authorize">Надаць</string>
@@ -963,7 +970,7 @@
   <string name="pa_picker_search_result_type_recommend">Рэкамендуецца</string>
   <string name="pa_picker_search_result_type_suit">Наборы віджэтаў</string>
   <string name="pa_picker_search_result_type_widget">Віджэты</string>
-  <string name="pa_picker_tab_title_category">Катэгорыі</string>
+  <string name="pa_picker_tab_title_category">Абраныя</string>
   <string name="pa_picker_tab_title_recommend">Рэкамендаваныя</string>
   <string name="pa_shopping_page_product_item_icon_tag_new">Вам таксама можа спадабацца</string>
   <string name="pa_shopping_widget_full_title_desc_new">Атрымаеце зніжку %s пры размяшчэнні замовы</string>
@@ -972,4 +979,11 @@
   <string name="pa_widget_need_download_privacy">Прыватнасць</string>
   <string name="pa_widget_need_download_version">Версія %1$s</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
+  <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, стан усталёўкі: %3$s.
+Націсніце двойчы, каб праглядзець дэталі."</string>
+  <string name="pa_accessibility_picker_order_list_to_theme">Адкрыць тэмы</string>
+  <string name="pa_picker_purchase_order">Набытыя</string>
+  <string name="pa_picker_tab_title_fun">Платныя</string>
+  <string name="pa_setting_personalized_recommenddation_swicth_summary">Атрымлівайце рэкамендацыі віджэтаў на аснове вашых інтарэсаў</string>
+  <string name="pa_setting_personalized_recommenddation_swicth_title">Персаналізаваныя рэкамендацыі</string>
 </resources>
