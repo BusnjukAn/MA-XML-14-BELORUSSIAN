@@ -1717,4 +1717,5 @@
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
   <string name="moe_core_rich_landing_title">Пашыраная выгрузка</string>
   <string name="moe_rich_push_dismiss_button">Адхіліць</string>
+  <string name="refresh">Абнавіць</string>
 </resources>
