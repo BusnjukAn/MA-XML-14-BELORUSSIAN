@@ -456,4 +456,16 @@
   <string name="oppo_search_prev">Назад</string>
   <string name="ppt_play_pen">Пэндзаль</string>
   <string name="ppt_sharedplay">Сумеснае прайграванне</string>
+  <string name="public_display_privacy_policy">Прагледзець палітыку прыватнасці</string>
+  <string name="public_loadDocumentError">Файл не існуе або не можа быць адкрыты</string>
+  <string name="public_privacy_update"><Data>Каб цалкам зразумець свае правы як карыстальніка, а таксама тое, як мы выкарыстоўваем вашыя дадзеныя, прачытайце і прыміце новую версію нашай &lt;a href=\"%s\">Палітыкі прыватнасці&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="public_revoke">Адклікаць %s</string>
+  <string name="public_revoke_privacy_content">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай прыватнасці праграмы. Мы спынім збор вашай асабістай інфармацыі, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і правіламі, калі не патрабуецца іншае. Ваш водгук згоды будзе разглядацца як адмова ад паслуг, якія прадстаўляюцца гэтай праграмай.</string>
+  <string name="public_revoke_privacy_desc">Адклікаць згоду з Палітыкай прыватнасці праграмы</string>
+  <string name="public_revoke_privacy_title">Водгук згоды</string>
+  <string name="public_share">Падзяліцца</string>
+  <string name="public_bottombar_mark">Адзначыць</string>
+  <string name="public_enter_now">Увайсці зараз</string>
+  <string name="public_is_jump_wps_pen_mode">Вы ўвайшлі ў рэжым маркіроўкі?</string>
+  <string name="public_penmode_download_message_tip">Можна выкарыстоўваць стілус для рэдагавання дакумента</string>
 </resources>

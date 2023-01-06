@@ -2815,4 +2815,5 @@
   <string name="pref_sim_item_no_default">Не ўстаноўлена</string>
   <string name="sim_select_dialog_title">Абярыце SIM-карту</string>
   <string name="speed_limit_card_toast">Вы выдаткавалі дадзеныя на поўнай хуткасці. Цяпер хуткасць злучэння будзе абмежаваная.</string>
+  <string name="no_voice_capability">Не атрымалася звязацца з аператарам сувязі. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
 </resources>
