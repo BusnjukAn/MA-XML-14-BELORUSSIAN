@@ -389,7 +389,7 @@
   <string name="contextmenu_webpage_html">Захаваць як HTML файл</string>
   <string name="contextmenu_webpage_pdf">Захаваць як PDF</string>
   <string name="contextmenu_webpage_snapshot">Захаваць старонку</string>
-  <string name="copy">Капіраваць</string>
+  <string name="copy">Капіяваць</string>
   <string name="copy_url">Капіяваць URL</string>
   <string name="could_not_load_data">Не атрымалася загрузіць дадзеныя, абновіце і паспрабуйце ізноў</string>
   <string name="crash_page_button">Паспрабаваць ізноў</string>
@@ -1557,7 +1557,7 @@
   <string name="pref_ua_string">Радок агента карыстальніка</string>
   <string name="pref_version_info">Версія</string>
   <string name="pref_volume_key_action">Пракрутка кнопкамі гучнасці</string>
-  <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
+  <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="preference_des_autocomplete_search">Аўтаматычныя прапановы пошукавых запытаў на аснове гісторыі прагляду, прапаноў пошукавай сістэмы і папулярных сайтаў.</string>
   <string name="preference_title_autocomplete_search">Прапановы пошукавых запытаў і URL-адрасоў</string>
   <string name="privacy_accept">Згадзіцца і працягнуць</string>
@@ -2035,7 +2035,7 @@
   <string name="version_dialog_buttion_update">Абнавіць</string>
   <string name="version_update_file_download_toast">Спампоўка</string>
   <string name="version_update_file_not_found">Абнаўленні не знойдзеныя</string>
-  <string name="video_collection_click_view">Відэа, якія вы дадалі ў выбранае, знаходзяцца тут</string>
+  <string name="video_collection_click_view">Відэа, якія вы дадалі ў абранае, знаходзяцца тут</string>
   <string name="video_collection_empty">Тут пакуль няма відэа</string>
   <string name="video_collection_known">Зразумела</string>
   <string name="video_collection_view">Праглядзець</string>
@@ -2263,7 +2263,7 @@
   <string name="mint_news_feed">Навіны</string>
   <string name="mint_news_feed_a">Mi Навіны</string>
   <string name="mint_news_feed_b">Мясцовыя навіны</string>
-  <string name="miuix_access_state_desc">Выбрана</string>
+  <string name="miuix_access_state_desc">Абрана</string>
   <string name="more_info">Падрабязней</string>
   <string name="more_privacy">Іншыя параметры прыватнасці</string>
   <string name="no_follow_description">Вы яшчэ ні на кога не падпісаны. Праглядзіце навіны, каб знайсці аўтараў і сродкі масавай інфармацыі, якія вам падабаюцца</string>
@@ -2300,7 +2300,7 @@
   <string name="protection_dialog_summary">Гэта дзеянне заблакавана</string>
   <string name="protection_dialog_title">Абмежаваныя дазволы: %s</string>
   <string name="recommend_button">Падпісацца (%s)</string>
-  <string name="recommend_description">Мы выбралі аўтараў, на якіх вы маглі б падпісацца.</string>
+  <string name="recommend_description">Мы абралі аўтараў, на якіх вы маглі б падпісацца.</string>
   <string name="record_permission_name">Запіс гуку</string>
   <string name="recovery_page_popup">Працягніце з таго месца, дзе вы спыніліся</string>
   <string name="refuse_open">Не зараз</string>
@@ -2566,4 +2566,16 @@
   <string name="app_library_category_work_and_efficiency">Прадукцыйнасць</string>
   <string name="close_desktop">Версія для ПК адключаная</string>
   <string name="open_desktop">Паспяхова пераключана на версію для ПК</string>
+  <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
+  <string name="exo_download_paused">Спампоўкі прыпынены</string>
+  <string name="exo_download_paused_for_network">Спампоўкі чакаюць падлучэння да сеткі</string>
+  <string name="exo_download_paused_for_wifi">Спампоўкі чакаюць падлучэння да Wi-Fi</string>
+  <string name="fallback_menu_item_copy_link">Скапіяваць спасылку</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
+  <string name="fallback_menu_item_share_link">Абагуліць спасылку</string>
+  <string name="trash_cleaner_unit_b">Б</string>
+  <string name="trash_cleaner_unit_gb">Гб</string>
+  <string name="trash_cleaner_unit_kb">Кб</string>
+  <string name="trash_cleaner_unit_mb">Мб</string>
+  <string name="trash_cleaner_unit_tb">Тб</string>
 </resources>
