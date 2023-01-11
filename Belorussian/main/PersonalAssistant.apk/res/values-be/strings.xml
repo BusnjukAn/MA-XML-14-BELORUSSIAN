@@ -986,4 +986,5 @@
   <string name="pa_picker_tab_title_fun">Платныя</string>
   <string name="pa_setting_personalized_recommenddation_swicth_summary">Атрымлівайце рэкамендацыі віджэтаў на аснове вашых інтарэсаў</string>
   <string name="pa_setting_personalized_recommenddation_swicth_title">Персаналізаваныя рэкамендацыі</string>
+  <string name="pa_sports_jump_error">Не ўдалося адкрыць старонку з-за памылкі.</string>
 </resources>
