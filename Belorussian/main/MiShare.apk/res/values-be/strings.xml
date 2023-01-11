@@ -434,4 +434,9 @@
   <string name="xiaomi_phone">Xiaomi</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="yesterday">Учора</string>
+  <string name="sub_title_mishare_switch">Гэтая функцыя адключыцца аўтаматычна праз %d хв.</string>
+  <string name="toast_auto_close_in_minutes">Абмен файламі адключыцца праз %d хв.</string>
+  <string name="toast_transfering">Перанос элементаў. Паўтарыце спробу пазней.</string>
+  <string name="transfer_to_phone_summary_new">Уключыце Абмен файламі ў Цэнтры кіравання, каб мець магчымасць лёгка адпраўляць і атрымліваць элементы. Пасля ўключэння вы зможаце дзяліцца элементамі з прыладамі паблізу на працягу %d хв., пасля чаго функцыя аўтаматычна адключыцца.</string>
+  <string name="transfer_to_summary_new">Уключыце Абмен файламі ў Цэнтры кіравання, каб мець магчымасць лёгка адпраўляць і атрымліваць элементы. Пасля ўключэння вы зможаце дзяліцца элементамі з прыладамі паблізу на працягу %d хв., пасля чаго функцыя аўтаматычна адключыцца.</string>
 </resources>
