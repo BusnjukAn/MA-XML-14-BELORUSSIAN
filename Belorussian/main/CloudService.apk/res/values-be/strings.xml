@@ -930,10 +930,10 @@
   <string name="cloud_storage_almost_full_upgrade_text">Сховішча амаль запоўнена. Магчыма, не ўдасца сінхранізаваць фота.</string>
   <string name="cloud_storage_common_functions_text">Часта выкарыстоўваемыя</string>
   <string name="cloud_storage_full_upgrade_default_text">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць фота.</string>
-  <string name="cloud_storage_sufficient_text">Палепшыце, каб атрымаць да%d Тб у сховішчы</string>
-  <string name="cloud_storage_upgrade_text">Палепшыць</string>
-  <string name="cloud_storage_upgrade_text_now">Палепшыць</string>
-  <string name="cloud_storage_zero_upgrade_button_text_now">Палепшыце бясплатна</string>
+  <string name="cloud_storage_sufficient_text">Абнавіце, каб атрымаць да %d Тб у сховішчы</string>
+  <string name="cloud_storage_upgrade_text">Абнавіць</string>
+  <string name="cloud_storage_upgrade_text_now">Абнавіць</string>
+  <string name="cloud_storage_zero_upgrade_button_text_now">Абнавіць бясплатна</string>
   <string name="customize_notification_btn_text">Абнавіць</string>
   <string name="default_noti_quota_full_title">Воблачнае сховішча запоўнена</string>
   <string name="noti_quota_low_title_with_storage">У воблачным сховішчы застаецца &lt;font color=#F22424>менш за &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> Гб&lt;/font></string>

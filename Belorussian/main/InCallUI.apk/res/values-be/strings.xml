@@ -545,4 +545,5 @@
   <string name="screen_share_connecting">Падключэнне…</string>
   <string name="screen_share_message">Дазволіць іншаму чалавеку праглядаць ваш экран у рэжыме рэальнага часу?</string>
   <string name="screen_share_refuse">Адмена</string>
+  <string name="high_temperature_toast">У рэжыме абароны ад перагрэву функцыя часова недаступная</string>
 </resources>

@@ -555,4 +555,7 @@
   <string name="google_assistant_guide_tip">*Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %s сек., каб адкрыць меню выключэння.</string>
   <string name="google_assistant_guide_title">Google Асістэнт</string>
   <string name="none">Няма</string>
+  <string name="launch_accessibility_environmental_speech_recognition">Разнаванне навакольнага гуку</string>
+  <string name="launch_accessibility_hear_sound_subtitle">Субтытры Mi Ditto</string>
+  <string name="launch_accessibility_voice_control">Галасавое кіраванне</string>
 </resources>
