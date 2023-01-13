@@ -9006,7 +9006,7 @@
   <string name="settings_charging_fully_charged">Цалкам зараджана</string>
   <string name="settings_charging_not_charging">Не зараджаецца</string>
   <string name="magic_list_empty_text_pad">У цяперашні час няма праграм, сумяшчальных з гэтай функцыяй</string>
-  <string name="magic_window_name_pad">Аптымізацыя альбомнага выгляду</string>
+  <string name="magic_window_name_pad">Паралельныя вокны</string>
   <string name="headset_toast_tip_disconnect_others">Падобна, вашы навушнікі цяпер падлучаныя да іншай прылады.</string>
   <string name="params_interpretation">Падрабязныя характарыстыкі</string>
   <string name="vip_service_settings">Мае сэрвісы</string>
@@ -10673,4 +10673,5 @@ ID:%s
   <string name="bluetooth_inband_ringing">Дазволіць унутрапалосныя рынгтоны</string>
   <string name="bluetooth_inband_ringing_summary">Дазволіць прайграванне рынгтонаў тэлефона праз навушнікі Bluetooth. Гэтая функцыя можа выкарыстоўвацца толькі пры падлучэнні адной прылады і можа быць несумяшчальная з некаторымі прыладамі.</string>
   <string name="wifi_tether_high_temperature_toast">Пры абароне ад высокай тэмпературы функцыя часова недаступная</string>
+  <string name="embedded_window_guide_text">Калі экран адлюстроўваецца гарызантальна, праграмы адлюстроўваюцца раўналежна адзін аднаму. Праграмы будуць размяшчацца па цэнтру, калі гэтая функцыя адключаная.</string>
 </resources>
