@@ -543,4 +543,5 @@
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="app_disable_description_title">Адключыць гэтую праграму?</string>
 </resources>
