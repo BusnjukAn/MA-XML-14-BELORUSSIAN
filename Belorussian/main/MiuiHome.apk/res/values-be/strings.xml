@@ -1105,4 +1105,5 @@
   <string name="dock_and_folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм або тэчкі</string>
   <string name="dock_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм</string>
   <string name="folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з тэчкі</string>
+  <string name="switch_mode_tip">Секундачку…</string>
 </resources>
