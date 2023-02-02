@@ -4785,7 +4785,7 @@
   <string name="oldman_uninstalled_des">Палегчаны рэжым пазбаўляе ад бязладзіцы і робіць ваш працоўны стол простым і зразумелым.</string>
   <string name="on">Укл.</string>
   <string name="one_cacrt">адзін сертыфікат ЦС</string>
-  <string name="one_key_migrate_record">Перанесці на %1$s</string>
+  <string name="one_key_migrate_record">Перадача на %1$s</string>
   <string name="one_usercrt">адзін сертыфікат карыстальніка</string>
   <string name="one_userkey">адзін ключ карыстальніка</string>
   <string name="onehour">30 хвілін</string>
