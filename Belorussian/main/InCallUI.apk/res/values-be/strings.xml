@@ -546,4 +546,7 @@
   <string name="screen_share_message">Дазволіць іншаму чалавеку праглядаць ваш экран у рэжыме рэальнага часу?</string>
   <string name="screen_share_refuse">Адмена</string>
   <string name="high_temperature_toast">У рэжыме абароны ад перагрэву функцыя часова недаступная</string>
+  <string name="menu_new_display_open">Адкрыць у новым акне</string>
+  <string name="menu_pc_open">Адкрыць на кампутары</string>
+  <string name="onscreen_audio_mode_mirror">Планшэт</string>
 </resources>

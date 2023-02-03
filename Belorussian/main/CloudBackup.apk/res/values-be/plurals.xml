@@ -145,4 +145,8 @@
         <item quantity="one">Адноўлена %d праграма</item>
         <item quantity="few">Адноўлена %d праграмы</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+    <item quantity="other">Вы не стваралі рэзервовыя копіі сваіх элементаў на працягу %s тыдняў. Націсніце, каб даведацца, як уключыць аўтаматычнае рэзервовае капіяванне.</item>
+    <item quantity="one">Вы не стваралі рэзервовыя копіі сваіх элементаў на працягу %s тыдня. Націсніце, каб даведацца, як уключыць аўтаматычнае рэзервовае капіяванне.</item>
+  </plurals>
 </resources>

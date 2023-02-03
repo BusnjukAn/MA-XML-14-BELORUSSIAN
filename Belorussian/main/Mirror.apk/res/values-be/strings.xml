@@ -550,4 +550,6 @@
   <string name="switch_wlan_failed_desc_china">Не атрымалася аўтаматычна падлучыцца да гэтай сеткі Wi-Fi. Паспрабуйце падлучыцца ўручную ў наладах.</string>
   <string name="switch_wlan_tips_china">Падлучыцца да той жа сеткі</string>
   <string name="switch_wlan_tips_desc_china">Вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада, для большай зручнасці. Падлучыцца?</string>
+  <string name="pc_settings_current_device_tip">Аўтаматычнае падлучэнне да кампутара з адкрытым MIUI+ і такім жа Xiaomi акаўнтам</string>
+  <string name="settings_pc_handoff_title">Падключэнне да кампутара</string>
 </resources>

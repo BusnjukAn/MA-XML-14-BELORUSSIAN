@@ -1298,4 +1298,26 @@
   <string name="to_compress">Сціснуць</string>
   <string name="video">Відэа</string>
   <string name="video_compression">Відэа</string>
+  <string name="oneTrackCancel">Адмена</string>
+  <string name="oneTrackCardClickBtn">Адкрыць/спампаваць у правым ніжнім куце</string>
+  <string name="oneTrackCardClickClose">Закрыць рэкламную кнопку ў правым верхнім куце</string>
+  <string name="oneTrackCardClickOther">Іншыя вобласці</string>
+  <string name="oneTrackConfirm">Ок</string>
+  <string name="oneTrackContent">Якасць кантэнту</string>
+  <string name="oneTrackDone">Гатова</string>
+  <string name="oneTrackEmpty">Нічога</string>
+  <string name="oneTrackModelTypePad">Планшэт</string>
+  <string name="oneTrackModelTypePhone">Тэлефон</string>
+  <string name="oneTrackNoInterest">Не цікавіць</string>
+  <string name="oneTrackOften">Занадта часта</string>
+  <string name="oneTrackPhoneTypeFold">Раскладаны тэлефон</string>
+  <string name="oneTrackPhoneTypePhone">Звычайны тэлефон</string>
+  <string name="oneTrackScreenTypeLarge">Унутраны экран</string>
+  <string name="oneTrackScreenTypeSmail">Вонкавы экран</string>
+  <string name="oneTrackSourceHome">Працоўны стол</string>
+  <string name="oneTrackSourceNotification">Апавяшчэнне</string>
+  <string name="oneTrackSourceOther">Іншае</string>
+  <string name="oneTrackSourceSearch">Глабальны пошук</string>
+  <string name="oneTrackSourceSetting">Налады</string>
+  <string name="oneTrackUnDone">Не выканана</string>
 </resources>

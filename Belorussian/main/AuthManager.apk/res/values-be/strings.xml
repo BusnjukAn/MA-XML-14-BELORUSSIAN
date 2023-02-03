@@ -485,4 +485,7 @@
   <string name="HIPS_Perm_operator_shake">Доступ да дадзеных акселерометра</string>
   <string name="HIPS_Perm_operator_shake_Desc">Дадзеныя акселерометра выкарыстоўваюцца для адсочвання арыентацыі і руху (напрыклад, трасяніны, нахілу і кручэння)</string>
   <string name="permdesc_shake">Дазволіць %1$s доступ да дадзеных акселерометра?</string>
+  <string name="permdesc_isolate_storage">Дазволіць %1$s доступ да фота, відэа і аўдыё, якія захоўваюцца на гэтай прыладзе?</string>
+  <string name="permgroupdesc_read_media_aural">Дазволіць %1$s доступ да аўдыёфайлаў, якія захоўваюцца на вашай прыладзе?</string>
+  <string name="permgroupdesc_read_media_visual">Дазволіць %1$s доступ да фота і відэа, якія захоўваюцца на вашай прыладзе?</string>
 </resources>

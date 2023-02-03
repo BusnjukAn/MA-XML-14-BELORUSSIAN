@@ -583,4 +583,23 @@
   <string name="cloud_backup_get_installed_apps_summary">Для рэзервовага капіявання і аднаўленні праграм працоўнага стала</string>
   <string name="cloud_backup_get_installed_apps_title">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
   <string name="cta_dialog_permission_description_get_installed_apps">Для рэзервовага капіявання і аднаўлення праграм</string>
+  <string name="backup_action_long_time_not_auto_backup_title">Рэзервовае капіяванне</string>
+  <string name="cloud_backup_get_installed_apps_summary">Для рэзервовага капіявання і аднаўленні праграм на працоўным стале</string>
+  <string name="cloud_backup_get_installed_apps_title">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
+  <string name="cta_dialog_all_purpose">Сардэчна запрашаем у воблачнае рэзервовае капіяванне! Вы можаце выкарыстоўваць гэту праграму для рэзервовага капіявання макета працоўнага стала, праграм, сістэмных налад і даных WeChat ў воблака. Упэўніцеся, што вы карыстаецеся апошняй версіяй, каб выкарыстоўваць усе нашы магчымасці.</string>
+  <string name="cta_dialog_permission_description_get_installed_apps">Для рэзервовага капіявання і аднаўлення праграм</string>
+  <string name="cta_dialog_permission_description_storage">Для рэзервовага капіявання і аднаўлення элементаў</string>
+  <string name="dialog_auto_backup_condition_normal_content">Каб мець магчымасць рэгулярна аўтаматычна ствараць рэзервовыя копіі ўсіх важных элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
+  <string name="dialog_auto_backup_condition_normal_content_china">Каб мець магчымасць рэгулярна аўтаматычна ствараць рэзервовыя копіі ўсіх важных элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
+  <string name="dialog_auto_backup_condition_normal_positive">Зразумела</string>
+  <string name="dialog_auto_backup_condition_normal_title">Рэзервовае капіяванне</string>
+  <string name="dialog_recommend_wechat_backup_content">Цяпер вы можаце ствараць рэзервовыя копіі размоў WeChat і іншых дадзеных у воблаку Xiaomi. Каб мець магчымасць ствараць рэзервовыя копіі сваіх элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, а таксама што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
+  <string name="dialog_recommend_wechat_backup_content_china">Цяпер вы можаце ствараць рэзервовыя копіі гутарак WeChat і іншых дадзеных у воблаку Xiaomi. Каб мець магчымасць ствараць рэзервовыя копіі сваіх элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, а таксама што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
+  <string name="dialog_recommend_wechat_backup_negative">Зразумела</string>
+  <string name="dialog_recommend_wechat_backup_positive">Больш падрабязна</string>
+  <string name="dialog_recommend_wechat_backup_title">Рэзервовае капіяванне дадзеных WeChat</string>
+  <string name="repeat_recommend_wechat_backup_notification_content">Зараз вы можаце ствараць рэзервовыя копіі дадзеных WeChat. Націсніце, каб даведацца падрабязней.</string>
+  <string name="repeat_recommend_wechat_backup_notification_title">Рэзервовае капіяванне дадзеных WeChat</string>
+  <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Выканана рэзервовае капіяванне дадзеных WeChat. Націсніце, каб даведацца падрабязней.</string>
+  <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Аўтаматычнае рэзервовае капіяванне выканана</string>
 </resources>

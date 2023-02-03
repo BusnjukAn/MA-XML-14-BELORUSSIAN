@@ -91,4 +91,10 @@
   <string name="version">Бягучая версія:</string>
   <string name="weekly">штотыднёвая</string>
   <string name="wifi_recommended">Адсутнічае Wi-Fi злучэнне</string>
+  <string name="btn_not">Не</string>
+  <string name="fastboot_mode">Праграма абнаўлення знаходзіцца ў рэжыме Fastboot, вы можаце прашываць ПЗУ толькі з дапамогай тэрмінала на ПК!</string>
+  <string name="menu_title_fastboot_mode">Абнаўленне ў рэжыме Fastboot</string>
+  <string name="menu_title_recovery_mode">Абнаўленне ў рэжыме Recovery</string>
+  <string name="recovery_mode">Праграма абнаўлення знаходзіцца ў рэжыме Recovery, вы можаце прашываць ПЗУ ў праграме абнаўлення!</string>
+  <string name="twrp_update_warning">Каб мець магчымасць выкарыстоўваць OTA, вам трэба выбраць, ці ўсталяваны на вашай прыладзе TWRP:</string>
 </resources>
