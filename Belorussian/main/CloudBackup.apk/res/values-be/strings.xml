@@ -584,11 +584,6 @@
   <string name="cloud_backup_get_installed_apps_title">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
   <string name="cta_dialog_permission_description_get_installed_apps">Для рэзервовага капіявання і аднаўлення праграм</string>
   <string name="backup_action_long_time_not_auto_backup_title">Рэзервовае капіяванне</string>
-  <string name="cloud_backup_get_installed_apps_summary">Для рэзервовага капіявання і аднаўленні праграм на працоўным стале</string>
-  <string name="cloud_backup_get_installed_apps_title">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
-  <string name="cta_dialog_all_purpose">Сардэчна запрашаем у воблачнае рэзервовае капіяванне! Вы можаце выкарыстоўваць гэту праграму для рэзервовага капіявання макета працоўнага стала, праграм, сістэмных налад і даных WeChat ў воблака. Упэўніцеся, што вы карыстаецеся апошняй версіяй, каб выкарыстоўваць усе нашы магчымасці.</string>
-  <string name="cta_dialog_permission_description_get_installed_apps">Для рэзервовага капіявання і аднаўлення праграм</string>
-  <string name="cta_dialog_permission_description_storage">Для рэзервовага капіявання і аднаўлення элементаў</string>
   <string name="dialog_auto_backup_condition_normal_content">Каб мець магчымасць рэгулярна аўтаматычна ствараць рэзервовыя копіі ўсіх важных элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
   <string name="dialog_auto_backup_condition_normal_content_china">Каб мець магчымасць рэгулярна аўтаматычна ствараць рэзервовыя копіі ўсіх важных элементаў, пераканайцеся, што ў вас дастаткова месца ў воблачным сховішчы, што прылада заблакавана, мае больш за %s батарэі і падлучана да Wi-Fi у начны час. Вы таксама можаце стварыць рэзервовую копію ўручную ў любы час.</string>
   <string name="dialog_auto_backup_condition_normal_positive">Зразумела</string>
