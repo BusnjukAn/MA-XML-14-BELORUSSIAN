@@ -6419,4 +6419,24 @@
 · Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
   <string name="global_dock_guide_desc_without_split_screen">"· Краніцесь праграмы на бакавой панэлі, каб адкрыць яе ў плаваючым акне.
 · Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
+  <string name="conversation_settings_top">"·Ссуньце панэль прылад для канферэнцыі падчас поўнаэкранных аўдыё і відэа выклікаў, каб атрымаць доступ да яе функцый.
+·Тып і колькасць функцый залежыць ад мадэлі прылады."</string>
+  <string name="conversation_sider_tips">Выкарыстоўвайце новыя інструменты для канферэнцый, каб зрабіць выклікі максімальна зручнымі</string>
+  <string name="conversation_summary">Упрыгожванне, транскрыпцыя субтытраў і іншыя функцыі падчас аўдыё і відэа выклікаў</string>
+  <string name="conversation_title">Інструменты для канферэнцый</string>
+  <string name="cs_color_sense">Колеравая тэмпература</string>
+  <string name="cs_func_toast_headset">Адключыце гарнітуру, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="cs_func_toast_light">Пераключыцеся на пярэднюю камеру, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="cs_func_toast_pickup">Пераключыцеся на відэавыклік, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="cs_pickup_multi_desc">Улоўліваць гук на %d градусаў</string>
+  <string name="cs_pickup_multi_title">Некалькі ўдзельнікаў</string>
+  <string name="cs_pickup_single_desc">Улоўліваць гук толькі перад экранам</string>
+  <string name="cs_pickup_single_title">Адзін удзельнік</string>
+  <string name="cs_pickup_surround_desc">Выкарыстоўваецца ШІ для памяншэння шуму для выразнага і чыстага гуку</string>
+  <string name="cs_pickup_surround_title">Падавленне шуму мікрафона</string>
+  <string name="cs_title_pickup">Падавленне шуму</string>
+  <string name="cs_title_smart_subtitle">Транскрыпцыя субтытраў</string>
+  <string name="cs_title_ultraclear">Рэжым Ultra HD</string>
+  <string name="gd_setting_conversation">Інструменты для канферэнцый</string>
+  <string name="gd_setting_conversation_desc">Мноства функцый для выкарыстання ў поўнаэкранных аўдыё і відэа выкліках</string>
 </resources>
