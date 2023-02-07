@@ -1414,4 +1414,7 @@
   <string name="notification_missedCall_call_back">Ператэлефанаваць</string>
   <string name="notification_missedCall_message">Адправіць SMS</string>
   <string name="notification_missedCallsTitle">Прапушчаныя выклікі</string>
+  <string name="call_limit">Абмежаванні выкліку</string>
+  <string name="call_limit_content">Немагчыма патэлефанаваць \"%s\". Вы можаце тэлефанаваць толькі на тэлефонныя нумары, пазначаныя ў вашым спісе дазволеных кантактаў.</string>
+  <string name="know">Зразумела</string>
 </resources>
