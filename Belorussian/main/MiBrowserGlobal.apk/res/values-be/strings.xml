@@ -2578,4 +2578,11 @@
   <string name="trash_cleaner_unit_kb">Кб</string>
   <string name="trash_cleaner_unit_mb">Мб</string>
   <string name="trash_cleaner_unit_tb">Тб</string>
+  <string name="branch_search_bar_tips">Пошук праграм і гульняў</string>
+  <string name="branch_viewpage_title_app_recommend">Рэкамендавана</string>
+  <string name="branch_viewpage_title_local">Усталявана</string>
+  <string name="sniff_ask_every_times">Пытацца заўсёды</string>
+  <string name="sniff_detect_resource">Мы заўважылі кантэнт, які можна спампаваць на гэтай старонцы. Паглядзець зараз?</string>
+  <string name="sniff_dialog">Кантэнт, які можна спампаваць</string>
+  <string name="sniff_no_resource">Няма кантэнту, які можна спампаваць</string>
 </resources>
