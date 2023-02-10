@@ -310,4 +310,6 @@
   <string name="calibrating">Каліброўка</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="calibrate_new_tip">Нахіляйце прыладу рэзка так, каб шар каціўся па крузе</string>
+  <string name="altitude_format">%.1f м</string>
+  <string name="pressure_format">%.1f гПа</string>
 </resources>
