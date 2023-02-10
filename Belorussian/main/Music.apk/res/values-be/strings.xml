@@ -1718,4 +1718,8 @@
   <string name="moe_core_rich_landing_title">Пашыраная выгрузка</string>
   <string name="moe_rich_push_dismiss_button">Адхіліць</string>
   <string name="refresh">Абнавіць</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="see_more_videos">Яшчэ відэа</string>
+  <string name="swipe_for_more">Правядзіце ўверх, каб убачыць больш музычных кліпаў</string>
+  <string name="you_might_like_it">Вам можа спадабацца</string>
 </resources>

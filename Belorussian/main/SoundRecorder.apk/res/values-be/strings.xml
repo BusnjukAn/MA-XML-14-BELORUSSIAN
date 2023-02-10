@@ -163,7 +163,7 @@
   <string name="loading_more">Хвілінку…</string>
   <string name="loading_order_list">Хвілінку…</string>
   <string name="loading_order_list_empty">Тут няма заказаў.</string>
-  <string name="low_battery_error">Засталося менш за 5% зараду батарэі. Спыніце і захавайце ваш запіс, каб не страціць дадзеныя.</string>
+  <string name="low_battery_error">Засталося менш за %s зараду батарэі. Спыніце і захавайце ваш запіс, каб не страціць дадзеныя.</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Нізкі ўзровень зараду</string>
   <string name="lyric_item_point_count">%1$d да %2$d</string>
@@ -296,8 +296,8 @@
   <string name="pm">ПП</string>
   <string name="preference_clear_data">Выдаліць дадзеныя</string>
   <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
-  <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання аўдыё</string>
-  <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання</string>
+  <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання</string>
+  <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання аўдыя</string>
   <string name="preference_led_indicator">Індыкатар запісу</string>
   <string name="preference_led_indicator_prompt">Паказваць сіні індыкатар на экране блакавання і міргаць святлодыёдным індыкатарам падчас запісу</string>
   <string name="preference_online_orders">Анлайн-заказы</string>
@@ -318,7 +318,7 @@
   <string name="recognition_error_cancel">Скасавана</string>
   <string name="recognition_error_code">Код памылкі: %d</string>
   <string name="recognition_error_download_cancel">Пазней</string>
-  <string name="recognition_error_download_data_msg">Загрузіце модуль расшыфроўкі, каб зрабіць даступным гэты сэрвіс. Гэта спампоўка патрабуе прыкладна 20 МБ мабільнага трафіку.</string>
+  <string name="recognition_error_download_data_msg">Загрузіце модуль расшыфроўкі, каб зрабіць даступным гэты сэрвіс. Гэта спампоўка патрабуе прыкладна %d Мб мабільнага трафіку.</string>
   <string name="recognition_error_download_fail">Памылка спампоўкі. Праверце налады сеткі і паспрабуйце ізноў.</string>
   <string name="recognition_error_download_msg">Спампуйце модуль расшыфроўкі для забеспячэння даступнасці сэрвісу.</string>
   <string name="recognition_error_download_ok">Спампаваць</string>
@@ -444,9 +444,9 @@
   <string name="sunday">Нядзеля</string>
   <string name="sunday_short">Ндз</string>
   <string name="sunday_shortest">Ндз</string>
-  <string name="text_btn_backward_3_seconds">На 3 с назад</string>
+  <string name="text_btn_backward_3_seconds">На %d сек. назад</string>
   <string name="text_btn_complete">Спыніць</string>
-  <string name="text_btn_forward_3_seconds">На 3 с наперад</string>
+  <string name="text_btn_forward_3_seconds">На %d сек. наперад</string>
   <string name="text_btn_list">Запісы</string>
   <string name="text_btn_mark">Пазнака</string>
   <string name="text_btn_pause">Паўза</string>
@@ -667,4 +667,18 @@
   <string name="unknown_error_info">Невядомая памылка</string>
   <string name="text_btn_copy">Капіяваць</string>
   <string name="text_copy_complete">Скапіявана ў буфер абмену</string>
+  <string name="high_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
+  <string name="low_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
+  <string name="middle_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
+  <string name="permission_notification_description">Для адпраўкі абвестак пры запісе, прайграванні і загрузцы кантэнту</string>
+  <string name="permission_notification_dialog_description">Для адпраўкі абвестак аб бягучым статусе праграмы</string>
+  <string name="permission_notification_title">Патрабуюцца дазволы</string>
+  <string name="record_scenes_summaries_HD">Тэхналогія пашыранага дынамічнага дыяпазону дазваляе мікрафону ўлоўліваць больш дэталізаваны гук</string>
+  <string name="record_scenes_summaries_interview">Змесціце тэлефон паміж %d людзьмі, каб дакладна запісаць іх размову</string>
+  <string name="record_scenes_summaries_music">Запісвайце музыку з лепшай якасцю</string>
+  <string name="record_scenes_summaries_stereo_HD">Тэхналогія пашыранага дынамічнага дыяпазону дазваляе мікрафону ўлоўліваць больш дэталізаваны гук</string>
+  <string name="record_scenes_summaries_stereo_interview">Змесціце тэлефон паміж %d людзьмі, каб дакладна запісаць іх размову</string>
+  <string name="record_scenes_summaries_stereo_music">Запіс праз %d каналаў, праслухоўванне стэрэагуку ў навушніках</string>
+  <string name="record_scenes_summaries_stereo_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
+  <string name="record_scenes_summaries_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
 </resources>

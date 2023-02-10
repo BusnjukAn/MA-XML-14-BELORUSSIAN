@@ -695,4 +695,5 @@
   <string name="xspace_head">Кланаваная праграма</string>
   <string name="xspace_resolver_activity_title">Абярыце праграму</string>
   <string name="second_space_setting_search_label">Прыватнасць/Абарона прыватнасці/Функцыі абароны прыватнасці</string>
+  <string name="can_not_switch_when_green_kid_active_new">Немагчыма пераключыцца на другую прастору, калі ўключана функцыя \"Сямейны абаронца\"</string>
 </resources>

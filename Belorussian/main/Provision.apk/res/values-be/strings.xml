@@ -554,4 +554,8 @@
   <string name="congratulation_pre_label">Секунду…</string>
   <string name="congratulation_pre_title">Падрыхтоўка сістэмы…</string>
   <string name="miui14_start_up_slogan">Эфектыўная. Стабільная. Жывая.</string>
+  <string name="other_settings_alarm_assistance">Экстраннае месцазнаходжанне</string>
+  <string name="other_settings_alarm_assistance_privacy">Палітыка прыватнасцi</string>
+  <string name="other_settings_alarm_assistance_summary">Вы можаце аўтаматычна адпраўляць інфармацыю аб сваім месцазнаходжанні ў паліцыю з дапамогай SMS або мабільных дадзеных, калі тэлефануеце па нумары 110, 120, 119 або 122. Прачытайце і прыміце нашы &lt;a href=\"$s\">Карыстальніцкую дамову&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a> перад выкарыстаннем гэтай функцыі.</string>
+  <string name="other_settings_alarm_assistance_user">Карыстальніцкая дамова</string>
 </resources>
