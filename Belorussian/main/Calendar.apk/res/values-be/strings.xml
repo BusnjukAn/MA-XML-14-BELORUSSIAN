@@ -1222,4 +1222,6 @@
   <string name="shortcut_next_agenda">Наступная падзея</string>
   <string name="shortcut_settings">Налады</string>
   <string name="suggestions_and_feedback">Зваротная сувязь</string>
+  <string name="permission_denial">Надайце дазволы на выкарыстанне гэтай функцыі</string>
+  <string name="premission_description_notice">Для адпраўкі апавяшчэнняў аб падзеях і святах</string>
 </resources>
