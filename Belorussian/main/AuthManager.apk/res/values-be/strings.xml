@@ -488,4 +488,6 @@
   <string name="permdesc_isolate_storage">Дазволіць %1$s доступ да фота, відэа і аўдыё, якія захоўваюцца на гэтай прыладзе?</string>
   <string name="permgroupdesc_read_media_aural">Дазволіць %1$s доступ да аўдыёфайлаў, якія захоўваюцца на вашай прыладзе?</string>
   <string name="permgroupdesc_read_media_visual">Дазволіць %1$s доступ да фота і відэа, якія захоўваюцца на вашай прыладзе?</string>
+  <string name="HIPS_Perm_operator_wall_paper">Усталёўваць шпалеры</string>
+  <string name="HIPS_Perm_operator_wall_paper_Desc">Змяняць шпалеры і службы дынамічных шпалер па змаўчанні</string>
 </resources>

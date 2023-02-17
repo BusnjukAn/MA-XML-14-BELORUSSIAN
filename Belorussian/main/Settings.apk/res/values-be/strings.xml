@@ -10674,4 +10674,8 @@ ID:%s
   <string name="bluetooth_inband_ringing_summary">Дазволіць прайграванне рынгтонаў тэлефона праз навушнікі Bluetooth. Гэтая функцыя можа выкарыстоўвацца толькі пры падлучэнні адной прылады і можа быць несумяшчальная з некаторымі прыладамі.</string>
   <string name="wifi_tether_high_temperature_toast">Пры абароне ад высокай тэмпературы функцыя часова недаступная</string>
   <string name="embedded_window_guide_text">Калі экран адлюстроўваецца гарызантальна, праграмы адлюстроўваюцца раўналежна адзін аднаму. Праграмы будуць размяшчацца па цэнтру, калі гэтая функцыя адключаная.</string>
+  <string name="dark_mode_power_save_alert_dialog_confirm">Зразумела</string>
+  <string name="dark_mode_power_save_alert_dialog_message">"Калі вы адключыце аптымізацыю MIUI і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.
+Каб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI»."</string>
+  <string name="dark_mode_power_save_alert_dialog_title">Цёмны рэжым</string>
 </resources>

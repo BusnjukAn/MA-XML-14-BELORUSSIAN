@@ -2669,4 +2669,8 @@
   <string name="stream_assistant">Асістэнт</string>
   <string name="reboot_to_bootloader_title">Рэжым Fastboot</string>
   <string name="reboot_to_recovery_title">Рэжым Recovery</string>
+  <string name="dark_mode_power_save_alert_dialog_confirm">Зразумела</string>
+  <string name="dark_mode_power_save_alert_dialog_message">"Калі вы адключыце аптымізацыю MIUI і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.
+Каб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI»."</string>
+  <string name="dark_mode_power_save_alert_dialog_title">Цёмны рэжым</string>
 </resources>

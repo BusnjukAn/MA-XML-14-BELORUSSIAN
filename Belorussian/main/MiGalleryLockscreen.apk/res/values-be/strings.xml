@@ -1133,4 +1133,5 @@
   <string name="apply_warning_content_with_maml">Вы выкарыстоўваеце тэму трэцяга боку. Калі вы зменіце шпалеры, гадзіннік экрана блакавання можа быць скінуты да стандартных налад. Прымяніць?</string>
   <string name="apply_warning_title">Прымяніць шпалеры</string>
   <string name="dlg_ok">Прымяніць</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш код спраўджання WhatsApp будзе адпраўлены на ваш нумар для аднаўлення (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 </resources>

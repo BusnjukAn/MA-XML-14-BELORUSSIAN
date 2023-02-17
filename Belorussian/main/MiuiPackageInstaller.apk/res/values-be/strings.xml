@@ -863,4 +863,11 @@
   <string name="auth_type_human_verify">Праверка рызыкаў</string>
   <string name="auth_type_security_verify">Аўтэнтыфікацыя</string>
   <string name="verify_failed">Праверка не ўдалася</string>
+  <string name="auth_type_face">Па твару</string>
+  <string name="auth_type_finger">Па адбітку</string>
+  <string name="auth_type_screen_lock">Па паролю</string>
+  <string name="close_mi_protected_second_tip_dialog_cancel">Усё яшчэ выключана</string>
+  <string name="close_mi_protected_second_tip_dialog_msg">Уводзіць пароль падчас усталёўкі занадта складана? Змяніце метад праверкі!</string>
+  <string name="close_mi_protected_second_tip_dialog_ok">Пацвердзіць і пакінуць уключанай</string>
+  <string name="close_mi_protected_second_tip_dialog_title">Вы хочаце змяніць спосаб праверкі?</string>
 </resources>
