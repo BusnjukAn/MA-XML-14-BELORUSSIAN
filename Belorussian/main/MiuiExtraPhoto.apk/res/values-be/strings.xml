@@ -297,4 +297,20 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="auto_crop_full_screen">На ўвесь экран</string>
+  <string name="auto_crop_origin_photo">Зыходнае</string>
+  <string name="auto_crop_photo_not_support">Немагчыма выкарыстоўваць Xiaomi ProCut для гэтай выявы</string>
+  <string name="auto_crop_save_1">Захаванне…</string>
+  <string name="auto_crop_save_2">Захаванне</string>
+  <string name="auto_crop_selection_hint">Абрана %1$d/%2$d</string>
+  <string name="auto_crop_stop_saving">Націсніце яшчэ раз для адмены</string>
+  <string name="auto_crop_title">Xiaomi ProCut</string>
+  <string name="auto_crop_water_mark_description">Вадзяныя знакі не будуць адлюстроўвацца на выявах, апрацаваных з дапамогай Xiaomi ProCut. Усё роўна выкарыстоўваць гэтую функцыю?</string>
+  <string name="auto_crop_water_mark_title">Вадзяныя знакі адлюстроўвацца не будуць</string>
+  <string name="do_not_remind_me">Больш не паказваць</string>
+  <string name="talkback_ratio_1_1">Квадрат</string>
+  <string name="talkback_ratio_3_4">Тры на чатыры</string>
+  <string name="talkback_ratio_4_3">Чатыры на тры</string>
+  <string name="talkback_ratio_9_16">Дзевяць на шаснаццаць</string>
+  <string name="talkback_ratio_16_9">Шасцінаццаць на дзевяць</string>
 </resources>

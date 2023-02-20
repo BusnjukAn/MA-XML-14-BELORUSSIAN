@@ -785,4 +785,8 @@ dd.MM"</string>
   <string name="notification_adv_time_entries4">За &lt;xliff id=\"HOUR\" refersto=\"1\">%d&lt;/xliff> гадзіну</string>
   <string name="notification_adv_time_entries5">Няма</string>
   <string name="sleep_duration_recommendation_new" formatted="false">Большасці людзей патрабуецца ад %d да %d гадзін сну ноччу</string>
+  <string name="alarm_alert_close_entrance">Адключыць</string>
+  <string name="alarm_permanent_alert">Будзільнік</string>
+  <string name="notification_permission_desc">Калі вы не падасце дазволы на кіраванне апавяшчэннямі, вы не зможаце адключыць будзільнікі, калі яны зазваняць. Даць дазвол зараз?</string>
+  <string name="open_notification_permission_remind">Дазволіць апавяшчэнням адключаць будзільнікі</string>
 </resources>
