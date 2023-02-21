@@ -987,4 +987,8 @@
   <string name="pa_setting_personalized_recommenddation_swicth_summary">Атрымлівайце рэкамендацыі віджэтаў на аснове вашых інтарэсаў</string>
   <string name="pa_setting_personalized_recommenddation_swicth_title">Персаналізаваныя рэкамендацыі</string>
   <string name="pa_sports_jump_error">Не ўдалося адкрыць старонку з-за памылкі.</string>
+  <string name="pa_covid_card_title"> Штодзённыя інструменты </string>
+  <string name="pa_device_info_inch">Цалі</string>
+  <string name="pa_image_pick">Абярыце фота</string>
+  <string name="pa_lite_setting_service_covid">Штодзённыя інструменты</string>
 </resources>

@@ -1851,4 +1851,5 @@
   <string name="translated_text_too_long">Змест перакладу занадта доўгі, паменшыце змест і паспрабуйце яшчэ раз.</string>
   <string name="body_forward_email_text">[Пераслаць]</string>
   <string name="body_inline_pic_text">[Выява]</string>
+  <string name="message_forward_has_signature_pdf">Вы перасылаеце падпісаныя PDF-файлы?</string>
 </resources>
