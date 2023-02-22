@@ -3629,4 +3629,5 @@
   <string name="trash_purge_all_media">Назаўжды выдаліць усе элементы з воблака і ўсе сінхранізаваныя прылады? Вы не можаце адмяніць гэтае дзеянне.</string>
   <string name="video_tags_enter">Паказваць пазнакі</string>
   <string name="cloud_data_size">Фота і відэа ў воблаку: %1$s</string>
+  <string name="ignore_alert_dialog_title">Ігнараваць гэтага чалавека?</string>
 </resources>
