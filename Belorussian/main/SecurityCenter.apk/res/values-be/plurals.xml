@@ -1343,4 +1343,24 @@
       <item quantity="one">Запісы аб дзеяннях праграмы захоўваюцца на гэтай прыладзе на працягу %d дня. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
       <item quantity="other">Запісы аб дзеяннях праграмы захоўваюцца на гэтай прыладзе на працягу %d дзён. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
     </plurals>
+    <plurals name="added_apps_count">
+         <item quantity="other">Дададзена праграм: %d</item>
+         <item quantity="one">Дададзена праграм: %d</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_hour">
+         <item quantity="other">%s г.</item>
+         <item quantity="one">%s г.</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_minute">
+         <item quantity="other">%s хв.</item>
+         <item quantity="one">%s хв.</item>
+     </plurals>
+     <plurals name="not_added_apps_count">
+         <item quantity="other">Не дададзена праграм: %d</item>
+         <item quantity="one">Не дададзена праграм: %d</item>
+     </plurals>
+     <plurals name="pc_extreme_mode_count_down_title">
+         <item quantity="other">Батарэя прылады разраджана. Пераход у рэжым гібернацыі праз %1$d сек.</item>
+         <item quantity="one">Батарэя прылады разраджана. Пераход у рэжым гібернацыі праз %1$d сек.</item>
+     </plurals>
 </resources>
