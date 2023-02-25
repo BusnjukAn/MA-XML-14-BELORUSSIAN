@@ -1417,4 +1417,9 @@
   <string name="call_limit">Абмежаванні выкліку</string>
   <string name="call_limit_content">Немагчыма патэлефанаваць \"%s\". Вы можаце тэлефанаваць толькі на тэлефонныя нумары, пазначаныя ў вашым спісе дазволеных кантактаў.</string>
   <string name="know">Зразумела</string>
+  <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Аўтаадказ</string>
+  <string name="callrecordview_item_op_time_xiaoai_call">Асістэнт выклікаў Mi ШІ</string>
+  <string name="callrecordview_item_op_time_xiaoai_manual_answer">Адказ уручную</string>
+  <string name="scan_not_installed_china">Спачатку ўсталюйце Сканар</string>
+  <string name="scan_not_installed_global">Спачатку ўсталюйце Сканар</string>
 </resources>

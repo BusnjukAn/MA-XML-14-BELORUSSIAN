@@ -1293,9 +1293,9 @@
   <string name="pref_summary_enable_classify">Перанесці рэкламныя і фінансавыя паведамленнi ў асобныя ўкладкі</string>
   <string name="pref_title_enable_classify">Групаваць паведамленнi аўтаматычна</string>
   <string name="sp_msg_entry">Сэрвісы</string>
-  <string name="toast_not_show_camera_perm_req">Дазволіць праграме абмену паведамленнямі выкарыстоўваць камеру, каб мець магчымасць выкарыстоўваць гэтую функцыю</string>
-  <string name="toast_not_show_microphone_perm_req">Дазволіць праграме абмену паведамленнямі выкарыстоўваць мікрафон, каб выкарыстоўваць гэтую функцыю</string>
-  <string name="toast_not_show_storage_perm_req">Дазволіць праграме абмену паведамленнямі доступ да сховішча, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="toast_not_show_camera_perm_req">Дазвольце праграме абмену паведамленнямі выкарыстоўваць камеру, каб мець магчымасць выкарыстоўваць гэтую функцыю</string>
+  <string name="toast_not_show_microphone_perm_req">Дазвольце праграме абмену паведамленнямі выкарыстоўваць мікрафон, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="toast_not_show_storage_perm_req">Для выкарыстання гэтай функцыі патрабуецца дазвол. Вы можаце прадаставіць гэты дазвол у Наладах.</string>
   <string name="ad_notification_title">Няважныя паведамленнi</string>
   <string name="pref_group_ad_mms_recognition">Групоўка рэкламных паведамленняў</string>
   <string name="pref_summary_ad_mms_recognition">Размяшчэнне рэкламных паведамленняў на асобнай ўкладцы</string>
@@ -1436,7 +1436,7 @@
   <string name="system_permission_perm_record_audio">Для запісу гуку</string>
   <string name="system_permission_perm_send_sms">Для адпраўкі тэкставых паведамленняў</string>
   <string name="system_permission_perm_sms">Для прагляду і адпраўкі паведамленняў</string>
-  <string name="system_permission_perm_storage">Для прагляду, адпраўкі і захоўвання файлаў</string>
+  <string name="system_permission_perm_storage">Для захавання і спампоўкi ўкладанняў SMS</string>
   <string name="system_permission_perm_takephoto">Для фота і відэа</string>
   <string name="system_permission_perm_write_contact">Для стварэння і рэдагавання кантактаў</string>
   <string name="system_permission_perm_write_mms">Дазвольце праграме абмену паведамленнямі пісаць MMS</string>
@@ -1687,4 +1687,7 @@
   <string name="video_compressing">Сціск відэа…</string>
   <string name="view_group_detail_title">Прагледзець падрабязнасці чату</string>
   <string name="view_my_prof">Прагледзець маю картку кантакту RCS</string>
+  <string name="pref_title_perm_read_audio">Доступ да аўдыёфайлаў</string>
+  <string name="pref_title_perm_read_files">Доступ да файлаў і дакументаў</string>
+  <string name="pref_title_perm_read_images_video">Доступ да фота і відэа</string>
 </resources>
