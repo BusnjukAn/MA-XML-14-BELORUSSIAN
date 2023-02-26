@@ -136,14 +136,14 @@
   <string name="common_downloading">Спампоўка…</string>
   <string name="common_format_date_no_year">dd.MM</string>
   <string name="common_skip">Прапусціць</string>
-  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэннi аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Xiaomi акаўнт</string>
+  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэннi аб адказах, адзнаках і абнаўленнях статусу Xiaomi Супольнасці, выкарыстоўваючы Xiaomi акаўнт</string>
   <string name="community_community_message_trigger_title">Апавяшчаць аб актыўнасці</string>
   <string name="community_cta_dialog_cancel">Не, дзякуй</string>
-  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Xiaomi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэннi аб актыўнасці Mi Супольнасці ў Наладах.</string>
+  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Xiaomi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Xiaomi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Xiaomi акаўнта і статусу Xiaomi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэннi аб актыўнасці Xiaomi Супольнасці ў Наладах.</string>
   <string name="community_cta_dialog_ok">Дазволіць</string>
   <string name="community_cta_dialog_title">Неабходныя дазволы</string>
-  <string name="community_entrance_summary">Знайдзіце звязаны з тэмай кантэнт у Mi Супольніцтве. Гэта функцыя падтрымліваецца абранымі тэмамі.</string>
-  <string name="community_entrance_title">Віджэт гадзіннiка Mi Супольнасці</string>
+  <string name="community_entrance_summary">Знайдзіце звязаны з тэмай кантэнт у Xiaomi Супольніцтве. Гэта функцыя падтрымліваецца абранымі тэмамі.</string>
+  <string name="community_entrance_title">Віджэт гадзіннiка Xiaomi Супольнасці</string>
   <string name="community_message_trigger_disabled">Выкл.</string>
   <string name="community_message_trigger_triggered">Укл.</string>
   <string name="component_backup_preference_title">Захаваць тэму</string>
@@ -1131,7 +1131,7 @@
   <string name="update_btn">Абнавіць</string>
   <string name="update_check">Праверыць абнаўленне</string>
   <string name="update_checking">Праверка абнаўлення…</string>
-  <string name="update_community_tip">Абновіце Mi Супольнасць, каб мець магчымасць выкарыстоўваць гэтую функцыю</string>
+  <string name="update_community_tip">Абновіце Xiaomi Супольнасць, каб мець магчымасць выкарыстоўваць гэтую функцыю</string>
   <string name="update_downloading">Спампоўка абнаўленняў…</string>
   <string name="update_fail">Немагчыма атрымаць інфармацыю, паспрабуйце пазней зноў.</string>
   <string name="update_flag">Абнавіць</string>
@@ -1620,4 +1620,5 @@
   <string name="large_icon_not_support_current_type">%s не падтрымліваецца для гэтага абразка</string>
   <string name="large_icon_theme">Тэмы</string>
   <string name="historical_wallpaper">Выкарыстоўваліся раней</string>
+  <string name="resource_mi_ai_picker">Абраць рынгтон Mi ШI</string>
 </resources>

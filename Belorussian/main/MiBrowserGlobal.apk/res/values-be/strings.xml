@@ -2585,4 +2585,11 @@
   <string name="sniff_detect_resource">Мы заўважылі кантэнт, які можна спампаваць на гэтай старонцы. Паглядзець зараз?</string>
   <string name="sniff_dialog">Кантэнт, які можна спампаваць</string>
   <string name="sniff_no_resource">Няма кантэнту, які можна спампаваць</string>
+  <string name="app_category_tag_daily_recommendation">Сённяшні выбар</string>
+  <string name="app_category_tag_editor_recommendation">"Выбар рэдактара"</string>
+  <string name="app_category_tag_free">Бясплатныя</string>
+  <string name="app_category_tag_hot">Папулярныя</string>
+  <string name="search_card_more">Яшчэ</string>
+  <string name="batch_download">Спампаваць</string>
+  <string name="search_card_online_rec_app_installed">Усталяваныя</string>
 </resources>
