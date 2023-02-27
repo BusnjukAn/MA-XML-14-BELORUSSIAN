@@ -426,7 +426,7 @@
   <string name="collage_poster_global_tea_text">ПЕРАПЫНАК НА ГАРБАТУ</string>
   <string name="collage_ratio_text">Суадносіны бакоў экрана</string>
   <string name="collage_rotate">Паварот</string>
-  <string name="collage_select_image_range">Калажы могуць змяшчаць 1-6 фота</string>
+  <string name="collage_select_image_range">Калажы могуць змяшчаць ад %1$d да %2$d фота</string>
   <string name="collage_title_layout">Макет</string>
   <string name="collage_title_poster">Плакат</string>
   <string name="collage_title_stitching">Кінастужка</string>
@@ -2654,8 +2654,8 @@
   <string name="photo_editor_talkback_beautity_applied">Аўтаматычнае ўпрыгожванне ўключана</string>
   <string name="photo_editor_talkback_beautity_unapplied">Аўтаматычнае ўпрыгожванне адключана</string>
   <string name="photo_editor_talkback_crop_reset">Скід</string>
-  <string name="photo_editor_talkback_crop_right_rotate">Павярнуць на 90 градусаў</string>
-  <string name="photo_editor_talkback_crop_scale_default_value">Значэнне па змаўчанні да прымянення павароту - 0 градусаў</string>
+  <string name="photo_editor_talkback_crop_right_rotate">Павярнуць на %d градусаў</string>
+  <string name="photo_editor_talkback_crop_scale_default_value">Значэнне па змаўчанні да прымянення павароту - %d градусаў</string>
   <string name="photo_editor_talkback_crop_scale_value">Павярнуць на %d градусаў</string>
   <string name="photo_editor_talkback_crop_view">Абрэзаць малюнак</string>
   <string name="photo_editor_talkback_seekbar">Эфект рэндэрынгу</string>
@@ -2704,13 +2704,13 @@
   <string name="talkback_story_album_playicon">Прайграць гэтую гісторыю</string>
   <string name="talkback_video_with_time">Відэа, %s</string>
   <string name="talkback_video_with_time_and_location">Відэа, %1$s, %2$s</string>
-  <string name="text_item_type_talkback_bubble_arrow1">Стрэлка 1</string>
-  <string name="text_item_type_talkback_bubble_arrow2">Стрэлка 2</string>
+  <string name="text_item_type_talkback_bubble_arrow1">Стрэлка %d</string>
+  <string name="text_item_type_talkback_bubble_arrow2">Стрэлка %d</string>
   <string name="text_item_type_talkback_bubble_circular">Бурбалка з тэкстам</string>
   <string name="text_item_type_talkback_bubble_none">Тэкставае поле</string>
   <string name="text_item_type_talkback_bubble_oval">Авальная бурбалка з тэкстам</string>
-  <string name="text_item_type_talkback_bubble_rectangle">Квадратная бурбалка з тэкстам 1</string>
-  <string name="text_item_type_talkback_bubble_rectangle2">Квадратная бурбалка з тэкстам 2</string>
+  <string name="text_item_type_talkback_bubble_rectangle">Квадратная бурбалка з тэкстам %d</string>
+  <string name="text_item_type_talkback_bubble_rectangle2">Квадратная бурбалка з тэкстам %d</string>
   <string name="text_item_type_talkback_bubble_signature">Подпіс</string>
   <string name="text_item_type_talkback_bubble_watermark_1">Заўсёды верце, што хутка адбудзецца нешта цудоўнае</string>
   <string name="text_item_type_talkback_bubble_watermark_2">Ідэальны адпачынак 1</string>
@@ -2731,11 +2731,11 @@
   <string name="text_item_type_talkback_city_suzhou">Сучжоу</string>
   <string name="text_item_type_talkback_city_tianjin">Цяньцзінь</string>
   <string name="text_item_type_talkback_city_wuhan">Ухань</string>
-  <string name="text_item_type_talkback_festival_chaojieyueliang2">Супермесяц 2</string>
+  <string name="text_item_type_talkback_festival_chaojieyueliang2">Супермесяц %d</string>
   <string name="text_item_type_talkback_festival_chaojiyueliang">Супермесяц</string>
-  <string name="text_item_type_talkback_festival_chaojiyueliang3">Супермесяц 3</string>
-  <string name="text_item_type_talkback_festival_chaojiyueliang4">Супермесяц 4</string>
-  <string name="text_item_type_talkback_festival_chaojiyueliang5">Супермесяц 5</string>
+  <string name="text_item_type_talkback_festival_chaojiyueliang3">Супермесяц %d</string>
+  <string name="text_item_type_talkback_festival_chaojiyueliang4">Супермесяц %d</string>
+  <string name="text_item_type_talkback_festival_chaojiyueliang5">Супермесяц %d</string>
   <string name="text_item_type_talkback_festival_chunjie">Вясновы фестываль</string>
   <string name="text_item_type_talkback_festival_chuxi">Пярэдадзень кітайскага Новага года</string>
   <string name="text_item_type_talkback_festival_ertongjie">Дзень абароны дзяцей</string>
@@ -3630,4 +3630,15 @@
   <string name="video_tags_enter">Паказваць пазнакі</string>
   <string name="cloud_data_size">Фота і відэа ў воблаку: %1$s</string>
   <string name="ignore_alert_dialog_title">Ігнараваць гэтага чалавека?</string>
+  <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s занята</string>
+  <string name="slim_auto_backup_cloud_confirm_detail">Уключыце сінхранізацыю, каб мець магчымасць загружаць фота і відэа з вашай прылады ў воблака.</string>
+  <string name="slim_auto_backup_cloud_confirm_title">Сінхранізаваць з воблакам</string>
+  <string name="slim_finish_upgrade_tip"><Data>Абнавіце тарыфны план воблачнага сховішча, каб сінхранізаваць больш элементаў з воблакам. Націсніце, каб &lt;a href=\"%1$s\">абнавіць зараз&lt;/a>.</Data></string>
+  <string name="slim_function_summery_first">Трымайце аптымізаваныя фота на сваёй прыладзе і захоўвайце зыходныя выявы ў воблаку</string>
+  <string name="slim_function_summery_second">Файлы, створаныя за апошнія %d дзён, будуць захаваныя на вашай прыладзе</string>
+  <string name="slim_subtitle_slim_space_prefix">Вызваліць %1$s %2$s</string>
+  <string name="slim_subtitle_sync_off_no_slimdata">Уключыце сінхранізацыю з воблакам, каб атрымаць ацэнку вольнага месца</string>
+  <string name="slim_subtitle_sync_on_no_slimdata">Сінхранізацыя. Паўтарыце спробу пазней.</string>
+  <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Абнавіце тарыфны план воблачнага сховішча, каб сінхранізаваць больш элементаў</string>
+  <string name="slim_upgrade_button">Абнавіць</string>
 </resources>

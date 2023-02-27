@@ -937,4 +937,11 @@
   <string name="install_media_editor_button_text">Загрузіць</string>
   <string name="install_media_editor_message">Каб мець магчымасць рэдагаваць элементы, спачатку загрузіце плагін. Загрузіць?</string>
   <string name="install_media_editor_title">Патрабуецца плагін</string>
+  <string name="cloud_empty_hint_text_pad">Тут пакуль нічога няма.\nПаспрабуйце перамясціць файлы са сваёй прылады на Mi дыск.</string>
+  <string name="extend_service_setting">Дадатковыя службы</string>
+  <string name="extend_service_summary">Калі вы адключыце гэтую службу, вы не зможаце выкарыстоўваць функцыі, звязаныя з Mi дыскам</string>
+  <string name="extend_service_title">Кіраванне файламі на Mi дыске</string>
+  <string name="stop_extend_service_dialog_confirm">Адключыць</string>
+  <string name="stop_extend_service_dialog_summary">Калі вы адключыце гэтую функцыю, вы не зможаце кіраваць сваімі файламі, якія захоўваюцца на Mi дыске. Усё роўна адключыць?</string>
+  <string name="stop_extend_service_dialog_tilte">Дадатковыя службы</string>
 </resources>
