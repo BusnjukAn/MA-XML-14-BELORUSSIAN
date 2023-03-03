@@ -2293,4 +2293,8 @@
   <string name="module_name_microfilm">Кароткі фільм</string>
   <string name="settings_camera_lens_auto_switch_description">Аўтапераключэнне паміж асноўным і тэлеаб\'ектывам у залежнасці ад адлегласці і яркасці</string>
   <string name="settings_camera_lens_auto_switch_title">Аўтаналада аб\'ектыва</string>
+  <string name="download_hint_check_on_wifi">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб зараз?</string>
+  <string name="download_hint_check_on_wifi_cn">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб зараз?</string>
+  <string name="download_hint_check_on_wifi_remind">Больш не нагадваць</string>
+  <string name="download_hint_check_on_wifi_remind_cn">Больш не нагадваць</string>
 </resources>
