@@ -93,12 +93,12 @@
   <string name="accessibility_filter_close_panel">Меню фільтра закрыта</string>
   <string name="accessibility_filter_open_panel">Меню фільтра адкрыта</string>
   <string name="accessibility_filter_pad_close">Меню эфектаў схавана</string>
-  <string name="accessibility_flash_auto">Аўтаматычная ўспышка ўключана</string>
+  <string name="accessibility_flash_auto">Аўтаматычны выбліск ўключаны</string>
   <string name="accessibility_flash_back_soft_light">Выбліск працуе ў Рэжыме мяккага святла</string>
-  <string name="accessibility_flash_off">Успышка адключана</string>
-  <string name="accessibility_flash_on">Успышка ўключана</string>
-  <string name="accessibility_flash_screen_halo">Святло пры званку ўключана</string>
-  <string name="accessibility_flash_torch">Успышка ўключана, рэжым ліхтарыка</string>
+  <string name="accessibility_flash_off">Выбліск адключаны</string>
+  <string name="accessibility_flash_on">Выбліск уключаны</string>
+  <string name="accessibility_flash_screen_halo">Кальцавая лямпа ўключана</string>
+  <string name="accessibility_flash_torch">Выбліск уключаны, рэжым ліхтарыка</string>
   <string name="accessibility_focus_face_pos_bottom">Размешчаны недалёка ад ніжняга краю кадра</string>
   <string name="accessibility_focus_face_pos_left">Размешчаны недалёка ад левага краю кадра</string>
   <string name="accessibility_focus_face_pos_left_bottom">Размешчаны недалёка ад ніжняга левага кута кадра</string>
@@ -142,7 +142,7 @@
   <string name="accessibility_mimovie_on">Выкарыстоўваецца кадр фільма</string>
   <string name="accessibility_module_picker_finish">Пераключана на %s</string>
   <string name="accessibility_more">Больш</string>
-  <string name="accessibility_multi_cam_reselect_button">Выбраць камеры яшчэ раз</string>
+  <string name="accessibility_multi_cam_reselect_button">Абраць камеры яшчэ раз</string>
   <string name="accessibility_open">Укл.</string>
   <string name="accessibility_pano_moving_left">Перамесціце прыладу налева</string>
   <string name="accessibility_pano_moving_right">Перамесціце прыладу направа</string>
@@ -159,7 +159,7 @@
   <string name="accessibility_preview_front">Папярэдні прагляд франтальнай камеры</string>
   <string name="accessibility_preview_remote">Папярэдні прагляд «Падвойнага запісу»</string>
   <string name="accessibility_preview_select_tip">Пазіцыя %1$d</string>
-  <string name="accessibility_preview_selected">Выбрана</string>
+  <string name="accessibility_preview_selected">Абрана</string>
   <string name="accessibility_preview_shrink">Паменшыць</string>
   <string name="accessibility_preview_zoom_tip">Перадпаказ павелічэння %1$.1fX</string>
   <string name="accessibility_privacy_watermark">Ахоўны вадзяны знак</string>
@@ -173,11 +173,11 @@
   <string name="accessibility_reference_line_image_on">Адлюстровываюцца лініі сеткі</string>
   <string name="accessibility_reference_line_text">Адкрыйце панэль з опцыямі даведачнага радка</string>
   <string name="accessibility_review_thumbnail">Апошнія фота</string>
-  <string name="accessibility_select_all">Выбраць усё</string>
-  <string name="accessibility_select_all_end">Выбрана ўсё</string>
-  <string name="accessibility_selected">Выбрана</string>
+  <string name="accessibility_select_all">Абраць усё</string>
+  <string name="accessibility_select_all_end">Абрана ўсё</string>
+  <string name="accessibility_selected">Абрана</string>
   <string name="accessibility_setting">Налады</string>
-  <string name="accessibility_shutter_button">Кнопка затвора</string>
+  <string name="accessibility_shutter_button">Кнопка засаўкi</string>
   <string name="accessibility_shutter_capture_button">Зрабіць фатаграфію пры здымцы відэа</string>
   <string name="accessibility_shutter_complete_button">Паспяхова захоплена</string>
   <string name="accessibility_shutter_end_button">Спыніць</string>
@@ -190,8 +190,8 @@
   <string name="accessibility_super_eis_off">Стабільнае відэа выключана</string>
   <string name="accessibility_super_eis_on">Стабільнае відэа ўключана</string>
   <string name="accessibility_super_eis_pr_on">Стабільнае відэа PRO ўключана</string>
-  <string name="accessibility_super_macro_off">Рэжым \"Супермакро\" адключаны</string>
-  <string name="accessibility_super_macro_on">Рэжым \"Супермакро\" уключаны</string>
+  <string name="accessibility_super_macro_off">Рэжым \"Супермакра\" адключаны</string>
+  <string name="accessibility_super_macro_on">Рэжым \"Супермакра\" уключаны</string>
   <string name="accessibility_super_moon_silhouette_panel_on">Панэль рэдагавання</string>
   <string name="accessibility_tilt_shift_circle_button">Тылт-шыфт. Круг.</string>
   <string name="accessibility_tilt_shift_parallel_button">Тылт-шыфт. Паралель.</string>
@@ -276,7 +276,7 @@
   <string name="ai_scene_mode_monkey">Малпы</string>
   <string name="ai_scene_mode_moon">Месяц</string>
   <string name="ai_scene_mode_motorbike">Матацыклы</string>
-  <string name="ai_scene_mode_night">Ноч</string>
+  <string name="ai_scene_mode_night">"Ноч "</string>
   <string name="ai_scene_mode_overcast">Пахмурна</string>
   <string name="ai_scene_mode_ppt">Прэзентацыя</string>
   <string name="ai_scene_mode_sculpture">Скульптура</string>
@@ -314,7 +314,7 @@
   <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
   <string name="aiwatermark_location_absent_hint">Не ўдалося атрымаць звесткі пра месцазнаходжанне</string>
   <string name="aiwatermark_location_list_title">Месцазнаходжанне</string>
-  <string name="aiwatermark_location_tips">Дазвольце Камере доступ да вашага месцазнаходжання, каб атрымліваць больш дарэчныя вадзяныя знакі</string>
+  <string name="aiwatermark_location_tips">Дазвольце Камеры доступ да вашага месцазнаходжання, каб атрымліваць больш дарэчныя вадзяныя знакі</string>
   <string name="altitude_text">Вышыня</string>
   <string name="am">ДП</string>
   <string name="ambilight_description_title">Аб доўгай экспазіцыі</string>
@@ -328,7 +328,7 @@
   <string name="ambilight_intro_star_track">Здымка зорнага неба на працягу доўгага часу можа захопліваць траекторыю руху зорак. Не забудзьцеся выкарыстоўваць штатыў і здымаць бесперапынна па меншай меры на працягу %d хвілін.</string>
   <string name="ambilight_intro_star_track_2">Здымка зорнага неба на працягу доўгага часу можа захопліваць траекторыю руху зорак. Не забудзьцеся выкарыстоўваць штатыў і здымаць бесперапынна па меншай меры на працягу %d хвілін, каб атрымаць адначасова фота і відэа.</string>
   <string name="ambilight_intro_traffic_light">Ноччу можна фіксаваць траекторыю руху яркіх агнёў (напрыклад, на аўтамабілях або караблях). Гэты рэжым дазваляе праглядаць канчатковы вынік на экране ў рэжыме рэальнага часу.</string>
-  <string name="ambilight_scene_crowd_moving">Натоўп, які рухаецца</string>
+  <string name="ambilight_scene_crowd_moving">Рухаемы натоўп</string>
   <string name="ambilight_scene_light_track">Светлавы жывапіс</string>
   <string name="ambilight_scene_magic_star">Зорнае неба</string>
   <string name="ambilight_scene_silky_water">Алейны жывапіс</string>
@@ -341,7 +341,7 @@
   <string name="audio_focus_exit_button_text">Адключыць аўдыяфокус</string>
   <string name="audio_map_summary_tip">Сачыце за гучнасцю левага і правага каналаў у рэальным часе і рэгулюйце яе з дапамогай паўзунка</string>
   <string name="auto_hibernation_enter_tip">Экран хутка выключыцца…</string>
-  <string name="autozoom_click_hint">Краніце аб\'ект, каб трымаць яго ў фокусе. Заставайцеся на адлегласці не менш за %d м. для атрымання найлепшага эфекту.</string>
+  <string name="autozoom_click_hint">Дакраніцесь да аб\'екта, каб трымаць яго ў фокусе падчас руху. Трымайцеся на адлегласці не менш %d м. для лепшага эфекту.</string>
   <string name="autozoom_disabled_hint">Адсочванне аб\'екта, які рухаецца, спынена</string>
   <string name="autozoom_hint">Адсочванне аб\'екта, які рухаецца</string>
   <string name="autozoom_landscape_hint">Здымайце ў ландшафтным рэжыме для лепшага эфекту</string>
@@ -379,7 +379,7 @@
   <string name="beauty_lens_none">Размыццё</string>
   <string name="beauty_lens_use_hint">Выкарыстоўвайце вялікую дыяфрагму, каб размыць фон і вылучыць элементы на пярэднім плане.</string>
   <string name="beauty_makeups_bluefemale">Мароз</string>
-  <string name="beauty_makeups_danyan">Аголеная</string>
+  <string name="beauty_makeups_danyan">Галізна</string>
   <string name="beauty_makeups_gentleman">Срэбнае</string>
   <string name="beauty_makeups_nude">Натуральнае</string>
   <string name="beauty_makeups_pinkfemale">Пялёстак</string>
@@ -418,7 +418,7 @@
   <string name="button_front_camera_title">Зрабіць сэлфі</string>
   <string name="button_normal_video_title">Запіс відэа</string>
   <string name="camcorder_tip_8k_max_video_duration">Вы можаце запісаць да %1$d хв. у 8K</string>
-  <string name="camcorder_tip_current_max_video_duration">У дадзенай разроснасці вы можаце запісваць відэа працягласцю да %d хвілін.</string>
+  <string name="camcorder_tip_current_max_video_duration">У дадзенай раздзяляльнасцi вы можаце запісваць відэа працягласцю да %d хвілін.</string>
   <string name="camcorder_tip_super_night_video_4k_max_video_duration">Вы можаце запісваць да %d хв. у фармаце 4K</string>
   <string name="camera_disabled">Камера была адключана</string>
   <string name="camera_error_title">Памылка камеры</string>
@@ -480,8 +480,8 @@
   <string name="clone_too_much_movement_stop">Вы занадта моцна зрушылі прыладу. Здымка прыпыненая.</string>
   <string name="clone_video_mode">Відэа</string>
   <string name="close">Зачыніць</string>
-  <string name="close_back_flash_toast">Прылада перагрэлася. Фотаўспышка недаступна.</string>
-  <string name="close_front_flash_toast">Прылада перагрэлася. Фотаўспышка недаступна.</string>
+  <string name="close_back_flash_toast">Прылада перагрэлася. Выбліск недаступны.</string>
+  <string name="close_front_flash_toast">Прылада перагрэлася. Выбліск недаступны.</string>
   <string name="close_night_algo_toast_low_power">Для налады экспазіцыі неабходна зарадзіць прыладу</string>
   <string name="close_night_algo_toast_thermal">Для налады экспазіцыі неабходна астудзіць прыладу</string>
   <string name="color_effect_entry_berry">Ягады</string>
@@ -499,7 +499,7 @@
   <string name="color_effect_entry_koizora">Любоў</string>
   <string name="color_effect_entry_latte">Латэ</string>
   <string name="color_effect_entry_new_1">Таямніца</string>
-  <string name="color_effect_entry_new_1_describe">Колеравая схема, якая звычайна выкарыстоўваецца ў кіно, дадае зялёны ў больш цёмныя вобласці. Гэты фільтр добра падыходзіць для высококонтрастных сцэн, такіх як змярканне ў горадзе.</string>
+  <string name="color_effect_entry_new_1_describe">Каляровая схема, якая звычайна выкарыстоўваецца ў кіно, дадае зялёны ў больш цёмныя вобласці. Гэты фільтр добра падыходзіць для высококонтрастных сцэн, такіх як змярканне ў горадзе.</string>
   <string name="color_effect_entry_new_2">Танга</string>
   <string name="color_effect_entry_new_2_describe">Спалучэнне высокай кантраснасці і насычанасці надае нотку страсці і запалу.</string>
   <string name="color_effect_entry_new_3">Фантазія</string>
@@ -551,7 +551,7 @@
   <string name="confirm_reset_manually_parameter_message">Скінуць усе параметры на значэнні па змаўчанні?</string>
   <string name="confirm_restore_message">Аднавіць налады па змаўчанні?</string>
   <string name="confirm_restore_title">Аднавіць налады па змаўчанні</string>
-  <string name="copy">Капіраваць</string>
+  <string name="copy">Капіяваць</string>
   <string name="cta_mimoji_msg">Сардэчна запрашаем у Fun Cam! Выкарыстоўвайце гэтую праграму для здымкі фота і запіса відэа. Для правільнай працы гэтай праграме патрабуецца доступ да Інтэрнэту, а таксама наступныя дазволы на збор вашай асабістай інфармацыі:</string>
   <string name="cta_mimoji_perm_type">Абавязковыя дазволы (для доступу да асноўных функцый і службаў гэтай праграмы)</string>
   <string name="cta_mimoji_user_links"><Data>Прачытайце і прыміце &lt;a href =%1$s>Пагадненне карыстальніка&lt;/a> i &lt;a href =%2$s>Палітыку прыватнасці&lt;/a>.</Data></string>
@@ -642,8 +642,8 @@
   <string name="download_cancel_hint">Скасаваць спампаванне %1$s?</string>
   <string name="download_confirm">Спампаваць</string>
   <string name="download_hint">%1$s Мб мабільнага трафіку будзе выкарыстана для спампоўкi элементаў. Усё роўна спампаваць?</string>
-  <string name="download_hint_cn">Падобна на тое, што ваша прылада не падключана да WLAN. Выкарыстоўваць %1$s МБ мабільных дадзеных для запампоўкі аб\'ектаў зараз?</string>
-  <string name="download_hint_wifi">Падобна на тое, што ваша прылада не падключана да Wi-Fi. Выкарыстаць %1$s МБ мабільных дадзеных для запампоўкі аб\'ектаў зараз?</string>
+  <string name="download_hint_cn">Падобна на тое, што ваша прылада не падключана да Wi-Fi. Выкарыстоўваць %1$s Мб мабільных дадзеных для запампоўкі аб\'ектаў зараз?</string>
+  <string name="download_hint_wifi">Падобна на тое, што ваша прылада не падключана да Wi-Fi. Выкарыстаць %1$s Мб мабільных дадзеных для запампоўкі аб\'ектаў зараз?</string>
   <string name="download_in_progress">Спампоўка…</string>
   <string name="download_title">Папярэджанне пра трафік</string>
   <string name="download_waiting">Чаканне…</string>
@@ -655,7 +655,7 @@
   <string name="dual_video_record_remote">Падвойны запіс</string>
   <string name="dual_video_record_standalone">Падзелена</string>
   <string name="dual_video_user_guide_main_content">Каб стварыць відэа з некалькіх камер, абярыце дзве камеры прылады і здымайце адначасова. Запісы могуць быць захаваны асобна або аб\'яднаны ў падзеленым прадстаўленні або як відэа \"карцінка ў карцінке\".</string>
-  <string name="dual_video_user_guide_main_content_new">Відэа з некалькіх камер адначасова здымаюцца некалькімі камерамі.\nФункцыя «Падвойны запіс» таксама дазваляе падлучацца да іншай прылады паблізу і ствараць відэа з некалькіх камер, выбраўшы «Аб\'яднанае».</string>
+  <string name="dual_video_user_guide_main_content_new">Відэа з некалькіх камер адначасова здымаюцца некалькімі камерамі.\nФункцыя «Падвойны запіс» таксама дазваляе падлучацца да іншай прылады паблізу і ствараць відэа з некалькіх камер, абраўшы «Аб\'яднанае».</string>
   <string name="dual_video_user_guide_main_title">Відэа з некалькіх камер</string>
   <string name="dual_video_user_guide_merge_content">Здымайце двума камерамі адначасова і аб\'ядноўвайце запісы ў рэжыме падзеленага прадстаўлення або як відэа \"карцінка ў карцінке\".</string>
   <string name="dual_video_user_guide_merge_content_new">Два запісы можна з\'яднаць у падзеленым выглядзе ці ў відэа «малюнак у малюнку».</string>
@@ -687,7 +687,7 @@
   <string name="edit_slim_nose">Нос</string>
   <string name="edit_smile">Усмешка</string>
   <string name="edit_solid">Контур</string>
-  <string name="edit_temple">Віскі</string>
+  <string name="edit_temple">Скроні</string>
   <string name="edit_touch_up">Макіяж</string>
   <string name="emoticon">Пакет стыкераў</string>
   <string name="error_fail_to_start_audio_capture">Не атрымалася запісаць гук</string>
@@ -816,7 +816,7 @@
   <string name="live_music_close_cancel_message">Скасаваць</string>
   <string name="live_music_close_message">Адключыць музыку зараз?</string>
   <string name="live_music_close_sure_message">Адключыць</string>
-  <string name="live_music_cut_prompt">Выбраць саўндтрэк</string>
+  <string name="live_music_cut_prompt">Абраць саўндтрэк</string>
   <string name="live_music_downloading_tips">Спампоўка…</string>
   <string name="live_music_hot_title">Папулярныя песні</string>
   <string name="live_music_local_title">Лакальна</string>
@@ -844,13 +844,13 @@
   <string name="location_access_allow">Згадзіцца</string>
   <string name="location_fromkeyguard_not_permission">Зараз Камеры не дазволена атрымліваць доступ да вашага месцазнаходжання. Спачатку разблакуйце сваю прыладу.</string>
   <string name="location_permission_des">Запамінаць месцы, дзе былі знятыя фота і відэа</string>
-  <string name="location_permission_not_ask_again">Дазвольце Камере доступ да вашага месцазнаходжання ў Наладах.</string>
+  <string name="location_permission_not_ask_again">Дазвольце Камеры доступ да вашага месцазнаходжання ў Наладах.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Дазволіць</string>
   <string name="log_format">Рэжым LOG</string>
   <string name="longitude_text">Даўгата</string>
   <string name="lpl_dialog_item_name_burst">Націсніце і ўтрымлівайце для серыі здымкаў</string>
   <string name="lpl_dialog_item_name_record">Націсніце і ўтрымлівайце для запісу відэа</string>
-  <string name="lpl_dialog_title">Выбар функцыі затвора</string>
+  <string name="lpl_dialog_title">Выбар функцыі засаўкi</string>
   <string name="lunch_audio_permission_des">Для запісу відэа з гукам</string>
   <string name="lunch_audio_permission_not_ask_again">Дазвольце гэтай праграме запісваць гук, каб карыстацца гэтай функцыяй.</string>
   <string name="lunch_camera_audio_permission_not_ask_again">Дазвольце гэтай праграме выкарыстоўваць камеру і запісваць гук, каб карыстацца гэтай функцыяй.</string>
@@ -890,7 +890,7 @@
   <string name="makeup_reset_toast">Эфекты макіяжу паспяхова скінутыя</string>
   <string name="manual_picture_style">Параметры</string>
   <string name="manually_raw_tip">Павелічэнне ў фармаце RAW немагчыма</string>
-  <string name="masterfilter_description_title">Кінофільтры</string>
+  <string name="masterfilter_description_title">Кінафільтры</string>
   <string name="message_snap_double_confirm">Доўгае ўтрыманне кнопкі гучнасці запускае NFC. Замяніць гэтую функцыю?</string>
   <string name="mimoji_app_name">Вясёлая камера</string>
   <string name="mimoji_back">Назад</string>
@@ -903,7 +903,7 @@
   <string name="mimoji_cancle">Скасаваць</string>
   <string name="mimoji_cartoon_angry">Злы</string>
   <string name="mimoji_cartoon_bear">Мядзведзь</string>
-  <string name="mimoji_cartoon_cat">Кошка</string>
+  <string name="mimoji_cartoon_cat">Котка</string>
   <string name="mimoji_cartoon_cat_with_bow">Кацяня</string>
   <string name="mimoji_cartoon_expect">Усхваляваны</string>
   <string name="mimoji_cartoon_frog">Жабяня</string>
@@ -999,7 +999,7 @@
   <string name="mimoji_save_gif_emoticon">Захаваць GIF-стыкеры ў гелерею?</string>
   <string name="mimoji_save_success">Паспяхова захавана</string>
   <string name="mimoji_select_number_error">Выберыце прынамсі %d аб\'ект</string>
-  <string name="mimoji_selected">Выбраць</string>
+  <string name="mimoji_selected">Абраць</string>
   <string name="mimoji_start_create">Стварэнне аватара…</string>
   <string name="mimoji_tab_cartoon">Мультфільм</string>
   <string name="mimoji_tab_human">Чалавек</string>
@@ -1038,7 +1038,7 @@
   <string name="module_name_manual">Ручны</string>
   <string name="module_name_more">Яшчэ</string>
   <string name="module_name_multi_camera">Шматкамерная здымка</string>
-  <string name="module_name_new_slow_motion">Запаволеная здымка</string>
+  <string name="module_name_new_slow_motion">Запавольванне</string>
   <string name="module_name_panorama">Панарама</string>
   <string name="module_name_portrait">Партрэт</string>
   <string name="module_name_professional">Ручны</string>
@@ -1071,7 +1071,7 @@
   <string name="no_storage">Устаўце SD-карту перад выкарыстаннем камеры</string>
   <string name="not_enough_space">SD-карта запоўненая</string>
   <string name="not_set">Не зададзена</string>
-  <string name="object_track_enable_toast">Каб выбраць аб\'ект, адначасова націсніце па дыяганалі на два пункты яго межы.</string>
+  <string name="object_track_enable_toast">Каб абраць аб\'ект, адначасова націсніце па дыяганалі на два пункты яго межы.</string>
   <string name="only_mimoji_multi_window_mode_not_supported">Гэтую функцыю нельга выкарыстоўваць у шматаконным рэжыме</string>
   <string name="pad_cannot_connect_camera_twice">Па-ранейшаму не ўдаецца падключыцца да камеры. Паспрабуйце перазагрузіць прыладу.</string>
   <string name="pad_close_back_flash_toast">Ваша прылада перагрэта. Цяпер нельга выкарыстоўваць выбліск.</string>
@@ -1091,8 +1091,8 @@
   <string name="parameter_description_sub_title">Атрымайце поўны кантроль над фота і відэаздымкай</string>
   <string name="parameter_ef_split_description">Вы можаце перацягнуць кальцо экспазіцыі ад кальца факусіроўкі і наладзіць два параметры паасобна.</string>
   <string name="parameter_ef_split_title">Падзел вымярэння факусіроўкі і экспазіцыі</string>
-  <string name="parameter_et_description">Хуткасць аўтаматычнага затвора вызначаецца экспанометрам камеры. Калі вы ўсталёўваеце вытрымку ўручную, памятайце, што чым даўжэй адкрыты затвор, тым больш святла трапляе на фотаматрыцу, што робіць вашу выяву ярчэй.</string>
-  <string name="parameter_et_title">Вытрымка затвора</string>
+  <string name="parameter_et_description">Хуткасць аўтаматычнай засаўкi вызначаецца экспанометрам камеры. Калі вы ўсталёўваеце вытрымку ўручную, памятайце, што чым даўжэй адкрытая засаўка, тым больш святла трапляе на фотаматрыцу, што робіць вашу выяву ярчэй.</string>
+  <string name="parameter_et_title">Вытрымка засаўкi</string>
   <string name="parameter_exposure_description">Гэтая функцыя дазваляе вам прымусова змяняць вымераную экспазіцыю для павелічэння яркасці выявы або яе зацямнення.</string>
   <string name="parameter_exposure_feecback_description">Недаэкспанаваныя вобласці будуць падсвечаны сінім колерам, а пераэкспанаваныя — чырвоным. Гэта дазволіць вам больш дакладна адрэгуляваць экспазіцыю.</string>
   <string name="parameter_exposure_feecback_title">Праверка экспазіцыі</string>
@@ -1156,7 +1156,7 @@
   <string name="portait_effect_entry_sepia">Сепія</string>
   <string name="portait_effect_entry_shallots">Сонечны прамень</string>
   <string name="portait_effect_entry_story">Гісторыя</string>
-  <string name="portait_effect_entry_tea">Чай</string>
+  <string name="portait_effect_entry_tea">Гарбата</string>
   <string name="portrait_bokeh_first_tips">Партрэтны рэжым размывае фон\nі павялічвае выразнасць пярэдняга плана.</string>
   <string name="portrait_bokeh_text">Партрэтны рэжым</string>
   <string name="portrait_bokeh_tips">Размесціце суб\'екта у межах 1,5 метраў</string>
@@ -1198,8 +1198,8 @@
   <string name="pref_camcorder_settings_category">Налады камеры</string>
   <string name="pref_camera_ai_audio">ШІ аўдыё</string>
   <string name="pref_camera_ai_scene_title">Камера з ШI</string>
-  <string name="pref_camera_ai_shutter_description">Пры націску на кнопку спуску затвора выбіраць лепшы момант аўтаматычна.</string>
-  <string name="pref_camera_ai_shutter_title">Затвор з ШI</string>
+  <string name="pref_camera_ai_shutter_description">Пры націску на кнопку спуску засаўкi выбіраць лепшы момант аўтаматычна.</string>
+  <string name="pref_camera_ai_shutter_title">Засаўка з ШI</string>
   <string name="pref_camera_antibanding_entry_0">Выкл.</string>
   <string name="pref_camera_antibanding_entry_1">50 Гц</string>
   <string name="pref_camera_antibanding_entry_2">60 Гц</string>
@@ -1208,8 +1208,8 @@
   <string name="pref_camera_asd_night_title">Аўтаматычна паляпшаць фота з дрэнным асвятленнем</string>
   <string name="pref_camera_asd_popup_title">Паведамляць пра неабходнасць выбліску</string>
   <string name="pref_camera_audio_capture_title">Голас</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Каб выбраць аб\'ект, адначасова націсніце па дыяганалі на два пункты яго межы. Калі аб\'ект нерухомы, камера зробіць здымак аўтаматычна.</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Зняць выбраныя аб\'екты, калі яны нерухомыя</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Каб абраць аб\'ект, адначасова націсніце па дыяганалі на два пункты яго межы. Калі аб\'ект нерухомы, камера зробіць здымак аўтаматычна.</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Зняць абраныя аб\'екты, калі яны нерухомыя</string>
   <string name="pref_camera_auto_chroma_flash_title">Выбліск Chroma</string>
   <string name="pref_camera_auto_hibernation">Здымка з выключаным экранам</string>
   <string name="pref_camera_auto_hibernation_description">Падчас здымкі выключаць экран праз %d хвілін(-ы) неактыўнасці для эканоміі энергіі</string>
@@ -1410,10 +1410,10 @@
   <string name="pref_camera_multilevel_entry_lowest">Самая нізкая</string>
   <string name="pref_camera_multilevel_entry_middle">Сярэдні (па змаўчанні)</string>
   <string name="pref_camera_multilevel_entry_normal">Сярэдняя</string>
-  <string name="pref_camera_new_coloreffect_title">Кінофільтры</string>
+  <string name="pref_camera_new_coloreffect_title">Кінафільтры</string>
   <string name="pref_camera_normal_wide_ldc_description">Выпраўляць скажэнні твараў людзей, якія знаходзяцца паблізу граніц кадра</string>
   <string name="pref_camera_normal_wide_ldc_title">Выпраўляць скажэнні твараў на групавых фота</string>
-  <string name="pref_camera_optimized_flash_enable_title">Аптымізаваная ўспышка</string>
+  <string name="pref_camera_optimized_flash_enable_title">Аптымізаваны выбліск</string>
   <string name="pref_camera_panoramamode_title">Панарама</string>
   <string name="pref_camera_parallel_process_enable_title">Уключыць паралельную апрацоўку</string>
   <string name="pref_camera_peak_entry_off">Выкл.</string>
@@ -1478,7 +1478,7 @@
   <string name="pref_camera_snap_entry_take_picture">Хуткія здымкі (фота)</string>
   <string name="pref_camera_snap_label_take_movie">Відэа</string>
   <string name="pref_camera_snap_label_take_picture">Фота</string>
-  <string name="pref_camera_sound_title">Гук затвора</string>
+  <string name="pref_camera_sound_title">Гук засаўкi</string>
   <string name="pref_camera_square_mode_title">Квадрат</string>
   <string name="pref_camera_sr_enable_title">Супер раздзяляльнасць</string>
   <string name="pref_camera_stereo_mode_title">Стэрэа</string>
@@ -1497,7 +1497,7 @@
   <string name="pref_camera_track_eye_preferred_title">Фокус адсочвання вачэй</string>
   <string name="pref_camera_track_focus_intro_description">Калі вы фатаграфуеце ці здымаеце відэа з рухомымі аб\'ектамі, гэтая функцыя выяўляе людзей, котак і сабак і аўтаматычна ўтрымлівае іх у фокусе. Акрамя таго, вы таксама можаце двойчы націснуць на любы аб\'ект, каб адсочваць рух.</string>
   <string name="pref_camera_track_focus_intro_goto">Уключыць</string>
-  <string name="pref_camera_track_focus_preferred_description">Уключыце, каб аўтаматычна адсочваць чалавека ці жывёлу ў кадры і захоўваць на ім (ёй) фокус. Вы таксама можаце выбраць аб\'ект адсочвання ўручную.</string>
+  <string name="pref_camera_track_focus_preferred_description">Уключыце, каб аўтаматычна адсочваць чалавека ці жывёлу ў кадры і захоўваць на ім (ёй) фокус. Вы таксама можаце абраць аб\'ект адсочвання ўручную.</string>
   <string name="pref_camera_track_focus_preferred_title">Адсочванне</string>
   <string name="pref_camera_ubifocus_title">Змена фокуса</string>
   <string name="pref_camera_ultra_wide_ldc_description">Аўтаматычна выпраўляць скажоныя аб\'екты</string>
@@ -1531,21 +1531,21 @@
   <string name="pref_camera_whitebalance_entry_measure">Вызначыць</string>
   <string name="pref_camera_whitebalance_title">ББ</string>
   <string name="pref_camera_whitebalance_title_abbr">Баланс белага</string>
-  <string name="pref_camera_zoom_mode_entry_high_pixel">ПРЫЦЕМАК</string>
-  <string name="pref_camera_zoom_mode_entry_macro">МАКРО</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">Прыцемак</string>
+  <string name="pref_camera_zoom_mode_entry_macro">Макра</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">Макра</string>
-  <string name="pref_camera_zoom_mode_entry_standard">ЗВЫЧАЙНЫ</string>
-  <string name="pref_camera_zoom_mode_entry_tele">ТЕЛЕ</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">ТЭЛЕ 2X</string>
+  <string name="pref_camera_zoom_mode_entry_standard">Звычайны</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Теле</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">Тэле 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Тэле 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">Тэле 5X</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">Тэле</string>
-  <string name="pref_camera_zoom_mode_entry_tele_standalone">ТЭЛЕ 5X</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">ЗВЫШШЫРОКІ</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">Тэле 5X</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">Звышшырокі</string>
   <string name="pref_camera_zoom_mode_entry_ultra_abbr">Звышшырокi</string>
-  <string name="pref_camera_zoom_mode_entry_wide">ШЫРОКІ</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Шырокі</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">Шырокі</string>
-  <string name="pref_camera_zoom_mode_title">ЛІНЗЫ</string>
+  <string name="pref_camera_zoom_mode_title">Лінзы</string>
   <string name="pref_camera_zoom_mode_title_abbr">Аб\'ектыў</string>
   <string name="pref_camera_zsl_entry_off">Выкл.</string>
   <string name="pref_camera_zsl_entry_on">Укл.</string>
@@ -1636,7 +1636,7 @@
   <string name="pref_skin_beautify_intelligent_title">Разумны</string>
   <string name="pref_skin_beautify_slim_title">Складнасць</string>
   <string name="pref_skin_beautify_smooth_title">Скура</string>
-  <string name="pref_smart_guide_title">Смарт-рэкамендацыі</string>
+  <string name="pref_smart_guide_title">Разумныя рэкамендацыі</string>
   <string name="pref_super_night_se_summary">Аўтаматычна паляпшаць якасць выявы ва ўмовах нізкай асветленасці</string>
   <string name="pref_super_night_se_title">Аўтаматычны начны рэжым</string>
   <string name="pref_userdefine_watermark_title">Карыстальніцкі вадзяны знак</string>
@@ -1764,7 +1764,7 @@
   <string name="simple_mode_button_text_manual">Выключыць ручны рэжым</string>
   <string name="simple_mode_button_text_panorama">Выключыць рэжым панарамы</string>
   <string name="simple_mode_button_text_scene">Адключыць рэжым \"Сцэна\"</string>
-  <string name="simple_mode_button_text_slow_video">Адключыць запаволеную здымку</string>
+  <string name="simple_mode_button_text_slow_video">Адключыць паскораную здымку</string>
   <string name="simple_mode_button_text_square">Адключыць кадраванне</string>
   <string name="simple_mode_button_text_stereo_mode">Адключыць рэжым Стэрэа</string>
   <string name="simple_mode_button_text_tilt_shift">Адключыць Tilt-shift</string>
@@ -1812,10 +1812,10 @@
   <string name="super_night_toast">Трымайце тэлефон нерухома падчас здымкі</string>
   <string name="tap_to_exposure">Націсніце, каб наладзiць экспазіцыю ўручную</string>
   <string name="tap_to_focus">Націсніце для фокуса</string>
-  <string name="text_ai_scene_selector_text_off">КАНТРАЖУР</string>
-  <string name="text_ai_scene_selector_text_on">СІЛУЭТ</string>
+  <string name="text_ai_scene_selector_text_off">Кантражур</string>
+  <string name="text_ai_scene_selector_text_on">Сілуэт</string>
   <string name="timbre">Голас</string>
-  <string name="timbre_baby">Дзіця</string>
+  <string name="timbre_baby">Хлапчук</string>
   <string name="timbre_gentlemen">Мужчына</string>
   <string name="timbre_girl">Дзяўчынка</string>
   <string name="timbre_lady">Лэдзі</string>
@@ -1827,11 +1827,11 @@
   <string name="time_freeze_clipbox_tint">Замарозіць</string>
   <string name="time_lapse_error">Для відэа такога памеру запаволеная здымка недаступна</string>
   <string name="time_stamp_date_format">dd.MM.yyyy</string>
-  <string name="timefreeze_guide_tip2">Можна замарозіць або размарозіць фон у любы час, да, цi падчас здымкі.</string>
+  <string name="timefreeze_guide_tip2">Вы можаце спыняць фон і адмяняць спыненне фону ў любы час да або падчас здымкі.</string>
   <string name="timefreeze_guide_tip3">Папытайце аб\'ект здымкі заставацца ў цэнтры кадра.</string>
   <string name="timefreeze_guide_tip4">Спыніце рух.</string>
   <string name="timefreeze_guide_tip5">Прайдзіце скрозь нерухомы натоўп.</string>
-  <string name="timefreeze_guide_tip6">Падвесце аб\'екты ў паветры.</string>
+  <string name="timefreeze_guide_tip6">Спыняйце аб\'екты ў паветры.</string>
   <string name="timefreeze_guide_tip7">Цi стварыце свае трукі!</string>
   <string name="timefreeze_guide_title">Прыпынак часу</string>
   <string name="timer_burst">Серыйная здымка з таймерам</string>
@@ -1923,7 +1923,7 @@
   <string name="video_effect_entry_summer_day">Лета</string>
   <string name="video_effect_entry_summer_day_describe">Нізкая кантраснасць і яркія тоны добра падыходзяць для сітуацыяй, калі вам трэба захаваць тоны скуры. Гэты фільтр дарэчны для сцэн пад адкрытым небам у сонечнае надвор\'е.</string>
   <string name="video_effect_entry_wind_sing">Легкі вецер</string>
-  <string name="video_overheat_tip_content">Падобна на тое, што ваша прылада перагрэлася. Паспрабуйце зняць відэа ў больш нізкай разроснасці.</string>
+  <string name="video_overheat_tip_content">Падобна на тое, што ваша прылада перагрэлася. Паспрабуйце зняць відэа ў больш нізкай раздзяляльнасцi.</string>
   <string name="video_reach_size_limit">Дасягнуты максімальны памер відэа.</string>
   <string name="video_shortcut_short">Відэа</string>
   <string name="video_tag_flag_title">Тэг</string>
@@ -1936,7 +1936,7 @@
   <string name="vv_stability_hint">Трымайце прыладу нерухома</string>
   <string name="vv_start">Зняць відэаблог</string>
   <string name="vv_use_hint_text_body">Рэжым відэаблога дазваляе вам\nзапісваць і рэдагаваць відэа на хаду</string>
-  <string name="vv_use_hint_text_title">ВІДЭАБЛОГ</string>
+  <string name="vv_use_hint_text_title">Відэаблог</string>
   <string name="wait">Хвілінку…</string>
   <string name="warm_prompt">Напамін аб перагрэве</string>
   <string name="watermark_tab_city">Горад</string>
@@ -1954,7 +1954,7 @@
   <string name="wideselfie_rotate_to_left_slowly">Павярніце тэлефон налева</string>
   <string name="wideselfie_rotate_to_right_slowly">Павярніце тэлефон направа</string>
   <string name="custom_content_unavailable_alert">Немагчыма выкарыстоўваць уведзены тэкст. Паспрабуйце што-небудзь іншае.</string>
-  <string name="new_bie_dialog_cancel">Кнопка адмены старонкі кіраўніцтва</string>
+  <string name="new_bie_dialog_cancel">Закрыць апісанне функцыі</string>
   <string name="new_bie_dialog_desc">Старонка кіраўніцтва</string>
   <string name="pref_focus_view_bg_tip">АЭ/АФ заблакаваныя</string>
   <string name="pref_true_colour_video_mode_description">Дадайце ў свае відэа рэалістычныя дэталі, цудоўныя колеры і дзіўны кантраст</string>
@@ -1996,15 +1996,15 @@
   <string name="widget_camera_lens_50mm_description">50 мм</string>
   <string name="widget_camera_lens_90mm_description">90 мм</string>
   <string name="widget_camera_lens_description">Эксперыментуйце з фокуснай адлегласцю</string>
-  <string name="widget_camera_lens_none_description">Пяцідзесяціміліметровы аб\'ектыў для партрэтаў</string>
+  <string name="widget_camera_lens_none_description">50 мм аб\'ектыў для партрэтаў</string>
   <string name="widget_camera_lens_talk_back">Сістэма Master-lens</string>
   <string name="afternoon">Поўдзень</string>
   <string name="color_effect_entry_noraml_cv">Leica стандарт</string>
   <string name="cv_lens_35mm">%d мм</string>
   <string name="cv_lens_50mm">%d мм</string>
   <string name="cv_lens_90mm">%d мм</string>
-  <string name="cvtype_item_btn_title1">Leica аўтэнтычная</string>
-  <string name="cvtype_item_btn_title2">Leica яркая</string>
+  <string name="cvtype_item_btn_title1">Leica аўтэнтычны</string>
+  <string name="cvtype_item_btn_title2">Leica яркі</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="early_morning">Раніца</string>
@@ -2035,8 +2035,8 @@
   <string name="friday_shortest">Птн</string>
   <string name="midnight">Ноч</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
-  <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Выбраць аб\'екты</string>
+  <string name="miuix_appcompat_action_mode_select_all">Абраць усё</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Абраць аб\'екты</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Больш</string>
   <string name="miuix_appcompat_cancel_description">Скасаваць</string>
   <string name="miuix_appcompat_confirm_description">Пацвердзіць</string>
@@ -2045,8 +2045,8 @@
   <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
   <string name="miuix_appcompat_search_input_description">Пошук</string>
-  <string name="miuix_appcompat_select_all">Выбраць усё</string>
-  <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
+  <string name="miuix_appcompat_select_all">Абраць усё</string>
+  <string name="miuix_appcompat_select_all_description">Абраць усё</string>
   <string name="miuix_appcompat_select_item">Выберыце аб\'екты</string>
   <string name="module_name_pixel_48m">48 МП</string>
   <string name="module_name_pixel_50m">50 МП</string>
@@ -2185,9 +2185,9 @@
   <string name="cosmetic_mirror_instructions_hint">Паглядзіце ў камеру і двойчы краніце экрана, каб павялічыць маштаб і выраўнаваць твар па цэнтры\n(Працуе толькі з адным чалавекам у кадры)</string>
   <string name="cosmetic_mirror_shortcut_short">Кампактнае люстэрка</string>
   <string name="cosmetic_mirror_title">Кампактнае люстэрка</string>
-  <string name="description_sorftlight_style_cold">Успышка ўключана. Абрана халоднае святло.</string>
-  <string name="description_sorftlight_style_nature">Успышка ўключана. Абрана натуральнае асвятленне.</string>
-  <string name="description_sorftlight_style_warm">Успышка ўключана. Абрана цёплае святло.</string>
+  <string name="description_sorftlight_style_cold">Выбліск уключаны. Абрана халоднае святло.</string>
+  <string name="description_sorftlight_style_nature">Выбліск уключаны. Абрана натуральнае святло.</string>
+  <string name="description_sorftlight_style_warm">Выбліск уключаны. Абрана цёплае святло.</string>
   <string name="flat_selfie_tip_text">Звярніце прыладу, каб выкарыстоўваць камеру</string>
   <string name="flat_selfie_tip_text_main">Звярніце прыладу, каб выкарыстоўваць камеру</string>
   <string name="flat_selfie_tip_text_sub">Пераключыце камеры на знешні экран і павярніце прыладу, каб вярнуцца на ўнутраны экран</string>
@@ -2207,13 +2207,13 @@
 
 Як працуе тэлесуфлер
 Вы можаце выкарыстоўваць кнопкі ніжэй для імпарту тэксту, папярэдняга прагляду прайгравання і рэдагавання радкоў. Каб змяніць памер плаваючага акна, націсніце і ўтрымлівайце яго ніжнія куты. Каб перамясціць акно, перацягнеце яго за ніжні або верхні край."</string>
-  <string name="video_prompter_edit_exit_dialog_message">Калі вы спыніце рэдагаванне зараз, усе незахаваныя змены будуць страчаныя. Усё роўна спыніцца?</string>
+  <string name="video_prompter_edit_exit_dialog_message">Калі вы спыніце рэдагаванне зараз, усе незахаваныя змены будуць страчаныя. Усё роўна спыніць?</string>
   <string name="video_prompter_edit_exit_dialog_title">Спыніць рэдагаванне?</string>
   <string name="video_prompter_edit_import_fail">Памылка імпарту</string>
   <string name="video_prompter_edit_import_success">Імпарт выкананы паспяхова</string>
   <string name="video_prompter_edit_import_success_partially">Перавышаны ліміт сімвалаў, будзе імпартаваная толькі частка тэксту.</string>
   <string name="video_prompter_edit_tip_dialog_cancel">Адмена</string>
-  <string name="video_prompter_edit_tip_dialog_message">Вы можаце імпартаваць файлы DOC, DOCX і TXT. Выявы, табліцы і гіперспасылкі адлюстроўвацца не будуць.</string>
+  <string name="video_prompter_edit_tip_dialog_message">Падтрымліваюцца толькі файлы фарматаў doc, docx, txt. Выявы, табліцы і гіперспасылкі адлюстроўвацца не будуць.</string>
   <string name="video_prompter_edit_tip_dialog_ok">ОК</string>
   <string name="video_prompter_edit_tip_dialog_title">Імпарт тэксту</string>
   <string name="video_prompter_edit_total_words" formatted="false">%d/%d слоў</string>
@@ -2228,7 +2228,7 @@
   <string name="vlog_pro_workspace_continue_recording">Працягнуць запіс</string>
   <string name="vlog_pro_workspace_video_delete">Выдаліць</string>
   <string name="vlog_pro_workspace_video_rename">Перайменаваць</string>
-  <string name="desc_doc4_tip">Распазнанне тэкстe з папярэдняга прагляду</string>
+  <string name="desc_doc4_tip">Распазнанне тэксту з папярэдняга прагляду</string>
   <string name="guide_pop_window_msg_mimoji">Націсніце, каб выкарыстоўваць аватар</string>
   <string name="mimoji_body_emoticon">Цела</string>
   <string name="mimoji_body_horizontal_screen_tips">Аватары ў поўны рост не падтрымліваюцца ў ландшафтным рэжыме</string>

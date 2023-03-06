@@ -197,7 +197,7 @@
   <string name="baby_lock_wallpaper">Шпалеры экрану блакоўкі</string>
   <string name="baby_lock_wallpaper_cancelled">Адноўлены шпалеры экрану блакавання па змаўчанні</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Прымяніць бягучыя налады?</string>
-  <string name="baby_lock_wallpaper_title">Альбом дзіцяці як шпалеры экрану блакавання</string>
+  <string name="baby_lock_wallpaper_title">Альбом дзіцяці як шпалеры экрану блакоўкі</string>
   <string name="baby_name_cannot_empty">Увядзіце імя</string>
   <string name="baby_name_cannot_start_with">Імя не можа пачынацца з \"%s\"</string>
   <string name="baby_name_contain_invalidate_char">Імя не можа ўтрымліваць \"%s\"</string>
@@ -279,9 +279,9 @@
   <string name="burst_save_video_progerss">Стварэнне відэа...</string>
   <string name="burst_save_video_title">Раздзяляльнасць відэа</string>
   <string name="buy_member_tip">Набыць падпіску</string>
-  <string name="by_email">Праз Email</string>
+  <string name="by_email">Email</string>
   <string name="by_others">Іншае</string>
-  <string name="by_sms">Праз SMS</string>
+  <string name="by_sms">SMS</string>
   <string name="byteShort">Б</string>
   <string name="camera_needs_auto_backup_tip">Павінна быць створана рэзервовая копія альбома камеры</string>
   <string name="can_authorize_owner_albums_share_to_tv">Аўтарызуюцца прагляд альбомаў на вашым ТВ</string>
@@ -488,9 +488,9 @@
   <string name="delete_album_msg_format_cloud">Выдаліць %1$s %2$s з воблака і ўсіх сінхранізаваных прылад?</string>
   <string name="delete_album_msg_format_local">Выдаліць %1$s %2$s?</string>
   <string name="delete_album_success">Альбом выдалены</string>
-  <string name="delete_from_all_devices_and_cloud">з усіх прылад і з Воблака Xiaomi</string>
+  <string name="delete_from_all_devices_and_cloud">з усіх прылад і з воблака Xiaomi</string>
   <string name="delete_from_cloud">Выдаліць таксама з воблака</string>
-  <string name="delete_from_this_album_and_cloud">з гэтага альбома і Воблака Xiaomi</string>
+  <string name="delete_from_this_album_and_cloud">з гэтага альбома і воблака Xiaomi</string>
   <string name="delete_in_album">Выбраныя элементы будуць выдалены з воблака і ўсіх падлучаных прылад, і захаваны ў кошыку на працягу %d дзён, калі ў вас ёсць бясплатны план захоўвання ў воблаку. Выдаліць?</string>
   <string name="delete_in_home_page">Выбраныя элементы будуць выдалены з воблака і ўсіх падлучаных прылад, і захаваны ў кошыку на працягу %d дзён, калі ў вас ёсць бясплатны план захоўвання ў воблаку. Выдаліць?</string>
   <string name="delete_in_process">Выдаленне…</string>
@@ -1089,8 +1089,8 @@
   <string name="more_face_album_name">Больш людзей</string>
   <string name="morning">ДП</string>
   <string name="motion_photo_play">Пуск</string>
-  <string name="move_to_other_albums_tip">Перамясціць гэты альбом у Іншыя альбомы?</string>
-  <string name="move_to_rubbish_albums_tip">Перамясціць выбраныя альбомы ў кошык?</string>
+  <string name="move_to_other_albums_tip">Перамясціць гэты альбом у \"Іншыя альбомы\"?</string>
+  <string name="move_to_rubbish_albums_tip">Перамясціць абраныя альбомы ў кошык?</string>
   <string name="movie_add_disable">Вы можаце выбраць да %d фота</string>
   <string name="movie_audio_antiquity">Рэтра</string>
   <string name="movie_audio_custom">Лакальна</string>
@@ -1238,7 +1238,7 @@
   <string name="operation_hide_time">Схаваць даты</string>
   <string name="operation_in_process">Апрацоўка…</string>
   <string name="operation_move">Перамясціць</string>
-  <string name="operation_move_to_other_albums">Перамясціць у іншыя альбомы</string>
+  <string name="operation_move_to_other_albums">Перамясціць у \"Іншыя альбомы\"</string>
   <string name="operation_move_to_rubbish_albums">Перамясціць у кошык</string>
   <string name="operation_not_show_in_photos_tab">Не паказваць у Фота</string>
   <string name="operation_photo_rename">Перайменаваць</string>
@@ -1247,7 +1247,7 @@
   <string name="operation_projection">Праекцыя</string>
   <string name="operation_remove_face">Выдаліць</string>
   <string name="operation_remove_from_face_album">Выдаліць з альбома</string>
-  <string name="operation_remove_from_other_albums">Перамясціць з іншых альбомаў</string>
+  <string name="operation_remove_from_other_albums">Выдаліць з \"Іншых альбомаў\"</string>
   <string name="operation_remove_from_rubbish_albums">Аднавіць</string>
   <string name="operation_remove_rubbish">Аднавіць</string>
   <string name="operation_remove_secret">Выдаліць з асабістага альбома</string>
@@ -1277,7 +1277,7 @@
   <string name="orientation_unlock_tip">Аўтапаварот уключаны</string>
   <string name="other_album">Іншыя альбомы</string>
   <string name="other_album_operation_move_to_rubbish_albums">Перамясціць у лішнія альбомы</string>
-  <string name="other_album_operation_remove_from_other_albums">Выдаліць з лішніх альбомаў</string>
+  <string name="other_album_operation_remove_from_other_albums">Выдаліць з \"Іншых альбомаў\"</string>
   <string name="other_settings">Дадаткова</string>
   <string name="owner_album_subtitle">Карыстальнік: %1$s</string>
   <string name="pc_device_model_name">Кампутар</string>
@@ -1457,7 +1457,7 @@
   <string name="projection_device_connection_failed">Не атрымалася падключыць праектар</string>
   <string name="projection_local_mobile">Гэтая прылада</string>
   <string name="projection_multi_title">Прылада</string>
-  <string name="projection_screen_project_in_screening">Вы карыстаецеся сваёй прыладай для трансляцыі зараз</string>
+  <string name="projection_screen_project_in_screening">Вы карыстаецеся сваё прылада для трансляцыі зараз</string>
   <string name="projection_single_title">Трансляваць на %s</string>
   <string name="projection_slide_exit">Спыніць слайд-шоу</string>
   <string name="projection_slide_fail_cause_loading">Перазапуск слайд-шоу пасля спампоўкi фота</string>
@@ -1497,8 +1497,8 @@
   <string name="remove_from_album_message">Гэта фота больш не будзе адлюстроўвацца тут</string>
   <string name="remove_from_album_title">Выдаліць з гэтага альбома</string>
   <string name="remove_from_current_album">Выдаліць з гэтага альбома</string>
-  <string name="remove_from_favorites_failed">Не атрымалася выдаліць з выбраных</string>
-  <string name="remove_from_other_albums_tip">Перамясціць гэты альбом з Іншых альбомаў?</string>
+  <string name="remove_from_favorites_failed">Не атрымалася выдаліць з абраных</string>
+  <string name="remove_from_other_albums_tip">Выдаліць гэты альбом з \"Іншых альбомаў\"?</string>
   <string name="remove_from_secret_fail">Не атрымалася выдаліць з асабістага альбома</string>
   <string name="remove_from_secret_failed_with_reason">Немагчыма выдаліць з асабістага альбома. %1$s.</string>
   <string name="remove_from_secret_successful">Выдалена з асабістага альбома</string>
@@ -1652,7 +1652,7 @@
   <string name="send_secret_file_space_low">Недастаткова вольнага месца</string>
   <string name="send_too_many_files_error">За адзін раз можна адправіць %d аб\'ектаў</string>
   <string name="service_is_provided_by_miui_cloud_service">Гэтая паслуга прадастаўляецца Воблакам Xiaomi</string>
-  <string name="set_as_baby_lock_wallpaper">Усталяваць як шпалеры экрану блакавання</string>
+  <string name="set_as_baby_lock_wallpaper">Усталяваць як шпалеры экрану блакоўкі</string>
   <string name="set_as_slide_wallpaper_description">Гэта паменшаная мініяцюра, спампаваць арыгінал?</string>
   <string name="set_as_slide_wallpaper_title">Усталяваць як шпалеры слайд-шоў</string>
   <string name="set_as_video_wallpaper_description">Спампаваць аб\'ект і ўсталяваць яго як відэашпалеры?</string>
@@ -1681,8 +1681,8 @@
   <string name="show_cloud_albumlist_summary">Новыя элементы з выбраных альбомаў не будуць загружаныя ў воблака пасля адключэння сінхранізацыі.</string>
   <string name="show_hidden_album_summary">Прагляд і кіраванне схаванымі альбомамі</string>
   <string name="show_hidden_album_title">Паказваць схаваныя альбомы</string>
-  <string name="show_in_other_albums_disable_toast_long_press_menu">Перамешчана паспяхова, перайдзіце ў Іншыя альбомы для прагляду</string>
-  <string name="show_in_other_albums_enable_toast_long_press_menu">Перамешчана паспяхова, перайдзіце ў Альбомы для прагляду</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Выдалены паспяхова. Цяпер вы можаце прагледзець гэты элемент сярод \"Альбомаў\".</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Перамешчана паспяхова. Цяпер вы можаце прагледзець гэты элемент у \"Іншых альбомах\".</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Паспяхова перамешчана ў кошык</string>
   <string name="signature_dialog_clear">Ачысціць</string>
   <string name="signature_manage_dialog_title_string">Подпіс</string>
@@ -2564,7 +2564,7 @@
   <string name="miuix_appcompat_select_item">Выбраць элементы</string>
   <string name="nearby_share">Абагульванне паблiзу</string>
   <string name="no_network">Не ўдаецца падключыцца да сеткі</string>
-  <string name="ocr_save_to_note_new">У нататкі</string>
+  <string name="ocr_save_to_note_new">Захаваць у нататкі</string>
   <string name="send">Адправіць</string>
   <string name="toast_download_with_metered_network_btn_continue">Загрузіць</string>
   <string name="toast_download_with_metered_network_msg">Здаецца, ваша прылада не падлучана да Wi-Fi. Загрузіць элементы з дапамогай мабільных дадзеных?</string>
@@ -2574,12 +2574,12 @@
   <string name="web_sso_login_fail">Вам трэба ўвайсці зноў</string>
   <string name="web_sso_login_message">Уваход...</string>
   <string name="webview_reload">Паўтарыць спробу</string>
-  <string name="size_byte">Б​​</string>
-  <string name="size_giga_byte">Гб</string>
-  <string name="size_kilo_byte">Кб</string>
-  <string name="size_mega_byte">Мб</string>
-  <string name="size_peta_byte">Пб</string>
-  <string name="size_tera_byte">Тб</string>
+  <string name="size_byte">" Б"</string>
+  <string name="size_giga_byte">" Гб"</string>
+  <string name="size_kilo_byte">" Кб"</string>
+  <string name="size_mega_byte">" Мб"</string>
+  <string name="size_peta_byte">" Пб"</string>
+  <string name="size_tera_byte">" Тб"</string>
   <string name="vlog_estimated_size_x">≈%d Мб</string>
   <string name="cloud_full_space_tip_message">Павысьце ўзровень свайго плана воблачнага сховішча, каб сінхранізаваць усе свае фота і відэа з воблакам.</string>
   <string name="cloud_full_space_tip_negative">Не зараз</string>
@@ -3196,8 +3196,12 @@
   <string name="assistant_today_of_year_function_closed_tip">Уключыць</string>
   <string name="assistant_today_of_year_function_no_address_tip">У мінулае…</string>
   <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
-  <string name="ocr_switch_hint">Разпазнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
-  <string name="ocr_switch_title">Разпазнаваць тэкст на выявах</string>
+  <string name="ocr_switch_hint">Разнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
+  <string name="ocr_switch_title">Разнаваць тэкст на выявах</string>
+  <string name="cta_screenthrow_declare">Каб трансляваць выяву з экрана гэтай прылады на знешнія маніторы, гэтай праграме неабходна падлучэнне да Інтэрнэту.</string>
+  <string name="fail_reason_migrate">Апрацоўка элементаў… Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="home_sdcard_op_tip_msg">Не атрымалася выканаць гэтае дзеянне для ўсіх абраных выяў. Размантуйце і зноў падключыце SD-карту.</string>
+  <string name="home_sdcard_tip_msg">Здаецца, ваша SD-карта даступная толькі для чытання. Размантуйце і зноў падключыце яе ў меню Налады &gt; Аб тэлефоне &gt; Сховішча.</string>
   <string name="gallery_uninstall_description_content">Галерэя – гэта сістэмная праграма, якая дазваляе праглядаць, кіраваць і сінхранізаваць фота і відэа на ўсіх падлучаных прыладах. Калі вы выдаліце Галерэю, вы страціце элементы, якія вы зрабілі асабістымі. Усё роўна выдаліць?</string>
   <string name="gallery_uninstall_description_title">Выдаліць Галерэю?</string>
   <string name="change_baby_album_choose_from_photos">Выбраць з альбома</string>
@@ -3223,7 +3227,7 @@
   <string name="menu_album_new_share_album">Новы агульны альбом</string>
   <string name="people_page_photo">Мініяцюра чалавека</string>
   <string name="qr_invite_scan_hint">Сканаваць QR-код</string>
-  <string name="qr_invite_time_hint">QR-код сапраўдны на працягу 7 дзён, звернеце ўвагу на абарону інфармацыі</string>
+  <string name="qr_invite_time_hint">Гэты QR-код сапраўдны на працягу %d дзён</string>
   <string name="qr_invite_title">Запрашэнне з QR-кодам</string>
   <string name="scan_qr_code">Сканаваць QR-код</string>
   <string name="scan_qr_to_accept_invitation">Адскануйце код, каб прыняць сямейнае запрашэнне</string>
@@ -3592,7 +3596,7 @@
   <string name="hdr_show_hint">Наладзьце адлюстраванне, каб паказаць больш дэталяў у ценях і на святле на аб\'ектах з высокім дынамічным дыяпазонам</string>
   <string name="hdr_show_title">Паказаць HDR</string>
   <string name="privacy_share_album_confirm">Палажэння і ўмовы</string>
-  <string name="privacy_share_album_confirm_detail">Агульныя альбомы працуюць на базе Воблака Xiaomi. Перш чым выкарыстаць гэту функцыю, прачытайце і пагадзіцеся з нашым  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Карыстальніцкiм пагадненнем>&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font>.</string>
+  <string name="privacy_share_album_confirm_detail">Агульныя альбомы працуюць на базе Воблака Xiaomi. Перш чым выкарыстаць гэту функцыю, прачытайце і пагадзіцеся з нашым  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Карыстальніцкiм пагадненнем&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font>.</string>
   <string name="share_album_home_switch_family">Пераключыць</string>
   <string name="sort_and_showmode">Сартаванне і прагляд</string>
   <string name="annual_speci_year_title">Азіраючыся на %d</string>

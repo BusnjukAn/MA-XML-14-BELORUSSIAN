@@ -81,7 +81,7 @@
   <string name="current_speed_content">Бягучая хуткасць: %1$s</string>
   <string name="delete_file_success">Выдалена паспяхова</string>
   <string name="delete_record_only">Элементы, на якія спасылаюцца абраныя запісы, не будуць выдаленыя.</string>
-  <string name="delete_success">Паспяхова выдаленае</string>
+  <string name="delete_success">Паспяхова выдалена</string>
   <string name="dialog_content_delete_pdf_content">Выдаліць гэты PDF-файл?</string>
   <string name="dialog_copy_storage_full_desc">Не ўдаецца скапіяваць элементы з-за недахопу месца ў воблачным сховішча. Абновіце свой план, каб атрымаць больш месца для захоўвання.</string>
   <string name="dialog_copy_storage_full_title">Не ўдаецца скапіяваць</string>
@@ -129,7 +129,7 @@
   <string name="exception_copy_sub_path">Не ўдаецца скапіяваць элементы ў тую ж тэчку</string>
   <string name="exception_create_folder_conflict">Не атрымалася стварыць тэчку. Тэчка з такім імем ужо існуе.</string>
   <string name="exception_default">Адбылася сістэмная памылка. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
-  <string name="exception_delete_file_null">Не атрымалася выдаліць. Спачатку выдаліце элементы з гэтай тэчкі.</string>
+  <string name="exception_delete_file_null">Не атрымалася выдаліць. Спачатку выдаліце ​​элементы з гэтай тэчкі.</string>
   <string name="exception_download_contain_folder">Не атрымалася спампаваць тэчкі</string>
   <string name="exception_file_no_exist">Гэты файл не існуе</string>
   <string name="exception_get_index_cache_error">Не атрымалася спампаваць. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
@@ -152,7 +152,7 @@
   <string name="file_picker_loading">Хвiлiнку…</string>
   <string name="file_picker_no_file">Тут нічога няма</string>
   <string name="file_picker_title">Выберыце элементы</string>
-  <string name="file_send_no_support">Не магчыма падзяліцца файламі гэтага тыпу</string>
+  <string name="file_send_no_support">Немагчыма падзяліцца файламі гэтага тыпу</string>
   <string name="file_size_is_zero">Памер файла павінен быць больш 0</string>
   <string name="file_size_lager_than_4g">Памер файла не можа перавышаць 4 Гб</string>
   <string name="file_sort_create_time">Сартаваць па даце стварэння</string>
@@ -175,7 +175,7 @@
   <string name="load_label_up_refresh">Спампоўка элементаў…</string>
   <string name="load_label_up_refresh_fail">Не атрымалася спампаваць элементы</string>
   <string name="load_metered_network_dialog_cancel">Адмена</string>
-  <string name="load_metered_network_dialog_desc">Ваша прылада не падключана да Wi-Fi. Спампаваць з дапамогай мабільных дадзеных?</string>
+  <string name="load_metered_network_dialog_desc">Ваша прылада не падлучана да Wi-Fi. Спампаваць з дапамогай мабільных дадзеных?</string>
   <string name="load_metered_network_dialog_ok">Спампаваць</string>
   <string name="load_metered_network_dialog_title">З дапамогай мабільных дадзеных</string>
   <string name="loading">Хвілінку…</string>
@@ -204,7 +204,7 @@
   <string name="music_play_online">Струменевая</string>
   <string name="music_play_online_network_not_available">Не атрымалася падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="music_preview_download_failed">Не атрымалася спампаваць</string>
-  <string name="music_preview_failed">Не магчыма прайграць гэты аўдыёфайл</string>
+  <string name="music_preview_failed">Немагчыма прайграць гэты аўдыёфайл</string>
   <string name="music_preview_title_loading">Хвiлiнку…</string>
   <string name="music_preview_title_play">Прайграванне</string>
   <string name="my_about_item">Аб праграме</string>
@@ -245,7 +245,7 @@
   <string name="pause_upload">Прыпынена</string>
   <string name="picker_bottom_btn_text">Запампаваць</string>
   <string name="picker_bottom_text_desc">Запампаваць на</string>
-  <string name="picker_permission_failed">Не магчыма даць дазвол. Гэтая праграма не будзе працаваць без яго.</string>
+  <string name="picker_permission_failed">Немагчыма надаць дазвол. Гэтая праграма не будзе працаваць без яго.</string>
   <string name="play_metered_network_dialog_cancel">Адмена</string>
   <string name="play_metered_network_dialog_desc">Ваша прылада не падключана да Wi-Fi. Прайграць з выкарыстаннем мабільных дадзеных?</string>
   <string name="play_metered_network_dialog_ok">Прайграць</string>
@@ -267,11 +267,11 @@
   <string name="release_enter_private">Адпусціце, каб прагледзець асабістыя файлы</string>
   <string name="remove_success">Выдалена паспяхова</string>
   <string name="rename_ext_confirm_dialog_desc">Змена тыпу файла можа зрабіць файл непрыдатным для выкарыстання</string>
-  <string name="rename_file_select_error">Не магчыма перайменаваць некалькі элементаў</string>
+  <string name="rename_file_select_error">Немагчыма перайменаваць некалькі элементаў</string>
   <string name="rename_success">Паспяхова перайменавана</string>
   <string name="request_permission_confirm">Зразумела</string>
-  <string name="request_permission_content">Mi дыск павінен мець доступ да ўліковых запісаў на гэтай прыладзе, каб вы маглі выкарыстоўваць свой Mi акаунт для ўваходу. Дазвол на доступ і захаванне файлаў на вашай прыладзе дазволіць Mi дыску праглядаць, спампоўваць і сінхранізаваць элементы.</string>
-  <string name="request_permission_content_with_phone_state">Каб вы маглі ўваходзіць у сістэму з Mi акаўнтам, праглядаць, загружаць, выгружаць і сінхранізаваць файлы, а таксама правяраць наяўнасць абнаўленняў, Mi дыск патрабуе дазволы для доступу да вашых ўліковых запісаў, фота, файлаў і IMEI.</string>
+  <string name="request_permission_content">Mi дыску патрабуецца дазвол для доступу да акаунтаў, фота і файлаў на вашай прыладзе і адпраўкі апавяшчэнняў. Гэтыя дазволы будуць выкарыстоўвацца для забеспячэння хуткага ўваходу ў Xiaomi акаўнт, а таксама для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі элементаў.</string>
+  <string name="request_permission_content_with_phone_state">Каб вы маглі ўваходзіць у сістэму з Mi акаўнтам, праглядаць, спампоўваць, запампоўваць і сінхранізаваць файлы, а таксама правяраць наяўнасць абнаўленняў, Mi дыск патрабуе дазволы для доступу да вашых ўліковых запісаў, фота, файлаў і IMEI.</string>
   <string name="request_permission_title">Патрабуюцца дазволы</string>
   <string name="root_page_name">Мой дыск</string>
   <string name="save">Захаваць</string>
@@ -381,7 +381,7 @@
   <string name="jump_to_directory">Адкрыць тэчку</string>
   <string name="no_recent_activity">Тут няма нядаўніх элементаў</string>
   <string name="operation_dialog_jump_message">Адкрыццё тэчкі...</string>
-  <string name="operation_will_not_show_after_delete">Запіс больш не будзе адлюстроўвацца тут, калі вы выдаліце яе.</string>
+  <string name="operation_will_not_show_after_delete">Запіс больш не будзе адлюстроўвацца тут, калі вы выдаліце ​​яе.</string>
   <string name="recent_file">Апошнія</string>
   <string name="recent_jump_to_privacy_fail_notice">Гэта асабісты файл. Вярніцеся на пачатковую старонку і пацягніце ўніз для прагляду.</string>
   <string name="home_action_up">Назад</string>
@@ -583,7 +583,7 @@
   <string name="permission_storage_title">Сховішча</string>
   <string name="pre_permission_management">Звесткі пра дазволы</string>
   <string name="pre_privacy_recall">Водгук згоды</string>
-  <string name="privacy_recall_dialog_msg">Калі вы працягнеце, вы адгукнецца сваю згоду з Палітыкай прыватнасці Mi дыска. Ужо сабраная і захаваная асабістая інфармацыя будзе выдаленая на працягу пэўнага перыяду ў адпаведнасці з законамі і пастановамі. Паколькі Mi дыск падае свае паслугі на аснове збору неабходнай асабістай інфармацыі, ваш водгук згоды будзе лічыцца адмовай прыняць паслугі Mi дыска. Адклікаць згоду?</string>
+  <string name="privacy_recall_dialog_msg">Калі вы працягнеце, вы адгукнецца сваю згоду з Палітыкай прыватнасці Mi дыска. Ужо сабраная і захаваная асабістая інфармацыя будзе выдаленая на працягу пэўнага перыяду ў адпаведнасці з законамі і пастановамі. Паколькі Mi дыск падае свае сэрвісы на аснове збору неабходнай асабістай інфармацыі, ваш водгук згоды будзе лічыцца адмовай прыняць сэрвісы Mi дыска. Адклікаць згоду?</string>
   <string name="privacy_recall_dialog_title">Водгук згоды</string>
   <string name="privacy_update_dialog_msg">Палітыка прыватнасці Mi дыска абноўлена:&lt;br/>%1$s&lt;br/>Прачытайце і прыміце новую версію &lt;a href=%2$s>&lt;u>Палітыкі прыватнасці&lt;/u>&lt;/a>, перш чым працягнуць.</string>
   <string name="privacy_update_dialog_title">Абноўленая палітыка прыватнасці</string>
@@ -605,16 +605,16 @@
   <string name="permission_account_title_pad">Доступ да акаўнтаў</string>
   <string name="permission_storage_desc_pad">Доступ да фатаграфій і файлаў на прыладзе</string>
   <string name="permission_storage_title_pad">Доступ да сховішча</string>
-  <string name="cancel_mi_drive">Адмяніць паслугі</string>
-  <string name="cancel_mi_drive_alert_description">Выдаліце ўсе элементы з Mi дыска, каб мець магчымасць адмяніць паслугі. Выканайце наступныя дзеянні, каб выдаліць элементы:&lt;br />1. На стартавай старонцы Mi дыска націсніце і ўтрымлівайце элемент, каб з\'явілася кнопка \"Абраць усе\". Выкарыстоўвайце гэтую кнопку, каб аыбраць да 200 файлаў за раз і выдаліць іх.&lt;br />2. Пасля выдалення ўсіх элементаў выдаліце ўсе файлы з спісу \"Нядаўна выдаленыя элементы\".</string>
+  <string name="cancel_mi_drive">Адмяніць сэрвісы</string>
+  <string name="cancel_mi_drive_alert_description">Выдаліце ​​ўсе элементы з Mi дыска, каб мець магчымасць адмяніць сэрвісы. Выканайце наступныя дзеянні, каб выдаліць элементы:&lt;br />1. На стартавай старонцы Mi дыска націсніце і ўтрымлівайце элемент, каб з\'явілася кнопка \"Абраць усе\". Выкарыстоўвайце гэтую кнопку, каб аыбраць да 200 файлаў за раз і выдаліць іх.&lt;br />2. Пасля выдалення ўсіх элементаў выдаліце ​​ўсе файлы з спісу \"Нядаўна выдаленыя элементы\".</string>
   <string name="cancel_mi_drive_alert_reminder_card_summary">1. Мы рэкамендуем стварыць рэзервовую копію вашых аб\'ектаў перад іх выдаленнем. Для гэтага наведайце i.mi.com, націсніце Mi дыск і загрузіце свае аб\'екты на кампутар.&lt;br />2. Звярніце ўвагу, што элементы, выдаленыя з нядаўна выдаленых элементаў, не могуць быць пасля адноўлены.</string>
-  <string name="cancel_mi_drive_confirm_button">Адмяніць паслугі</string>
-  <string name="cancel_mi_drive_confirm_description">Калі вы працягнеце, вы адмяніце паслугі Mi дыска. Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяду ў адпаведнасці з дзейным заканадаўствам.</string>
-  <string name="cancel_mi_drive_confirm_hint">Адмена паслуг Mi дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і паслуг Xiaomi. Калі вы жадаеце выдаліць свой акаўнт Xiaomi, вы можаце зрабіць гэта &lt;font color=#0097FF>&lt;a href=%1$s>тут&lt;/a>&lt;/font>.</string>
-  <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Наступныя элементы будуць выдаленыя назаўжды пасля адмены паслуг:&lt;/font>&lt;br />1. Усе элементы на Mi дыске, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя элементы.&lt;br />2. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br />3. Гісторыя загрузак і запамповак Mi дыска.</string>
-  <string name="cancel_mi_drive_success">Паслугі паспяхова адменены</string>
-  <string name="cancel_mi_drive_title">Адмяніць паслугі</string>
-  <string name="privacy_recall_alert_description">Выдаліце ўсе элементы з Mi дыск, каб мець магчымасць адклікаць згоду. Выканайце наступныя дзеянні, каб выдаліць элементы:&lt;br />1. На стартавай старонцы Mi дыск націсніце і ўтрымлівайце элемент, каб з\'явіцца кнопка \"Абраць усе\". Выкарыстоўвайце гэтую кнопку, каб аыбраць да 200 файлаў за раз і выдаліць іх.&lt;br />2. Пасля выдалення ўсіх элементаў выдаліце ўсе файлы з спісу \"Нядаўна выдаленыя элементы\".</string>
+  <string name="cancel_mi_drive_confirm_button">Адмяніць сэрвісы</string>
+  <string name="cancel_mi_drive_confirm_description">Калі вы працягнеце, вы адмяніце сэрвісы Mi дыска. Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяду ў адпаведнасці з дзейным заканадаўствам.</string>
+  <string name="cancel_mi_drive_confirm_hint">Адмена сэрвісаў Mi дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і сэрвісаў Xiaomi. Калі вы жадаеце выдаліць свой акаўнт Xiaomi, вы можаце зрабіць гэта &lt;font color=#0097FF>&lt;a href=%1$s>тут&lt;/a>&lt;/font>.</string>
+  <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Наступныя элементы будуць выдаленыя назаўжды пасля адмены сэрвісаў:&lt;/font>&lt;br />1. Усе элементы на Mi дыске, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя элементы.&lt;br />2. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br />3. Гісторыя загрузак і запамповак Mi дыска.</string>
+  <string name="cancel_mi_drive_success">Сэрвісы паспяхова адменены</string>
+  <string name="cancel_mi_drive_title">Адмяніць сэрвісы</string>
+  <string name="privacy_recall_alert_description">Выдаліце ​​ўсе элементы з Mi дыск, каб мець магчымасць адклікаць згоду. Выканайце наступныя дзеянні, каб выдаліць элементы:&lt;br />1. На стартавай старонцы Mi дыск націсніце і ўтрымлівайце элемент, каб з\'явіцца кнопка \"Абраць усе\". Выкарыстоўвайце гэтую кнопку, каб аыбраць да 200 файлаў за раз і выдаліць іх.&lt;br />2. Пасля выдалення ўсіх элементаў выдаліце ​​ўсе файлы з спісу \"Нядаўна выдаленыя элементы\".</string>
   <string name="privacy_recall_alert_reminder_card_summary">1. Перад выдаленнем рэкамендуемы стварыць рэзервовую копію сваіх аб\'ектаў. Для гэтага зайдзіце на сайт i.mi.com, націсніце Mi дыск і загрузіце свае аб\'екты на кампутар.&lt;br />2. Звярніце ўвагу, што элементы, выдаленыя з нядаўна выдаленых элементаў, не могуць быць пасля адноўлены.</string>
   <string name="privacy_recall_confirm_button">Адклікаць згоду</string>
   <string name="privacy_recall_confirm_description">Калі вы працягнеце, вы адгукнецеся сваю згоду з Палітыкай канфідэнцыйнасці Mi дыска. Мы спынім збор вашай асабістай інфармацыі, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяд у адпаведнасці з прыдатнымі законамі і правіламі, калі не патрабуецца іншае.</string>
@@ -627,4 +627,22 @@
   <string name="reminder_card_title">Увага</string>
   <string name="talkback_close">Закрыць</string>
   <string name="talkback_close_open_picture">Адмена</string>
+  <string name="member_menu_vipname_extend_package">Пашырыць воблачнае сховішча</string>
+  <string name="request_permission_account_state">Для хуткага ўваходу ў Xiaomi акаўнт</string>
+  <string name="request_permission_external_storage">Доступ да сховішча прылады</string>
+  <string name="request_permission_external_storage_desc">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі элементаў</string>
+  <string name="request_permission_manual_authorized">Налады</string>
+  <string name="request_permission_manual_desc">Для выкарыстання некаторых функцый патрабуецца наступны дазвол: %s. Вы можаце прадаставіць гэты дазвол у Наладах.</string>
+  <string name="request_permission_manual_title">Патрабуюцца дазволы</string>
+  <string name="request_permission_manual_unauthorized">Адмена</string>
+  <string name="request_permission_post_notification">Апавяшчэнні</string>
+  <string name="request_permission_post_notification_desc">Для адпраўкі апавяшчэнняў аб загрузках і спампоўваннях з Mi дыска</string>
+  <string name="request_permission_read_media_audio">Доступ да аўдыёфайлаў</string>
+  <string name="request_permission_read_media_audio_desc">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі аўдыёфайлаў</string>
+  <string name="request_permission_read_media_aural">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі аўдыёфайлаў</string>
+  <string name="request_permission_read_media_image">Доступ да фота</string>
+  <string name="request_permission_read_media_image_desc">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі фота</string>
+  <string name="request_permission_read_media_video">Доступ да відэа</string>
+  <string name="request_permission_read_media_video_desc">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі відэа</string>
+  <string name="request_permission_read_media_visual">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі фота і відэа</string>
 </resources>
