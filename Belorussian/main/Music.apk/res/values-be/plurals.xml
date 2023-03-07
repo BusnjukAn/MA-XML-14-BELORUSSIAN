@@ -353,4 +353,10 @@
         <item quantity="few">Зарабіце %1$d манеты сёння</item>
         <item quantity="many">Зарабіце %1$d манет сёння</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s праглядаў</item>
+        <item quantity="one">%s прагляд</item>
+        <item quantity="few">%s прагляда</item>
+        <item quantity="many">%s праглядаў</item>
+    </plurals>
 </resources>
