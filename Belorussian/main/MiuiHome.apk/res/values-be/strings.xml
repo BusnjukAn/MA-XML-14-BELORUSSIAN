@@ -1105,5 +1105,10 @@
   <string name="dock_and_folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм або тэчкі</string>
   <string name="dock_not_edit_icon_tip">Для змены спачатку перамясціце праграму з панэлі праграм</string>
   <string name="folder_not_edit_icon_tip">Для змены спачатку перамясціце праграму з тэчкі</string>
-  <string name="switch_mode_tip">Секундачку…</string>
+  <string name="switch_mode_tip">Пачакайце…</string>
+  <string name="global_search">Пошук</string>
+  <string name="home_gesture_notification_and_control_center">Панэль апавяшчэнняў і Цэнтр кіравання</string>
+  <string name="home_pull_down_know">Зразумела</string>
+  <string name="home_pull_up_content">Цяпер вы можаце адкрыць пошук, правёўшы ўніз па працоўным стале.</string>
+  <string name="risk_app_report">Паскардзіцца на гэту праграму</string>
 </resources>

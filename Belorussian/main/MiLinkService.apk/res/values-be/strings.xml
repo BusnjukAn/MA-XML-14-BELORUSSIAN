@@ -917,4 +917,15 @@
   <string name="title_activity_permission">Дазвол актыўнасцi</string>
   <string name="headset_circulate_connect_success">падлучана</string>
   <string name="dc_upgrade_first">Калі ласка, абновіце сэрвіс\nПаспрабуйце найноўшыя функцыі</string>
+  <string name="appcirculate_toast_connected">Пачалася трансляцыя</string>
+  <string name="circulate_controlphone_button_hint">Прагледзець экран</string>
+  <string name="circulate_controlphone_title">Кіраванне прыладай</string>
+  <string name="find_device_notification_content_phone">%1$s шукае гэтую прыладу з дапамогай %2$s. Разблакуйце, каб спыніць прайграванне гуку.</string>
+  <string name="find_device_notification_content_single_phone">Нехта шукае гэтую прыладу з дапамогай %1$s. Разблакуйце, каб спыніць прайграванне гуку.</string>
+  <string name="find_device_notification_content_single_tablet">Нехта шукае гэтую прыладу з дапамогай %1$s. Разблакуйце, каб спыніць прайграванне гуку.</string>
+  <string name="find_device_notification_content_tablet">%1$s шукае гэтую прыладу з дапамогай %2$s. Разблакуйце, каб спыніць прайграванне гуку.</string>
+  <string name="find_device_popup_content_phone">%1$s шукае гэтую прыладу з дапамогай %2$s.</string>
+  <string name="find_device_popup_content_single_phone">Нехта шукае гэтую прыладу з дапамогай %1$s.</string>
+  <string name="find_device_popup_content_single_tablet">Нехта шукае гэтую прыладу з дапамогай %1$s.</string>
+  <string name="find_device_popup_content_tablet">%1$s шукае гэтую прыладу з дапамогай %2$s.</string>
 </resources>

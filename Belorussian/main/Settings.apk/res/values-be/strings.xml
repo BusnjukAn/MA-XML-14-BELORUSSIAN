@@ -10678,4 +10678,8 @@ ID:%s
   <string name="dark_mode_power_save_alert_dialog_message">"Калі вы адключыце аптымізацыю MIUI і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.
 Каб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI»."</string>
   <string name="dark_mode_power_save_alert_dialog_title">Цёмны рэжым</string>
+  <string name="show_alarm_icon_title">Паказваць абразок будзільніка</string>
+  <string name="show_bt_icon_title">Паказваць абразок Bluetooth</string>
+  <string name="show_mute_icon_title">Паказваць абразок бязгучнага рэжыму</string>
+  <string name="show_nfc_icon_title">Паказваць абразок NFC</string>
 </resources>

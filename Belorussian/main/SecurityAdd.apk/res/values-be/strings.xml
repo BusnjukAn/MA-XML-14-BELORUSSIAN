@@ -665,4 +665,18 @@
   <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
   <string name="gamebooster_dialog_recover">Падоўжыць</string>
   <string name="gamebooster_dialog_start_booster">Пачаць</string>
+  <string name="network_error">Адбылася памылка сеткі.</string>
+  <string name="page_load_failed">Не ўдаецца адкрыць старонку</string>
+  <string name="pc_entered_extreme_mode">Рэжым гібернацыі уключаны</string>
+  <string name="pc_entered_extreme_mode_summary">Батарэя вашай прылады разраджана і яна перайшла ў рэжым гібернацыі. Праграмы будуць працаваць у фонавым рэжыме і не будуць адпраўляць апавяшчэнні.</string>
+  <string name="pc_extreme_exit_and_power_off">Выхад</string>
+  <string name="pc_extreme_mode_bg_toast">У рэжыме гібернацыі праграмы будуць працаваць у фонавым рэжыме і не будуць адпраўляць апавяшчэнні</string>
+  <string name="pc_extreme_mode_exit_risk_title">Увага</string>
+  <string name="pc_extreme_mode_exit_risk_title_summary">У вашай прыладзе разрадзілася батарэя. Калі вы выйдзеце з рэжыму гібернацыі, ваша прылада выключыцца.</string>
+  <string name="pc_extreme_mode_find_charger">Зарадзіце прыладу як мага хутчэй.</string>
+  <string name="pc_extreme_mode_runtime">Рэжым гібернацыі быў уключаны для %1$s %2$s.</string>
+  <string name="pc_extreme_mode_title">Рэжым гібернацыі</string>
+  <string name="pc_going_to_exit_extreme_mode">Выхад з рэжыму гібернацыі</string>
+  <string name="pc_going_to_exit_extreme_mode_summary">Ваша прылада зараджаецца. Рэжым гібернацыі выключаны.</string>
+  <string name="retry_action">Паспрабуйце зноў</string>
 </resources>
