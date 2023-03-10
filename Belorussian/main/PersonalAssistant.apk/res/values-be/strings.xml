@@ -289,7 +289,7 @@
   <string name="pa_lite_setting_private_auth">Дазволіць аналіз выкарыстання праграмы</string>
   <string name="pa_lite_setting_private_auth_summary">Прапановы праграм будуць заснаваныя на вашых дадзеных аб выкарыстанні</string>
   <string name="pa_lite_setting_private_policy">Палітыка прыватнасці</string>
-  <string name="pa_lite_setting_service_covid_summry">Інфармацыя і паслугі, звязаныя з пандэміяй</string>
+  <string name="pa_lite_setting_service_covid_summry">Усе функцыі, якімі вы карыстаецеся штодня, у адным месцы</string>
   <string name="pa_lite_setting_service_management">Кiраванне сэрвісамі</string>
   <string name="pa_lite_setting_service_memory">Паскарэнне</string>
   <string name="pa_lite_setting_service_memory_summary">Ачыстка памяці адным дотыкам</string>
@@ -612,7 +612,7 @@
   <string name="solar_term_white_dews">Белыя расы</string>
   <string name="solar_term_winter_begins">Пачатак зімы</string>
   <string name="solar_term_winter_solstice">Зімовае сонцастаянне</string>
-  <string name="pa_accessibility_home_search">Пошук, націсніце двойчы для актывацыі</string>
+  <string name="pa_accessibility_home_search">Пошук,\nнацісніце двойчы для актывацыі</string>
   <string name="pa_accessibility_home_widget_drag">Перамешчаны ўверх</string>
   <string name="pa_accessibility_home_widget_drag_move">Перамешчаны ў радок %1$d слупок %2$d</string>
   <string name="pa_accessibility_home_widget_drop_workspace">Быў змешчаны ў радок %1$d, слупок %2$d</string>
@@ -861,7 +861,7 @@
   <string name="pa_picker_search_card_filter_button_text">Усе віджэты</string>
   <string name="pa_accessibility_picker_close">Закрыць</string>
   <string name="pa_accessibility_picker_home_widget_replace">Выбраны %s. Пераключэнне віджэтаў.</string>
-  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Віджэт: %s. Двойчы націсніце кнопку пад ім, каб замяніць яго іншым віджэт.</string>
+  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">%s.\nДвойчы націсніце кнопку пад ім, каб замяніць яго іншым віджэт.</string>
   <string name="pa_filter_accessibility_filter_item">%s. Націсніце двойчы, каб адфільтраваць іншыя варыянты.</string>
   <string name="pa_filter_accessibility_filter_popup_item_selected">Націсніце двойчы, каб выбраць %s.</string>
   <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Націсніце двойчы, каб выбраць.</string>
@@ -873,7 +873,7 @@
   <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s.
 Націсніце двойчы, каб праглядзець старонку падрабязных звестак.
 Націсніце двойчы і ўтрымлівайце, каб перацягнуць."</string>
-  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус усталёўкі: %3$s. Кнопка \"Пераключыць\" знаходзіцца ніжэй. Націсніце двойчы для пераключэння.</string>
+  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус усталёўкі: %3$s. Кнопка \"Пераключыць\" знаходзіцца ніжэй.\nНацісніце двойчы для пераключэння.</string>
   <string name="pa_accessibility_picker_status_installed">Усталяваны</string>
   <string name="pa_accessibility_picker_status_uninstalled">Не ўсталяваны</string>
   <string name="pa_accessibility_picker_status_unkonw">Невядома</string>
@@ -987,7 +987,7 @@
   <string name="pa_setting_personalized_recommenddation_swicth_summary">Атрымлівайце рэкамендацыі віджэтаў на аснове вашых інтарэсаў</string>
   <string name="pa_setting_personalized_recommenddation_swicth_title">Персаналізаваныя рэкамендацыі</string>
   <string name="pa_sports_jump_error">Не ўдалося адкрыць старонку з-за памылкі.</string>
-  <string name="pa_covid_card_title"> Штодзённыя інструменты </string>
+  <string name="pa_covid_card_title">Штодзённыя інструменты</string>
   <string name="pa_device_info_inch">Цалі</string>
   <string name="pa_image_pick">Абярыце фота</string>
   <string name="pa_lite_setting_service_covid">Штодзённыя інструменты</string>
