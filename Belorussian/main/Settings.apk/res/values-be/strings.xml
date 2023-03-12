@@ -10683,4 +10683,5 @@ ID:%s
   <string name="show_mute_icon_title">Паказваць абразок бязгучнага рэжыму</string>
   <string name="show_nfc_icon_title">Паказваць абразок NFC</string>
   <string name="show_dnd_icon_title">Паказваць абразок \"Не турбаваць\"</string>
+  <string name="status_bar_icons_title">Абразкi ў радку стану</string>
 </resources>
