@@ -928,4 +928,5 @@
   <string name="find_device_popup_content_single_phone">Нехта шукае гэтую прыладу з дапамогай %1$s.</string>
   <string name="find_device_popup_content_single_tablet">Нехта шукае гэтую прыладу з дапамогай %1$s.</string>
   <string name="find_device_popup_content_tablet">%1$s шукае гэтую прыладу з дапамогай %2$s.</string>
+  <string name="toast_nfc_same_wifi">Падлучыце тэлевізар і гэтую прыладу да адной сеткі</string>
 </resources>
