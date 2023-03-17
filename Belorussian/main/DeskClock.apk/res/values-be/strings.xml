@@ -789,4 +789,5 @@ dd.MM"</string>
   <string name="alarm_permanent_alert">Будзільнік</string>
   <string name="notification_permission_desc">Калі вы не падасце дазволы на кіраванне апавяшчэннямі, вы не зможаце адключыць будзільнікі, калі яны зазваняць. Даць дазвол зараз?</string>
   <string name="open_notification_permission_remind">Дазволіць апавяшчэнням адключаць будзільнікі</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>

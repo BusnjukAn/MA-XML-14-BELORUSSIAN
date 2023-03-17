@@ -1004,4 +1004,5 @@
   <string name="size_mega_byte">Мб</string>
   <string name="size_peta_byte">Пб</string>
   <string name="size_tera_byte">Тб</string>
+  <string name="screen_fps_unit_string">%s Гц</string>
 </resources>

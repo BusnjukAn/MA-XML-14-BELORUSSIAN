@@ -230,4 +230,5 @@
   <string name="wifi_region">Рэгіён Wi-Fi</string>
   <string name="yesterday">Учора</string>
   <string name="status_bar_icons">Абразкi ў радку стану</string>
+  <string name="no_icons">Няма абразкоў</string>
 </resources>

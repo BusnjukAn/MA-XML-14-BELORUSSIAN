@@ -115,7 +115,7 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">"%d аб'екта выдзеленая"</item>
+        <item quantity="other">"%d аб'ектаў выдзеленая"</item>
         <item quantity="one">"%d аб'ект выдзелены"</item>
         <item quantity="few">"%d аб'екты выдзелены"</item>
         <item quantity="many">"%d аб'ектаў выдзелена"</item>
@@ -127,10 +127,10 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Выдаліць %1$d праграм з працоўнага стала?</item>
-        <item quantity="one">Выдаліць %1$d праграму з працоўнага стала?</item>
-        <item quantity="few">Выдаліць %1$d праграмы з працоўнага стала?</item>
-        <item quantity="many">Выдаліць %1$d праграм з працоўнага стала?</item>
+        <item quantity="other">Выдаліць %1$d аб\'ектаў з працоўнага стала?</item>
+        <item quantity="one">Выдаліць %1$d аб\'ект з працоўнага стала?</item>
+        <item quantity="few">Выдаліць %1$d аб\'екты з працоўнага стала?</item>
+        <item quantity="many">Выдаліць %1$d аб\'ектаў з працоўнага стала?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Старонка %1$d, %2$d праграм.</item>
