@@ -1095,8 +1095,8 @@
   <string name="recent_menu_item_add_pair">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
   <string name="recent_menu_item_add_pair_first_toast">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
   <string name="split_screen_position_top">Падзяліць уверсе</string>
-  <string name="recent_menu_item_worldcirculate">Паток праграм</string>
-  <string name="recent_menu_item_worldcirculate_disable">Праграмы з падзеленым экранам не падтрымліваюць струменевую перадачу праграм</string>
+  <string name="recent_menu_item_worldcirculate">Перанос задач праграмы</string>
+  <string name="recent_menu_item_worldcirculate_disable">Немагчыма перанесці задачы праграмы на падлучаныя прылады</string>
   <string name="toast_split_app_unsupported">Гэтая праграма не падтрымлівае падзел экрана</string>
   <string name="toast_split_select_app">Націсніце на праграму, каб выкарыстоўваць падзелены экран</string>
   <string name="miui_widget_toast_for_not_support_by_pa">Віджэты такога памеру не падтрымліваюцца.</string>

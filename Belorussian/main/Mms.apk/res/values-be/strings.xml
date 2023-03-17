@@ -1690,4 +1690,5 @@
   <string name="pref_title_perm_read_audio">Доступ да аўдыёфайлаў</string>
   <string name="pref_title_perm_read_files">Доступ да файлаў і дакументаў</string>
   <string name="pref_title_perm_read_images_video">Доступ да фота і відэа</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>

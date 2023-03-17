@@ -37,7 +37,7 @@
   <string name="arcsin">арксінус</string>
   <string name="arctan">арктангенс</string>
   <string name="base_rate">Базавая працэнтная стаўка</string>
-  <string name="bmi_error_text">Здаецца, гэты ІМЦ няправільны. Пераканайцеся, што вы правільна ўвялі рост і вагу.</string>
+  <string name="bmi_error_text">Увядзіце сапраўдныя параметры</string>
   <string name="bmi_label_information">Інфармацыя</string>
   <string name="bmi_label_normal">Звычайны</string>
   <string name="bmi_label_overweight">Залішняя вага</string>
@@ -1039,4 +1039,5 @@
   <string name="younger_brother">Малодшы брат</string>
   <string name="younger_sister">Малодшая сястра</string>
   <string name="tenure_year_month">%1$s і %2$s</string>
+  <string name="investment_loan_result">Падрабязнасці</string>
 </resources>

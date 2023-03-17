@@ -40,9 +40,9 @@
   <string name="app_description_content">\"Компас\" - гэта сістэмная праграма. Вы не зможаце выкарыстоўваць яе для праверкі напрамкаў, каардынатаў, атмасфернага ціску і бягучай вышыні пасля выдалення.</string>
   <string name="app_description_title">Выдаліць \"Компас\"?</string>
   <string name="app_label">Компас</string>
-  <string name="calibrate_failed">Памылка каліброўкі вышыні</string>
-  <string name="calibrate_failed_no_location">Каліброўка не атрымалася</string>
-  <string name="calibrate_failed_timeout">Не атрымалася далучыцца да сервера</string>
+  <string name="calibrate_failed">Немагчыма адкалібраваць вышыню</string>
+  <string name="calibrate_failed_no_location">Немагчыма адкалібраваць. Адбылася памылка месцазнаходжання.</string>
+  <string name="calibrate_failed_timeout">Немагчыма адкалібраваць. Адбылася памылка сэрвара.</string>
   <string name="calibrate_rotate_again">Паўтарыце спробу</string>
   <string name="calibrate_success">Адкалібравана</string>
   <string name="calibrate_tip">Нахіляйце прыладу так, каб шар каціўся па крузе</string>
