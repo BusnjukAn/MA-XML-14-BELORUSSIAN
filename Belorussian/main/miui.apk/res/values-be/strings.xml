@@ -290,7 +290,11 @@
   <string name="com_android_soundrecorder">Дыктафон</string>
   <string name="com_miui_virtualsim">Mi роўмінг</string>
   <string name="com_xiaomi_midrop">Абмен файламі</string>
-  <string name="com_xiaomi_shop">Mi магазін</string>
+  <string name="com_xiaomi_shop">Mi крама</string>
   <string name="com_xiaomi_vipaccount">Супольнасць Xiaomi</string>
   <string name="com_mi_globalbrowser">Mi Браўзэр</string>
+  <string name="com_android_deskclock">Гадзіннік</string>
+  <string name="com_android_download_ui">Спампоўкі</string>
+  <string name="com_miui_gallery">Галерэя</string>
+  <string name="com_xiaomi_calendar">Каляндар</string>
 </resources>

@@ -498,4 +498,5 @@
   <string name="headset_battery_low">Батарэя разраджана. Зарадзіце навушнікі.</string>
   <string name="headset_connect_timeout">Час чакання падлучэння скончыўся. Пачніце спачатку.</string>
   <string name="headset_not_in_case">Змесціце абодва навушнікі ў футарал і пачніце спачатку</string>
+  <string name="bt_plugin_update_loading_dialog">Пачакайце…</string>
 </resources>

@@ -640,7 +640,7 @@
   <string name="wallpaper_group_petros_koublis_title">Мроі</string>
   <string name="wallpaper_group_glassy_light_title">Шматслаёвае шкло</string>
   <string name="wallpaper_group_shadow_geometry_title">Геаметрыя ценяў</string>
-  <string name="freeform_guide_tip_dock">Перацягніце праграму ў цэнтр экрана, каб адкрыць яго ў плывучым акне</string>
+  <string name="freeform_guide_tip_dock">Перацягніце праграму ў цэнтр экрана, каб адкрыць яго ў плаваючым акне</string>
   <string name="freeform_guide_tip_down">Каб закрыць плаваючае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым хутка пацягніце яе ўверх</string>
   <string name="freeform_guide_tip_drag">Каб змяніць памер акна, націсніце і ўтрымлівайце яго кут і пацягніце</string>
   <string name="freeform_guide_tip_notification">Каб адкрыць плаваючае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым пацягніце яе ўніз</string>
@@ -648,4 +648,22 @@
   <string name="freeform_guide_tip_pin_up">Перацягнеце згорнутае акно, каб вярнуць яго назад</string>
   <string name="freeform_guide_tip_sidebar">Правядзіце вонкі, каб адкрыць бакавую панэль</string>
   <string name="freeform_guide_tip_top">Каб перамясціць акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым пацягніце акно</string>
+  <string name="freeform_guide_tip_dock_browser">Націсніце і ўтрымлівайце абразок, каб адкрыць новае акно</string>
+  <string name="freeform_guide_tip_dock_email">Націсніце і ўтрымлівайце абразок, каб адкрыць новае акно</string>
+  <string name="freeform_guide_tip_dock_note">Націсніце і ўтрымлівайце абразок, каб адкрыць новае акно</string>
+  <string name="freeform_guide_tip_dock_wps">Націсніце і ўтрымлівайце абразок, каб адкрыць новае акно</string>
+  <string name="freeform_guide_tip_split">Перацягнеце праграму ў бок, каб пераключыцца на падзелены экран</string>
+  <string name="high_temperature_brightness_toast">Больш высокая яркасць экрана награвае прыладу і спажывае больш энергіі</string>
+  <string name="ks_launch_app_full_window">Поўнаэкранны рэжым</string>
+  <string name="ks_launch_app_small_window">Плаваючае акно</string>
+  <string name="ks_launch_split_screen_to_left">Падзяліць экран/Перацягнуць падзельнік налева</string>
+  <string name="ks_launch_split_screen_to_right">Падзяліць экран/Перацягнуць падзельнік направа</string>
+  <string name="propotional_freeform_tip">Падобна на тое, што гэта праграма не цалкам падтрымлівае плаваючыя вокны</string>
+  <string name="sla_btn_concel">Не нагадваць</string>
+  <string name="sla_btn_confirm">Уключыць</string>
+  <string name="sla_btn_keep">Ігнараваць</string>
+  <string name="sla_btn_stop">Спыніць</string>
+  <string name="sla_remind_text">Вы можаце выкарыстоўваць мабільныя дадзеныя для павелічэння хуткасці. Гэта можа прывесці да дадатковых выдаткаў трафіку.</string>
+  <string name="sla_title">Паскарэнне</string>
+  <string name="sla_traffic_text">Сёння вы ўжо выкарысталі %d Мб мабільнага трафіку. Вы можаце спыніць паскарэнне, каб зэканоміць мабільны трафік.</string>
 </resources>

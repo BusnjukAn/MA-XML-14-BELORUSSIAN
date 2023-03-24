@@ -490,4 +490,5 @@
   <string name="permgroupdesc_read_media_visual">Дазволіць %1$s доступ да фота і відэа, якія захоўваюцца на вашай прыладзе?</string>
   <string name="HIPS_Perm_operator_wall_paper">Усталёўваць шпалеры</string>
   <string name="HIPS_Perm_operator_wall_paper_Desc">Змяняць шпалеры і службы дынамічных шпалер па змаўчанні</string>
+  <string name="deny_fine_keep_blur_location_dont_ask_again">Заўсёды дазваляць прыблізнае месцазнаходжанне</string>
 </resources>

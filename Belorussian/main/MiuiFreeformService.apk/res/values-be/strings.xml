@@ -213,4 +213,9 @@
   <string name="freeform_guide_to_sidehide_summary_pad">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
   <string name="bottom_bar_smallwindow_drag_text">Перацягнеце сюды, каб замацаваць</string>
   <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Правядзіце пальцам ад ніжняга да верхняга краю экрана</string>
+  <string name="freeform_guide_free_drag_summary">Перацягвайце тэкст, выявы або файлы паміж рознымі вокнамі падтрымліваемых праграм.</string>
+  <string name="freeform_guide_free_drag_title">Перацягванне элементаў паміж вокнамі</string>
+  <string name="freeform_guide_multiple_window_summary">"Націсніце і ўтрымлівайце абразок праграмы на панэлі, каб адкрыць новае акно.
+*Гэтая функцыя працуе з Нататкамі, Поштай і Браўзэрам."</string>
+  <string name="freeform_guide_multiple_window_title">Адкрыць некалькі вокнаў</string>
 </resources>

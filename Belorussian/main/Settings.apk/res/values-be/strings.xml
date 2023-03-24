@@ -10684,4 +10684,35 @@ ID:%s
   <string name="show_nfc_icon_title">Паказваць абразок NFC</string>
   <string name="show_dnd_icon_title">Паказваць абразок \"Не турбаваць\"</string>
   <string name="status_bar_icons_title">Абразкi ў радку стану</string>
+  <string name="ap_p2p_dialog_message">Бягучае сумесна выкарыстоўванае Wi-Fi-злучэнне ўжо выкарыстоўваецца. Перш чым уключаць персанальны пункт доступу, пераканайцеся, што вы не карыстаецеся Wi-Fi Direct, Абменам файламі, трансляцяй або іншымi службамі бесправадной перадачы.</string >
+  <string name="ap_p2p_dialog_yes">Адключыць</string>
+  <string name="conversation_assistant">Інструменты для канферэнцый</string>
+  <string name="enable_preferred_network_type_summary">Праглядзіце і ўсталюйце тып сеткі ў раздзеле \"Налады\" > \"SIM-карты і мабільныя сеткі\" > \"SIM-карта\"</string>
+  <string name="enable_preferred_network_type_title">Паказаць меню пераважнага тыпу сеткі</string>
+  <string name="extension_function">Дадатковыя функцыі праграмы</string>
+  <string name="extension_function_hint">Цэтлікі функцый больш не будуць адлюстроўвацца ў наладах пасля таго, як вы выключыце іх</string>
+  <string name="freeform_guide_free_drag_summary">Перацягвайце тэкст, выявы або файлы паміж рознымі вокнамі падтрымліваемых праграм.</string>
+  <string name="freeform_guide_free_drag_title">Перацягванне элементаў паміж вокнамі</string>
+  <string name="freeform_guide_multiple_window_summary">"Націсніце і ўтрымлівайце абразок праграмы на панэлі, каб адкрыць новае акно.
+*Гэтая функцыя працуе з Нататкамі, Поштай і Браўзэрам."</string>
+  <string name="freeform_guide_multiple_window_title">Адкрыць некалькі вокнаў</string>
+  <string name="handle_ota_update_title">Абнаўленні прашыўкі</string>
+  <string name="miheadset_disconnect_ble">Адключыцца ад Bluetooth</string>
+  <string name="miheadset_double_tap_temple_when_calling">Падвойны дотык падчас размовы</string>
+  <string name="miheadset_double_tap_temple_when_idle">Падвойны дотык не падчас размовы</string>
+  <string name="miheadset_dual_connect_mode_summary_with_hint">Уключыце, каб адначасова падлучацца да дзвюх прылад Bluetooth. Зніміце ачкі на %d сек. пасля ўключэння або выключэння гэтай функцыі і паўтарыце спалучэнне.</string>
+  <string name="miheadset_key_config_next_and_previous_music">Пераключэнне трэкаў</string>
+  <string name="miheadset_key_config_none">Не</string>
+  <string name="miheadset_key_config_volume_up_down">Налады гучнасці</string>
+  <string name="miheadset_longpress_left_temple">Націск і ўтрыманне ў левай скроні</string>
+  <string name="miheadset_longpress_right_temple_when_calling">Націск і ўтрыманне ў правай скроні падчас размовы</string>
+  <string name="miheadset_longpress_right_temple_when_idle">Націск і ўтрыманне ў правай скроні не падчас размовы</string>
+  <string name="miheadset_longpress_temple_when_calling">Націск і ўтрыманне падчас размовы</string>
+  <string name="miheadset_longpress_temple_when_idle">Націск і ўтрыманне не падчас размовы</string>
+  <string name="miheadset_offhook">Адхіліць выклік</string>
+  <string name="miheadset_phone_connected_hangup">Адказаць ці завяршыць выклік</string>
+  <string name="miheadset_phone_play_pause">Прайграванне або паўза</string>
+  <string name="miheadset_slide_left_temple_back_forward">Правядзіце налева па скроні</string>
+  <string name="miheadset_slide_right_temple_back_forward">Правядзіце направа па скроні</string>
+  <string name="miui_device_control_description">Паказаць праграмы, якія падтрымліваюць элементы кіравання прыладамі, каб мець магчымасць кіраваць сумяшчальнымі прыладамі разумнай хаты</string>
 </resources>

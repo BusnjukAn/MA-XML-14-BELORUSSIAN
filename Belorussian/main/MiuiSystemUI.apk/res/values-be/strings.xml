@@ -2673,4 +2673,17 @@
   <string name="dark_mode_power_save_alert_dialog_message">"Калі вы адключыце аптымізацыю MIUI і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.
 Каб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI»."</string>
   <string name="dark_mode_power_save_alert_dialog_title">Цёмны рэжым</string>
+  <string name="miui_restart_button_description">Перазапусціць для лепшага адлюстравання</string>
+  <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Выкарыстоўваць мабільныя дадзеныя дадатковай SIM-карты для павелічэння хуткасці злучэння</string>
+  <string name="quick_settings_intelligent_dual_sim_accelerate_title">Дзве SIM-карты</string>
+  <string name="quick_settings_miui_wifi_detail_empty_text">Няма даступных сетак Wi-Fi</string>
+  <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+  <string name="quick_settings_miui_wlan_detail_empty_text">Няма даступных сетак Wi-Fi</string>
+  <string name="quick_settings_miui_wlan_label">Wi-Fi</string>
+  <string name="quick_settings_state_saved">Захаваныя</string>
+  <string name="quick_settings_state_wifi_select_nearby_ap">Абярыце бліжэйшыя сеткі Wi-Fi</string>
+  <string name="quick_settings_state_wlan_select_nearby_ap">Абярыце бліжэйшыя сеткі Wi-Fi</string>
+  <string name="quick_settings_wifi_is_off">Wi-Fi выключаны</string>
+  <string name="quick_settings_wlan_is_off">Wi-Fi выключаны</string>
+  <string name="thermal_protection_warning">Ваша прылада перагрэлася. Цяпер нельга выкарыстоўваць гэтую функцыю.</string>
 </resources>

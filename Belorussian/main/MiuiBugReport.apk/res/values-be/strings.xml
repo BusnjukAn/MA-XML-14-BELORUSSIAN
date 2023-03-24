@@ -938,4 +938,5 @@
   <string name="feedback_account_login_hint">Спачатку ўвайдзіце ў свой акаўнт Xiaomi</string>
   <string name="login_out">Выйсці</string>
   <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="can_not_add_more_image">Немагчыма дадаць больш выяў/відэа</string>
 </resources>
