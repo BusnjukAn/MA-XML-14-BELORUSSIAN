@@ -544,4 +544,7 @@
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="app_disable_description_title">Адключыць гэтую праграму?</string>
+  <string name="permission_go_to_settings">Налады</string>
+  <string name="permission_requestr_content">Дазвольце гэтай праграме падлучацца да бліжэйшых прылад у наладах.</string>
+  <string name="permission_requestr_title">Патрабуюцца дазволы</string>
 </resources>

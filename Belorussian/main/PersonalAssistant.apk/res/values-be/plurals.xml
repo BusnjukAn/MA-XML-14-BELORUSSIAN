@@ -247,4 +247,9 @@
         <item quantity="one">Выдаліць %d абраны элемент?</item>
         <item quantity="few">Выдаліць %d абраных элементаў?</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi манет</item>
+        <item quantity="few">%s Mi манеты</item>
+        <item quantity="one">%s Mi манета</item>
+     </plurals>
 </resources>

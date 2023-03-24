@@ -167,7 +167,7 @@
   <string name="mtrl_picker_invalid_format_example">Прыклад: %1$s</string>
   <string name="mtrl_picker_invalid_format_use">Выкарыстанне: %1$s</string>
   <string name="mtrl_picker_invalid_range">Няправільны дыяпазон.</string>
-  <string name="mtrl_picker_navigate_to_year_description">Перайсці да года %1$s</string>
+  <string name="mtrl_picker_navigate_to_year_description">Перайсці да года %1$d</string>
   <string name="mtrl_picker_out_of_range">Па-за дыяпазону: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку - %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s - Дата заканчэння</string>
@@ -344,8 +344,8 @@
   <string name="aod_dual_clock_date">HH:mm dd.MM</string>
   <string name="aod_dual_clock_date_12">hh:mm dd.MM</string>
   <string name="item_view_role_description">Укладка</string>
-  <string name="material_slider_range_end">Канец дыяпазону,</string>
-  <string name="material_slider_range_start">Пачатак дыяпазону,</string>
+  <string name="material_slider_range_end">Канец дыяпазону</string>
+  <string name="material_slider_range_start">Пачатак дыяпазону</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
   <string name="miuix_appcompat_action_mode_select_all">Абраць усё</string>
   <string name="miuix_appcompat_action_mode_title_empty">Абраць аб\'екты</string>
@@ -452,4 +452,17 @@
   <string name="mtrl_picker_confirm">ОК</string>
   <string name="mtrl_timepicker_cancel">Скасаваць</string>
   <string name="mtrl_timepicker_confirm">ОК</string>
+  <string name="bold_font">Тоўсты шрыфт</string>
+  <string name="material_hour_24h_suffix">%1$s г.</string>
+  <string name="material_slider_value">Значэнне</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="mtrl_picker_announce_current_range_selection">Выбар даты пачатку: %1$s — Выбар даты заканчэння: %2$s</string>
+  <string name="mtrl_picker_announce_current_selection_none">няма</string>
+  <string name="mtrl_picker_end_date_description">Дата заканчэння %1$s</string>
+  <string name="mtrl_picker_navigate_to_current_year_description">Перайсці да бягучага года %1$d</string>
+  <string name="mtrl_picker_start_date_description">Дата пачатку %1$s</string>
+  <string name="mtrl_picker_today_description">Сёння %1$s</string>
+  <string name="searchview_clear_text_content_description">Ачысціць тэкст</string>
+  <string name="searchview_navigation_content_description">Назад</string>
+  <string name="side_sheet_accessibility_pane_title">Бакавы ліст</string>
 </resources>

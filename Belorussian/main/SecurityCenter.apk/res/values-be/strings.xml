@@ -1226,7 +1226,7 @@
   <string name="lock_screen_warning_switch_title">Паказваць папярэджанні на экране блакавання</string>
   <string name="lock_screen_warning_value">Папярэджанне пра выкарыстанне трафіка</string>
   <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Не атрымалася счытаць адбітак пальца, паспрабуйце зноў.</string>
-  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Пароль няправільны. Паспрабуйце зноў.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Вы ўвялі няправільны пароль.</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_continue_button_text">Далей</string>
   <string name="lockpattern_need_to_confirm">Пацвердзіце графічны ключ</string>
@@ -6405,7 +6405,7 @@
   <string name="storage_system_other_tip_new">Уключае прастору для захоўвання, неабходную для працы сістэмы і абнаўленняў. Памер гэтай часткі будзе мяняцца ў залежнасці ад стану сістэмы.</string>
   <string name="vb_video_effects_immersion_sound">Імерсіўны гук</string>
   <string name="vb_video_effects_immersion_sound_summary">Адчуйце эфект прасторы пры прайграванні падтрымліваемага гуку праз навушнiкі</string>
-  <string name="vb_video_effects_spatial_summary_new">Адчуйце палепшанае адчуванне прасторы і напрамка для падтрымліваемых аўдыё і відэа, і наладзьце імерсіўны гук у залежнасці ад руху галавы</string>
+  <string name="vb_video_effects_spatial_summary_new">Адчуйце палепшанае адчуванне прасторы і напрамка для падтрымліваемага гуку пры выкарыстанні навушнікаў</string>
   <string name="pc_high_temp_protection_noti_summary2">Цяпер нельга выкарыстоўваць пункт доступу</string>
   <string name="app_behavior_record_cancel">Адмена</string>
   <string name="app_behavior_record_close">Выключыць</string>
@@ -6534,4 +6534,7 @@
   <string name="scan_status_not_complete">Не завершана</string>
   <string name="screen_type_external">Вонкавы экран</string>
   <string name="screen_type_internal">Унутраны экран</string>
+  <string name="gtb_casual_guide_toast">Адкрыйце для сябе яшчэ больш у гульнях</string>
+  <string name="pc_close_notifi_action">Выключыць</string>
+  <string name="vb_video_effects_dolby_tips">Пашыраны дыялог і Пашыранае стэрэа не будуць працаваць пры ўключаным імерсіўным гуку</string>
 </resources>
