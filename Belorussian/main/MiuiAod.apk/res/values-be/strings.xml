@@ -33,8 +33,8 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="add_from_album">Дадаць з Галерэі</string>
   <string name="afternoon">ПП</string>
-  <string name="align_type">Выраўнаваць</string>
-  <string name="always_style">Заўсёды</string>
+  <string name="align_type">Выраўноўванне</string>
+  <string name="always_style">Заўжды</string>
   <string name="am">ДП</string>
   <string name="animation_clock_panel">Анімацыя</string>
   <string name="aod_close_color_inversion">Гэта функцыя не працуе, калі ўключана інверсія колеру. Спачатку адключыце інверсію колеру.</string>
@@ -77,10 +77,10 @@
   <string name="deep_space_planet">Космас</string>
   <string name="deep_space_planet_des">Гэта тэма адлюстроўвае змены асвятлення, якія адбываюцца на працягу дня. Рассветы і закаты ў гэтай тэме сінхранізуюцца з вашым месцазнаходжаннем.</string>
   <string name="delete">Выдаліць</string>
-  <string name="digital_clock">Лічбавыя</string>
+  <string name="digital_clock">Лічбавы</string>
   <string name="disable_aod_in_power_save_mode">Адключыць, калі ўключана функцыя энергазберажэння</string>
   <string name="disable_aod_in_power_save_mode_summary">Не адлюстроўваць элементы для эканоміі энергіі</string>
-  <string name="early_morning">АМ</string>
+  <string name="early_morning">ДП</string>
   <string name="eras_ad">Н.Э.</string>
   <string name="eras_bc">Да н.э.</string>
   <string name="error_icon_content_description">Памылка</string>
@@ -101,7 +101,7 @@
   <string name="large_time">Вялікі гадзіннік</string>
   <string name="letter_space">Адлегласць паміж літарамі</string>
   <string name="line_space">Адлегласць паміж радкамі</string>
-  <string name="midnight">АМ</string>
+  <string name="midnight">ДП</string>
   <string name="mini_time">Малы гадзіннік</string>
   <string name="minimalist_clock">Просты гадзіннік</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
@@ -452,7 +452,7 @@
   <string name="mtrl_picker_confirm">ОК</string>
   <string name="mtrl_timepicker_cancel">Скасаваць</string>
   <string name="mtrl_timepicker_confirm">ОК</string>
-  <string name="bold_font">Тоўсты шрыфт</string>
+  <string name="bold_font">Таўшчыня шрыфта</string>
   <string name="material_hour_24h_suffix">%1$s г.</string>
   <string name="material_slider_value">Значэнне</string>
   <string name="miuix_appcompat_edit">Змяніць</string>
