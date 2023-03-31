@@ -682,4 +682,8 @@
   <string name="record_scenes_summaries_stereo_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
   <string name="record_scenes_summaries_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
   <string name="record_while_in_call_tip">Немагчыма зрабіць запіс падчас выкліку</string>
+  <string name="invisible_mode_dialog_message">Немагчыма выкарыстоўваць мікрафон у рэжыме інкогніта. Спачатку выключыце рэжым інкогніта.</string>
+  <string name="invisible_mode_dialog_negative">Адмена</string>
+  <string name="invisible_mode_dialog_positive">Выключыць</string>
+  <string name="invisible_mode_dialog_title">Вы інкогніта</string>
 </resources>

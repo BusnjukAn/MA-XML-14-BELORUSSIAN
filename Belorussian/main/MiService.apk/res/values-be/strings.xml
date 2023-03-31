@@ -155,7 +155,7 @@
   <string name="permission_china_version_msg"><Data>Перад выкарыстаннем «Сэрвісы і водгукi» вы павінны прачытаць нашы &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і пагадзіцца з імі. Гэтай праграме таксама трэба падлучацца да Інтэрнэту, каб нармальна працаваць.</Data></string>
   <string name="permission_complete">Гатова</string>
   <string name="permission_contacts_info">Атрымаць доступ да дадзеных акаўнта</string>
-  <string name="permission_contacts_introduce">Для ўваходу з дапамогай Mi Акаўнта</string>
+  <string name="permission_contacts_introduce">Для ўваходу з дапамогай Xiaomi акаўнта</string>
   <string name="permission_device_info">Атрымаць доступ да інфармацыі пра прыладу</string>
   <string name="permission_device_introduce">Для вызначэння тэрміну абмежаванай гарантыі</string>
   <string name="permission_exit">Выйсці</string>
@@ -420,4 +420,5 @@
   <string name="miui_main_icon_callback_create">Стварыць</string>
   <string name="miui_main_icon_callback_desc">Стварыць цэтлік на працоўным стале?</string>
   <string name="miui_main_icon_callback_nocreate">Адмена</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
 </resources>

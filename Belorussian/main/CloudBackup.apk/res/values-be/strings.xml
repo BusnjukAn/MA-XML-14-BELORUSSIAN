@@ -597,4 +597,20 @@
   <string name="repeat_recommend_wechat_backup_notification_title">Рэзервовае капіяванне дадзеных WeChat</string>
   <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Выканана рэзервовае капіяванне дадзеных WeChat. Націсніце, каб даведацца падрабязней.</string>
   <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Аўтаматычнае рэзервовае капіяванне выканана</string>
+  <string name="backup_failed_reason_get_installed_apps_denied">Надайце неабходныя дазволы ў наладах для рэзервовага капіявання элементаў</string>
+  <string name="dialog_button_get_installed_apps_agree">Налады</string>
+  <string name="dialog_button_get_installed_apps_disagree">Адмена</string>
+  <string name="dialog_get_installed_apps_consent_message">Каб мець магчымасць аўтаматычнага рэзервовага капіявання, дазвольце гэтай праграме у наладах доступ да спісу праграм, усталяваных на вашай прыладзе, і абярыце \"Заўсёды дазваляць\".</string>
+  <string name="dialog_get_installed_apps_consent_title">Патрабуюцца дазволы</string>
+  <string name="manual_request_notification_permission_dialog_negative_button">Закрыць</string>
+  <string name="manual_request_notification_permission_dialog_positive_button">Налады</string>
+  <string name="manual_request_permissions_dialog_description">Калі вы не надасце дазволы для \"%s\", вы не будзеце атрымліваць своечасовыя апавяшчэнні аб няўдалым рэзервовым капіяванні і іншых важных дзеяннях. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="manual_request_permissions_dialog_title">Патрабуюцца дазволы</string>
+  <string name="request_notification_permission_dialog_confirm">Зразумела</string>
+  <string name="request_permission_post_notification">Для адпраўкі апавяшчэнняў аб воблачных рэзервовых копіях</string>
+  <string name="request_permission_post_notification_title">Апавяшчэнні</string>
+  <string name="request_permissions_dialog_description">Надайце дазволы на адпраўку апавяшчэнняў і напамінкаў, каб мець магчымасць карыстацца ўсімі паслугамі, якія прапануе воблачнае рэзервовае капіяванне.</string>
+  <string name="request_permissions_dialog_title">Патрабуюцца дазволы</string>
+  <string name="session_failed_get_installed_apps_denied_detail">Каб мець магчымасць аўтаматычнага рэзервовага капіявання, дазвольце гэтай праграме у наладах доступ да спісу праграм, усталяваных на вашай прыладзе, і абярыце \"Заўсёды дазваляць\".</string>
+  <string name="session_failed_get_installed_apps_denied_title">Патрабуюцца дазволы</string>
 </resources>

@@ -43,10 +43,10 @@
   <string name="auto_disable_screenbuttons_summary">Аўтаматычна адключаць кнопкі навігацыі пры выкарыстанні выбраных праграм. Падвойны дотык да кнопкі навігацыі паўторна актывізуе іх.</string>
   <string name="auto_disable_screenbuttons_title">Аўтаадключэнне кнопак навігацыі</string>
   <string name="back_button">Назад</string>
-  <string name="back_double_tap">Падвойны дотык ззаду</string>
+  <string name="back_double_tap">Падвойны дотык</string>
   <string name="back_key">Назад</string>
   <string name="back_tap">Дотык ззаду</string>
-  <string name="back_triple_tap">Патройны дотык ззаду</string>
+  <string name="back_triple_tap">Патройны дотык</string>
   <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
   <string name="builtin_keyboard_settings_title">Фізічная клавіятура</string>
   <string name="camera_key_action_app_title">Адкрыць праграму</string>
@@ -76,8 +76,8 @@
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_suppression_title">Па змаўчанні (рэкамендуецца)</string>
   <string name="disable_power_key_long_press_under_keyguard">Адключыць меню кнопкі \"Сілкаванне\"</string>
-  <string name="diy_suppression_summary">Адрэгулюйце памер вобласці паблізу краёў, дзе ігнаруюцца выпадковыя дотыкi</string>
-  <string name="diy_suppression_title">Карыстальніцкі</string>
+  <string name="diy_suppression_summary">Адрэгулюйце памер вобласці паблізу краёў, дзе ігнаруецца выпадковы дотык.</string>
+  <string name="diy_suppression_title">Карыстальніцкі памер</string>
   <string name="double_click_power_key">Двайное націсканне на кнопку Сілкаванне</string>
   <string name="double_click_volume_down_when_lock">Падвойны націск кнопкі памяншэння гучнасці ў спячым рэжыме</string>
   <string name="double_knock">Падвойны націск косткай</string>
@@ -86,7 +86,7 @@
   <string name="dump_log_title">Пра гэту функцыю</string>
   <string name="early_morning">Раніца</string>
   <string name="edge_mode_state_summary">Вобласць вакол выгнутых краёў не будзе рэагаваць на дотыкі</string>
-  <string name="edge_mode_state_title">Ігнараваць выпадковы дотык да бакоў</string>
+  <string name="edge_mode_state_title">Ігнараваць выпадковыя дотыкi да бакоў</string>
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">до н. э.</string>
   <string name="error_icon_content_description">Памылка</string>
@@ -165,7 +165,7 @@
   <string name="key_combination_power_home">Сілкаванне + Дадому</string>
   <string name="key_combination_power_menu">Сілкаванне + Меню</string>
   <string name="key_combination_power_volume_down">Кнопкі \"Зменшыць гучнасць\" + \"Сілкаванне\"</string>
-  <string name="key_fsg_dialog_message">Вы выкарыстоўваеце поўнаэкранныя жэсты. Функцыі, звязаныя з кнопкамі, зараз недаступны. Пераключыцца на кнопкі?</string>
+  <string name="key_fsg_dialog_message">Вы выкарыстоўваеце поўнаэкранныя жэсты. Функцыі, звязаныя з кнопкамі, зараз недаступныя. Пераключыцца на кнопкі?</string>
   <string name="key_fsg_dialog_negative">Скасаваць</string>
   <string name="key_fsg_dialog_positive">Пераключыцца</string>
   <string name="key_gesture_function_dialog_message">%1$s цэтлiк для %2$s. Замяніць на %3$s?</string>
@@ -194,7 +194,7 @@
   <string name="keyboard_shortcuts_helper">Гарачыя кнопкі</string>
   <string name="keyboard_shortcuts_helper_summary">Адлюстраваць даступныя цэтлiкі</string>
   <string name="knock_edge_area_invalid">Гэты жэст не працуе побач з бакамі экрана</string>
-  <string name="knock_guide_dialog_title">Выберыце дзеянне для гэтага жэсту. Вы можаце змяніць яго пазней у раздзеле \"Налады &gt; Дадатковыя налады &gt; Цэтлiкі кнопак\".</string>
+  <string name="knock_guide_dialog_title">Выберыце дзеянне для гэтага жэсту. Вы можаце змяніць яго пазней у раздзеле \"Налады > Дадатковыя налады > Цэтлiкі кнопак\".</string>
   <string name="knock_guide_drive_desc">Рабіць здымкі экрана за рулём</string>
   <string name="knock_guide_launch_desc">Актываваць Mi ШI, калі прылада ляжыць на стале</string>
   <string name="knock_guide_set_screenshot">Здымак экрана</string>
@@ -255,7 +255,7 @@
   <string name="long_press_power_key">Доўгі націск на кнопку сілкавання</string>
   <string name="long_press_power_key_half_of_second">Націсніце і ўтрымлівайце кнопку «Сілкаванне» 0,5 с, каб уключыць Google Асістэнт</string>
   <string name="long_press_power_key_half_second">Націсніце і ўтрымлівайце кнопку сілкавання %s сек.</string>
-  <string name="long_press_power_key_tips">&lt;Data&gt;Доўгі націск на кнопку сілкавання &lt;font color=#999999&gt;Хутчэй і зручней&lt;/font&gt;&lt;/Data&gt;</string>
+  <string name="long_press_power_key_tips"><Data>Доўгі націск на кнопку сілкавання &lt;font color=#999999>Хутчэй і зручней&lt;/font></Data></string>
   <string name="long_press_volume_down">Доўгае націсканне кнопкі змяншэння гучнасці</string>
   <string name="material_clock_toggle_content_description">Выберыце AM (да паўдня) або PM (пасля паўдня)</string>
   <string name="material_hour_selection">Выберыце гадзіну</string>
@@ -421,7 +421,7 @@
   <string name="split_screen">Адчыніць Падзяленне экрана</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
-  <string name="strong_suppression_summary">Прылада будзе менш рэагаваць на выпадковыя дотыкi. Некаторыя жэсты могуць перастаць працаваць побач з краямі экрана</string>
+  <string name="strong_suppression_summary">Прылада будзе менш рэагаваць на выпадковыя дотыкi. Некаторыя жэсты могуць перастаць працаваць побач з краямі экрану.</string>
   <string name="strong_suppression_title">Вялікая вобласць</string>
   <string name="stylus_btn_continue">Далей</string>
   <string name="stylus_btn_learn">Кіраўніцтва</string>
@@ -438,7 +438,7 @@
   <string name="stylus_keyboard_settings_title">Стілус і клавіятура</string>
   <string name="stylus_language_summary">Распазнаць лічбы і рукапісны тэкст на англійскай і яшчэ адной абранай мове</string>
   <string name="stylus_language_title">Мова</string>
-  <string name="stylus_not_connect_message">Стылус не падлучаны</string>
+  <string name="stylus_not_connect_message">Стiлус не падлучаны</string>
   <string name="stylus_ota_check_failed_battery">Не атрымалася праверыць. Нізкі зарад батарэі вашага стілуса.</string>
   <string name="stylus_ota_check_failed_info">Не атрымалася праверыць версію прашыўкі. Зноў падлучыце свой стілус.</string>
   <string name="stylus_ota_check_update">Праверыць абнаўленні</string>
@@ -542,7 +542,7 @@
   <string name="v7_preference_on">УКЛ.</string>
   <string name="voice_assist">Mi ШI</string>
   <string name="voice_category">Гаворка</string>
-  <string name="wake_suppression_summary">Прылада будзе мацней рэагаваць на выпадковыя дотыкі, а таксама на некаторыя элементы кіравання жэстамі паблізу ад краёў</string>
+  <string name="wake_suppression_summary">Прылада можа мацней рэагаваць на выпадковыя дотыкі, а таксама на некаторыя элементы кіравання жэстамі паблізу ад краёў.</string>
   <string name="wake_suppression_title">Маленькая вобласць</string>
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
@@ -558,6 +558,7 @@
   <string name="launch_accessibility_environmental_speech_recognition">Разнаванне навакольнага гуку</string>
   <string name="launch_accessibility_hear_sound_subtitle">Субтытры Mi Ditto</string>
   <string name="launch_accessibility_voice_control">Галасавое кіраванне</string>
+  <string name="stylus_not_connect_message_new">Падлучыце свой стілус для выканання спалучэння</string>
   <string name="application_label">Налады ўводу</string>
   <string name="keyboard_back_light_automatic_adjustment">Аўтаматычная налада падсветкі</string>
   <string name="keyboard_back_light_brightness">Яркасць падсветкі</string>
@@ -585,5 +586,11 @@
   <string name="touchpad_switch_recent_task">Адкрыць нядаўнія</string>
   <string name="touchpad_switch_recent_task_summary">Правядзіце ўверх трыма пальцамі і зрабіце паўзу</string>
   <string name="touchpad_title">Трэкпад</string>
-  <string name="touchpad_touch_click_title">Краніце трэкпада для націску</string>
+  <string name="touchpad_touch_click_title">Краніцеся трэкпада для націску</string>
+  <string name="long_press_power_guide_know">Зразумела</string>
+  <string name="long_press_power_guide_message" formatted="false">"Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %s сек., каб абудзіць Асістэнта Google.
+Калі вы будзеце ўтрымліваць кнопку на працягу %s сек., замест гэтага вы адкрыеце меню выключэння."</string>
+  <string name="long_press_power_guide_settings">Налады</string>
+  <string name="long_press_power_guide_title">Абуджэнне з дапамогай кнопкі сiлкавання</string>
+  <string name="stylus_connect_fail_not_match_tablet">Стылус несумяшчальны з планшэтам</string>
 </resources>
