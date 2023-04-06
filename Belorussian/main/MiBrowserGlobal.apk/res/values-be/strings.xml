@@ -2592,4 +2592,10 @@
   <string name="search_card_more">Яшчэ</string>
   <string name="batch_download">Спампаваць</string>
   <string name="search_card_online_rec_app_installed">Усталяваныя</string>
+  <string name="download_live_unsupported">Немагчыма спампаваць прамую трансляцыю</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="notification_category_stickcard">Хуткія інструменты</string>
+  <string name="readmode_tips">Уключыць рэжым \"Толькі тэкст\"</string>
+  <string name="scan_type_empty_folder">Пустая тэчка</string>
+  <string name="youtube_dialog_content">Вы збіраецеся выйсці з Mi Браўзэра і адкрыць YouTube. Працягнуць?</string>
 </resources>
