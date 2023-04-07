@@ -547,4 +547,13 @@
   <string name="permission_go_to_settings">Налады</string>
   <string name="permission_requestr_content">Дазвольце гэтай праграме падлучацца да бліжэйшых прылад у наладах.</string>
   <string name="permission_requestr_title">Патрабуюцца дазволы</string>
+  <string name="dolby_atoms">Dolby Atmos</string>
+  <string name="effect_dolby">Dolby</string>
+  <string name="effect_misound">Мі гук</string>
+  <string name="effect_none">Няма</string>
+  <string name="effect_selection">Гукавыя эфекты</string>
+  <string name="fmt_date_numeric_year_month">M.yyyy</string>
+  <string name="permission_requesr_content">Дазвольце гэтай праграме падлучацца да бліжэйшых прылад у наладах.</string>
+  <string name="permission_requesr_title">Патрабуюцца дазволы</string>
+  <string name="spatial_audio_summary_spk">Адчуйце эфект пагружэння i адчування прасторы пры прайграванні аўдыё</string>
 </resources>

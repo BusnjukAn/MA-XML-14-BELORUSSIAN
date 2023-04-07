@@ -97,4 +97,6 @@
   <string name="menu_title_recovery_mode">Абнаўленне ў рэжыме Recovery</string>
   <string name="recovery_mode">Праграма абнаўлення знаходзіцца ў рэжыме Recovery, вы можаце прашываць ПЗУ ў праграме абнаўлення!</string>
   <string name="twrp_update_warning">Каб мець магчымасць выкарыстоўваць OTA, вам трэба выбраць, ці ўсталяваны на вашай прыладзе TWRP:</string>
+  <string name="fastboot_desc">Прылада зараз перазагрузіцца ў рэжым Fastboot. Калі вы не знаёмыя з рэжымам, адмяніце далейшыя дзеянні. Працягнуць?</string>
+  <string name="menu_title_fastboot">Перазагрузка ў рэжым Fastboot</string>
 </resources>

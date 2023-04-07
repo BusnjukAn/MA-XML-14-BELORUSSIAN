@@ -84,4 +84,8 @@
         <item>Прагляд/уключэньне сямейных службаў</item>
         <item>"Сям'я; Сямейныя службы;Сумеснае выкарыстанне сям'ёй"</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
 </resources>

@@ -944,4 +944,7 @@
   <string name="stop_extend_service_dialog_confirm">Адключыць</string>
   <string name="stop_extend_service_dialog_summary">Калі вы адключыце гэтую функцыю, вы не зможаце кіраваць сваімі файламі, якія захоўваюцца на Mi дыске. Усё роўна адключыць?</string>
   <string name="stop_extend_service_dialog_tilte">Дадатковыя службы</string>
+  <string name="pad">Планшэт</string>
+  <string name="pad_homepage_tab_file_view_phone">Планшэт</string>
+  <string name="pad_start_phone">Сховішча</string>
 </resources>

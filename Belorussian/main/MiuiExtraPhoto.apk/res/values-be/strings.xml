@@ -313,4 +313,7 @@
   <string name="talkback_ratio_4_3">Чатыры на тры</string>
   <string name="talkback_ratio_9_16">Дзевяць на шаснаццаць</string>
   <string name="talkback_ratio_16_9">Шасцінаццаць на дзевяць</string>
+  <string name="operation_original">Параўнаць</string>
+  <string name="operation_redo">Паўтарыць</string>
+  <string name="operation_undo">Адмена</string>
 </resources>

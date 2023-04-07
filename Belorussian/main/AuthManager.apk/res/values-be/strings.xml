@@ -491,4 +491,5 @@
   <string name="HIPS_Perm_operator_wall_paper">Усталёўваць шпалеры</string>
   <string name="HIPS_Perm_operator_wall_paper_Desc">Змяняць шпалеры і службы дынамічных шпалер па змаўчанні</string>
   <string name="deny_fine_keep_blur_location_dont_ask_again">Заўсёды дазваляць прыблізнае месцазнаходжанне</string>
+  <string name="permdesc_get_installed_apps">Дазволіць %1$s доступ да інфармацыі аб усталяваных праграмах?</string>
 </resources>
