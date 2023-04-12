@@ -37,7 +37,7 @@
   <string name="account_error_invalid_user_name">Імя не можа ўтрымліваць &lt;, >, або /</string>
   <string name="account_error_longer_user_name">Імя павінна ўтрымліваць не больш за 20 сімвалаў</string>
   <string name="account_error_shorter_user_name">Імя павінна ўтрымліваць не менш за 2 сімвалы</string>
-  <string name="account_error_user_birthday">Няслушная дата нараджэння</string>
+  <string name="account_error_user_birthday">Няправільная дата нараджэння</string>
   <string name="account_error_user_name">Несапраўдны нік. Паспрабуйце іншы.</string>
   <string name="account_invalid_user_avatar">Фота недапушчальнае. Паспрабуйце іншае.</string>
   <string name="account_limit_update_birthday">Не атрымліваецца змяніць дату нараджэння</string>
@@ -2598,4 +2598,6 @@
   <string name="readmode_tips">Уключыць рэжым \"Толькі тэкст\"</string>
   <string name="scan_type_empty_folder">Пустая тэчка</string>
   <string name="youtube_dialog_content">Вы збіраецеся выйсці з Mi Браўзэра і адкрыць YouTube. Працягнуць?</string>
+  <string name="slide_card">Правядзіце, каб паглядзець яшчэ</string>
+  <string name="top_news">Галоўныя гісторыі</string>
 </resources>
