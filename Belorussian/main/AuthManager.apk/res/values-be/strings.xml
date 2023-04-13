@@ -243,7 +243,7 @@
   <string name="HIPS_SecurityPrompt_Reject_Once">Забараніць зараз (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_This">Адхіліць ў гэты раз (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s патрабуе: %2$s</string>
-  <string name="keep_blur_location">Не</string>
+  <string name="keep_blur_location">Працягнуць</string>
   <string name="keep_notice_me">Працягваць апавяшчаць</string>
   <string name="location_settings">Налады месцазнаходжання</string>
   <string name="location_warning">%1$s забяспечвае дадзенымі месцазнаходжання на прыладзе. Доступ да месцазнаходжання можна змяніць у Наладах.</string>
@@ -382,7 +382,7 @@
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">Тб</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="stop_blur_location">Так</string>
+  <string name="stop_blur_location">Адключыць</string>
   <string name="storage_policy_notify_both_title">%1$s не мае доступу да галерэі і паведамленняў у праграмах сацыяльных сетак</string>
   <string name="storage_policy_notify_content">Націсніце, каб наладзіць дазволы</string>
   <string name="storage_policy_notify_gallery_title">%1$s не мае доступу да галерэі</string>

@@ -1062,4 +1062,8 @@
   <string name="hover_tasklist">MD: [] прабел</string>
   <string name="hover_underline">MD: ~Тэкст~ прабел</string>
   <string name="hover_unorderlist">MD: - прабел</string>
+  <string name="cta_v2_app_purpose_v12_lite">Сардэчна запрашаем у Нататкі! Вы можаце выкарыстоўваць гэту праграму для стварэння нататак і задач.</string>
+  <string name="insert_image_size_limit_tip">Памер гэтай выявы больш за %d Мб. Яна была аўтаматычна сціснута.</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="warn_enter_browse_mode_forbid_create">Нельга ствараць або рэдагаваць нататкі ў рэжыме \"Толькі чытанне\"</string>
 </resources>
