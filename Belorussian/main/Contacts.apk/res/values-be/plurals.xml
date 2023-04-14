@@ -296,4 +296,8 @@
         <item quantity="one">%d прапушчаны выклік</item>
         <item quantity="few">%d прапушчаных выкліка</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">У SMS не можа быць больш за %d атрымальнікаў.</item>
+        <item quantity="one">У SMS не можа быць больш за %d атрымальніка.</item>
+    </plurals>
 </resources>
