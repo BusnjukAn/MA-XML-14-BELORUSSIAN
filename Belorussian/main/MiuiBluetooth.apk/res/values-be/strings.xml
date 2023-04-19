@@ -499,4 +499,17 @@
   <string name="headset_connect_timeout">Час чакання падлучэння скончыўся. Пачніце спачатку.</string>
   <string name="headset_not_in_case">Змесціце абодва навушнікі ў футарал і пачніце спачатку</string>
   <string name="bt_plugin_update_loading_dialog">Пачакайце…</string>
+  <string name="bt_plugin_is_update_loading_dialog">Абнаўленне…</string>
+  <string name="bt_plugin_update_failed_toast">Адбылася памылка. Не ўдалося загрузіць.</string>
+  <string name="lea_disable_successfully">Звычайны Bluetooth зараз выкарыстоўваецца для падлучэння навушнікаў і перадачы гуку</string>
+  <string name="lea_enable_successfully">LE Audio зараз выкарыстоўваецца для падлучэння навушнікаў і перадачы гуку</string>
+  <string name="tv_calibration_doing">Каліброўка…</string>
+  <string name="tv_calibration_doing_text">Трымайце тэлефон заднім бокам да сярэдзіны экрана тэлевізара</string>
+  <string name="tv_calibration_done">Каліброўка завершана</string>
+  <string name="tv_calibration_done_text">Колеры экрана вашага тэлевізара паспяхова адкалібраваны.</string>
+  <string name="tv_calibration_pre">Каліброўка колеру</string>
+  <string name="tv_calibration_pre_text">Адкалібруйце колеры экрана тэлевізара з дапамогай тэлефона</string>
+  <string name="tv_calibration_start">Размясціце заднюю камеру тэлефона шчыльна да цэнтра экрана</string>
+  <string name="tv_calibration_start_button">Пачаць</string>
+  <string name="information_go_to_fitness">Вы можаце знайсці адпаведныя налады ў Mi Здароўе</string>
 </resources>

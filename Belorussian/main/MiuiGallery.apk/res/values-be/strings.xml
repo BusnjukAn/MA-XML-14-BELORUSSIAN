@@ -3645,4 +3645,8 @@
   <string name="slim_subtitle_sync_on_no_slimdata">Сінхранізацыя. Паўтарыце спробу пазней.</string>
   <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Абнавіце тарыфны план воблачнага сховішча, каб сінхранізаваць больш элементаў</string>
   <string name="slim_upgrade_button">Абнавіць</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="my_family">Мая хата</string>
+  <string name="user_family">Хата %1$s</string>
+  <string name="assistant_page_image_printing">Друк</string>
 </resources>

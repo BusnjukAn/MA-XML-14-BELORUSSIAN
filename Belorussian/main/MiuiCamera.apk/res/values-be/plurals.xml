@@ -198,4 +198,16 @@
         <item quantity="few">Серыйная здымка скончана, зроблена %1$s фота</item>
         <item quantity="many">Серыйная здымка скончана, зроблена %1$s фота</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Вы можаце падлучыць да %d камер да адной сеткі</item>
+        <item quantity="one">Вы можаце падлучыць да %d камеры да адной сеткі</item>
+        <item quantity="few">Вы можаце падлучыць да %d камер да адной сеткі</item>
+        <item quantity="many">Вы можаце падлучыць да %d камер да адной сеткі</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Вы можаце падлучыць да %d манітораў да адной сеткі</item>
+        <item quantity="one">Вы можаце падлучыць да %d манітора да адной сеткі</item>
+        <item quantity="few">Вы можаце падлучыць да %d манітораў да адной сеткі</item>
+        <item quantity="many">Вы можаце падлучыць да %d манітораў да адной сеткі</item>
+    </plurals>
 </resources>

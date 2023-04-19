@@ -758,7 +758,7 @@
   <string name="fingerprint_enter_second_psw_msg">Калі ласка, увядзіце пароль для Другой прасторы пасля перазагрузкі прылады, каб выкарыстоўваць функцыю распазнання адбіткаў пальцаў</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Немагчыма ўвайсці ў Другую прастору ў палегчаным рэжыме</string>
   <string name="fingerprint_enter_second_psw_title">Увядзіце пароль Другой прасторы</string>
-  <string name="fingerprint_not_identified_msg">Занадта шмат памылковых спроб. Увядзіце пароль ці паспрабуйце праз некалькі секунд скарыстацца адбіткам пальца.</string>
+  <string name="fingerprint_not_identified_msg">Занадта шмат памылковых спроб. Увядзіце блакаванне экрана зараз або паспрабуйце выкарыстоўваць адбітак пальца праз некалькі секунд.</string>
   <string name="fingerprint_not_identified_msg_lock">Занадта шмат няўдалых спроб. Увядзіце пароль.</string>
   <string name="fingerprint_not_identified_title">Увядзіце пароль</string>
   <string name="fingerprint_try_again_msg">Не атрымалася праверыць адбітак пальца, паспрабуйце яшчэ раз.</string>
@@ -2686,4 +2686,6 @@
   <string name="quick_settings_wifi_is_off">Wi-Fi выключаны</string>
   <string name="quick_settings_wlan_is_off">Wi-Fi выключаны</string>
   <string name="thermal_protection_warning">Ваша прылада перагрэлася. Цяпер нельга выкарыстоўваць гэтую функцыю.</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Немагчыма пераключацца паміж прасторамі ў рэжыме гібернацыі</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Немагчыма пераключацца паміж прасторамі з-за нізкага зарада батарэі</string>
 </resources>

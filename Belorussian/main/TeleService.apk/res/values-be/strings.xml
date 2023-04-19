@@ -321,20 +321,20 @@
   <string name="cached_apps_freezer_reboot_dialog_text">Перазагрузіце прыладу, каб прымяніць гэта змяненне. Перазагрузіце ці скасуйце.</string>
   <string name="call_advanced_setting_title">Пашыраныя налады</string>
   <string name="call_barring_baic">Усе ўваходныя выклікі</string>
-  <string name="call_barring_baic_disabled">Заблакіраваць усе ўваходныя выклікі?</string>
-  <string name="call_barring_baic_enabled">Адключыць блакіроўку ўсіх уваходных выклікаў?</string>
+  <string name="call_barring_baic_disabled">Заблакаваць усе ўваходныя выклікі?</string>
+  <string name="call_barring_baic_enabled">Адключыць блакаванне ўсіх уваходных выклікаў?</string>
   <string name="call_barring_baicr">Уваходныя выклікі ў міжнародным роўмінгу</string>
-  <string name="call_barring_baicr_disabled">Заблакіраваць уваходныя выклікі ў міжнародным роўмінгу?</string>
-  <string name="call_barring_baicr_enabled">Адключыць блакіроўку ўсіх уваходных выклікаў у міжнародным роўмінгу?</string>
+  <string name="call_barring_baicr_disabled">Заблакаваць уваходныя выклікі ў міжнародным роўмінгу?</string>
+  <string name="call_barring_baicr_enabled">Адключыць блакаванне ўсіх уваходных выклікаў у міжнародным роўмінгу?</string>
   <string name="call_barring_baoc">Усе выходныя выклікі</string>
-  <string name="call_barring_baoc_disabled">Заблакіраваць усе выходныя выклікі?</string>
-  <string name="call_barring_baoc_enabled">Адключыць блакіроўку ўсіх выходных выклікаў?</string>
+  <string name="call_barring_baoc_disabled">Заблакаваць усе выходныя выклікі?</string>
+  <string name="call_barring_baoc_enabled">Адключыць блакаванне ўсіх выходных выклікаў?</string>
   <string name="call_barring_baoic">Выходныя міжнародныя выклікі</string>
-  <string name="call_barring_baoic_disabled">Заблакіраваць выходныя міжнародныя выклікі?</string>
-  <string name="call_barring_baoic_enabled">Адключыць блакіроўку выходных міжнародных выклікаў?</string>
+  <string name="call_barring_baoic_disabled">Заблакаваць выходныя міжнародныя выклікі?</string>
+  <string name="call_barring_baoic_enabled">Адключыць блакаванне выходных міжнародных выклікаў?</string>
   <string name="call_barring_baoicr">Выходныя выклікі ў міжнародным роўмінгу</string>
-  <string name="call_barring_baoicr_disabled">Заблакіраваць выходныя выклікі ў міжнародным роўмінгу?</string>
-  <string name="call_barring_baoicr_enabled">Адключыць блакіроўку выходных выклікаў у міжнародным роўмінгу?</string>
+  <string name="call_barring_baoicr_disabled">Заблакаваць выходныя выклікі ў міжнародным роўмінгу?</string>
+  <string name="call_barring_baoicr_enabled">Адключыць блакаванне выходных выклікаў у міжнародным роўмінгу?</string>
   <string name="call_barring_change_pwd">Змяніць пароль</string>
   <string name="call_barring_change_pwd_description">Змяніць пароль забароны выкліку</string>
   <string name="call_barring_change_pwd_description_disabled">Нельга змяніць пароль забароны выкліку.</string>
@@ -791,7 +791,7 @@
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_tuv">ШЎЫ</string>
   <string name="dialpad_wxyz">ЬЭЮЯ</string>
-  <string name="direct_boot_unaware_dialog_message">Заўвага. Пасля перазагрузкі гэта праграма не зможа запусціцца, пакуль вы не разблакіруеце тэлефон</string>
+  <string name="direct_boot_unaware_dialog_message">Заўвага. Пасля перазагрузкі гэта праграма не зможа запусціцца, пакуль вы не разблакуеце тэлефон</string>
   <string name="disable">Адключыць</string>
   <string name="disable_all_cf">Адключыць усе пераадрасацыі</string>
   <string name="disable_cdma_cw">Скасаваць</string>
@@ -823,7 +823,7 @@
   <string name="dtmf_tone_entries_normal">Звычайны</string>
   <string name="dtmf_tones_summary">Наладзіць даўжыню DTMF-сігналаў</string>
   <string name="dtmf_tones_title">DTMF-сігналы</string>
-  <string name="dual_4g_switch_summary">Дазволіць сувязь 4G для абедзвюх слотаў SIM</string>
+  <string name="dual_4g_switch_summary">Дазволіць сувязь 4G для абодвух слотаў SIM</string>
   <string name="dual_4g_switch_title">Рэжым двайнога 4G</string>
   <string name="eab_provisioned_switch_string">EAB/Presence уключана</string>
   <string name="early_morning">Раніца</string>
@@ -881,7 +881,7 @@
   <string name="enable_disable_stock_quotes">Каціроўкі каштоўных папер</string>
   <string name="enable_disable_technology_news">Навіны тэхналогій</string>
   <string name="enable_dual_4g_if_dual_ct">Аддаваць перавагу 4G-сеткам для абедзвюх SIM-карт, каб выкарыстоўваць VoLTE на другой SIM-карце, калі абедзве ўсталяваныя SIM-карты з China Telecom.</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE патрабуе падлучэння 4G для абедзвюх SIM-слотаў. Пераключыцца на двайны 4G?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE патрабуе падлучэння 4G для абодвух SIM-слотаў. Пераключыцца на двайны 4G цяпер?</string>
   <string name="enable_fdn">Уключыць фіксаваны набор</string>
   <string name="enable_fdn_ok">Адключыць фіксаваны набор</string>
   <string name="enable_freeform_support">Уключыць адвольную форму вокнаў</string>
@@ -1051,7 +1051,7 @@
   <string name="hac_mode_summary">Уключыць слыхавы апарат</string>
   <string name="hac_mode_title">Слыхавыя апараты</string>
   <string name="handon_ringer_summary">Зніжаць гучнасць мелодыі падчас уваходнага выкліку, калі падымаеце тэлефон.</string>
-  <string name="handon_ringer_title">Прыглушэнне гуку, калі падымаеце</string>
+  <string name="handon_ringer_title">Памяншэнне гучнасці пры ўзяцці ў рукі</string>
   <string name="hdcp_checking_dialog_title">Усталяваць рэжым праверкі HDCP</string>
   <string name="hdcp_checking_title">Праверка HDCP</string>
   <string name="help_feedback_label">Даведка і водгукі</string>
@@ -1206,9 +1206,9 @@
   <string name="lgu_msim_emm_cause_11_12_13_15">SIM %d не ўдалося зарэгістраваць сетку</string>
   <string name="lgu_msim_emm_cause_16_17_22">SIM %d рэгістрацыя сеткі. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
   <string name="lgu_msim_emm_cause_others">SIM %d не можа падлучыцца да сеткі. Наведайце цэнтр абслугоўвання кліентаў (+ 82-2-3416-7010).</string>
-  <string name="limited_sim_function_notification_message">Выклікі і перадача даных праз %1$s блакіруюцца пры выкарыстанні іншай SIM-карты.</string>
+  <string name="limited_sim_function_notification_message">Выклікі і перадача даных праз %1$s блакуюцца пры выкарыстанні іншай SIM-карты.</string>
   <string name="limited_sim_function_notification_title">Абмежаваныя функцыі SIM-карты</string>
-  <string name="limited_sim_function_with_phone_num_notification_message">Выклікі і перадача даных праз %1$s могуць блакіравацца пры выкарыстанні нумара %2$s.</string>
+  <string name="limited_sim_function_with_phone_num_notification_message">Выклікі і перадача даных праз %1$s могуць блакавацца пры выкарыстанні нумара %2$s.</string>
   <string name="list_language_dtitle">Мовы</string>
   <string name="list_language_summary">Выберыце мову навінаў</string>
   <string name="list_language_title">Мова</string>
@@ -2309,7 +2309,7 @@
   <string name="supp_service_call_forwarding_active">Пераадрасацыя выклікаў уключана.</string>
   <string name="supp_service_call_on_hold">Выклік на ўтрыманні.</string>
   <string name="supp_service_call_resumed">Выклік узноўлены.</string>
-  <string name="supp_service_clir_suppression_rejected">Запыт на блакіроўку нумара адхілены.</string>
+  <string name="supp_service_clir_suppression_rejected">Запыт на блакаванне нумара адхілены.</string>
   <string name="supp_service_closed_user_group_call">Выклік на нумар або з нумара закрытай групы карыстальнікаў.</string>
   <string name="supp_service_conference_call">Ідзе далучэнне да канферэнц-выкліку.</string>
   <string name="supp_service_deflected_call">Выклік быў адхілены.</string>
@@ -2816,4 +2816,22 @@
   <string name="sim_select_dialog_title">Абярыце SIM-карту</string>
   <string name="speed_limit_card_toast">Вы выдаткавалі дадзеныя на поўнай хуткасці. Цяпер хуткасць злучэння будзе абмежаваная.</string>
   <string name="no_voice_capability">Не атрымалася звязацца з аператарам сувязі. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="alert_dialog_exit_ecm">{count, plural, =1 {Тэлефон будзе знаходзіцца ў рэжыме экстранага зваротнага выкліку на працягу адной хвіліны. У гэтым рэжыме нельга выкарыстоўваць праграмы, якія выкарыстоўваюць падлучэнне для перадачы дадзеных. Вы хочаце выйсці зараз?} other {Тэлефон будзе знаходзіцца ў рэжыме экстранага зваротнага выкліку на працягу %s хвілін. У гэтым рэжыме нельга выкарыстоўваць прыкладанні, якія выкарыстоўваюць падлучэнне для перадачы дадзеных. Вы хочаце выйсці зараз?} }</string>
+  <string name="alert_dialog_exit_ecm_without_data_restriction_hint">{count, plural, =1 {Тэлефон будзе знаходзіцца ў рэжыме экстранага зваротнага выкліку на працягу адной хвіліны.\nВы хочаце выйсці зараз?} other {Тэлефон будзе знаходзіцца ў рэжыме экстранага зваротнага выкліку хвілін.\nВыйсці зараз?} }</string>
+  <string name="alert_dialog_exit_scm">Тэлефон знаходзіцца ў рэжыме зваротнага выкліку па SMS. У гэтым рэжыме нельга выкарыстоўваць ніякія праграмы, якія выкарыстоўваюць падлучэнне для перадачы дадзеных. Вы хочаце выйсці зараз?</string>
+  <string name="alert_dialog_in_scm_call">Абранае дзеянне недаступнае падчас экстранага выкліку.</string>
+  <string name="alert_dialog_not_avaialble_in_ecm">{count, plural, =1 {Абранае дзеянне недаступнае ў рэжыме экстранага зваротнага выкліку. Тэлефон будзе знаходзіцца ў гэтым рэжыме на працягу адной хвіліны. Вы хочаце выйсці зараз?} other {Абранае дзеянне недаступнае ў рэжыме экстранага зваротнага выкліку. Тэлефон будзе знаходзіцца ў гэтым рэжыме на працягу %s хвілін. Вы хочаце выйсці зараз?} }</string>
+  <string name="alert_dialog_not_avaialble_in_scm">Абранае дзеянне недаступнае ў рэжыме зваротнага выкліку па SMS. Выйсці зараз?</string>
+  <string name="removable_esim_string">Усталяваць здымную eSIM па змаўчанні</string>
+  <string name="confirm_phone_number">Пацвярджэнне тэлефонных нумароў</string>
+  <string name="data_for_high_temperature_toast">Ваша прылада перагрэлася. Немагчыма выкарыстоўваць гэтую функцыю зараз.</string>
+  <string name="dual_sim_smart_call_forward_failed">Не ўдалося наладзіць</string>
+  <string name="dual_sim_smart_call_forward_failed_cause">Адбылася памылка сеткі. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="dual_sim_smart_call_forward_summary">Пераадрасоўваць выклікі на іншую SIM-карту, калі іх немагчыма прыняць</string>
+  <string name="dual_sim_smart_call_forward_title">Пераадрасацыя на іншую SIM-карту</string>
+  <string name="dual_sim_smart_call_forward_updating">Секундачку…</string>
+  <string name="labelCFNRc_message">Калі вы працягнеце, вы больш не зможаце пераадрасоўваць выклікі на іншую SIM-карту.</string>
+  <string name="labelCFNRc_title">Увага</string>
+  <string name="vice_slot_volte_data_dialog_message_ext"><Data>Здаецца, ваша бягучае сеткавае злучэнне нестабільна. Вы можаце паспрабаваць аўтаматычна пераключацца паміж SIM-картамі для перадачы дадзеных. &lt;font color=#ff0000>&lt;b>Выкарыстанне гэтай функцыі можа прывесці да дадатковых збораў аператара сувязі&lt;/b>&lt;/font>.</Data></string>
+  <string name="dsda_end_call_toast">Папярэдні сеанс сувязі быў завершаны</string>
 </resources>

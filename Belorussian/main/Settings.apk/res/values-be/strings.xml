@@ -10715,4 +10715,13 @@ ID:%s
   <string name="miheadset_slide_left_temple_back_forward">Правядзіце налева па скроні</string>
   <string name="miheadset_slide_right_temple_back_forward">Правядзіце направа па скроні</string>
   <string name="miui_device_control_description">Паказаць праграмы, якія падтрымліваюць элементы кіравання прыладамі, каб мець магчымасць кіраваць сумяшчальнымі прыладамі разумнай хаты</string>
+  <string name="handle_ota_connect_first">Падлучыце прыладу</string>
+  <string name="handle_ota_finish_fw">Абноўлена паспяхова</string>
+  <string name="handle_ota_update_failed">Немагчыма абнавіць</string>
+  <string name="handle_ota_updating_firmware">Секундачку…</string>
+  <string name="handle_ota_updating_tip">Абнаўленне ў фонавым рэжыме…</string>
+  <string name="screen_effect_adapt_color_summary">Налада колеру ў залежнасці ад бягучага асвятлення</string>
+  <string name="screen_effect_adapt_color_title">Яркі</string>
+  <string name="screen_effect_origin_color_summary">Адлюстраванне рэалістычных колераў з дапамогай каліброўкі колеру</string>
+  <string name="screen_effect_origin_color_title">Зыходны колер PRO</string>
 </resources>
