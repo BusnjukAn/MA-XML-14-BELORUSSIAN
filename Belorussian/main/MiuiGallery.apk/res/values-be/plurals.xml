@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">1 гадзіну таму</item>
+    <item quantity="other">%d гадзіну таму</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
     <item quantity="other">Паўгадзіны таму</item>
   </plurals>
   <plurals name="abbrev_in_a_hour">
-    <item quantity="other">Праз 1 гадзіну</item>
+    <item quantity="other">Праз %d гадзіну</item>
   </plurals>
   <plurals name="abbrev_in_half_hour">
     <item quantity="other">Праз паўгадзіны</item>
@@ -35,9 +35,9 @@
     <item quantity="one">Дададзена %d фота ў Воблака Xiaomi. Адключыце функцыю \"Толькі лакальныя альбомы\" для прагляду.</item>
   </plurals>
   <plurals name="add_to_album_failed_with_reason_and_count">
-    <item quantity="other">" %2$d элементаў не могуць быць дададзеныя ў альбом. %1$s."</item>
-    <item quantity="one">" %2$d элемент не можа быць дададзены ў альбом. %1$s."</item>
-    <item quantity="few">" %2$d элемента не могуць быць дададзеныя ў альбом. %1$s."</item>
+    <item quantity="other">"%2$d элементаў не могуць быць дададзеныя ў альбом. %1$s."</item>
+    <item quantity="one">"%2$d элемент не можа быць дададзены ў альбом. %1$s."</item>
+    <item quantity="few">"%2$d элемента не могуць быць дададзеныя ў альбом. %1$s."</item>
   </plurals>
   <plurals name="add_to_secret_failed_with_reason_and_count">
     <item quantity="other">%2$d элементаў не могуць быць дададзеныя ў асабісты альбом. %1$s.</item>

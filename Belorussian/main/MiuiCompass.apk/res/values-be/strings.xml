@@ -312,4 +312,9 @@
   <string name="calibrate_new_tip">Нахіляйце прыладу рэзка так, каб шар каціўся па крузе</string>
   <string name="altitude_format">%.1f м</string>
   <string name="pressure_format">%.1f гПа</string>
+  <string name="invisible_mode_dialog_message">Зараз немагчыма выкарыстаць камеру. Выключыце рэжым Інкогніта у наладах, каб выкарыстаць камеру.</string>
+  <string name="invisible_mode_dialog_negative">Скасаваць</string>
+  <string name="invisible_mode_dialog_positive">Налады</string>
+  <string name="invisible_mode_dialog_title">Вы ў рэжыме Iнкогніта</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>

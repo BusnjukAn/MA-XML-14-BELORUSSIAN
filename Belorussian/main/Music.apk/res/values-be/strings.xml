@@ -1825,4 +1825,16 @@
   <string name="youtube_download_suc">Спампавана паспяхова</string>
   <string name="youtube_tab_explore">Пошук</string>
   <string name="youtube_tab_playlist">Плэйлісты</string>
+  <string name="action_item_podcast">Інфармацыя аб падкасце</string>
+  <string name="action_item_podcast_speed">Хуткасць прайгравання</string>
+  <string name="avatar">Фота профілю</string>
+  <string name="exo_download_paused">Спампоўкі прыпынены</string>
+  <string name="exo_download_paused_for_network">Спампоўкі чакаюць падключэння да сеткі</string>
+  <string name="exo_download_paused_for_wifi">Спампоўкі чакаюць падключэння да Wi-Fi</string>
+  <string name="home_tab_podcast">Падкасты</string>
+  <string name="need_to_close">Паказаць меньш</string>
+  <string name="need_to_show">Паказаць яшчэ</string>
+  <string name="shortcut_get">Прагляд</string>
+  <string name="shortcut_success">Паспяхова створана. Паглядзіце на працоўным стале.</string>
+  <string name="similar_podcasts">Падобныя падкасты</string>
 </resources>

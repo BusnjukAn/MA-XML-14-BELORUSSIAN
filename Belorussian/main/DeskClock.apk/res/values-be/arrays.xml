@@ -689,6 +689,7 @@
         <item>Адключыць</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Да сігналу менш за %d хвіліну</item>
         <item>Да сігналу: %1$s</item>
         <item>Да сігналу: %2$s</item>
         <item>Да сігналу: %1$s %2$s</item>
@@ -698,6 +699,7 @@
         <item>Да сігналу: %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Спрацуе праз менш за %d хвіліну.</item>
         <item>Спрацуе праз %1$s.</item>
         <item>Спрацуе праз %2$s.</item>
         <item>Спрацуе праз %1$s і %2$s.</item>

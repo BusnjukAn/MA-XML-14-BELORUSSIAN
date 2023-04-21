@@ -1622,4 +1622,6 @@
   <string name="historical_wallpaper">Выкарыстоўваліся раней</string>
   <string name="resource_mi_ai_picker">Абярыце рынгтон Mi ШI</string>
   <string name="add_home_icon_success">Паспяхова дададзена</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="resource_search_hot_tag">Папулярныя</string>
 </resources>
