@@ -2458,4 +2458,18 @@
   <string name="tv_picturestyle_tone">Тон</string>
   <string name="vlog_pro_accessible_play_template_sound">Гукі шаблону відэаблога ўключаны</string>
   <string name="vlog_pro_accessible_stop_template_sound">Гукі шаблону відэаблога адключаны</string>
+  <string name="camera_newcta_storage_message_2">Для адлюстравання выяў, відэа і аўдыё</string>
+  <string name="camera_newcta_storage_message_audio">Для доступу і адлюстравання аўдыёфайлаў на гэтай прыладзе</string>
+  <string name="camera_newcta_storage_message_vdieo_image">Для доступу і адлюстравання фота і відэа</string>
+  <string name="cta_perm_storage_aural">Доступ да аўдыёфайлаў</string>
+  <string name="cta_perm_storage_aural_desc">Для доступу і адлюстравання аўдыёфайлаў</string>
+  <string name="cta_perm_storage_visual">Доступ да фота і відэа</string>
+  <string name="cta_perm_storage_visual_desc">Для доступу і адлюстравання фота і відэа</string>
+  <string name="lunch_storage_permission_audio">Доступ да аўдыёфайлаў</string>
+  <string name="lunch_storage_permission_video_image">Доступ да фота і відэа</string>
+  <string name="pref_camera_watermark_standard">Звычайны</string>
+  <string name="pref_watermark_summary">Вадзяныя знакі будуць адлюстроўвацца на фатаграфіях JPEG і HEIF. Серыйная здымка, выявы Ultra HD не падтрымліваюцца.</string>
+  <string name="watermark_choose_one_tip">Да кожнай фатаграфіі можна прымяніць толькі адзін вадзяны знак.</string>
+  <string name="watermark_function_description">Аб вадзяных знаках</string>
+  <string name="watermark_keep_at_least_one">Абярыце хаця б адзін варыянт</string>
 </resources>
