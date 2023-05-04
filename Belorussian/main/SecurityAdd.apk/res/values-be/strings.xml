@@ -295,7 +295,7 @@
   <string name="gtb_dialog_privacy_speed_message">Вы збіраецеся выкарыстоўваць паскаральнік гульняў Xunyou. Гэтая служба будзе збіраць ваш Mi акаўнт для запісу тэрміну вашага сяброўства.</string>
   <string name="gtb_dialog_privacy_speed_title">Паскаральнік гульняў Xunyou</string>
   <string name="guide_desc_1">Бацькі поўнасцю кантралююць дзеянні дзіцяці</string>
-  <string name="guide_desc_2">Выбраныя і эксклюзіўныя дзіцячыя дадаткі.\nБяспека і якасць, дапамога ў развіцці</string>
+  <string name="guide_desc_2">Выбраныя і эксклюзіўныя дзіцячыя праграмы.\nБяспека і якасць, дапамога ў развіцці.</string>
   <string name="guide_desc_3">Поўны ахоп двухмоўных, анімацыйных, дзіцячых песень і іншага кантэнту ранняга навучання</string>
   <string name="guide_desc_4">Абарона ад SMS-плацяжоў, перавышэння трафіку, прапушчаных выклікаў.\nНадзейна і бяспечна.</string>
   <string name="guide_title_1">Абарона зроку, кіраванне часам</string>
@@ -665,6 +665,7 @@
   <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
   <string name="gamebooster_dialog_recover">Падоўжыць</string>
   <string name="gamebooster_dialog_start_booster">Пачаць</string>
+  <string name="camera_permission_desc">Выкарыстоўваецца для вызначэння адлегласці да экрана і абароны зроку</string>
   <string name="network_error">Адбылася памылка сеткі.</string>
   <string name="page_load_failed">Не ўдаецца адкрыць старонку</string>
   <string name="pc_entered_extreme_mode">Рэжым гібернацыі уключаны</string>
@@ -679,4 +680,5 @@
   <string name="pc_going_to_exit_extreme_mode">Выхад з рэжыму гібернацыі</string>
   <string name="pc_going_to_exit_extreme_mode_summary">Ваша прылада зараджаецца. Рэжым гібернацыі выключаны.</string>
   <string name="retry_action">Паспрабуйце зноў</string>
+  <string name="pc_entered_extreme_mode_summary2">Батарэя вашай прылады амаль разраджана. У рэжыме гібернацыі вы не будзеце атрымліваць апавяшчэнні ад праграм, якія працуюць у фонавым рэжыме.</string>
 </resources>

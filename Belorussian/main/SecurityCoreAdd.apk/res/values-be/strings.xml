@@ -441,16 +441,16 @@
   <string name="xspace_default_setting_label">Праграма па змаўчанні</string>
   <string name="xspace_description">Клоны праграм - гэта копіі праграм, які могуць выкарыстоўвацца асобна з іншымі акаўнтамі.\n\nНекаторыя праграмы-клоны патрабуюць падтрымкі Google Services Framework. У такіх выпадках ствараюцца клоны Google Services Framework.</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Кланаваныя праграмы дазваляюць выкарыстоўваць два акаўнта адначасова</string>
-  <string name="xspace_guide_title">Паспрабуйце кланаваныя праграмы</string>
-  <string name="xspace_header">Кланаванне праграм</string>
+  <string name="xspace_guide_des">Кланаванне праграм дазваляе выкарыстоўваць два акаўнта адначасова без пераключэння паміж імі</string>
+  <string name="xspace_guide_title">Паспрабуйце кланаванне праграм</string>
+  <string name="xspace_header">Кланаваныя праграмы</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_install_completed">Цэтлік дададзены на працоўны стол</string>
   <string name="xspace_install_completed_global">Цэтлік дададзены ў меню</string>
   <string name="xspace_install_failed">Не атрымалася стварыць</string>
   <string name="xspace_installing">Усталёўка…</string>
   <string name="xspace_introduce">Рэкамендавана</string>
-  <string name="xspace_label">Кланаванне праграм</string>
+  <string name="xspace_label">Кланаваныя праграмы</string>
   <string name="xspace_loading_msg">Спампоўка праграм…</string>
   <string name="xspace_remove">Выдаліць акаўнты-клоны праграм</string>
   <string name="xspace_setting_label">Налады кланавання</string>
@@ -518,7 +518,7 @@
   <string name="xspace_guide_description">"Кожны акаўнт
 заслугоўвае ўласнай праграмы"</string>
   <string name="xspace_install_complete">&lt;font>Створана паспяхова. &lt;/font>&lt;font color=#0D84FF>Адкрыць&lt;/font>.</string>
-  <string name="xspace_notification_button">Паспрабаваць</string>
+  <string name="xspace_notification_button">Пачаць</string>
   <string name="xspace_start">Стварыць</string>
   <string name="actionbar_button_up_description">Назад</string>
   <string name="afternoon">Поўдзень</string>
@@ -696,4 +696,5 @@
   <string name="xspace_resolver_activity_title">Абярыце праграму</string>
   <string name="second_space_setting_search_label">Прыватнасць/Абарона прыватнасці/Функцыі абароны прыватнасці</string>
   <string name="can_not_switch_when_green_kid_active_new">Немагчыма пераключыцца на другую прастору, калі ўключана функцыя \"Сямейны абаронца\"</string>
+  <string name="can_not_switch_when_extreme_endurance_battery_active">Немагчыма выкарыстоўваць другую прастору з-за нізкага зараду батарэі</string>
 </resources>

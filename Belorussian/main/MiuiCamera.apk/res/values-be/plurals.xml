@@ -210,4 +210,10 @@
         <item quantity="few">Вы можаце падлучыць да %d манітораў да адной сеткі</item>
         <item quantity="many">Вы можаце падлучыць да %d манітораў да адной сеткі</item>
     </plurals>
+     <plurals name="number_unit_seconds_split">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+        <item quantity="many">%d сек.</item>
+    </plurals>
 </resources>
