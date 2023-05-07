@@ -1852,4 +1852,11 @@
   <string name="body_forward_email_text">[Пераслаць]</string>
   <string name="body_inline_pic_text">[Выява]</string>
   <string name="message_forward_has_signature_pdf">Вы перасылаеце падпісаныя PDF-файлы?</string>
+  <string name="cancel_edit">Адмяніць рэдагаванне</string>
+  <string name="drop_sign_operation">Адмяніць змены?</string>
+  <string name="other_pdf_open">Іншыя спосабы адкрыцця</string>
+  <string name="pdf_save_local">Захаваць лакальна</string>
+  <string name="pdf_viewer_reply_all">Адказаць усім гэтым файлам</string>
+  <string name="please_save_sign_first">Захаваць подпіс</string>
+  <string name="save_sign_pdf">Захаваць лакальна</string>
 </resources>
