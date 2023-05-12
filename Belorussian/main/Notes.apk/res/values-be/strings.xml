@@ -1066,4 +1066,5 @@
   <string name="insert_image_size_limit_tip">Памер гэтай выявы больш за %d Мб. Яна была аўтаматычна сціснута.</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="warn_enter_browse_mode_forbid_create">Нельга ствараць або рэдагаваць нататкі ў рэжыме \"Толькі чытанне\"</string>
+  <string name="unsupported_format_remind_desc">Гэтая нататка змяшчае фарматаванне, якое не падтрымліваецца гэтай прыладай. Яе рэдагаванне можа прывесці да памылак фарматавання. Усё роўна адкрыць гэтую нататку?</string>
 </resources>

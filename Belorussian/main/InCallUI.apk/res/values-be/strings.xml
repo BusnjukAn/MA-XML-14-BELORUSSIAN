@@ -545,8 +545,9 @@
   <string name="screen_share_connecting">Падключэнне…</string>
   <string name="screen_share_message">Дазволіць іншаму чалавеку праглядаць ваш экран у рэжыме рэальнага часу?</string>
   <string name="screen_share_refuse">Адмена</string>
-  <string name="high_temperature_toast">У рэжыме абароны ад перагрэву функцыя часова недаступная</string>
+  <string name="high_temperature_toast">Ваша прылада перагрэлася. Цяпер нельга выкарыстоўваць гэтую функцыю.</string>
   <string name="menu_new_display_open">Адкрыць у новым акне</string>
   <string name="menu_pc_open">Адкрыць на кампутары</string>
   <string name="onscreen_audio_mode_mirror">Планшэт</string>
+  <string name="cloud_video_conference">Воблачная відэаканферэнцыя</string>
 </resources>
