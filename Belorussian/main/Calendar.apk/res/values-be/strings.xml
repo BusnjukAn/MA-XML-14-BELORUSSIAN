@@ -1224,4 +1224,12 @@
   <string name="suggestions_and_feedback">Зваротная сувязь</string>
   <string name="permission_denial">Надайце дазволы на выкарыстанне гэтай функцыі</string>
   <string name="premission_description_notice">Для адпраўкі апавяшчэнняў аб падзеях і святах</string>
+  <string name="agenda_not_today_empty_hint">Тут пакуль няма падзей. Націсніце, каб стварыць.</string>
+  <string name="event_reminder_custom">Уласны</string>
+  <string name="notification_open_setting_button_exit">Не, дзякуй</string>
+  <string name="notification_open_setting_button_ok">Дазволіць</string>
+  <string name="notification_open_setting_message">Вы не зможаце атрымліваць апавяшчэннi аб падзеях, пакуль не дазволіце Календару адпраўляць іх вам.</string>
+  <string name="notification_open_setting_title">Дазволіць апавяшчэння Календара?</string>
+  <string name="repeat_alarm_close_title">Гэта мерапрыемства, якое будзе паўтарацца. Адключыць гукавы сігнал?</string>
+  <string name="repeat_alarm_open_title">Гэта мерапрыемства, якое будзе паўтарацца. Усталяваць гукавы сігнал?</string>
 </resources>

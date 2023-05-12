@@ -459,9 +459,17 @@
         <item>П</item>
         <item>С</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup_new">
+   <string-array name="prefEntries_alerts_popup_new">
     <item>Выключана</item>
     <item>Для ўсіх падзей</item>
     <item>Для падзей, адчувальных да часу</item>
+  </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Толькі ў гэты раз</item>
+    <item>Адключыць паўтор напамінку</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Толькі ў гэты раз</item>
+    <item>Усталяваць паўтор напамінку</item>
   </string-array>
 </resources>
