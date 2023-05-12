@@ -2553,4 +2553,18 @@
   <string name="widget_camera_lens_none_description">50 мм аб\'ектыў для партрэтаў</string>
   <string name="widget_camera_lens_talk_back">Сістэма Master-lens</string>
   <string name="yesterday">Учора</string>
+  <string name="bluetooth_fromkeyguard_not_permission">Дазвольце гэтай праграме доступ да статусу падлучэння навушнікаў Bluetooth, каб мець магчымасць выкарыстоўваць гэтую функцыю ў звычайным рэжыме.</string>
+  <string name="bluetooth_headset_permission_des">Для вызначэння стану падлучэння навушнікаў Bluetooth і запісу гуку з дапамогай мікрафона навушнікаў</string>
+  <string name="bluetooth_permission_not_ask_again">Дазвольце гэтай праграме падлучацца да бліжэйшых прылад у наладах, каб мець магчымасць падлучацца да навушнікаў Bluetooth.</string>
+  <string name="config_name_front_flash">Запаўняльнае святло</string>
+  <string name="custom_shutter_sound_select">Карыстацкі гук засаўкі</string>
+  <string name="manual_picture_style_desc_custom">Індывідуальны стыль фатаграфіі</string>
+  <string name="pref_camera_pad_suspend_shutter_button_summary">Перацягнеце кнопку спуску засаўкі налева, каб дадаць дадатковую плаваючую засаўку, якую можна размясціць у любым месцы экрана</string>
+  <string name="pref_camera_watermark_film">Кадр плёнкі</string>
+  <string name="tv_picturestyle_custom_color">Танальнасць</string>
+  <string name="tv_picturestyle_custom_color_temperature">Халодны/Цёплы</string>
+  <string name="tv_picturestyle_custom_color_tune">Блакітны/Пурпурны</string>
+  <string name="tv_picturestyle_custom_texture">Тэкстура</string>
+  <string name="tv_picturestyle_custom_tone">Тон</string>
+  <string name="watermark_choose_one_tip_film">Да кожнай фатаграфіі можна прымяніць толькі адзін вадзяны знак.</string>
 </resources>
