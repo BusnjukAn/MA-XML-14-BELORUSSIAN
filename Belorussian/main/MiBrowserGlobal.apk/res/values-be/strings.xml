@@ -150,9 +150,9 @@
   <string name="app_name_screenshot">Скрыншоты</string>
   <string name="app_new_version">Апошняя версія праграмы ўжо ўсталявана</string>
   <string name="app_uninstall_description_content">«Браўзэр» — гэта сістэмная праграма. Пасля яе выдалення вы не зможаце скарыстацца пошукам у інтэрнэце, а таксама службамі прагляду вэб-старонак.</string>
-  <string name="app_uninstall_description_title">Выдаліць Браўзер?</string>
+  <string name="app_uninstall_description_title">Выдаліць Браўзэр?</string>
   <string name="app_update_install">Абнаўленне гатова да ўсталёўкі.</string>
-  <string name="application_name">Браўзер</string>
+  <string name="application_name">Браўзэр</string>
   <string name="aqi_quality_index_break">Асабліва небяспечны</string>
   <string name="aqi_quality_index_dangerous">Небяспечны</string>
   <string name="aqi_quality_index_good">Добры</string>
@@ -207,7 +207,7 @@
   <string name="bookmarks_content_is_null">Няма закладак</string>
   <string name="bookmarks_management">Закладкі</string>
   <string name="bookmarks_root_folder">Каранёвая тэчка</string>
-  <string name="bookmarks_search">Браўзер</string>
+  <string name="bookmarks_search">Браўзэр</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Свайп уніз для закрыцця</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Гэта апошняя ўкладка</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Свайп уверх для закрыцця</string>
@@ -278,7 +278,7 @@
   <string name="close">Закрыць</string>
   <string name="close_ads_choice_no">Дазволіць</string>
   <string name="close_ads_choice_yes">Заблакаваць</string>
-  <string name="close_ads_message">Блакаваць змесціва сайта? Прагледзець заблакаваныя сайты можна ў наладах браўзера.</string>
+  <string name="close_ads_message">Блакаваць змесціва сайта? Прагледзець заблакаваныя сайты можна ў наладах браўзэра.</string>
   <string name="close_ads_title">Блакаваць змесціва?</string>
   <string name="close_all_tab_alert_message">Зачыніць усе адчыненыя ўкладкі?</string>
   <string name="close_all_tab_alert_title">Зачыніць усе ўкладкі</string>
@@ -375,7 +375,7 @@
   <string name="contextmenu_manually_block_ad">Пазначыць як рэкламу</string>
   <string name="contextmenu_map">Карта</string>
   <string name="contextmenu_openlink">Адчыніць</string>
-  <string name="contextmenu_openlink_in_browser">Адкрыць у браўзеры</string>
+  <string name="contextmenu_openlink_in_browser">Адкрыць у браўзэры</string>
   <string name="contextmenu_openlink_newwindow">Адчыніць у новай укладцы</string>
   <string name="contextmenu_openlink_newwindow_background">Адчыніць у фонавай укладцы</string>
   <string name="contextmenu_recognise_qr_code">Сканаваць QR-код</string>
@@ -579,7 +579,7 @@
   <string name="evening">Поўдзень</string>
   <string name="exceed_binded_phone_times_notice">Гэты нумар тэлефона ўжо звязаны з іншым Mi Акаўнтам.</string>
   <string name="exit">Выхад</string>
-  <string name="exit_browser_warning">Выйсці з браўзера?</string>
+  <string name="exit_browser_warning">Выйсці з браўзэра?</string>
   <string name="exit_clear_dialog_always">Запомніць выбар</string>
   <string name="exit_clear_dialog_btn_cancel">Выхад</string>
   <string name="exit_clear_dialog_btn_ok">Ачысціць і выйсці</string>
@@ -779,7 +779,7 @@
   <string name="ignore_add_game_center_dialog_this_week">Не паказваць гэты тыдзень</string>
   <string name="ignore_add_pwa_dialog_today">Не паказваць сёння</string>
   <string name="improve_mi_browser_pe">Дапамажыце нам палепшыць Mi Браўзэр</string>
-  <string name="in_secureaccess">Браўзер пераключыўся ў бяспечны рэжым</string>
+  <string name="in_secureaccess">Браўзэр пераключыўся ў бяспечны рэжым</string>
   <string name="incognito_message">Вашы дзеянні будуць канфідэнцыйнымі, і іншыя карыстальнікі не ўбачаць вашу актыўнасць. Аднак загрузкі і закладкі ўсё ж такі будуць захоўвацца.</string>
   <string name="incognito_off">Рэжым інкогніта адключаны.</string>
   <string name="incognito_on">Цяпер вы інкогніта!</string>
@@ -795,9 +795,9 @@
   <string name="interest_card_button">Далей</string>
   <string name="interest_card_title">Выберыце свае інтарэсы</string>
   <string name="into_info_flow_guide">Паказаць больш артыкулаў</string>
-  <string name="is_first_history_item">Гэта першы запіс у гісторыі браўзера</string>
+  <string name="is_first_history_item">Гэта першы запіс у гісторыі браўзэра</string>
   <string name="is_first_tab">Гэта першая ўкладка</string>
-  <string name="is_last_history_item">Гэта апошні запіс у гісторыі браўзера</string>
+  <string name="is_last_history_item">Гэта апошні запіс у гісторыі браўзэра</string>
   <string name="is_last_tab">Гэта апошняя ўкладка</string>
   <string name="is_page_bottom">Вы дасягнулі канец старонкі</string>
   <string name="is_page_top">Вы дасягнулі пачатку старонкі</string>
@@ -835,7 +835,7 @@
   <string name="login_or_register">або</string>
   <string name="logout_account">Выйсці</string>
   <string name="long_press_edit">Утрымлівайце для змены</string>
-  <string name="low_memory_toast">Немагчыма выкарыстоўваць браўзер з-за недахопу памяці</string>
+  <string name="low_memory_toast">Немагчыма выкарыстоўваць браўзэр з-за недахопу памяці</string>
   <string name="make_private">Схаваць</string>
   <string name="make_private_msg_1">Схаваць гэты файл?</string>
   <string name="make_private_msg_2">Схаваць гэтыя файлы?</string>
@@ -1100,7 +1100,7 @@
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Перазагрузіце пасля падключэння да інтэрнэту</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Звярніцеся да свайго сістэмнага адміністратара.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">Праверце ўведзены адрас і паспрабуйце зноў з правільным URL.</string>
-  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Дазвольце браўзеру доступ да інтэрнэту і абнавіце старонку.</string>
+  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Дазвольце браўзэру доступ да інтэрнэту і абнавіце старонку.</string>
   <string name="mw_miuichromium_error_page_suggestion_title">Паспрабуйце гэта:</string>
   <string name="mw_miuichromium_error_page_title">Адбылася памылка</string>
   <string name="mw_miuichromium_error_page_unknown_error">Адбылася памылка</string>
@@ -1207,7 +1207,7 @@
   <string name="no_space_alert_title">Спампоўка прыпынена</string>
   <string name="no_space_clean_failed">Не атрымалася ачысціць памяць на прыладзе</string>
   <string name="noon">Сярэдзіна дня</string>
-  <string name="not_allowed_open">Нельга выкарыстоўваць браўзер пры першапачатковай наладзе</string>
+  <string name="not_allowed_open">Нельга выкарыстоўваць браўзэр пры першапачатковай наладзе</string>
   <string name="not_remind_again">Запомніць выбар</string>
   <string name="not_set">Не зададзена</string>
   <string name="not_show_again">Больш не паказваць</string>
@@ -1219,7 +1219,7 @@
   <string name="noti_web_allow">Дазволена</string>
   <string name="noti_web_push">Апавяшчэнні сайта</string>
   <string name="notif_install_successful">Спампоўка завершана</string>
-  <string name="notification_category_browser">Браўзер</string>
+  <string name="notification_category_browser">Браўзэр</string>
   <string name="notification_category_downloads">Спампоўкі</string>
   <string name="notification_category_facebook">Facebook</string>
   <string name="notification_category_group_general">Агульныя</string>
@@ -1407,7 +1407,7 @@
   <string name="pref_auto_update_under_wifi">Абнаўленне па Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Аўтавыбар сістэмы пошуку</string>
   <string name="pref_check_security_url_summary">Адпраўляць адрасы сайтаў на серверы Mi для праверкі</string>
-  <string name="pref_check_security_url_summary_international">Дазволіць браўзеру доступ да адрасоў сайтаў, якія вы наведвалі, для атрымання больш падыходзячых рэкамендацый.</string>
+  <string name="pref_check_security_url_summary_international">Дазволіць браўзэру доступ да адрасоў сайтаў, якія вы наведвалі, для атрымання больш падыходзячых рэкамендацый.</string>
   <string name="pref_check_security_url_title">Праверыць бяспеку сайтаў</string>
   <string name="pref_check_security_url_title_international">Атрымаць URL-адрас</string>
   <string name="pref_clear_adblock_statistics">Ачысціць гісторыю блакавання рэкламы</string>
@@ -1417,7 +1417,7 @@
   <string name="pref_clear_all_data_title">Выдаліць усё</string>
   <string name="pref_clear_data_title">Выдаліць дадзеныя</string>
   <string name="pref_clear_history_when_exit">Ачысціць гісторыю пры выхадзе</string>
-  <string name="pref_confirm_for_exit">Падцвержанне выхаду з браўзера</string>
+  <string name="pref_confirm_for_exit">Падцвержанне выхаду з браўзэра</string>
   <string name="pref_content_auto_light_mode">Аўтападсвятленне</string>
   <string name="pref_content_block_popups">Блакаваць усплываючыя вокны</string>
   <string name="pref_content_cloud_speedup">Ладаваць змесціва хутчэй з дапамогай проксі</string>
@@ -1427,7 +1427,7 @@
   <string name="pref_content_night_read_mode">Начны рэжым</string>
   <string name="pref_content_search_engine">Сістэма пошуку ў адрасным радку</string>
   <string name="pref_content_search_engine_summary">Выберыце сістэму пошуку</string>
-  <string name="pref_default_browser_str">Браўзер па змаўчанні</string>
+  <string name="pref_default_browser_str">Браўзэр па змаўчанні</string>
   <string name="pref_desc_dns_prefetch">Дазволіць браўзэру папярэдне загружаць аб\'екты (напрыклад файлы ці спасылкі) да фактычнага звароту да іх</string>
   <string name="pref_develop_mode">Рэжым распрацоўніка</string>
   <string name="pref_enable_adblock_notification">Апавяшчэнні блакавання рэкламы</string>
@@ -1480,7 +1480,7 @@
   <string name="pref_privacy_clear_site_settings_summary">Выдаліць усе налады сайтаў. Сайты будуць запытваць дазволы падчас наступнага наведваньня.</string>
   <string name="pref_privacy_cookies_title">Файлы Cookies</string>
   <string name="pref_privacy_enable_geolocation">Месцазнаходжанне</string>
-  <string name="pref_privacy_enable_geolocation_summary">Дазволіць браўзеру запытваць доступ да месцазнаходжання</string>
+  <string name="pref_privacy_enable_geolocation_summary">Дазволіць браўзэру запытваць доступ да месцазнаходжання</string>
   <string name="pref_privacy_formdata_title">Дадзеныя форм</string>
   <string name="pref_privacy_location_title">Доступ да месцазнаходжання</string>
   <string name="pref_privacy_performance_id_instead_by_random_id">Мы заменім бягучы ідэнтыфікатар прадукцыйнасці выпадковым новым.</string>
@@ -1577,7 +1577,7 @@
   <string name="privacy_improve_performance">Праграма паляпшэння якасці</string>
   <string name="privacy_improve_performance_desc">Дазволіць Xiaomi збіраць і аналізаваць карыстацкія дадзеныя для паляпшэння нашых прадуктаў і паслуг</string>
   <string name="privacy_message">Перад выкарыстаннем Браўзэра вы павінны прыняць нашыя &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Карыстальніцкае пагадненне&lt;/a>&lt;/font> і &lt;font color="#4086f5">&lt;a href=\"%2$s\" style="color:#4086f5;">Палітыку прыватнасці&lt;/a>&lt;/font>.</string>
-  <string name="privacy_message_main_tips_first">Mi Браўзеру трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Палітыцы прыватнасці&lt;/a>&lt;/font>. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці Mi Браўзера ў «Наладах > Прыватнасць і бяспека». Прачытайце нашы &lt;font color="#4086f5">&lt;a href=\"%2$s\" style="color:#4086f5;">Карыстальніцкае пагадненне&lt;/a>&lt;/font> і &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Палітыку прыватнасці&lt;/a>&lt;/font> перад выкарыстаннем Mi Браўзера.</string>
+  <string name="privacy_message_main_tips_first">Mi Браўзэру трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Палітыцы прыватнасці&lt;/a>&lt;/font>. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці Mi Браўзэра ў «Наладах > Прыватнасць і бяспека». Прачытайце нашы &lt;font color="#4086f5">&lt;a href=\"%2$s\" style="color:#4086f5;">Карыстальніцкае пагадненне&lt;/a>&lt;/font> і &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Палітыку прыватнасці&lt;/a>&lt;/font> перад выкарыстаннем Mi Браўзэра.</string>
   <string name="privacy_message_main_tips_second">Каб шукаць праграмы на гэтай прыладзе і ведаць, якія праграмы ўстаноўлены, Mi Браўзэру неабходна атрымаць доступ да інфармацыі аб усталяванні праграм, якая не будзе захавана лакальна або загружана ў сістэму ў любой форме.</string>
   <string name="privacy_message_welcome">Сардэчна запрашаем у Mi Браўзэр! Гэтая праграма прадастаўляе наступныя паслугі:</string>
   <string name="privacy_message_welcome_tip_first">- Хуткі і бяспечны прагляд вэб-старонак</string>
@@ -1636,7 +1636,7 @@
   <string name="refuse_permissions_request">Абмежаваць</string>
   <string name="regid">RegId (Націсніце, каб экспартаваць)</string>
   <string name="release_to_refresh">Адпусціце для абнаўлення</string>
-  <string name="remember_passwords_confirm_message">Адключэнне гэтай функцыі можа паўплываць на працу браўзера.</string>
+  <string name="remember_passwords_confirm_message">Адключэнне гэтай функцыі можа паўплываць на працу браўзэра.</string>
   <string name="remove_bookmark">Выдаліць закладку</string>
   <string name="remove_bookmark_group">Выдаліць групу</string>
   <string name="remove_from_bookmarks">Выдалена з закладак</string>
@@ -1699,7 +1699,7 @@
   <string name="save_file">Захаваць %s</string>
   <string name="save_file_already_exist_alert_message">Файл з такім імем ўжо існуе. Замяніць яго?</string>
   <string name="save_file_already_exist_alert_title">Замяніць файл?</string>
-  <string name="save_form_data_confirm_message">Адключэнне гэтай функцыі можа паўплываць на працу браўзера.</string>
+  <string name="save_form_data_confirm_message">Адключэнне гэтай функцыі можа паўплываць на працу браўзэра.</string>
   <string name="save_image_failed">Не атрымалася захаваць малюнак</string>
   <string name="save_image_success">Малюнак захаваны</string>
   <string name="save_page_capture_tip">Адчыніце панэль апавяшчэнняў для прагляду скрыншота.</string>
@@ -1990,7 +1990,7 @@
   <string name="upload_usage_statistics">Уключыце, каб перадаваць нам статыстыку выкарыстання пры ўключаным рэжыме інкогніта</string>
   <string name="uploads_disabled">Запампаванне файлаў абмежавана</string>
   <string name="url_copy_done">URL скапіяваны</string>
-  <string name="url_find_on_page_result">Прагледзець у браўзеры</string>
+  <string name="url_find_on_page_result">Прагледзець у браўзэры</string>
   <string name="url_find_on_page_result_item">Паказаць тэкст %s</string>
   <string name="url_hint">Выканайце пошук або набярыце вэб-адрас</string>
   <string name="url_hint_from_search">Увядзіце ключавыя словы</string>
@@ -2053,7 +2053,7 @@
   <string name="voice_description">Галасавы пошук</string>
   <string name="voice_network_connection">Для звычайнай працы галасавога пошуку неабходна падлучыцца да інтэрнэту.</string>
   <string name="voice_search_permission">Для звычайнай працы галасавога пошуку неабходны доступ да мікрафона.</string>
-  <string name="voice_semantic_analysis">Пасля падключэння да сеткі браўзер зможа аналізаваць семантыку.</string>
+  <string name="voice_semantic_analysis">Пасля падключэння да сеткі браўзэр зможа аналізаваць семантыку.</string>
   <string name="voice_sub_title">Не ведаеце, што казаць? Паспрабуйце \"Адчыні mi.com!\"</string>
   <string name="voice_title">Скажыце каманду…</string>
   <string name="voice_title_distinguish">Апрацоўка…</string>
@@ -2158,11 +2158,11 @@
   <string name="branch_app_suggestion">Рэкамендаванае</string>
   <string name="branch_apps">Праграмы</string>
   <string name="branch_contacts">Кантакты</string>
-  <string name="branch_give_relevant_permissions">Падайце Mi Браўзер адпаведныя дазволы ў Наладах</string>
+  <string name="branch_give_relevant_permissions">Падайце Mi Браўзэр адпаведныя дазволы ў Наладах</string>
   <string name="branch_grant_permission">Патрабуюцца дазволы</string>
   <string name="branch_local_search_settings">Налады лакальнага пошуку</string>
   <string name="branch_search_guide_privacy">Гэтая функцыя прадастаўляецца кампаніяй Branch Metrics Inc. Інфармацыя аб вашым месцазнаходжанні, пошукавыя запыты і ідэнтыфікатар Google Ads будуць перадавацца гэтай кампаніі. Перад тым як працягнуць, прачытайце і прыміце яе &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Правілы і ўмовы&lt;/a&gt;&lt;/font&gt; і &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Палітыку прыватнасці&lt;/a&gt;&lt;/font&gt;.</string>
-  <string name="branch_search_in_browser">Пошук «%1$s» у Браўзеры</string>
+  <string name="branch_search_in_browser">Пошук «%1$s» у Браўзэры</string>
   <string name="branch_setting">Налады</string>
   <string name="branch_short_message">Паведамленні</string>
   <string name="branch_shortcuts">Цэтлiкі</string>
@@ -2186,7 +2186,7 @@
   <string name="default_likes">Падабайк</string>
   <string name="default_share">Падзяліцца</string>
   <string name="default_title">Немагчыма загрузіць субтытры. Абновіце старонку і паспрабуйце ізноў.</string>
-  <string name="doc_viewer_label">Чытанне (Mi Браўзер)</string>
+  <string name="doc_viewer_label">Чытанне (Mi Браўзэр)</string>
   <string name="doc_viewer_open_out_file_prompt">Каб адкрыць і прагледзець файл, атрыманы з вонкавай крыніцы, праграме патрабуецца стварыць копію файла. Працягнуць?</string>
   <string name="download_exist">Гэты файл ужо знаходзіцца ў вашай чарзе спампоўкі</string>
   <string name="download_intrercept_hint">У гэтым усплывальным акне будзе прапанавана спампоўка праграмы.</string>
@@ -2221,7 +2221,7 @@
   <string name="go_to_tab">Укладкі</string>
   <string name="goto_browser">Перайсці</string>
   <string name="goto_setting">Налады</string>
-  <string name="history_incognito_hint_msg">Гісторыя вашага браўзера не будзе захоўвацца, калі вы ў рэжыме інкогніта</string>
+  <string name="history_incognito_hint_msg">Гісторыя вашага браўзэра не будзе захоўвацца, калі вы ў рэжыме інкогніта</string>
   <string name="home_expand_item_title_collect">Абранае</string>
   <string name="home_expand_item_title_common_site">Папулярнае</string>
   <string name="intercept_panel_ads_img_category_text">Заблакаваная рэклама</string>
@@ -2258,7 +2258,7 @@
   <string name="media_error_video_not_exist">Відэа не існуе</string>
   <string name="memory_clear_nothing_result">Ачыстка памяці не патрабуецца</string>
   <string name="memory_clear_result">Ачышчана %1$s</string>
-  <string name="mi_browser_clean_up_garbage">Mi Браўзер выдаляе смецце…</string>
+  <string name="mi_browser_clean_up_garbage">Mi Браўзэр выдаляе смецце…</string>
   <string name="midi_permission_name">Кіраванне MIDI-прыладамі</string>
   <string name="mint_news_feed">Навіны</string>
   <string name="mint_news_feed_a">Mi Навіны</string>
@@ -2275,7 +2275,7 @@
   <string name="one_prefect_author">Стваральнік</string>
   <string name="open_google_gaid">Каб выкарыстоўваць гэтую функцыю, пераканайцеся, што вы не адключылі персаналізацыю рэкламы ў меню \"Налады\" &gt; \"Google\" &gt; \"Рэклама\".</string>
   <string name="open_personalized_services">Уключыце персаналізаваныя паслугі, каб выкарыстоўваць гэтую функцыю.</string>
-  <string name="permission_alert_window">Дазвольце Браўзеру адлюстроўваць плаваючыя вокны, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="permission_alert_window">Дазвольце Браўзэру адлюстроўваць плаваючыя вокны, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="permission_allow">Дазволіць</string>
   <string name="permission_deeplink_tip_title">Дазволіць гэтай старонцы адкрыць %s?</string>
   <string name="permission_download_tip_title">Дазволіць гэтай старонцы спампоўваць файлы?</string>
@@ -2309,7 +2309,7 @@
   <string name="search_for_anything">Шукайце што заўгодна</string>
   <string name="search_settings">Налады пошуку</string>
   <string name="search_using_traceless_mode">Рэжым інкогніта</string>
-  <string name="search_with_browser">Пошук у Mi Браўзеры</string>
+  <string name="search_with_browser">Пошук у Mi Браўзэры</string>
   <string name="sensitive_permissions_prompt_allow">Дазволіць адзін раз</string>
   <string name="sensitive_permissions_prompt_close">Спыніць</string>
   <string name="sensitive_permissions_prompt_close_konw">Зразумела</string>
@@ -2468,7 +2468,7 @@
   <string name="interest_advise_subtitle">Мы пакажам вам навіны па тэмах, якія вас цікавяць</string>
   <string name="interest_advise_title">Які кантэнт вас цікавіць?</string>
   <string name="memory_usage">Памяць</string>
-  <string name="mi_browser_is_scanning">Mi Браўзер скануе</string>
+  <string name="mi_browser_is_scanning">Mi Браўзэр скануе</string>
   <string name="person_menu_cleaner">Ачыстка</string>
   <string name="person_menu_cleaner_button">Ачысціць</string>
   <string name="person_menu_download">Файлы</string>
@@ -2512,7 +2512,7 @@
   <string name="error_out_of_memeory">Недастаткова памяці для адкрыцця бягучага дакумента</string>
   <string name="files_stored_in_the_phone">Файлы, якія захоўваюцца на гэтай прыладзе</string>
   <string name="local_file">Лакальныя файлы</string>
-  <string name="more_convenient_features_and_content">Паглядзіце, якія новыя інструменты і кантэнт можа прапанаваць Браўзер!</string>
+  <string name="more_convenient_features_and_content">Паглядзіце, якія новыя інструменты і кантэнт можа прапанаваць Браўзэр!</string>
   <string name="no_other_app">У сістэме няма іншых праграм для прагляду</string>
   <string name="plguin_more_open_dialog_title">Выкарыстоўваць іншы спосаб адкрыцця</string>
   <string name="quick_access_to_common_functions">Хуткі доступ да вашых пажаданых функцый</string>
@@ -2522,7 +2522,7 @@
   <string name="share_dialog_title">Падзяліцца</string>
   <string name="trash_cleaner_unit">Мб</string>
   <string name="web_video_float_drag_msg">Пацягніце, каб змяніць памер</string>
-  <string name="local_video_player_label">Відэаплэер (Mi Браўзер)</string>
+  <string name="local_video_player_label">Відэаплэер (Mi Браўзэр)</string>
   <string name="search_card_online_rec_app">Крамы праграм</string>
   <string name="search_card_online_rec_app_install">Усталяваць</string>
   <string name="search_card_online_rec_app_open">Адкрыць</string>
@@ -2571,7 +2571,7 @@
   <string name="exo_download_paused_for_network">Спампоўкі чакаюць падлучэння да сеткі</string>
   <string name="exo_download_paused_for_wifi">Спампоўкі чакаюць падлучэння да Wi-Fi</string>
   <string name="fallback_menu_item_copy_link">Скапіяваць спасылку</string>
-  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
   <string name="fallback_menu_item_share_link">Абагуліць спасылку</string>
   <string name="trash_cleaner_unit_b">Б</string>
   <string name="trash_cleaner_unit_gb">Гб</string>
@@ -2601,19 +2601,19 @@
   <string name="slide_card">Правядзіце, каб паглядзець яшчэ</string>
   <string name="top_news">Галоўныя гісторыі</string>
   <string name="video_guess_you_like">Вам можа спадабацца</string>
-  <string name="decompress">Распакаваць</string>
-  <string name="decompress_fail">Немагчыма распакаваць</string>
-  <string name="decompress_success">Паспяхова распакавана</string>
-  <string name="decompress_view">Праглядзець</string>
-  <string name="decompress_viewer_label">Менеджэр архіваў (Mi Браўзэр)</string>
-  <string name="decompressed_files">Распакаваныя файлы</string>
+  <string name="decompress">Выняць</string>
+  <string name="decompress_fail">Не атрымалася выняць</string>
+  <string name="decompress_success">Паспяхова вынятыя</string>
+  <string name="decompress_view">Прагледзець</string>
+  <string name="decompress_viewer_label">Мэнэджар архіваў (Mi Браўзэр)</string>
+  <string name="decompressed_files">Вынятыя файлы</string>
   <string name="error_icon_content_description">Памылка</string>
-  <string name="exposed_dropdown_menu_content_description">Паказаць выпадальнае меню</string>
-  <string name="homepage_tab_tips_chatgpt">Праверце наш новы пошук ШI</string>
-  <string name="icon_content_description">Значок дыялогу</string>
+  <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
+  <string name="homepage_tab_tips_chatgpt">Пазнаёмцеся з нашым новым пошукам ШI</string>
+  <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="item_view_role_description">Укладка</string>
-  <string name="jump_web_learn_more">Адкрыць арыгінальную вэб-старонку</string>
-  <string name="open_by_other_app">Адкрыць з дапамогай іншай праграмы</string>
+  <string name="jump_web_learn_more">Адкрыць зыходную вэб-старонку</string>
+  <string name="open_by_other_app">Адкрыць у іншай праграме</string>
   <string name="web_permission_protect_acceptable_ad">Прымальная рэклама</string>
-  <string name="web_permission_protect_acceptable_ad_summary">Прымальныя аб\'явы павінны адпавядаць строгім правілам простай, неназойлівай рэкламы. Каб заблакіраваць усю рэкламу, адключыце гэту функцыю.</string>
+  <string name="web_permission_protect_acceptable_ad_summary">Прымальная рэклама павінна адпавядаць строгім правілам для простай і ненадакучлівай рэкламы. Адключыце гэтую функцыю, каб заблакаваць усю рэкламу.</string>
 </resources>
