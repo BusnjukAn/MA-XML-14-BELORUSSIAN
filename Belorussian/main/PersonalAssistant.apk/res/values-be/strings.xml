@@ -991,4 +991,6 @@
   <string name="pa_device_info_inch">Цалі</string>
   <string name="pa_image_pick">Абярыце фота</string>
   <string name="pa_lite_setting_service_covid">Штодзённыя інструменты</string>
+  <string name="pa_express_widget_logout_description">Увайдзіце, каб праверыць статус экспрэс-дастаўкі, націсніце двойчы, каб актываваць.</string>
+  <string name="pa_shortcut_desc_more_title">Яшчэ</string>
 </resources>

@@ -2601,4 +2601,19 @@
   <string name="slide_card">Правядзіце, каб паглядзець яшчэ</string>
   <string name="top_news">Галоўныя гісторыі</string>
   <string name="video_guess_you_like">Вам можа спадабацца</string>
+  <string name="decompress">Распакаваць</string>
+  <string name="decompress_fail">Немагчыма распакаваць</string>
+  <string name="decompress_success">Паспяхова распакавана</string>
+  <string name="decompress_view">Праглядзець</string>
+  <string name="decompress_viewer_label">Менеджэр архіваў (Mi Браўзэр)</string>
+  <string name="decompressed_files">Распакаваныя файлы</string>
+  <string name="error_icon_content_description">Памылка</string>
+  <string name="exposed_dropdown_menu_content_description">Паказаць выпадальнае меню</string>
+  <string name="homepage_tab_tips_chatgpt">Праверце наш новы пошук ШI</string>
+  <string name="icon_content_description">Значок дыялогу</string>
+  <string name="item_view_role_description">Укладка</string>
+  <string name="jump_web_learn_more">Адкрыць арыгінальную вэб-старонку</string>
+  <string name="open_by_other_app">Адкрыць з дапамогай іншай праграмы</string>
+  <string name="web_permission_protect_acceptable_ad">Прымальная рэклама</string>
+  <string name="web_permission_protect_acceptable_ad_summary">Прымальныя аб\'явы павінны адпавядаць строгім правілам простай, неназойлівай рэкламы. Каб заблакіраваць усю рэкламу, адключыце гэту функцыю.</string>
 </resources>

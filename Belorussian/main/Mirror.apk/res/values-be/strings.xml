@@ -62,7 +62,7 @@
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для перадачы файлаў паміж прыладамі</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
-  <string name="default_boss_terminal_name">Mi Наўтбук</string>
+  <string name="default_boss_terminal_name">Кампутар Xiaomi</string>
   <string name="default_error_msg">Невядомая памылка</string>
   <string name="device_max_screen_count_toast">Гэтая прылада падтрымлівае адкрыццё толькі двух вокнаў адначасова</string>
   <string name="display_max_screen_count_toast">Вы можаце адкрыць да 3 вокнаў у гэтай версіі</string>
@@ -176,7 +176,7 @@
   <string name="lock_layout_title">Кампутар заблакаваны</string>
   <string name="log_warning">Змена перамыкачоў часопісаў можа павысіць рызыкі бяспекі і паўплываць на прадукцыйнасць. Выкарыстоўвайце гэтыя перамыкачы толькі тады, калі гэта неабходна.</string>
   <string name="low_battery_notification_action">Уключыць</string>
-  <string name="low_battery_notification_content">На %1$s засталося менш за %2$d%% зарада батарэі. Уключыце энергазберажэнне.</string>
+  <string name="low_battery_notification_content">На %1$s засталося менш за %2$s зарада</string>
   <string name="low_battery_notification_title">Батарэя разраджана</string>
   <string name="low_version_dialog_message">Абнавіце MIUI+ на сваім кампутары або загрузіце апошнюю версію з plus.miui.com.</string>
   <string name="low_version_dialog_title">Абнаўленне MIUI+</string>
@@ -551,5 +551,10 @@
   <string name="switch_wlan_tips_china">Падлучыцца да той жа сеткі</string>
   <string name="switch_wlan_tips_desc_china">Вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада, для большай зручнасці. Падлучыцца?</string>
   <string name="pc_settings_current_device_tip">Аўтаматычнае падлучэнне да кампутара з адкрытым MIUI+ і такім жа Xiaomi акаўнтам</string>
-  <string name="settings_pc_handoff_title">Падключэнне да кампутара</string>
+  <string name="settings_pc_handoff_title">Падлучэнне да кампутара</string>
+  <string name="low_battery_notification_content_default">Зарад батарэі тэлефона ніжэйшы за %1$s</string>
+  <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Немагчыма падлучыцца да кампутара. Пераканайцеся, што Wi-Fi і Bluetooth уключаны на абедзвюх прыладах.</string>
+  <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Немагчыма падлучыцца да кампутара. Пераканайцеся, што Wi-Fi і Bluetooth уключаны на абедзвюх прыладах.</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Немагчыма падлучыцца да кампутара. Пераканайцеся, што вы ўключылі Wi-Fi і Bluetooth на тэлефоне і кампутары і што на вашым кампутары ўсталявана MIUI+.</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Немагчыма падлучыцца да кампутара. Пераканайцеся, што вы ўключылі Wi-Fi і Bluetooth на тэлефоне і кампутары і што на вашым кампутары ўсталявана MIUI+.</string>
 </resources>

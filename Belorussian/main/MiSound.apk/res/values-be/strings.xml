@@ -556,4 +556,5 @@
   <string name="permission_requesr_content">Дазвольце гэтай праграме падлучацца да бліжэйшых прылад у наладах.</string>
   <string name="permission_requesr_title">Патрабуюцца дазволы</string>
   <string name="spatial_audio_summary_spk">Адчуйце эфект пагружэння i адчування прасторы пры прайграванні аўдыё</string>
+  <string name="effect_virtual_surround_summary_spk">Павялічце глыбіню гуку для прайгравання аўдыё і відэа</string>
 </resources>

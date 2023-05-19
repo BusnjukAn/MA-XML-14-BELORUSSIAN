@@ -142,7 +142,7 @@
   <string name="loading_text_format" formatted="false">Выдаленне асабістай інфармацыі з фатаграфій (%d/%d)...</string>
   <string name="long_screenshot_error">Не атрымалася зрабіць здымак экрана. Паўтарыце спробу.</string>
   <string name="long_screenshot_guide_text">Дакраніцеся для стварэння\nздымка экрана з пракруткай</string>
-  <string name="long_screenshot_intercepted_error">Немагчыма зрабіць здымак экрана. Паўтарыце спробу.</string>
+  <string name="long_screenshot_intercepted_error">Адбыўся збой. Здымак экрана захаваны ў Галерэю.</string>
   <string name="long_screenshot_out_of_memory_error">Выява занадта вялікая</string>
   <string name="long_screenshot_processing">Апрацоўка…</string>
   <string name="long_screenshot_processing_description_accessibility">Апрацоўка</string>
@@ -226,7 +226,7 @@
   <string name="notification_channel_alerts">Апавяшчэннi</string>
   <string name="operation_send">Адправіць</string>
   <string name="partial_screenshot_edit">Змяніць</string>
-  <string name="partial_screenshot_failed_to_capture_title">Гэта праграма не дазваляе рабіць здымкі экрана</string>
+  <string name="partial_screenshot_failed_to_capture_title">Немагчыма зрабіць скрыншоты гэтай старонкі</string>
   <string name="partial_screenshot_failed_to_save_title">Не атрымалася захаваць. Недастаткова месца для захоўвання.</string>
   <string name="partial_screenshot_insert_failed">Не атрымалася захаваць</string>
   <string name="partial_screenshot_repaint">Пачаць спачатку</string>
@@ -403,4 +403,13 @@
   <string name="lenovo_phone">Lenovo</string>
   <string name="pc_redmi_device_model_name">Наўтбук Redmi</string>
   <string name="pc_xiaomi_device_model_name">Наўтбук Xiaomi</string>
+  <string name="annotation_open">Паказаць інструменты</string>
+  <string name="annotation_stow">Схаваць інструменты</string>
+  <string name="privacy_mosaic_result_done">Прыватная інфармацыя заблакавана</string>
+  <string name="privacy_mosaic_result_fail">Немагчыма заблакаваць прыватную інфармацыю. Паспрабуйце яшчэ раз.</string>
+  <string name="privacy_mosaic_result_none">Прыватнай інфармацыі не знойдзена</string>
+  <string name="privacy_mosaic_tip">Націсніце, каб заблакаваць прыватную інфармацыю</string>
+  <string name="scroll_annotation">Прагортвайце і анатуйце</string>
+  <string name="scroll_annotation_btn_quit">Выйсці з анатацый</string>
+  <string name="scroll_annotation_quit_dialog_picture_msg">Захаваць анатацыі перад выхадам?</string>
 </resources>

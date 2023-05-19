@@ -929,4 +929,8 @@
   <string name="find_device_popup_content_single_tablet">Нехта шукае гэтую прыладу з дапамогай %1$s.</string>
   <string name="find_device_popup_content_tablet">%1$s шукае гэтую прыладу з дапамогай %2$s.</string>
   <string name="toast_nfc_same_wifi">Падлучыце тэлевізар і гэтую прыладу да адной сеткі</string>
+  <string name="onehop_mirror_guide_message_button">Зразумела</string>
+  <string name="onehop_mirror_guide_message_text_1">Транслюйце экран тэлефона на кампутар адным націскам.</string>
+  <string name="onehop_mirror_guide_message_text_2">Абярыце фота, відэа і іншыя файлы з Галерэі ці Правадыра для пераносу на кампутар.</string>
+  <string name="onehop_mirror_guide_message_title">Цэнтр трансляцыі</string>
 </resources>

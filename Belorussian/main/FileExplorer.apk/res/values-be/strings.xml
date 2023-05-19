@@ -947,4 +947,7 @@
   <string name="pad">Планшэт</string>
   <string name="pad_homepage_tab_file_view_phone">Планшэт</string>
   <string name="pad_start_phone">Сховішча</string>
+  <string name="operation_copy_clipboard">Капіяваць у буфер абмену</string>
+  <string name="operation_copy_local">Капіяваць у тэчку</string>
+  <string name="toast_copy_clipboard">Скапіявана ў буфер абмену</string>
 </resources>
