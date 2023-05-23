@@ -15,9 +15,9 @@
 	<item quantity="few">%d дазвола</item>
   </plurals>
   <plurals name="miui_app_privacy_permission_number">
-    <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазволаў&lt;/Data></item>
-    <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйны дазвол&lt;/Data></item>
-	<item quantity="few">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазвола&lt;/Data></item>
+    <item quantity="other"><Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазволаў</Data></item>
+    <item quantity="one"><Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйны дазвол</Data></item>
+	<item quantity="few"><Data>&lt;font color=#0D84FF>%d&lt;/font> канфідэнцыйных дазвола</Data></item>
   </plurals>
   <plurals name="app_info_permission_count">
         <item quantity="other">%1$s дазволаў</item>
