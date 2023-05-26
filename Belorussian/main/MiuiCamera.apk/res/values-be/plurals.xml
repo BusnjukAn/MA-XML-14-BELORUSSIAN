@@ -216,4 +216,10 @@
         <item quantity="few">%d сек.</item>
         <item quantity="many">%d сек.</item>
     </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">Уключаны таймер (%1$d сек). Фота будуць перададзены на гэтую прыладу.</item>
+        <item quantity="one">Уключаны таймер (%1$d сек). Фота будуць перададзены на гэтую прыладу.</item>
+        <item quantity="few">Уключаны таймер (%1$d сек). Фота будуць перададзены на гэтую прыладу.</item>
+        <item quantity="many">Уключаны таймер (%1$d сек). Фота будуць перададзены на гэтую прыладу.</item>
+    </plurals>
 </resources>

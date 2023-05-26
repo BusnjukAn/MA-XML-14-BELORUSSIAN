@@ -1624,4 +1624,5 @@
   <string name="add_home_icon_success">Паспяхова дададзена</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="resource_search_hot_tag">Папулярныя</string>
+  <string name="apply_not_support_video_wallpaper_warning">Відэа 4K, 8K і Dolby нельга выкарыстоўваць у якасці відэашпалер.</string>
 </resources>

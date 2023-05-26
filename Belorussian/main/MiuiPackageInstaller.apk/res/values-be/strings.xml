@@ -841,8 +841,8 @@
   <string name="service_mode_advantage_risk_app_safe_tip">Распазнаванне крыніцы\nпаходжання праграмы</string>
   <string name="service_mode_advantage_risk_app_safe_title">Папярэджанні аб крыніцы праграмы</string>
   <string name="service_mode_advantage_start">Уключыць Mi Абарону</string>
-  <string name="service_mode_advantage_subtitle">Як працуе &lt;font color=#52E0A6>Mi Абарона&lt;/font></string>
-  <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Выяўляйце рызыку махлярства ў сферы тэлекамунікацый, блакуйце ашуканскія праграмы і абараняйце рызыкоўныя пераклады</string>
+  <string name="service_mode_advantage_subtitle">Як &lt;font color=#52E0A6>Mi Абарона&lt;/font>&lt;br> працуе?</string>
+  <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Выяўляйце рызыку махлярства ў сферы тэлекамунікацый, блакуйце ашуканскія праграмы і абараняйце рызыкоўныя пераводы</string>
   <string name="service_mode_advantage_telecom_fraud_protection_tip">Распазнаванне махлярства</string>
   <string name="service_mode_advantage_telecom_fraud_protection_title">Абарона ад ашуканцаў</string>
   <string name="service_mode_advantage_title">Выкарыстанне Mi Абароны</string>
@@ -862,7 +862,7 @@
   <string name="service_mode_telecom_fraud_protection">Абарона ад махлярства</string>
   <string name="service_mode_telecom_fraud_protection_summary">Выяўляйце рызыку махлярства ў сферы тэлекамунікацый, блакуйце ашуканскія праграмы і абараняйце рызыкоўныя пераклады</string>
   <string name="settings">Налады</string>
-  <string name="settings_security_mode_recent_install_app">Нядаўна ўсталявана: %1$s</string>
+  <string name="settings_security_mode_recent_install_app">Усталёўка: %1$s</string>
   <string name="settings_security_mode_service_list_title_off_msg">Mi Абарона дае наступныя магчымасці</string>
   <string name="settings_security_mode_service_list_title_on_msg">Бяспечны рэжым дае наступныя магчымасці</string>
   <string name="settings_security_mode_service_msg_0">Новыя меры абароны ад махлярства і прыватнасці</string>

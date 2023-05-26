@@ -3677,4 +3677,6 @@
   <string name="transfer_dialog_title">Воблака Xiaomi заменена рэзервовай копіяй Google Фота</string>
   <string name="transfer_service_msg">Службы сінхранізацыі Воблака Xiaomi былі заменены рэзервовым капіяваннем Google Фота. Спампоўка несінхранізаваных элементаў больш недаступная.</string>
   <string name="upload_progress_message">Службы сінхранізацыі Воблака Xiaomi былі заменены рэзервовым капіяваннем Google Фота. Нам трэба праверыць элементы, якія захоўваюцца на гэтай прыладзе і ў воблаку, каб пераканацца, што вы не страціце нічога важнага. Гэты працэс можа заняць некалькі хвілін. Не пакідайце Галерэю, пакуль праверка не будзе завершана.</string>
+  <string name="added_to_clipboard_toast">Паспяхова скапіявана</string>
+  <string name="operation_copy_to_clipboard">Капіяваць</string>
 </resources>

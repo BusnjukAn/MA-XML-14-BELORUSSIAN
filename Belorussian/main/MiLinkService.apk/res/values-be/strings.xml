@@ -821,16 +821,16 @@
   <string name="upgrade_ver_can_upgrade_to1">Абнавіць да версіі %1$d</string>
   <string name="upgrade_ver_latest">Бягучая версія актуальная</string>
   <string name="upgrade_ver_latest1">Бягучая версія (%1$d) актуальная</string>
-  <string name="circulate_headset_control_anc_clear">Празрысты</string>
-  <string name="circulate_headset_control_anc_disable_hint">Наушнiкi падлучаныя да падвойнай прылады, на гэтай прыладзе можна рэгуляваць толькі гучнасць навушнікаў</string>
+  <string name="circulate_headset_control_anc_clear">Празрыстасць</string>
+  <string name="circulate_headset_control_anc_disable_hint">Вашы навушнікі падлучаныя да дзвюх прылад. Вы можаце рэгуляваць гучнасць толькі з гэтай прылады.</string>
   <string name="circulate_headset_control_anc_noise_cancel">Шумапрыглушэнне</string>
-  <string name="circulate_headset_control_anc_off">Закрыць</string>
-  <string name="circulate_headset_control_battery_case">Футарал для зарадкі</string>
-  <string name="circulate_headset_control_battery_left">Левы</string>
-  <string name="circulate_headset_control_battery_right">Правы</string>
+  <string name="circulate_headset_control_anc_off">Выкл.</string>
+  <string name="circulate_headset_control_battery_case">Футарал</string>
+  <string name="circulate_headset_control_battery_left">Л</string>
+  <string name="circulate_headset_control_battery_right">П</string>
   <string name="circulate_headset_control_more_settings">Дадатковыя налады</string>
-  <string name="circulate_headset_error_headset_not_worn">Выкарыстоўвайце абодва навушніка</string>
-  <string name="circulate_headset_error_headset_not_worn_both">Выкарыстоўвайце абодва навушніка</string>
+  <string name="circulate_headset_error_headset_not_worn">Надзеньце абодва навушнікі і паспрабуйце яшчэ раз</string>
+  <string name="circulate_headset_error_headset_not_worn_both">Надзеньце абодва навушнікі і паспрабуйце яшчэ раз</string>
   <string name="circulate_more_button_content_description">Яшчэ</string>
   <string name="circulate_ringfind_button_hint_play">Уключыць гук</string>
   <string name="circulate_ringfind_button_hint_stop">Выключыць гук</string>
@@ -933,4 +933,7 @@
   <string name="onehop_mirror_guide_message_text_1">Транслюйце экран тэлефона на кампутар адным націскам.</string>
   <string name="onehop_mirror_guide_message_text_2">Абярыце фота, відэа і іншыя файлы з Галерэі ці Правадыра для пераносу на кампутар.</string>
   <string name="onehop_mirror_guide_message_title">Цэнтр трансляцыі</string>
+  <string name="circulate_headset_back_to_box_desc_err_310">"1. Націсніце кнопку сілкавання на пульце тэлевізара, каб адключыць дынамікі.
+2. Паспрабуйце зноў падключыць навушнікі, як толькі загарыцца экран."</string>
+  <string name="circulate_headset_back_to_box_title_err_310">Спачатку адключыце дынамікі тэлевізара</string>
 </resources>
