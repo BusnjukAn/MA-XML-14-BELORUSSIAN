@@ -10724,4 +10724,10 @@ ID:%s
   <string name="screen_effect_adapt_color_title">Яркі</string>
   <string name="screen_effect_origin_color_summary">Адлюстраванне рэалістычных колераў з дапамогай каліброўкі колеру</string>
   <string name="screen_effect_origin_color_title">Зыходны колер PRO</string>
+  <string name="hover_mode_guide_text">Калі ўнутраны экран прымае выклік або прайгравае відэа, вы можаце выкарыстоўваць рэжым навядзення ў ніжняй палове экрана.</string>
+  <string name="hover_mode_name">Рэжым навядзення</string>
+  <string name="hover_mode_no_support_apps">Няма падтрымліваемых праграм</string>
+  <string name="hover_mode_support_apps">Падтрымліваемыя праграмы</string>
+  <string name="miheadset_close_broadcast_audio">Закрыць трансляцыю</string>
+  <string name="notice_audio_share_disconnected">Гук больш не перадаецца з-за разрыву злучэння</string>
 </resources>

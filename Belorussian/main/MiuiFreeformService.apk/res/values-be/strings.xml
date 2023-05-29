@@ -218,4 +218,6 @@
   <string name="freeform_guide_multiple_window_summary">"Націсніце і ўтрымлівайце абразок праграмы на панэлі, каб адкрыць новае акно.
 *Гэтая функцыя працуе з Нататкамі, Поштай і Браўзэрам."</string>
   <string name="freeform_guide_multiple_window_title">Адкрыць некалькі вокнаў</string>
+  <string name="freeform_guide_free_drag_title_phone">Перацягніце, каб скапіяваць у іншыя праграмы</string>
+  <string name="freeform_guide_how_to_free_drag_summary_phone">Націсніце і ўтрымлівайце выяву і перацягніце яе ў іншую праграму</string>
 </resources>
