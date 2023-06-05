@@ -10218,7 +10218,7 @@
   <string name="headset_silent_upgrade_switch_summary">Аўтаматычнае абнаўленне прашыўкі навушнікаў пры выкананні ўсіх неабходных умоў</string>
   <string name="headset_silent_upgrade_switch_title">Абнаўляць аўтаматычна</string>
   <string name="finger_detail_info_text">Змяніць назву адбітка</string>
-  <string name="eye_gaze_summary">Прылада не будзе блакаваць экран, калі выявіць, што вы гледзіце на экран</string>
+  <string name="eye_gaze_summary">Прылада не будзе блакавацца, калі выявіць, што вы глядзіце на экран</string>
   <string name="eye_gaze_title">Адсочванне погляду</string>
   <string name="feedback_settings_new">Сэрвісы і водгукі</string>
   <string name="natural_scroll">Натуральная пракрутка</string>
@@ -10730,4 +10730,10 @@ ID:%s
   <string name="hover_mode_support_apps">Падтрымліваемыя праграмы</string>
   <string name="miheadset_close_broadcast_audio">Закрыць трансляцыю</string>
   <string name="notice_audio_share_disconnected">Гук больш не перадаецца з-за разрыву злучэння</string>
+  <string name="eye_gaze_dialog_message">Пры ўключэнні функцыі \"Адсочванне погляду\" прылада не будзе блакавацца, калі выявіць, што вы глядзіце на экран. Характарыстыкі вашага твару не будуць прааналізаваны, і інфармацыя аб вашым твары не будзе захоўвацца на вашай прыладзе або загружацца ў воблака. Уключыць функцыю?</string>
+  <string name="eye_gaze_dialog_title">Апавяшчэнне аб бяспецы</string>
+  <string name="nrca_registered">Зарэгістраваная</string>
+  <string name="nrca_type_title">Статус агрэгацыі аператараў сувязі</string>
+  <string name="nrca_unregistered">Не зарэгістраваная</string>
+  <string name="otg_new_tip">Уключыце OTG, каб мець магчымасць напрамую падлучаць сваю прыладу да іншых прылад праз USB. Гэтая функцыя аўтаматычна адключыцца праз %d хв. бяздзейнасці.</string>
 </resources>
