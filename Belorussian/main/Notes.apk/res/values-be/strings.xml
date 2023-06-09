@@ -1069,4 +1069,5 @@
   <string name="unsupported_format_remind_desc">Гэтая нататка змяшчае фарматаванне, якое не падтрымліваецца гэтай прыладай. Яе рэдагаванне можа прывесці да памылак фарматавання. Усё роўна адкрыць гэтую нататку?</string>
   <string name="added_to_clipboard">Паспяхова скапіявана</string>
   <string name="clip_resource_deleted">Гэты аб\'ект больш не даступны</string>
+  <string name="paste_unsupported_data">Немагчыма ўставіць гэтае змесціва</string>
 </resources>

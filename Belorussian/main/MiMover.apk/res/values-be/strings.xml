@@ -1026,4 +1026,6 @@
   <string name="league_client_update">Абнавіць %s</string>
   <string name="request_permission">Дазволіць</string>
   <string name="option_third_party_shared_info_instruction">Абмен дадзенымі ўсталяваных праграм</string>
+  <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Падобна на тое, што QQ Downloader - гэта сэрвіс рэзервовага капіявання вашай сістэмы. Выдаліце яго і перазагрузіце прыладу, каб выкарыстоўваць Mi Трансфер.</string>
+  <string name="set_app_suspend">Цяпер выконваецца рэзервовае капіяванне гэтай праграмы. Дачакайцеся завяршэння рэзервовага капіявання і паспрабуйце яшчэ раз.</string>
 </resources>
