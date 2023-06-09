@@ -593,4 +593,21 @@
   <string name="long_press_power_guide_settings">Налады</string>
   <string name="long_press_power_guide_title">Абуджэнне з дапамогай кнопкі сiлкавання</string>
   <string name="stylus_connect_fail_not_match_tablet">Стылус несумяшчальны з планшэтам</string>
+  <string name="bt_enable_pair_connect_cancel">Адмена</string>
+  <string name="bt_enable_pair_connect_fail">Немагчыма падлучыцца. Паўтарыце спробу.</string>
+  <string name="bt_enable_pair_connect_ok">Падлучыць</string>
+  <string name="bt_enable_pair_connect_succceed">Падлучана паспяхова</string>
+  <string name="bt_enable_pair_connecting">Падлучэнне…</string>
+  <string name="kddi_long_press_power_guide_assistant_message">Націсніце і ўтрымлівайце кнопку сiлкавання %s сек. для выкліку Асістэнта Google</string>
+  <string name="kddi_long_press_power_guide_assistant_title">Выклік Асістэнта Google</string>
+  <string name="kddi_long_press_power_guide_know">Зразумела</string>
+  <string name="kddi_long_press_power_guide_settings">Налады</string>
+  <string name="kddi_long_press_power_guide_shutdown_message">Адначасова націсніце кнопкі сiлкавання і гучнасці, каб перазагрузіць або выключыць прыладу</string>
+  <string name="kddi_long_press_power_guide_shutdown_title">Перазагрузіць ці выключыць прыладу</string>
+  <string name="keyboard_connect_fail_text">Не ўдалося падлучыць клавіятуру</string>
+  <string name="keyboard_connect_lose_text">Страта сувязі з клавіятурай</string>
+  <string name="keyboard_connect_low_electricity_text">Батарэя клавіятуры разраджана. Падлучыце яе да крыніцы сiлкавання.</string>
+  <string name="keyboard_connect_success_text">Клавіятура паспяхова падлучана</string>
+  <string name="stylus_quick_note_summary">Калі экран выключаны, краніце яго стылусам, каб пачаць пісаць. Гэтая функцыя павялічвае энергаспажыванне.</string>
+  <string name="stylus_quick_note_title">Пісаць з выключаным экранам</string>
 </resources>

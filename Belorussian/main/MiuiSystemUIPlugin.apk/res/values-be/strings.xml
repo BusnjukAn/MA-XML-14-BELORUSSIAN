@@ -514,7 +514,7 @@
   <string name="controls_edit_added_subtitle">Перацягнеце элементы, каб змяніць іх парадак</string>
   <string name="controls_edit_added_title">Дададзеныя</string>
   <string name="controls_edit_done_button">Гатова</string>
-  <string name="controls_edit_go_to_app_guide">Адкрыць</string>
+  <string name="controls_edit_go_to_app_guide">Адкрыць %s</string>
   <string name="controls_edit_not_added_title">Даступныя</string>
   <string name="controls_loading_device">Змена месца…</string>
   <string name="controls_not_found_device_toast">Гэты элемент ужо выдалены з праграмы</string>
@@ -531,4 +531,5 @@
   <string name="slider_view_content_left_description">Ссуньце ўверх, каб перазагрузіцца ў рэжым \"Fastboot\", або ссуньце ўніз, каб перазагрузіцца ў рэжым \"Recovery\"</string>
   <string name="slider_view_content_right_description">Ссуньце ўверх, каб пераключыць рэжым \"У самалёце\", або ссуньце ўніз, каб пераключыць рэжым \"Без гуку\"</string>
   <string name="emergency_call">Экстранны выклік</string>
+  <string name="system_update">Абнаўленне сістэмы</string>
 </resources>
