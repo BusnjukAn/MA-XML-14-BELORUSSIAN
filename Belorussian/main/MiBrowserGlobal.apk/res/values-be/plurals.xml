@@ -31,10 +31,10 @@
         <item quantity="many">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">праз %d хв</item>
-        <item quantity="one">праз %d хв</item>
-        <item quantity="few">праз %d хв</item>
-        <item quantity="many">праз %d хв</item>
+        <item quantity="other">Праз %d хв.</item>
+        <item quantity="one">Праз %d хв.</item>
+        <item quantity="few">Праз %d хв.</item>
+        <item quantity="many">Праз %d хв.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -425,4 +425,16 @@
         <item quantity="other">%d сек.</item>
         <item quantity="one">%d сек.</item>
      </plurals>
+	 <plurals name="count_likes">
+        <item quantity="other">%s падабайкаў</item>
+        <item quantity="one">%s падабайк</item>
+        <item quantity="few">%s падабайка</item>
+        <item quantity="many">%s падабайкаў</item>
+    </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
 </resources>
