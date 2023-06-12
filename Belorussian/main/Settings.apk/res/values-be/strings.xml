@@ -10736,4 +10736,9 @@ ID:%s
   <string name="nrca_type_title">Статус агрэгацыі аператараў сувязі</string>
   <string name="nrca_unregistered">Не зарэгістраваная</string>
   <string name="otg_new_tip">Уключыце OTG, каб мець магчымасць напрамую падлучаць сваю прыладу да іншых прылад праз USB. Гэтая функцыя аўтаматычна адключыцца праз %d хв. бяздзейнасці.</string>
+  <string name="ex_func_find_device">Бяспека - Пошук прылады</string>
+  <string name="high_temperature_toast">Ваша прылада перагрэлася. Цяпер немагчыма выкарыстоўваць гэтую функцыю.</string>
+  <string name="sensors_hal_log_summary">Выкарыстоўваць часопісы для датчыкаў HAL</string>
+  <string name="sensors_hal_log_title">Часопісы датчыкаў HAL</string>
+  <string name="wifi_validation">Праверка сеткі…</string>
 </resources>
