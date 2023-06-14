@@ -860,7 +860,7 @@
   <string name="please_select_song">Спачатку выберыце песню</string>
   <string name="pm">ПП</string>
   <string name="power_save_mode_dialog_msg">Уключаная эканомія энергіі. Пачаць спампоўку?</string>
-  <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
+  <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="preset_music_playlist">Mi плэйліст</string>
   <string name="priority_storage">Выкарыстоўваць SD-карту</string>
   <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
@@ -1837,4 +1837,20 @@
   <string name="shortcut_get">Прагляд</string>
   <string name="shortcut_success">Паспяхова створана. Паглядзіце на працоўным стале.</string>
   <string name="similar_podcasts">Падобныя падкасты</string>
+  <string name="apply_permissions_greater_than_tiramisu">Вы можаце даць гэты дазвол у меню «Налады» > «Праграмы» > «Дазволы» > «Дазволы» > «Музыка і аўдыё/Фота і відэа» > «Музыка».</string>
+  <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
+  <string name="hgm_failed_to_connect_hint">Праверце налады сеткі і паспрабуйце зноў. Калі праблема звязана з памылкай сервера hungama, мы выправім яе як мага хутчэй.</string>
+  <string name="hgm_network_request_error_toast">Не ўдалося падключыцца да сервераў hungama. Паспрабуйце яшчэ раз.</string>
+  <string name="local_download_download">Спампаваць</string>
+  <string name="local_download_hint">Уключыце Wi-Fi перад спампоўкай</string>
+  <string name="local_download_item">Спампаваць бясплатна</string>
+  <string name="local_download_title">Абярыце песні для спампоўкі</string>
+  <string name="local_download_toast">Спампоўка…</string>
+  <string name="local_download_toast_notify">Выконваецца спампоўка. Сачыце за працэсам у Панэлі апавяшчэнняў.</string>
+  <string name="local_out_dialog_cancel">Адмена</string>
+  <string name="local_out_dialog_desc">Вы збіраецеся адкрыць іншую праграму, не злучаную з Mi Музыкай.</string>
+  <string name="local_out_dialog_ok">ОК</string>
+  <string name="local_out_dialog_title">Выконваецца выхад з Mi Музыкі</string>
+  <string name="passport_account_error_longer_user_name">Імя не можа быць даўжэйшым за %d сімвалаў</string>
+  <string name="passport_account_error_shorter_user_name">Імя павінна быць больш за %d сімвалаў</string>
 </resources>

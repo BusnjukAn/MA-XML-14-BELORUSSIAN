@@ -9,7 +9,7 @@
         <item>Рэкамендацыі на пятніцу</item>
         <item>Рэкамендацыі на суботу</item>
     </string-array>
-    <string-array name="account_user_gender_name">
+    <string-array name="passport_account_user_gender_name">
         <item>Мужчынскі</item>
         <item>Жаночы</item>
     </string-array>
