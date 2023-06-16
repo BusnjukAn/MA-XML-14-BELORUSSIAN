@@ -3679,4 +3679,7 @@
   <string name="upload_progress_message">Службы сінхранізацыі Воблака Xiaomi былі заменены рэзервовым капіяваннем Google Фота. Нам трэба праверыць элементы, якія захоўваюцца на гэтай прыладзе і ў воблаку, каб пераканацца, што вы не страціце нічога важнага. Гэты працэс можа заняць некалькі хвілін. Не пакідайце Галерэю, пакуль праверка не будзе завершана.</string>
   <string name="added_to_clipboard_toast">Паспяхова скапіявана</string>
   <string name="operation_copy_to_clipboard">Капіяваць</string>
+  <string name="immersion_menu_all_photos">Усе элементы</string>
+  <string name="immersion_menu_camera_photos">Альбом камеры</string>
+  <string name="immersion_menu_photo_switch_notice">Націсніце, каб выбраць, ці адлюстроўваць тут усе элементы, або толькі альбом камеры</string>
 </resources>

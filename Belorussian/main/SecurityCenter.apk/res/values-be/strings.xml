@@ -293,8 +293,8 @@
   <string name="apps_item_sign_install_button_text">Замяніць</string>
   <string name="apps_item_sms_default_set_success">Усталявана</string>
   <string name="apps_item_sms_reset_button_text">Аднавіць налады</string>
-  <string name="apps_item_sms_title">Налады паведамленняў па змаўчанні</string>
-  <string name="apps_item_summary_sms">%s мае доступ да вашых паведамленняў, што можа прывесці да рызыкаў бяспекі</string>
+  <string name="apps_item_sms_title">Праграма для абмену паведамленнямі па змаўчанні заменена</string>
+  <string name="apps_item_summary_sms">%s зараз кіруе вашымі SMS. Для больш стабільнай і бяспечнай працы выкарыстоўвайце сістэмную праграму MIUI.</string>
   <string name="apps_item_summary_system_rooted">Root-доступ прадастаўлены. Каб пазбегнуць рызыкаў бяспекі, аднавіце налады па змаўчанні.</string>
   <string name="apps_item_summary_system_update">У новай версіі выпраўлены некаторыя памылкі, каб аплата была больш бяспечнай.</string>
   <string name="apps_item_title_system">Сістэмнае аднаўленне</string>
@@ -340,7 +340,7 @@
   <string name="auto_task_edit_task_name">Iмя</string>
   <string name="auto_task_main_title">Аўтаматычныя задачы</string>
   <string name="auto_task_mamange_activity_title">Аўтаматычныя задачы</string>
-  <string name="auto_task_manage_delete_prompt">Выдаліць выбраныя задачы?</string>
+  <string name="auto_task_manage_delete_prompt">Выдаліць абраныя задачы?</string>
   <string name="auto_task_manage_new_task">Новая аўтаматычныя задача</string>
   <string name="auto_task_manager_group_title">Мае аўтаматычныя задачы</string>
   <string name="auto_task_notify_do_task_title">Аўтаматычная задача распачалася</string>
@@ -378,7 +378,7 @@
   <string name="back_description_securitycenter">Назад</string>
   <string name="back_modifypassword">Вярнуцца да змены тыпа пароля</string>
   <string name="back_sound_data">Уключыце перадачу дадзеных ды паўтарыце спробу.</string>
-  <string name="back_sound_fail">Памылка. Налады аператара зменены. Усталюйце бягучую SIM-карту ў якасці карты дадзеных, падключыцеся да сеткі ды паўтарыце спробу.</string>
+  <string name="back_sound_fail">Памылка. Налады аператара зменены. Усталюйце бягучую SIM-карту ў якасці карты дадзеных, падлучыцеся да сеткі ды паўтарыце спробу.</string>
   <string name="back_sound_success">Усталявана</string>
   <string name="back_sound_support">Сетка вашага аператара не падтрымлівае гэтую наладу.</string>
   <string name="background_restrict_app_dialog_message">Абмежаванне фонавага доступу да сеткі для гэтай праграмы можа прывесці да таго, што праграма не зможа звычайна працаваць, атрымліваць паведамленні, пампаваць кантэнт і т. д. Абмежаваць доступ?</string>
@@ -425,9 +425,9 @@
   <string name="bind_xiaomi_account_cancel">Скасаваць</string>
   <string name="bind_xiaomi_account_confirm">Дадаць</string>
   <string name="bind_xiaomi_account_dialog_summery">Вы збіраецеся дадаць Xiaomi акаўнт %s. Калі вы забудзеце свой пароль, можна будзе выкарыстоўваць гэты акаўнт для яго скіду. Пасля выхаду акаўнт будзе аўтаматычна выдалены.</string>
-  <string name="bind_xiaomi_account_success">Xiaomi акаўнт паспяхова дададзены</string>
-  <string name="bind_xiaomi_account_summary">Выкарыстоўваць Xiaomi акаўнт для скідвання пароля</string>
-  <string name="bind_xiaomi_account_title">Дадаць Xiaomi акаўнт</string>
+  <string name="bind_xiaomi_account_success">Мі Акаўнт паспяхова дададзены</string>
+  <string name="bind_xiaomi_account_summary">Выкарыстоўваць Мі Акаўнт для скідвання пароля</string>
+  <string name="bind_xiaomi_account_title">Дадаць Мі Акаўнт</string>
   <string name="birthday">Дзень нараджэння</string>
   <string name="bl_no_blacklist">Няма заблакаваных нумароў.</string>
   <string name="bl_no_block_call">Няма заблакаваных выклікаў.</string>
@@ -541,7 +541,7 @@
   <string name="card_main_xspace_title">Кланаванне</string>
   <string name="card_sms_report">Справаздача па SMS</string>
   <string name="card_tc_failed">Памылка каліброўкі</string>
-  <string name="card_tc_failed_content">Магчымыя прычыны:\u000d\n 1. Аператары адказваюць павольней у пачатку і канцы месяцу. Паўтарыце спробу праз некалькі дзён.\u000d\n 2. Пры першай наладзе патрабуецца падлучэнне да інтэрнэту. Падключыцеся да інтэрнэту і паўтарыце спробу.\u000d\n 3. Ваш аператар можа не падтрымліваць адпраўку паведамленняў аб балансе і трафіке. Звяжыцеся з ім, каб даведацца падрабязнасці.\u000d\n 4. Магла ўзнікнуць памылка дадзеных аператара. Паспрабуйце выканаць дыягностыку для вырашэння праблемы.\u000d\n 5. Нічога не дапамагае? Націсніце \"Справаздача па SMS\" для адпраўкі справаздачы аб памылцы Xiaomi.</string>
+  <string name="card_tc_failed_content">Магчымыя прычыны:\u000d\n 1. Аператары адказваюць павольней у пачатку і канцы месяцу. Паўтарыце спробу праз некалькі дзён.\u000d\n 2. Пры першай наладзе патрабуецца падлучэнне да інтэрнэту. Падлучыцеся да інтэрнэту і паўтарыце спробу.\u000d\n 3. Ваш аператар можа не падтрымліваць адпраўку паведамленняў аб балансе і трафіке. Звяжыцеся з ім, каб даведацца падрабязнасці.\u000d\n 4. Магла ўзнікнуць памылка дадзеных аператара. Паспрабуйце выканаць дыягностыку для вырашэння праблемы.\u000d\n 5. Нічога не дапамагае? Націсніце \"Справаздача па SMS\" для адпраўкі справаздачы аб памылцы Xiaomi.</string>
   <string name="charging_text_battery_full_time">"Час апошняй падсілкоўкі "</string>
   <string name="charging_text_battery_nearly_full">Амаль зараджана</string>
   <string name="charging_text_battery_perfect">Цалкам падсілкаваная</string>
@@ -583,7 +583,7 @@
   <string name="cpu_usage_app_uninstalled_toast">Гэта праграма выдалена</string>
   <string name="cpu_usage_process_run_time_little_time">Менш за хвіліну</string>
   <string name="cpu_usage_view_action_btn_text">Націсніце для прагляду</string>
-  <string name="create_gamebooster_destop">Цэтлік паспяхова дададзены на працоўны стол</string>
+  <string name="create_gamebooster_destop">Цэтлік паспяхова дададзены на Галоўны экран</string>
   <string name="create_shortcut">Стварыць цэтлiк на працоўным стале для Паскаральніка гульняў</string>
   <string name="cta_dialog_msg">Вы павінны пагадзіцца з нашай Палітыкай прыватнасці перад выкарыстаннем праграмы. Для забеспячэння бяспекі таксама неабходна падлучэнне да Інтэрнэту і доступ да вашага месцазнаходжання для нармальнай працы і абнаўлення антывірусных баз. Згодны?</string>
   <string name="cta_dialog_negative">Выхад</string>
@@ -682,7 +682,7 @@
   <string name="dlg_add_blacklist">Дадаць нумар у чорны спіс?</string>
   <string name="dlg_add_blacklist_title">Дадаць у чорны спіс</string>
   <string name="dlg_add_keyword">Дадайце ключавыя словы</string>
-  <string name="dlg_add_white">Новыя выклікі і паведамленні ад нумароў, дададзеных ў белы спіс, будуць адлюстроўвацца ў журнале выклікаў і ўваходных паведамленнях. Аднак, заблакаваныя раней аб\'екты там не з\'явяцца. Дадаць выбраныя нумары ў белы спіс?</string>
+  <string name="dlg_add_white">Новыя выклікі і паведамленні ад нумароў, дададзеных ў белы спіс, будуць адлюстроўвацца ў журнале выклікаў і ўваходных паведамленнях. Аднак, заблакаваныя раней аб\'екты там не з\'явяцца. Дадаць абраныя нумары ў белы спіс?</string>
   <string name="dlg_antispam_mode_delete_message">Вы не зможаце аднавіць профіль пасля яго выдалення.</string>
   <string name="dlg_antispam_mode_delete_title">Выдаліць профіль?</string>
   <string name="dlg_antispam_using_mode_delete_message">Выдаліць абраны профіль і аднавіць профіль па змаўчанні?</string>
@@ -696,7 +696,7 @@
   <string name="dlg_clear_current_call">Выдаліць усе заблакаваныя выклікі ад гэтага нумара?</string>
   <string name="dlg_clear_current_ok">Ачысціць</string>
   <string name="dlg_clear_current_sms">Выдаліць усе заблакаваныя SMS ад гэтага нумара?</string>
-  <string name="dlg_delete_keyword">Выдаліць выбраныя ключавыя словы?</string>
+  <string name="dlg_delete_keyword">Выдаліць абраныя ключавыя словы?</string>
   <string name="dlg_edit_keyword">Змяніць ключавыя словы</string>
   <string name="dlg_import_blacklist">Дадаванне…</string>
   <string name="dlg_import_whitelist">Дадаванне…</string>
@@ -705,8 +705,8 @@
   <string name="dlg_move_to_white">Дадаць у выключэнні</string>
   <string name="dlg_no_block">Разблакаваць гэты нумар?\nЁн будзе дададзены ў белы спіс, але заблакаваныя раней аб\'екты не з\'явяцца ў журнале выклікаў.</string>
   <string name="dlg_no_block_ok">Разблакаваць</string>
-  <string name="dlg_not_block_call">Разблакаваць выбраныя нумары? Яны будуць дададзеныя ў белы спіс, але заблакаваныя раней аб\'екты не з\'явяцца ў журнале выклікаў.</string>
-  <string name="dlg_not_block_sms">Разблакаваць выбраныя нумары? Яны будуць дададзеныя ў белы спіс, але заблакаваныя раней аб\'екты не з\'явяцца ў спісе паведамленняў.</string>
+  <string name="dlg_not_block_call">Разблакаваць абраныя нумары? Яны будуць дададзеныя ў белы спіс, але заблакаваныя раней аб\'екты не з\'явяцца ў журнале выклікаў.</string>
+  <string name="dlg_not_block_sms">Разблакаваць абраныя нумары? Яны будуць дададзеныя ў белы спіс, але заблакаваныя раней аб\'екты не з\'явяцца ў спісе паведамленняў.</string>
   <string name="dlg_remove_address_blacklist">Выдаліць гэтае месцазнаходжанне з чорнага спіса?</string>
   <string name="dlg_remove_address_whitelist">Выдаліць рэгіён з выняткаў?</string>
   <string name="dlg_remove_blacklist">Выдаліць гэтыя нумары з чорнага спісу?</string>
@@ -753,7 +753,7 @@
   <string name="examination_score_80_60">Рэкамендуецца аптымізацыя</string>
   <string name="examination_score_80_100">Магчыма аптымізацыя</string>
   <string name="examination_score_100">Аптымізацыя не патрабуецца</string>
-  <string name="examination_score_has_virus">Знойдзены падазроныя праграмы</string>
+  <string name="examination_score_has_virus">Знойдзеныя падазроныя праграмы.</string>
   <string name="exception_dialog_message">Не атрымалася падлічыць статыстыку трафіка праз памылку. Без дакладнай статыстыкі Бяспека не здолее кантраляваць выкарыстанне дадзеных. Перазагрузіць прыладу, каб аднавіць гэтую функцыю?</string>
   <string name="exception_dialog_ok_button">Перазагрузіць</string>
   <string name="exception_notify_message">Не атрымалася падлічыць статыстыку трафіка праз памылку. Перазагрузіце або аднавіце.</string>
@@ -800,7 +800,7 @@
   <string name="exo_track_unknown">Невядома</string>
   <string name="extreme_add_white_list_summary">Дадайце да 4 праграм</string>
   <string name="extreme_add_white_list_title">Выключэнні фонавага рэжыму</string>
-  <string name="extreme_power_save_description">- Экстрэмальнае энергазберажэнне спыняе усю фонавую актыўнасць праграмы пасля таго, як вы пакінеце яе і вернецеся на працоўны стол. Гэтая праграма не будзе адпраўляць вам паведамленнi або атрымліваць абнаўленнi.\n- Калі вы хочаце, каб праграма працавала ў фонавым рэжыме, заблакуйце яе ў спісе нядаўніх праграм або дадайце яе ў выключэння ніжэй. У фонавым рэжыме можа працаваць да 4 праграм, калі ўключана экстрэмальнае энергазберажэнне.\n- Экстрэмальнае энергазберажэнне адключае NFC па змаўчанні. Вы можаце змяніць гэта ў наладах.\n- Каб пераканацца, што вы можаце выкарыстоўваць усе функцыі вашай прылады ў звычайным рэжыме, экстрэмальнае энергазберажэнне аўтаматычна адключаецца, калі ваша батарэя зараджана на 30%.</string>
+  <string name="extreme_power_save_description">- Экстрэмальнае энергазберажэнне спыняе усю фонавую актыўнасць дадака пасля таго, як вы пакінеце яго і вернецеся на галоўны экран. Гэта праграма не будзе адпраўляць вам паведамленнi або атрымліваць абнаўленнi.\n- Калі вы хочаце, каб праграма працавала ў фонавым рэжыме, заблакуйце яе ў спісе нядаўніх праграм або дадайце яго ў выключэння ніжэй. У фонавым рэжыме можа працаваць да 4 праграм, калі ўключана экстрэмальнае энергазберажэнне.\n- Экстрэмальнае энергазберажэнне адключае NFC па змаўчанні. Вы можаце змяніць гэта ў наладах.\n- Каб пераканацца, што вы можаце выкарыстоўваць усе функцыі вашай прылады ў звычайным рэжыме, экстрэмальнае энергазберажэнне аўтаматычна адключаецца, калі ваша батарэя зараджана на 30%.</string>
   <string name="extreme_power_save_mode_card_summary">Уключыце Максімальнае энергазберажэнне для эканоміі энергіі, калі батарэя амаль разраджана.</string>
   <string name="extreme_power_save_mode_summary">Экстрэмальнае энергазберажэнне абмяжоўвае фонавую актыўнасць і спыняе сінхранізацыю.</string>
   <string name="extreme_power_save_mode_title">Максімальнае энергазберажэнне</string>
@@ -830,7 +830,7 @@
   <string name="fingerprint_verify_succeed">Адбітак правераны</string>
   <string name="fingerprint_verify_try_agin">Не атрымалася адсканаваць адбітак пальца, паспрабуйце яшчэ раз</string>
   <string name="firewall_activity_lable">Абмежаванне выкарыстання трафіка праграмамі</string>
-  <string name="firewall_allow_all">Дазволіць усім праграмам выкарыстоўваць наступны метад падключэння</string>
+  <string name="firewall_allow_all">Дазволіць усім праграмам выкарыстоўваць наступны метад падлучэння</string>
   <string name="firewall_allow_data">Дазволіць выкарыстанне мабільнага інтэрнэту</string>
   <string name="firewall_allow_network">Дазволіць</string>
   <string name="firewall_allow_wlan">Дазволіць выкарыстанне Wi-Fi</string>
@@ -842,9 +842,9 @@
   <string name="firewall_network_allow">Праграма %1$s можа выкарыстоўваць %2$s падлучэнне</string>
   <string name="firewall_network_restrict_notify_message">Націсніце для змены налад.</string>
   <string name="firewall_network_restrict_notify_mobile">Мабільны інтэрнэт</string>
-  <string name="firewall_partial">Дазволіць некаторым праграмам выкарыстоўваць наступны метад падключэння</string>
-  <string name="firewall_restrict_all">Забараніць усім праграмам выкарыстоўваць наступны метад падключэння</string>
-  <string name="firewall_restrict_android_dialog_content">Некаторыя праграмы будуць падключацца да інтэрнэту для забеспячэння звычайнай працы сістэмы. Яны будуць выкарыстоўваць мабільны інтэрнэт і могуць расходаваць нязначную колькасць трафіка.</string>
+  <string name="firewall_partial">Дазволіць некаторым праграмам выкарыстоўваць наступны метад падлучэння</string>
+  <string name="firewall_restrict_all">Забараніць усім праграмам выкарыстоўваць наступны метад падлучэння</string>
+  <string name="firewall_restrict_android_dialog_content">Некаторыя праграмы будуць падлучацца да інтэрнэту для забеспячэння звычайнай працы сістэмы. Яны будуць выкарыстоўваць мабільны інтэрнэт і могуць расходаваць нязначную колькасць трафіка.</string>
   <string name="firewall_restrict_android_dialog_title">Увага</string>
   <string name="firewall_restrict_data">Забараніць выкарыстанне мабільнага інтэрнэту</string>
   <string name="firewall_restrict_notify_title">%s не можа выкарыстоўваць сетку</string>
@@ -853,14 +853,14 @@
   <string name="firewall_system_title">Трафік сістэмных праграм</string>
   <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падлучэнне для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падключыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.​</string>
+  <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падлучыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.​</string>
   <string name="first_aid_activity_title">Праблемы</string>
   <string name="first_aid_card_airplane_button">Адключыць</string>
   <string name="first_aid_card_airplane_summary">Адключыце рэжым палёту, каб здзяйсняць выклiкі і падлучацца да сеткі</string>
   <string name="first_aid_card_airplane_title">Немагчыма здзяйсняць выклiкі або падлучацца да сеткі</string>
   <string name="first_aid_card_apn_button">Выправіць</string>
   <string name="first_aid_card_apn_summary">Зменены APN. Выпраўце, каб мець магчымасць падлучыцца да сеткі.</string>
-  <string name="first_aid_card_apn_title">Не ўдаецца падключыцца да сеткі</string>
+  <string name="first_aid_card_apn_title">Не ўдаецца падлучыцца да сеткі</string>
   <string name="first_aid_card_consume_power_button1">Абмежаваць</string>
   <string name="first_aid_card_consume_power_button2">Адключыць</string>
   <string name="first_aid_card_consume_power_button3">Адключыць</string>
@@ -924,7 +924,7 @@
   <string name="forground_network_optimization_title">Прыярытэт прапускной здольнасці сеткі</string>
   <string name="free_send_net_booster">Паспрабаваць Паскарэнне гульняў бясплатна</string>
   <string name="free_send_net_booster_busniess">Паспрабаваць Паскарэнне гульняў бясплатна</string>
-  <string name="free_send_net_booster_busniess_tip">Павысьце свой гульнявы ​​досвед і выйграйце гульнявы ​​скін. Гэтая прапанова даступна толькі сёння!</string>
+  <string name="free_send_net_booster_busniess_tip">Павысьце свой гульнявы досвед і выйграйце гульнявы скін. Гэтая прапанова даступна толькі сёння!</string>
   <string name="free_send_net_booster_tip">Палепшыце свае гульнявыя магчымасці і выйграйце прыладу Xiaomi!</string>
   <string name="free_time_traffic">Ліміт бясплатнага трафіка</string>
   <string name="free_time_traffic_hint">Увядзіце ліміт ільготнага трафіка</string>
@@ -970,7 +970,7 @@
   <string name="gamebooster_lowbattery_notification_summary">Падсілкуйце вашую прыладу.</string>
   <string name="gamebooster_lowbattery_notification_title">Зарад батарэі менш за 5%%</string>
   <string name="gamebooster_main_activity_back">Назад</string>
-  <string name="gamebooster_network_dialog_message">Дазволіць праграме падключацца да інтэрнэту для выкарыстання ўсіх функцый Паскарэнні гульняў?</string>
+  <string name="gamebooster_network_dialog_message">Дазволіць праграме падлучацца да інтэрнэту для выкарыстання ўсіх функцый Паскарэнні гульняў?</string>
   <string name="gamebooster_network_dialog_title">Некаторыя функцыі недаступныя</string>
   <string name="gamebox_app_not_find">Праграма не знойдзена</string>
   <string name="gamebox_browser_not_find">Спачатку усталюйце Mi Браўзер</string>
@@ -1032,7 +1032,7 @@
   <string name="gb_advance_settings_touch">Сэнсарнае кіраванне</string>
   <string name="gb_advance_settings_vibration_4d">Чатырохмерная вібрацыя</string>
   <string name="gb_advance_settings_vibration_4d_summary">Вібраваць падчас стрэлаў у гульні</string>
-  <string name="gb_create_icon_summary">Стварыць цэтлік на працоўным стале</string>
+  <string name="gb_create_icon_summary">Стварыць цэтлік на галоўным экране</string>
   <string name="gb_description_image_button_answer">Адказаць</string>
   <string name="gb_description_image_button_reject">Адхіліць</string>
   <string name="gb_description_image_button_video_answer">Відэавыклік</string>
@@ -1089,7 +1089,7 @@
   <string name="gs_auto_clean_memory">Ачысціць кэш</string>
   <string name="gs_auto_clean_memory_detail">Аўтаматычна ачышчаць кэш для аптымізацыі гульняў</string>
   <string name="gs_autobooster">Аўтаматычнае паскарэнне</string>
-  <string name="gs_autobooster_detail">Аўтаматычна паскараць выбраныя гульні</string>
+  <string name="gs_autobooster_detail">Аўтаматычна паскараць абраныя гульні</string>
   <string name="gs_autobooster_dialog_message">Калі вы выкарыстоўваеце сэрвісы паскарэння Xunyou, адкрыйце гульні на спецыяльнай старонцы.</string>
   <string name="gs_call_handsfree">Адказваць па гучнай сувязі</string>
   <string name="gs_call_handsfree_mute">Бязгучны рэжым</string>
@@ -1305,7 +1305,7 @@
   <string name="managed_user_title">Усе праграмы для працы</string>
   <string name="manual_input_free_traffic">Увод бясплатнага трафіка</string>
   <string name="manual_input_traffic">Выкарыстаны трафік</string>
-  <string name="manual_item_white_list_summary">Выбраныя аб\'екты не будуць сканавацца</string>
+  <string name="manual_item_white_list_summary">Абраныя аб\'екты не будуць сканавацца</string>
   <string name="manual_item_white_list_title">Выключэнні сканавання</string>
   <string name="mark_agent">Блакаваць адзначаныя агенцтвы</string>
   <string name="mark_agent_block">Пазначана як агенцтва</string>
@@ -1370,7 +1370,7 @@
   <string name="menu_item_notification_antispam_text_normal">Чорны спіс</string>
   <string name="menu_item_notification_power_text">Аптымізацыя батарэі</string>
   <string name="menu_item_notification_title">Адлюстроўваць выкарыстанне ў панэлі апавяшчэнняў</string>
-  <string name="menu_item_shortcut_summary">Дадаванне цэтлікаў на працоўны стол для хуткага доступу да функцый аптымізацыі</string>
+  <string name="menu_item_shortcut_summary">Дадаванне цэтлікаў на галоўны экран для хуткага доступу да функцый аптымізацыі</string>
   <string name="menu_item_shortcut_title">Цэтлiк агульных функцый</string>
   <string name="menu_item_uninstall">Выдаліць</string>
   <string name="menu_item_virus_cloud_scan_summary">Запампоўваць назвы і дадзеныя праграм на сервер і правяраць на наяўнасць вірусаў</string>
@@ -1442,8 +1442,8 @@
   <string name="more_settings">Больш</string>
   <string name="name">Назва</string>
   <string name="net_booster">Павелічэнне хуткасці сеткі</string>
-  <string name="net_booster_expire_notification">Сеанс павышэння хуткасці сеткі хутка скончыцца</string>
-  <string name="net_booster_overdue_notification">Сеанс павышэння хуткасці сеткі хутка скончыцца</string>
+  <string name="net_booster_expire_notification">Сеанс паскарэння сеткі хутка скончыцца</string>
+  <string name="net_booster_overdue_notification">Сеанс паскарэння сеткі хутка скончыцца</string>
   <string name="net_booster_overdue_notification_tip">Сеанс павышэння хуткасці сеткі завершаны. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</string>
   <string name="net_booster_tip">Уключыце паскарэнне сеткі, каб зрабіць Wi-Fi падлучэнне больш стабільным і паменшыць затрымку сеткі.</string>
   <string name="net_booster_title">Паскарэнне сеткі</string>
@@ -1462,14 +1462,14 @@
   <string name="network_operator_exception_summary">Не атрымалася актываваць SIM-карту. Пераканайцеся, што карта ўсталяваная правільна і ваш тарыф актываваны мабільным аператарам.</string>
   <string name="network_permission_exception_tips">Немагчыма выкарыстаць мабільны інтэрнэт для злучэнне з сеткай</string>
   <string name="network_roaming_exception_tips">Немагчыма выкарыстаць мабільны інтэрнэт для далучэння да сеткі ў роўмінгу.</string>
-  <string name="network_route_exception_detail">Магчыма, праблема ў роўтары, да якога вы падключаны\n\n \"&lt;b>1. Публічныя сеткі Wi-Fi&lt;/b>\"\nКалі вы падключаны да публічнай сеткі Wi-Fi, вялікая колькасць падключенняў можа запавольваць працу сеткі ды выклікаць перабоі. Падключыцеся да іншай сеткі ды паўтарыце спробу.\n\n \"&lt;b>2. Інтэрнэт-правайдар&lt;/b>\"\nПераканайцеся, што ваш акаўнт сумяшчальны з сеткай інтэрнэт-правайдара.\n\n \"&lt;b>3. Апаратныя праблемы роўтара&lt;/b>\"\nПаспрабуйце перазагрузіць роўтар ды праверыць налады адміністратара.\n\n \"&lt;b>4. Іншыя праблемы роўтара&lt;/b>\"\nАзнаёмцеся з інструкцыяй роўтара ды аднавіце завадскія налады.\n\n \"&lt;b>5. Пераканайцеся, што роўтар падключаны правільна&lt;/b>\"\nПаспрабуйце падключыць роўтар з дапамогай іншага сеткавага кабеля. Калі праблемы абумоўлены хатняй сеткаю, звяжыцеся з вашым інтэрнэт-правайдарам.</string>
-  <string name="network_sim_exception_detail">Магчыма, праблема звязана з SIM-картаю:\n\n1. Пераканайцеся, што карта сумяшчальная з мабільным аператарам. Паспрабуйце выкарыстаць SIM-карту сябра для праверкі падключэння.\n\n2. Калі вы выкарыстоўваеце дзве SIM-карты, паспрабуйце пераключыцца на другую карту для праверкі падключэння.\n\n3. Пераканайцеся, што SIM-карта ды адпаведны слот прылады не былі пашкоджаны. Праверце, ці правільна ўстаўлена карта.</string>
+  <string name="network_route_exception_detail">Магчыма, праблема ў роўтары, да якога вы падлучаны\n\n \"&lt;b>1. Публічныя сеткі Wi-Fi&lt;/b>\"\nКалі вы падлучаны да публічнай сеткі Wi-Fi, вялікая колькасць падлученняў можа запавольваць працу сеткі ды выклікаць перабоі. Падлучыцеся да іншай сеткі ды паўтарыце спробу.\n\n \"&lt;b>2. Інтэрнэт-правайдар&lt;/b>\"\nПераканайцеся, што ваш акаўнт сумяшчальны з сеткай інтэрнэт-правайдара.\n\n \"&lt;b>3. Апаратныя праблемы роўтара&lt;/b>\"\nПаспрабуйце перазагрузіць роўтар ды праверыць налады адміністратара.\n\n \"&lt;b>4. Іншыя праблемы роўтара&lt;/b>\"\nАзнаёмцеся з інструкцыяй роўтара ды аднавіце завадскія налады.\n\n \"&lt;b>5. Пераканайцеся, што роўтар падлучаны правільна&lt;/b>\"\nПаспрабуйце падлучыць роўтар з дапамогай іншага сеткавага кабеля. Калі праблемы абумоўлены хатняй сеткаю, звяжыцеся з вашым інтэрнэт-правайдарам.</string>
+  <string name="network_sim_exception_detail">Магчыма, праблема звязана з SIM-картаю:\n\n1. Пераканайцеся, што карта сумяшчальная з мабільным аператарам. Паспрабуйце выкарыстаць SIM-карту сябра для праверкі падлучэння.\n\n2. Калі вы выкарыстоўваеце дзве SIM-карты, паспрабуйце пераключыцца на другую карту для праверкі падлучэння.\n\n3. Пераканайцеся, што SIM-карта ды адпаведны слот прылады не былі пашкоджаны. Праверце, ці правільна ўстаўлена карта.</string>
   <string name="network_speed_for_apps_close">Спыніць прымусова</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Спыніць праграму прымусова?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Немагчыма прымусова спыніць сістэмныя праграмы.</string>
   <string name="network_speed_for_apps_others">Іншае</string>
   <string name="network_speed_for_apps_title">Падлучэнне</string>
-  <string name="network_speed_for_apps_total">Хуткасць падключэння</string>
+  <string name="network_speed_for_apps_total">Хуткасць падлучэння</string>
   <string name="network_test_speed">Праверка хуткасці Wi-Fi</string>
   <string name="network_traffic_warning_text">MIUI не можа разлічыць статыстыку трафіка для асобных сістэмных праграм. Вы зможаце ўбачыць інфармацыю пра трафік у звестках аб праграме, калі яна актыўна выкарыстоўвае мабільны інтэрнэт.</string>
   <string name="network_traffic_warning_title">Трафік сістэмных праграм</string>
@@ -1545,7 +1545,7 @@
   <string name="om_ill_proc_type_gps_detail">Выправіць праблемы выкарыстання GPS</string>
   <string name="om_ill_proc_type_gps_title">Праграма часта выкарыстоўвае GPS і разраджае акумулятар</string>
   <string name="om_ill_proc_type_radio_detail">Выправіць праблемы з сеткавым падлучэннем</string>
-  <string name="om_ill_proc_type_radio_title">Праграма часта падключаецца да сеткі і разраджае батарэю</string>
+  <string name="om_ill_proc_type_radio_title">Праграма часта падлучаецца да сеткі і разраджае батарэю</string>
   <string name="om_ill_proc_type_wakelock_detail">Выправіць праблемы ў спячым рэжыме</string>
   <string name="om_ill_proc_type_wakelock_title">Праграма выключае рэжым чакання і разраджае батарэю</string>
   <string name="om_ill_proc_type_wifiscan_detail">Выправіць праблемы з праверкай Wi-Fi</string>
@@ -1610,7 +1610,7 @@
   <string name="optimize_result_header_view_summary">Хуткасць павялічана</string>
   <string name="optimize_result_summary_sucurity_risk">Некаторыя функцыі бяспекі адключаныя. Уключыце іх, каб павысіць узровень бяспекі прылады:</string>
   <string name="optimize_result_summary_system_default_settings">Выкарыстоўвайце сістэмныя праграмы MIUI для павышэння ўзроўню стабільнасці і бяспекі сістэмы.</string>
-  <string name="optimize_result_title_sucurity_risk">Знойдзены пагрозы беспецы</string>
+  <string name="optimize_result_title_sucurity_risk">Знойдзеныя пагрозы беспецы</string>
   <string name="optimize_result_title_system_default_settings">Налады па змаўчанні былі зменены</string>
   <string name="optimize_result_title_uninstall_apps">Выдаліць праграмы</string>
   <string name="optimize_result_toast_system_default_settings">Налады па змаўчанні адноўленыя</string>
@@ -1904,10 +1904,10 @@
   <string name="privacy_apps_tutorial_prompt_pagethree">Пасля ўводу пароля з\'явіцца тэчка з схаванымі праграмамі.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Развядзіце два пальцы на экране. З\'явіцца паведамленне з просьбай увесці пароль аховы праграм.</string>
   <string name="privacy_declare_dialog_title">Умовы выкарыстання</string>
-  <string name="privacy_dialog_message">Пры падключэнні да інтэрнэту гэтае паведамленне разам з дадзенымі аператара будзе зашыфравана і загружана на Mi-серверы для паляпшэння маніторынгу трафіка.</string>
+  <string name="privacy_dialog_message">Пры падлучэнні да інтэрнэту гэтае паведамленне разам з дадзенымі аператара будзе зашыфравана і загружана на Mi-серверы для паляпшэння маніторынгу трафіка.</string>
   <string name="privacy_mode_dialog_title">Рэжым госця</string>
   <string name="privacy_prompt_tc_sms_report_message">Ваш нумар тэлефона і дадзеныя аператара будуць зашыфраваныя і запампаваны на серверы Mi для абнаўлення статыстыкі трафіка.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Пасля пачатку каліброўкі MIUI падключыцца да сеткі, зашыфруе дадзеныя аб аператары, нумары тэлефона, IMEI і Xiaomi акаўнце, і запампуе іх на серверы Xiaomi. Гэта трэба для атрымання ад аператара шаблону каліброўкі і вызначэння магчымасці куплі дадзеных у вашым размяшчэнні.\n\nПадчас каліброўкі MIUI адправіць аператару SMS для атрымання шаблону каліброўкі.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Пасля пачатку каліброўкі MIUI падлучыцца да сеткі, зашыфруе дадзеныя аб аператары, нумары тэлефона, IMEI і Mi Акаўнце, і запампуе іх на серверы Xiaomi. Гэта трэба для атрымання ад аператара шаблону каліброўкі і вызначэння магчымасці куплі дадзеных у вашым размяшчэнні.\n\nПадчас каліброўкі MIUI адправіць аператару SMS для атрымання шаблону каліброўкі.</string>
   <string name="privacy_prompt_upload">Запампаваць</string>
   <string name="process_mediaserver_label">Медыя-сервер</string>
   <string name="promotion">Рэклама</string>
@@ -1954,9 +1954,9 @@
   <string name="report_error">Не ўдаецца адправіць справаздачу</string>
   <string name="report_only">Выберыце паведамленне для справаздачы</string>
   <string name="report_success">Справаздача адпраўлена</string>
-  <string name="report_warning">Паскардзіцца на %1$s SMS праз сэрвіс Xiaomi? Паведамленні і адпаведныя нумары тэлефонаў будуць дасланы на Xiaomi-сэрверы і своечасова разгледжаны. Любая асабістая інфармацыя, звязаная з гэтымі паведамленнямі, застанецца ананімнай.</string>
+  <string name="report_warning">Паскардзіцца на %1$s SMS праз сэрвіс Mi? Паведамленні і адпаведныя нумары тэлефонаў будуць дасланы на Mi-серверы і своечасова разгледжаны. Любая асабістая інфармацыя, звязаная з гэтымі паведамленнямі, застанецца ананімнай.</string>
   <string name="report_warning_title">Увага</string>
-  <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Xiaomi акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
+  <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Мі акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
   <string name="reset_data_dialog_ok">Скід налад</string>
   <string name="reset_data_title">Не ўдаецца аднавіць пароль</string>
   <string name="resource_antispam">Чорны спіс</string>
@@ -2011,7 +2011,7 @@
   <string name="safe_result_item_info_system_scan">Маніторынг плацяжоў уключаны</string>
   <string name="safe_result_item_info_system_version">Усталявана апошняя версія MIUI</string>
   <string name="safepay_alert_dialog_button_continue">Працягнуць</string>
-  <string name="safepay_alert_dialog_button_fix">Больш падрабязна</string>
+  <string name="safepay_alert_dialog_button_fix">Падрабязна</string>
   <string name="save_energy_text">Забарона сінхранізацыі дадзеных і аўтазапуску праграм ў фонавым рэжыме</string>
   <string name="save_energy_title">Энергазберажэнне</string>
   <string name="sc_allow_network_dialog_message">Вы абмежавалі праграме \"Бяспека\" доступ да сеткі і месцазнаходжання. Каб карыстацца гэтай функцыяй, надайце ёй неабходныя дазволы.</string>
@@ -2162,8 +2162,8 @@
   <string name="st_antispam_mode_only_whitelist_sum">Дазваліць толькі выклікі і паведамленні ад абанентаў з белага спісу</string>
   <string name="st_antispam_mode_smart">Разумная блакіроўка</string>
   <string name="st_antispam_mode_smart_sum">Блакаваць нумары, дададзеныя ўручную, і нумары, адзначаныя іншымі карыстальнікамі</string>
-  <string name="st_antispam_title_anoy_incoming">Выклікі ад незнаёмцаў</string>
-  <string name="st_antispam_title_anoy_sms">Паведамленні ад незнаёмцаў</string>
+  <string name="st_antispam_title_anoy_incoming">Выклікі ад незнаёмых</string>
+  <string name="st_antispam_title_anoy_sms">Паведамленні ад незнаёмых</string>
   <string name="st_antispam_title_contact_incoming">Выклікі ад кантактаў</string>
   <string name="st_antispam_title_contact_sms">Паведамленні ад кантактаў</string>
   <string name="st_antispam_title_contactandanoy_group">Налады</string>
@@ -2266,14 +2266,14 @@
   <string name="summary_auto_update">MIUI падбярэ найбольш прыдатны час для спампоўкі і ўсталёўкі абнаўленняў.</string>
   <string name="summary_background_connection">Вы абмежавалі фонавае злучэнне для гэтай праграмы.</string>
   <string name="summary_block_calls_from_cantacts">Выклікі ад кантактаў заблакаваныя.</string>
-  <string name="summary_block_calls_from_strangers">Выклікі ад незнаёмцаў заблакаваныя.</string>
+  <string name="summary_block_calls_from_strangers">Выклікі ад незнаёмых заблакаваныя.</string>
   <string name="summary_cleaner_cloudscan">Запампоўваць імёны тэчак на сервер і правяраць на наяўнасць смецця</string>
-  <string name="summary_cloud_account">Каб атрымаць доступ да ўсіх сэрвісаў, трэба ўвайсці ў Xiaomi акаўнт</string>
+  <string name="summary_cloud_account">Выкарыстоўвайце ўсе сэрвісы, якія прадстаўляюцца Xiaomi</string>
   <string name="summary_cloud_service">Сінхранізаваць фота, кантакты і іншыя дадзеныя на ўсіх прыладах</string>
   <string name="summary_cloud_space_almost_full">Атрымаць больш месца</string>
   <string name="summary_cloud_space_full">Атрымаць больш месца ў воблачным сховішчы, а таксама доступ да дадатковага функцыяналу</string>
   <string name="summary_cmcc_app_check">Не атрымалася праверыць некаторыя праграмы</string>
-  <string name="summary_consume_power">Пошук праблем, якія ўплываюць на эканомію зарада</string>
+  <string name="summary_consume_power">Знойдзеныя праблемы з нагрэвам батарэі, яны могуць паўплываць на яе тэрмін службы</string>
   <string name="summary_dark_mode">Некаторыя старонкі адлюстроўваюцца чорным з-за ўсталяваных сэрвісаў</string>
   <string name="summary_data_flow">Кантралюйце выкарстанне мабільнага трафіка, каб пазбегнуць дадатковых расходаў</string>
   <string name="summary_default_app">%s не ўсталявана як сістэмная праграма па змаўчанні</string>
@@ -2329,7 +2329,7 @@
   <string name="tc_diagnostic_brand_error_notification_title">Няправільны тып сеткі</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Вынік: няслушны брэнд аператара&lt;br/>&lt;br/>Усталяваны: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Рэальны: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">Гатова</string>
-  <string name="tc_diagnostic_fragment_default">Пра дыягностыку\n1. Прылада падключыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін.\n2. Гэты экран можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне.</string>
+  <string name="tc_diagnostic_fragment_default">Пра дыягностыку\n1. Прылада падлучыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін.\n2. Гэты экран можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне.</string>
   <string name="tc_diagnostic_location_error_notification_summary">Націсніце для ўдакладнення месцазнаходжання</string>
   <string name="tc_diagnostic_location_error_notification_title">Няслушнае месцазнаходжанне</string>
   <string name="tc_diagnostic_notification_sumarry">Націсніце для прагляду вынікаў</string>
@@ -2358,7 +2358,7 @@
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Сетка і брэнд аператара ўсталяваны дакладна&lt;br/>&lt;br/>Не атрымалася выканаць карэкціроўку:&lt;br/>1. Статыстыка аператара можа быць ненадзейнай у пачатку ці ў канцы месяца&lt;br/>2. Функцыі праграмы бяспекі не былі абноўлены.&lt;br/> &lt;br/>Адпраўце справаздачу, каб дапамагчы MIUI палепшыць інструменты дыягностыкі&lt;/font>"</string>
   <string name="tc_diagnostic_title">Дыягностыка аператара</string>
   <string name="tc_diagnostic_upload_button">Справаздача</string>
-  <string name="tc_diagnostic_upload_no_network">Дзякуй за вашу справаздачу! Яна будзе адпраўлена, калі прылада падключыцца да сеткі.</string>
+  <string name="tc_diagnostic_upload_no_network">Дзякуй за вашу справаздачу! Яна будзе адпраўлена, калі прылада падлучыцца да сеткі.</string>
   <string name="tc_diagnostic_upload_success">Дзякуй за ваш водгук!</string>
   <string name="tc_get_cmd_error">Немагчыма атрымаць шаблон</string>
   <string name="tc_parse_error">Не атрымалася разабраць SMS</string>
@@ -2381,7 +2381,7 @@
   <string name="tc_sms_report_geting_sms">Атрыманне інфармацыі SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Перайдзіце ў праграму \"Трафік\" ды паспрабуйце аднавіць уручную.</string>
   <string name="tc_sms_report_notify_correction_failure_title">Не ўдаецца абнавіць інфармацыю пра трафік</string>
-  <string name="tc_sms_report_notify_get_failure_body">Не ўдалося адправіць справаздачу пра трафік. Пераканайцеся, што вы падключаныя да мабільнай сеткі.</string>
+  <string name="tc_sms_report_notify_get_failure_body">Не ўдалося адправіць справаздачу пра трафік. Пераканайцеся, што вы падлучаныя да мабільнай сеткі.</string>
   <string name="tc_sms_report_notify_get_failure_title">Не ўдалося атрымаць SMS з дадзенымі пра трафік</string>
   <string name="tc_sms_report_notify_get_timeout_body">Час вычарпаны. Удакладніце ў аператара сапраўднасць уведзенага вамі коду запыту SMS.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Не ўдалося атрымаць SMS з дадзенымі пра трафік</string>
@@ -2421,8 +2421,8 @@
   <string name="timeshow_s">%d сек.</string>
   <string name="tips_dialog_title">Ліміт невядомы</string>
   <string name="tips_message">Каб даведацца больш пра свой тарыфны план, набярыце нумар %2$s (%1$s).</string>
-  <string name="tips_of_app_manage">Выдаліце ​​рэдка выкарыстоўваемыя праграмы для эканоміі памяці</string>
-  <string name="tips_of_auto_launch_manage">Забараніце аўтазапуск рэдка выкарыстоўваемых праграм</string>
+  <string name="tips_of_app_manage">Выдаляйце рэдка выкарыстаныя праграмы для эканоміі памяці</string>
+  <string name="tips_of_auto_launch_manage">Забараніць аўтазапуск рэдка выкарыстоўваных праграм</string>
   <string name="title_app_lock_disable">Абарона праграм</string>
   <string name="title_app_update">Даступнае абнаўленне</string>
   <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
@@ -2605,9 +2605,9 @@
   <string name="usb_adb_input_apply_step_2">Распрацоўшчыкі могуць выкарыстоўваць спецыяльнае праграмнае забеспячэнне, каб імітаваць жэсты, змяняць налады, а таксама даваць дазволы праз USB.</string>
   <string name="usb_adb_input_apply_step_3">Дазволіць зараз?</string>
   <string name="usb_install_desc">Усталяваць гэтую праграму праз USB?</string>
-  <string name="usbsharenet_exception_summary">Немагчыма падключыцца да інтэрнэту па USB. Праверце USB падлучэнне ды перазапусціце Mi PC Suite.</string>
+  <string name="usbsharenet_exception_summary">Немагчыма падлучыцца да інтэрнэту па USB. Праверце USB падлучэнне ды перазапусціце Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Дыягностыка інтэрнэту па USB</string>
-  <string name="usbsharenet_pc_exception_summary">Немагчыма падключыцца да інтэрнэту па USB. Праверце інтэрнэт-злучэнне вашага камп\'ютара.</string>
+  <string name="usbsharenet_pc_exception_summary">Немагчыма падлучыцца да інтэрнэту па USB. Праверце інтэрнэт-злучэнне вашага камп\'ютара.</string>
   <string name="use_immediately">Прымяніць</string>
   <string name="user_define_title">Дадаць правілы</string>
   <string name="user_guide">Правядзіце уверх для пошуку іншых свежых гульняў</string>
@@ -2684,7 +2684,7 @@
   <string name="superpower_settins_autoleave_summary">Аўтаматычнае адключэнне функцыі \"Максімальнае энергазберажэнне\", калі батарэя зараджана на 50%</string>
   <string name="superpower_settins_autoleave_title">Аўтаматычнае адключэнне</string>
   <string name="superpower_settins_other">Дадатковыя налады</string>
-  <string name="superpower_settins_switch_summary">Абмяжоўвае большасць функцый, якія спажываюць электраэнергію, каб зрабіць базавыя функцыі (напрыклад, выклiкі, SMS і выбраныя праграмы) даступнымі як мага даўжэй</string>
+  <string name="superpower_settins_switch_summary">Абмяжоўвае большасць функцый, якія спажываюць электраэнергію, каб зрабіць базавыя функцыі (напрыклад, выклiкі, SMS і абраныя праграмы) даступнымі як мага даўжэй</string>
   <string name="call_delete_all_hint">Выдаліць усе заблакаваныя выклікі?</string>
   <string name="gamebox_milink">Трансляцыя</string>
   <string name="stop_milink_connect">Трансляцыя спыненая</string>
@@ -2812,7 +2812,7 @@
   <string name="ew_main_place_tips">Узнайт, дзе бліжэйшы прытулак</string>
   <string name="ew_main_place_title">Аварыйныя прытулкi паблізу</string>
   <string name="ew_safe_place_no_maps_tips">Спачатку ўсталюйце карты Baidu або Amap.</string>
-  <string name="system_permission_declare_analytics_declare">Дзякуем Вам за ўдзел у нашай праграме ўзаемадзеяння з карыстальнікам. Ваша прылада павінна быць падключана да Інтэрнэту, каб гэтая функцыя працавала нармальна. Вам таксама неабходна прадаставіць наступныя дазволу, каб мы маглі збіраць дадзеныя, якія дапамогуць нам палепшыць нашы прадукты і паслугі. Гэтыя дадзеныя збіраюцца толькі для статыстычных мэтаў. Мы не зможам выкарыстоўваць гэтыя дадзеныя, каб ідэнтыфікаваць вас асабіста.</string>
+  <string name="system_permission_declare_analytics_declare">Дзякуем Вам за ўдзел у нашай праграме ўзаемадзеяння з карыстальнікам. Ваша прылада павінна быць падлучана да Інтэрнэту, каб гэтая функцыя працавала нармальна. Вам таксама неабходна прадаставіць наступныя дазволу, каб мы маглі збіраць дадзеныя, якія дапамогуць нам палепшыць нашы прадукты і паслугі. Гэтыя дадзеныя збіраюцца толькі для статыстычных мэтаў. Мы не зможам выкарыстоўваць гэтыя дадзеныя, каб ідэнтыфікаваць вас асабіста.</string>
   <string name="system_permission_declare_no_say_no_analytics">Калі вы не хочаце прадастаўляць гэтыя дазволы, вы можаце зрабіць гэта ў Налады > Дадатковыя налады > Прыватнасць > Вопыт карыстальнікаў.</string>
   <string name="function_gwsd_detail">Аб гэтай функцыі:\n 1. Уваходныя выклiкі на вашу SIM-карту ня перапыняць злучэнне для мабільнай перадачы дадзеных. Злучэнне будзе перапынена толькі тады, калі вы адкажаце на выклiк.\n 2. Калі гэтая функцыя ўключаная, выклікаючы абанент не будзе чуць мелодыю чакання выкліку. Уваходныя выклiкі будуць спыненыя, калі вы не адкажаце на працягу 6 секунд.\n 3. Гэтая функцыя працуе толькі для SIM-карт для дадзеных. Выклiкі на асноўную SIM-карту перапыняць злучэнне для мабільнай перадачы дадзеных.\n 4. Гэта функцыя падтрымліваецца толькі China Mobile і China Unicom.</string>
   <string name="function_gwsd_title">Не дазваляць ўваходным выклiкам перарываць злучэнне з SIM-картай для перадачы дадзеных</string>
@@ -2836,7 +2836,7 @@
   <string name="securitycenter_tab_title">Бяспека</string>
   <string name="system_tool_green_guard">Сямейная ахова</string>
   <string name="system_tool_sos">Выклік SOS</string>
-  <string name="cta_main_purpose">Сардэчна запрашаем у Бяспеку! Вы можаце выкарыстоўваць Бяспеку і яе модулі (уключаючы кампаненты бяспекі MIUI і сістэмныя службы), каб вызваліць месца на дыску, праверыць прыладу на наяўнасць вірусаў, кантраляваць выкарыстанне батарэі, аптымізаваць гульні, кіраваць праграмамі і г. д. Кампаненты бяспекі MIUI будуць падключацца да Інтэрнэту і выконваць сканаванне бяспекі, пакуль вы ўсталёўваеце праграмы і здзяйсняеце плацяжы.</string>
+  <string name="cta_main_purpose">Сардэчна запрашаем у Бяспеку! Вы можаце выкарыстоўваць Бяспеку і яе модулі (уключаючы кампаненты бяспекі MIUI і сістэмныя службы), каб вызваліць месца на дыску, праверыць прыладу на наяўнасць вірусаў, кантраляваць выкарыстанне батарэі, аптымізаваць гульні, кіраваць праграмамі і г. д. Кампаненты бяспекі MIUI будуць падлучацца да Інтэрнэту і выконваць сканаванне бяспекі, пакуль вы ўсталёўваеце праграмы і здзяйсняеце плацяжы.</string>
   <string name="menu_summary_garbage_cleanup_ex">Ачысціць %s</string>
   <string name="cta_HIPS_Perm_Location_Desc">Для адлюстравання ранніх папярэджанняў аб землятрусах, якія адносяцца да вашага месцазнаходжання, а таксама для ўключэння прыблізнага месцазнаходжання.</string>
   <string name="permgroupdesc_location">Доступ да інфармацыі аб месцазнаходжанні</string>
@@ -2898,7 +2898,7 @@
   <string name="invalid_charger">Не ўдаецца зарадзіць праз USB. Выкарыстоўвайце зарадную прыладу, якая пастаўляецца з вашай прыладай.</string>
   <string name="low_temperature_button_ok">Зразумела</string>
   <string name="low_temperature_warning_message">Занадта нізкая тэмпература. Тэлефон можа выключыцца раней, чым вы чакаеце. Захавайце ўсе важныя змены.</string>
-  <string name="low_temperature_warning_title">Нізкая тэмпература паветра нізкая</string>
+  <string name="low_temperature_warning_title">Нізкая тэмпература паветра</string>
   <string name="notification_channel_battery">Батарэя</string>
   <string name="notification_low_battery_action_btn">Уключыць</string>
   <string name="notification_low_battery_need_charge">Падлучыце зарадную прыладу</string>
@@ -2908,7 +2908,7 @@
   <string name="save_mode_btn_ok">Зразумела</string>
   <string name="app_running_tip_dialog_negative">Адмена</string>
   <string name="app_running_tip_dialog_positive">Выйсці</string>
-  <string name="app_running_tip_dialog_text">Падобна, гэта праграма працуе ў фонавым рэжыме. Вы можаце выйсці з праграмы, каб паскорыць працу прылады і знізіць энергаспажыванне.</string>
+  <string name="app_running_tip_dialog_text">Падобна на тое, што гэта праграма працуе ў фонавым рэжыме. Вы можаце выйсці з праграмы, каб паскорыць працу прылады і знізіць энергаспажыванне.</string>
   <string name="app_running_tip_dialog_title">Выйсці з %1$s</string>
   <string name="app_running_tip_uninstall">Выдаліць гэту праграму</string>
   <string name="HIPS_Perm_CallLog_Desc">Запіс і выдаленне гісторыі выклікаў</string>
@@ -3029,7 +3029,7 @@
   <string name="gb_game_video_save">Захаваць</string>
   <string name="gb_game_video_type_ai">ІІ</string>
   <string name="gb_game_video_type_manual">Уручную</string>
-  <string name="gb_manual_record_dialog_del_video_message">Выдаліць выбраныя відэа назаўсёды?</string>
+  <string name="gb_manual_record_dialog_del_video_message">Выдаліць абраныя відэа назаўсёды?</string>
   <string name="gb_wonderful_video_cancel">Адмена</string>
   <string name="gb_wonderful_video_checkall">Выбраць усе</string>
   <string name="gb_wonderful_video_delete">Выдаліць</string>
@@ -3093,7 +3093,7 @@
   <string name="ew_setting_strong_push_message">Для землятрусаў сілай 2.0 і больш</string>
   <string name="ew_setting_strong_push_title">Папярэджваць аб моцных землятрусах (па змаўчанні ўключана)</string>
   <string name="gtb_exit_game_to_gtb">Адкрыць панэль гульняў</string>
-  <string name="gtb_exit_game_to_home">Вярнуцца на працоўны стол</string>
+  <string name="gtb_exit_game_to_home">Вярнуцца на галоўны экран</string>
   <string name="gb_voice_changer_permission_dlg_title">Патрабаваныя дазволы</string>
   <string name="gb_voice_changer_permission_dlg_msg">Для аўтаматычнай змены галаса павінна быць магчымасць запісу гуку.</string>
   <string name="gb_voice_changer_dlg_button_refuse">Абмежаваць</string>
@@ -3375,13 +3375,13 @@
   <string name="permission_action_desc_prompt">Гэты дазвол можа быць выкарыстаны толькі тады, калі вы дазволіце</string>
   <string name="permission_action_desc_reject">Гэты дазвол не можа быць выкарыстаны</string>
   <string name="power_off_warning_button_ok">Зразумела</string>
-  <string name="power_off_warning_message">Батарэя разраджана. Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</string>
+  <string name="power_off_warning_message">Батарэя разраджана. Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</string>
   <string name="power_off_warning_notification_title">Аб закрыцці</string>
   <string name="power_save_mode_close_aod_display_summary">Выключыць рэжым «Заўсёды на экране», калі ўключана функцыя эканоміі зарада батарэі</string>
   <string name="power_save_mode_close_aod_display_title">Выключыць рэжым «Заўсёды на экране»</string>
   <string name="power_save_ps_description_title">Энергазберажэнне актывуе наступныя абмежаванні:</string>
   <string name="power_superpower_title_systemui_highpower">Застаўшыйся час</string>
-  <string name="power_superpower_title_systemui_lowpower">Падключыце зарадную прыладу</string>
+  <string name="power_superpower_title_systemui_lowpower">Падлучыце зарадную прыладу</string>
   <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
   <string name="pricacy_permission_use_total">Статыстыка дазволаў</string>
   <string name="priority_storage_app_settings">Дадзеныя будуць захаваны ў %1$s</string>
@@ -3446,7 +3446,7 @@
   <string name="privacy_pop_location">Доступ да месцазнаходжання сёння</string>
   <string name="privacy_pop_record">Запіс аўдыё сёння</string>
   <string name="privacy_pop_storage">Доступ да сховішча сёння</string>
-  <string name="privacy_protect_summary">Абарона прыватнасці</string>
+  <string name="privacy_protect_summary">Абарона інфармацыі</string>
   <string name="privacy_protect_title">Абарона</string>
   <string name="privacy_provision_back">Назад</string>
   <string name="privacy_provision_more">Даведайцеся больш аб абароне прыватнасці</string>
@@ -3481,12 +3481,12 @@
   <string name="sd_insert_summary">Устаўце SD-карту для мантавання</string>
   <string name="sd_mount">Змантаваць SD-карту</string>
   <string name="search_menu_title">Пошук</string>
-  <string name="size_byte">" Б"</string>
-  <string name="size_giga_byte">" Гб"</string>
-  <string name="size_kilo_byte">" Кб"</string>
-  <string name="size_mega_byte">" Мб"</string>
-  <string name="size_peta_byte">" Пб"</string>
-  <string name="size_tera_byte">" Тб"</string>
+  <string name="size_byte">"Б"</string>
+  <string name="size_giga_byte">"Гб"</string>
+  <string name="size_kilo_byte">"Кб"</string>
+  <string name="size_mega_byte">"Мб"</string>
+  <string name="size_peta_byte">"Пб"</string>
+  <string name="size_tera_byte">"Тб"</string>
   <string name="storage_activity_title">Сховішча</string>
   <string name="storage_app_detail_activity_title">Занятая прастора</string>
   <string name="storage_app_detail_cache">Кэш</string>
@@ -3566,7 +3566,7 @@
   <string name="usb_eject_summary">Адключыце USB-назапашвальнік, каб бяспечна выдаліць яго</string>
   <string name="usb_format">Фарматаванне USB-прылады</string>
   <string name="usb_format_summary">Сцерці ўсе дадзеныя на USB-назапашвальніку (уключаючы песні і фатаграфіі)</string>
-  <string name="usb_insert_summary">Падключыце USB-прыладу</string>
+  <string name="usb_insert_summary">Падлучыце USB-прыладу</string>
   <string name="usb_mount">Змантаваць USB-прыладу</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
@@ -3596,9 +3596,9 @@
   <string name="gtb_dialog_btn_close">Выключыць</string>
   <string name="gtb_dialog_btn_open">Уключыць</string>
   <string name="gtb_dialog_hint_smart_5g">Вы можаце ўключаць і выключаць гэтую функцыю ў наладах.</string>
-  <string name="gtb_dialog_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падключыць вашу прыладу да лепшай даступнай сеткі, каб паменшыць затрымку ў сетцы. Ўключыць гэтую функцыю зараз?</string>
+  <string name="gtb_dialog_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падлучыць вашу прыладу да лепшай даступнай сеткі, каб паменшыць затрымку ў сетцы. Ўключыць гэтую функцыю зараз?</string>
   <string name="gtb_dialog_title_smart_5g">Аптымізацыя сеткі 5G</string>
-  <string name="gtb_setting_item_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падключыць вашу прыладу да лепшай даступнай сеткі, каб паменшыць затрымку ў сетцы.</string>
+  <string name="gtb_setting_item_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падлучыць вашу прыладу да лепшай даступнай сеткі, каб паменшыць затрымку ў сетцы.</string>
   <string name="gtb_setting_item_title_smart_5g">Аптымізацыя сеткі 5G</string>
   <string name="intl_app_manager_card_permission_title">Прыватнасць і дазволы</string>
   <string name="intl_perm_privacy_control_calendar">"Праграма можа атрымліваць доступ або рэдагаваць элементы календара толькі падчас яе выкарыстання"</string>
@@ -3631,7 +3631,7 @@
   <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Гэтая функцыя выкарыстоўвае вызначэння антывіруса, прадастаўленыя AVL і Tencent. Прачытайце адпаведныя &lt;a href=\"%1$s\">ліцэнзійныя пагаднення&lt;/a>, каб даведацца больш.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Гэтая функцыя выкарыстоўвае вызначэння антывіруса, прадастаўленыя Avast i AVL. Прачытайце адпаведныя &lt;a href=\"%1$s\">ліцэнзійныя пагаднення&lt;/a>, каб даведацца больш.</Data></string>
   <string name="clean_master_icon_recall_button_text">Дадаць</string>
-  <string name="clean_master_icon_recall_summary">Дадайце цэтлік на працоўны стол, каб ачысціць кошык у любы час</string>
+  <string name="clean_master_icon_recall_summary">Дадайце цэтлік на працоўны стол, каб ачысціць кошык у любы час.</string>
   <string name="clean_master_icon_recall_title">Хуткая ачыстка кошыка</string>
   <string name="clean_master_icon_recall_toast_text">Цэтлік паспяхова дададзены</string>
   <string name="app_behavior_media_volume">%1s - спроба змены гучнасці мультымедыя</string>
@@ -3653,7 +3653,7 @@
   <string name="notification_whatsapp_clean_size">WhatsApp кэш дасягнуў %s</string>
   <string name="once_settings_camera_ttile">Без мета-дадзеных</string>
   <string name="once_settings_location_title">Без інфармацыі аб месцазнаходжанні</string>
-  <string name="once_settings_subtitle">Як вы хацелі б адправіць выбраныя аб\'екты?</string>
+  <string name="once_settings_subtitle">Як вы хацелі б адправіць абраныя аб\'екты?</string>
   <string name="once_settings_title">Абарона прыватнасці</string>
   <string name="settings_camera_subtitle_no">Няма мета-дадзеных</string>
   <string name="settings_image_camera_summary">Мадэль прылады, мета-дадзеныя і г.д.</string>
@@ -3687,7 +3687,7 @@
   <string name="risk_app_install_item_des">Версія: %1$s</string>
   <string name="risk_app_install_manager">Праграмы з магчымымі рызыкамі</string>
   <string name="sd_format_summary">Выдаліць усе дадзеныя на SD-карце (уключаючы песні і фота)</string>
-  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Павелічэнне хуткасці злучэння на 10%-20% пры падключэнні да маршрутызатараў Mi/Redmi</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Павелічэнне хуткасці злучэння на 10%-20% пры падлучэнні да маршрутызатараў Mi/Redmi</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi паскарэнне</string>
   <string name="gtb_wlan_speed_tips">Выкарыстанне Mi Wi-Fi…</string>
   <string name="app_summary">Падтрымка асабістых і групавых чырвоных пакетаў</string>
@@ -3836,7 +3836,7 @@
   <string name="virus_scan_process_pre">%</string>
   <string name="warningcenter_disaster_all">Усе папярэджання</string>
   <string name="warningcenter_disaster_area_search_hint">Увядзіце рэгіён</string>
-  <string name="warningcenter_disaster_area_select">Выбраныя рэгіёны</string>
+  <string name="warningcenter_disaster_area_select">Абраныя рэгіёны</string>
   <string name="warningcenter_disaster_area_suggest">Рэкамендаваны рэгіёны</string>
   <string name="warningcenter_disaster_area_tips">* У цяперашні час сэрвіс па папярэджанні стыхійных бедстваў працуе ў раёнах Цяньцзінь, Тайшань і Лiньань, у будучыні будуць дададзеныя іншыя раёны</string>
   <string name="warningcenter_disaster_area_title">Пацярпелы раён</string>
@@ -4031,14 +4031,14 @@
   <string name="permission_instruction_draw_overlay">Гэты дазвол дазваляе праграмам адлюстроўваць плаваюць вокны-над любога іншага інтэрфейсу на вашай прыладзе, што можа паўплываць на нармальнае выкарыстанне іншых праграм. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол для чытання або збору асабістай інфармацыі (напрыклад, пароляў) праз празрыстыя плаваюць вокны.</string>
   <string name="permission_instruction_external_storage">Гэты дазвол дазваляе праграмам атрымліваць доступ да фатаграфій, мультымедыя і файлаў на вашай прыладзе. Будзьце асцярожныя з гэтым дазволам, каб пазбегнуць непатрэбнага раскрыцця асабістай інфармацыі.</string>
   <string name="permission_instruction_get_accounts">Гэты дазвол дазваляе праграмам атрымліваць доступ да спісу уліковых запісаў, якія захоўваюцца на вашай прыладзе. Гэты спіс можа ўтрымліваць ўсе вашыя асабістыя ўліковыя запісы, створаныя ўсталяванымі праграмамі, а таксама уліковыя запісы з сацыяльных сетак і сродкаў сувязі.</string>
-  <string name="permission_instruction_install_shortcuts">Гэты дазвол дазваляе праграмам ствараць цэтлікі на працоўным стале.</string>
+  <string name="permission_instruction_install_shortcuts">Гэты дазвол дазваляе праграмам ствараць цэтлікі на галоўным экране.</string>
   <string name="permission_instruction_install_unknown_source">Гэты дазвол дазваляе праграмам ўсталёўваць іншыя праграмы на вашу прыладу. Шкоднасныя праграмы выкарыстоўваюць гэты дазвол для ўстаноўкі праграм без вашага пацверджання.</string>
   <string name="permission_instruction_modify_audio_settings">Гэты дазвол дазваляе праграмам змяняць налады гуку (напрыклад, рэгуляваць гучнасць без вашага пацверджання). Магчыма, вы не зможаце рэгуляваць гучнасць у некаторых праграмах, калі не дасце ім гэта дазвол.</string>
   <string name="permission_instruction_nfc">Гэты дазвол дазваляе праграмам абменьвацца дадзенымі з картамі і прыладамі NFC.</string>
   <string name="permission_instruction_notification_adjustment">Гэты дазвол дазваляе праграмам прадастаўляць больш персаналізаваныя і разнастайныя адаптыўныя паведамленнi.</string>
   <string name="permission_instruction_ongoing_notification">Гэты дазвол дазваляе праграмам ствараць пастаянныя цэтлікі ў панэлі апавяшчэнняў, што можа перашкодзіць вам бачыць звычайныя паведамленнi.</string>
   <string name="permission_instruction_package_usage_stat">Гэты дазвол дазваляе праграмам адсочваць паводзіны іншых праграм на вашай прыладзе і атрымліваць інфармацыю, якая можа ўключаць вашага аператара сувязі і моўныя налады. Гэта дазвол з высокім рызыкай. Ваша прылада можа знаходзіцца пад наглядам, і бяспека вашай асабістай інфармацыі таксама можа быць пад пагрозай.</string>
-  <string name="permission_instruction_picture_in_picture">Гэты дазвол дазваляе праграмам адлюстроўваць элементы на працоўны стол або па-над іншых праграм праз інтэрфейс «вiдарыс у вiдарысу».</string>
+  <string name="permission_instruction_picture_in_picture">Гэты дазвол дазваляе праграмам адлюстроўваць элементы на галоўным экране або па-над іншых праграм праз інтэрфейс «вiдарыс у вiдарысу».</string>
   <string name="permission_instruction_popup_window">Гэты дазвол дазваляе праграмам адлюстроўваць плаваючыя вокны з пад любога іншага інтэрфейсу на вашай прыладзе, што можа паўплываць на нармальнае выкарыстанне іншых праграм. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол для чытання або збору асабістай інфармацыі (напрыклад, пароляў) праз празрыстыя плаваючыя вокны.</string>
   <string name="permission_instruction_read_appplication_list">Гэты дазвол дазваляе праграмам атрымліваць доступ да інфармацыі аб усіх праграмах, устаноўленых на вашай прыладзе. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол для аналізу вашых асабістых пераваг.</string>
   <string name="permission_instruction_read_calllog">Гэты дазвол дазваляе праграмам атрымліваць доступ да гісторыі выклікаў, якая можа ўтрымліваць падрабязную інфармацыю аб вашых якія ўваходзяць і выходных выкліках. Гэта дазвол таксама дазваляе праграмам захоўваць запісы гісторыі выклікаў. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол, каб дзяліцца вашай гісторыяй выклікаў з трэцімі асобамі або выкарыстоўваць вашу гісторыю выклікаў для махлярства.</string>
@@ -4082,7 +4082,7 @@
   <string name="gb_voice_changer_free">Бясплатна</string>
   <string name="gb_voice_changer_gender_female">Жаночы</string>
   <string name="gb_voice_changer_gender_man">Мужчынскі</string>
-  <string name="gb_voice_changer_headset">Падключыце навушнікі, каб выкарыстоўваць зваротную сувязь у рэальным часе</string>
+  <string name="gb_voice_changer_headset">Падлучыце навушнікі, каб выкарыстоўваць зваротную сувязь у рэальным часе</string>
   <string name="gb_voice_changer_recommend">Рэкамендаваныя</string>
   <string name="gb_voice_changer_renew_dailog">Прадоўжыце падпіску, каб выкарыстаць гэты эфект.</string>
   <string name="gb_voice_changer_setting_account_title">Xiaomi акаўнт</string>
@@ -4149,8 +4149,8 @@
   <string name="privacy_thumbnail_blur_title">Размыццё папярэдняга прагляду</string>
   <string name="privacy_thumbnail_blur_top_tip">Выберыце праграмы, папярэдні прагляд якіх будзе размыты ў Нядаўнiх</string>
   <string name="network_disable_dialog_btn_text">Зразумела</string>
-  <string name="network_disable_dialog_content">Ваша прылада павінна падключыцца да сеткі, каб вы маглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
-  <string name="network_disable_dialog_title">Не ўдаецца падключыцца да сеткі</string>
+  <string name="network_disable_dialog_content">Ваша прылада павінна падлучыцца да сеткі, каб вы маглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="network_disable_dialog_title">Не ўдаецца падлучыцца да сеткі</string>
   <string name="privacy_dialog_content_part1">Сардэчна запрашаем у Бяспеку! Гэта праграма правярае вашу прыладу на наяўнасць смецця і вірусаў, а таксама дазваляе кіраваць праграмамі, кантраляваць выкарыстанне мабільных дадзеных, блакаваць выклiкі і паведамленнi і г.д.</string>
   <string name="privacy_dialog_content_part2"><Data>Бяспека павінна збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам свае паслугі і мець магчымасць паляпшаць свае функцыі. Вы можаце даведацца, як мы апрацоўваем збіраць інфармацыю, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці ў Наладах.</Data></string>
   <string name="privacy_dialog_content_part3"><Data>Прачытайце і прыміце нашы &lt;a href=\"%2$s\">Карыстацкае пагадненне&lt;/a> і &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем Бяспекі. Калі вы не пагодзіцеся выкарыстоўваць вышэйзгаданыя службы, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы; аднак яе асноўныя функцыі па-ранейшаму будуць вам даступныя.</Data></string>
@@ -4293,8 +4293,8 @@
   <string name="privacy_risk_sensitive_second_title">Вы надалі канфідэнцыйныя дазволы</string>
   <string name="privacy_risk_sensitive_storage">Дазволіць праграмам атрымліваць доступ да файлаў або захоўваць іх</string>
   <string name="privacy_risk_sensitive_top_tip">Каб абараніць вашу прыватнасць, прадастаўляйце канфідэнцыйныя дазволы толькі тады, калі гэта неабходна.</string>
-  <string name="privacy_risk_space_uninstall_dialog_msg">Выдаліць ​​выбраныя праграмы, уключаючы іх клоны?</string>
-  <string name="privacy_risk_uninstall_dialog_msg">Выдаліць выбраныя праграмы зараз?</string>
+  <string name="privacy_risk_space_uninstall_dialog_msg">Выдаліць ​​абраныя праграмы, уключаючы іх клоны?</string>
+  <string name="privacy_risk_uninstall_dialog_msg">Выдаліць абраныя праграмы зараз?</string>
   <string name="privacy_risk_uninstall_dialog_title">ОК</string>
   <string name="privacy_risk_uninstall_title">Выдаленне праграм</string>
   <string name="privacy_risk_work_encryption">Сацыяльныя сеткі і офісныя файлы не абароненыя</string>
@@ -4316,16 +4316,16 @@
   <string name="pc_battery_history_battery_software_menu_item">Праграмы</string>
   <string name="pc_battery_history_consume_all_menu_item">Усе</string>
   <string name="pc_battery_history_consume_hardware_menu_item">Абсталяванне</string>
-  <string name="power_center_abnormal_consume_analysis">Парушэнні энергаспажывання</string>
+  <string name="power_center_abnormal_consume_analysis">Анамаліі энергаспажывання</string>
   <string name="power_center_battery_all">Усе</string>
   <string name="power_center_battery_app_detail">Выкарыстанне батарэі праграмай</string>
   <string name="power_center_battery_charge_night">Эканомія батарэі пры зарадцы ноччу</string>
-  <string name="power_center_battery_charge_times">Сёння зараджалася</string>
+  <string name="power_center_battery_charge_times">Зараджалася</string>
   <string name="power_center_battery_chargefull_time">Да поўнай зарадкі</string>
   <string name="power_center_battery_detail">Падрабязнасці</string>
   <string name="power_center_battery_duration">Засталося часу</string>
   <string name="power_center_battery_hardware">Абсталяванне %s</string>
-  <string name="power_center_battery_level">Зараджана на %s</string>
+  <string name="power_center_battery_level">Зарад: %s</string>
   <string name="power_center_battery_level_general">Нармальны</string>
   <string name="power_center_battery_software">Праграмы %s</string>
   <string name="power_center_battery_status">Стан батарэі</string>
@@ -4497,7 +4497,7 @@
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">да н. э.</string>
   <string name="evening">Поўдзень</string>
-  <string name="ew_guide_statement_text_new">Гэтая адмова ад адказнасці распаўсюджваецца на ўсіх карыстальнікаў (у далейшым названых «вы»), якія ўключаюць функцыю папярэджання пра землятрус. Згаджаючыся з гэтым адмовай ад адказнасці, вы складаеце юрыдычна абавязвае дамову з Xiaomi Inc. і яе афіляваныя асобамі (далей званымі «Xiaomi»). Вы пацвярджаеце, што прачыталі ўсе ўтрыманне гэтай адмовы ад адказнасці, цалкам разумееце і згаджаецеся з усімі палажэннямі і ўмовамі гэтага адмовы; у адваротным выпадку вам варта неадкладна адключыць функцыю папярэджання пра землятрус.\nУ адпаведнасці з адпаведнымі законамі і пастановамі Xiaomi прадаставіць вам паслугі ранняга папярэджання ў залежнасці ад вобласці маніторынгу ранняга папярэджання аб землятрусах, ахоплівае адпаведнымі агенцтвамі. Гэта значыць, калі вы уключыце функцыю папярэджання аб землятрусах, вы зможаце атрымліваць папярэджання аб землятрусах, выпушчаныя для пэўных абласцей. Вы можаце знайсці канкрэтныя зоны пакрыцця ў Наладах.\nГэтая функцыя дае вам функцыю папярэджання аб землятрусах. Вы павінны разумець, што інфармацыя пра землятрус прадастаўляецца Інстытутам памяншэння небяспекі стыхійных бедстваў Чэнду. Xiaomi не курыруе гэтую арганізацыю і не кантралюе яе.\nXiaomi ня абяцае і не гарантуе дакладнасць, дакладнасць і своечасовасць інфармацыі аб землятрусах, а таксама не гарантуе, што служба папярэджання аб землятрусах задаволіць усе вашыя патрэбы.\nДля атрымання папярэджанняў аб землятрусах неабходна, каб ваша прылада было падключана да мабільнай сеткі. Збоі іншых ліній сувязі, тэхнічныя праблемы, збоі сеткі або канцавога абсталявання, нестабільнасць сістэмы і іншыя розныя форс-мажорныя абставіны могуць перашкодзіць вам атрымаць інфармацыю пра землятрус. Xiaomi не нясе адказнасці за любыя страты, выкліканыя такімі падзеямі.\nВы павінны разумець, што гэтая функцыя прадастаўлена толькі для даведкі. Папярэджанне можа з\'явіцца цягам некалькіх секунд да пачатку землятрусу. Вы несяце аднаасобную адказнасць за рызыкі і наступствы любых дзеянняў, якія вы выконваеце на падставе інфармацыі, прадстаўленай гэтай функцыяй.</string>
+  <string name="ew_guide_statement_text_new">Гэтая адмова ад адказнасці распаўсюджваецца на ўсіх карыстальнікаў (у далейшым названых «вы»), якія ўключаюць функцыю папярэджання пра землятрус. Згаджаючыся з гэтым адмовай ад адказнасці, вы складаеце юрыдычна абавязвае дамову з Xiaomi Inc. і яе афіляваныя асобамі (далей званымі «Xiaomi»). Вы пацвярджаеце, што прачыталі ўсе ўтрыманне гэтай адмовы ад адказнасці, цалкам разумееце і згаджаецеся з усімі палажэннямі і ўмовамі гэтага адмовы; у адваротным выпадку вам варта неадкладна адключыць функцыю папярэджання пра землятрус.\nУ адпаведнасці з адпаведнымі законамі і пастановамі Xiaomi прадаставіць вам паслугі ранняга папярэджання ў залежнасці ад вобласці маніторынгу ранняга папярэджання аб землятрусах, ахоплівае адпаведнымі агенцтвамі. Гэта значыць, калі вы уключыце функцыю папярэджання аб землятрусах, вы зможаце атрымліваць папярэджання аб землятрусах, выпушчаныя для пэўных абласцей. Вы можаце знайсці канкрэтныя зоны пакрыцця ў Наладах.\nГэтая функцыя дае вам функцыю папярэджання аб землятрусах. Вы павінны разумець, што інфармацыя пра землятрус прадастаўляецца Інстытутам памяншэння небяспекі стыхійных бедстваў Чэнду. Xiaomi не курыруе гэтую арганізацыю і не кантралюе яе.\nXiaomi ня абяцае і не гарантуе дакладнасць, дакладнасць і своечасовасць інфармацыі аб землятрусах, а таксама не гарантуе, што служба папярэджання аб землятрусах задаволіць усе вашыя патрэбы.\nДля атрымання папярэджанняў аб землятрусах неабходна, каб ваша прылада было падлучана да мабільнай сеткі. Збоі іншых ліній сувязі, тэхнічныя праблемы, збоі сеткі або канцавога абсталявання, нестабільнасць сістэмы і іншыя розныя форс-мажорныя абставіны могуць перашкодзіць вам атрымаць інфармацыю пра землятрус. Xiaomi не нясе адказнасці за любыя страты, выкліканыя такімі падзеямі.\nВы павінны разумець, што гэтая функцыя прадастаўлена толькі для даведкі. Папярэджанне можа з\'явіцца цягам некалькіх секунд да пачатку землятрусу. Вы несяце аднаасобную адказнасць за рызыкі і наступствы любых дзеянняў, якія вы выконваеце на падставе інфармацыі, прадстаўленай гэтай функцыяй.</string>
   <string name="file_confirm_start_activity">%s не дазволены доступ да вашай галерэі і праграмам сацыяльных сетак. Гэта праграма хоча атрымаць доступ да файлаў, якія захоўваюцца на гэтай прыладзе для абмену элементамі. Дазволіць?</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -5011,8 +5011,8 @@
   <string name="power_wireless_update_notification_title">Абнаўленне бесправадной зарадкі</string>
   <string name="power_wireless_update_text">У актуальным стане</string>
   <string name="power_wireless_update_tv_text">Абнаўленне прашыўкі... Не выключайце прыладу.</string>
-  <string name="setting_wireless_reverse_charging_fg_control_summary">Спыніць зваротную бесправадную зарадку, калі зарад батарэі гэтай прылады дасягне %s</string>
-  <string name="setting_wireless_reverse_charging_summary">Змясціце прыладу, якая падтрымлівае бесправадную зарадку Qi (напрыклад, тэлефон або насімая прылада), у цэнтр задняй часткі гэтай прылады</string>
+  <string name="setting_wireless_reverse_charging_fg_control_summary">Спыніць зваротную бесправадную зарадку, калі зарад батарэі гэтай прылады стане ніжэй %s</string>
+  <string name="setting_wireless_reverse_charging_summary">Змясціце прыладу, якая падтрымлівае бесправадную зарадку Qi (напрыклад, тэлефон або насімая прылада), у цэнтр задняй панэлі гэтай прылады</string>
   <string name="antivirus_browser_check">Праверка вэб-сайтаў у Mi Браўзэры</string>
   <string name="antivirus_browser_check_summary">Аўтаматычна правяраць вэб-сайты ў Mi Браўзэры і папярэджваць аб магчымых рызыках</string>
   <string name="antivirus_monitored_tips">Аўтаматычна правяраць аплатную сераду на наяўнасць магчымых рызык</string>
@@ -5332,7 +5332,7 @@
   <string name="gtb_guide_gtb_func_title">Паскарэнне гульняў</string>
   <string name="gtb_guide_gtb_line_new">Паспрабуйце прадуктыўны рэжым у паскарэнні гульняў!</string>
   <string name="gtb_guide_small_window_app_desc">Выкарыстоўвайце іншыя праграмы падчас гульні</string>
-  <string name="gtb_guide_small_window_app_title">Аконныя праграмы</string>
+  <string name="gtb_guide_small_window_app_title">Ваконныя праграмы</string>
   <string name="gtb_guide_gtb_game_effected">Ужыта</string>
   <string name="gtb_guide_gtb_game_new">Новае</string>
   <string name="behavior_widget_get_installed_apps">Доступ да праграм</string>
@@ -5357,7 +5357,7 @@
   <string name="pc_fast_charge_notifi_power_threshold_title">Усталюйце ўзровень зарада для напамінкаў</string>
   <string name="pc_fast_charge_notifi_summary">Зарадка да %s хутчэй, чым звычайна…</string>
   <string name="pc_fast_charge_notifi_summary_on">Хуткасць зарадкі павялічваецца, калі экран выключаны. Ваша прылада будзе награвацца.</string>
-  <string name="pc_fast_charge_notifi_switch_summary">Апавяшчаць аб павелічэнні хуткасці зарадкі, калі зарадная прылада %d Вт падключана і ўзровень зарада батарэі ніжэй устаноўленага.</string>
+  <string name="pc_fast_charge_notifi_switch_summary">Апавяшчаць аб павелічэнні хуткасці зарадкі, калі зарадная прылада %d Вт падлучана і ўзровень зарада батарэі ніжэй устаноўленага.</string>
   <string name="pc_fast_charge_notifi_switch_title">Апавяшчаць аб паскарэнні</string>
   <string name="pc_fast_charge_notifi_title">Зарадка %d Вт</string>
   <string name="pc_fast_charge_notifi_title_on">Спыніць паскарэнне зарадкі</string>
@@ -5433,7 +5433,7 @@
   <string name="add_miservice_dialog_title">Сэрвісная платформа MIUI</string>
   <string name="auto_task_allow_suggestion">Інтэлектуальныя прапановы задач</string>
   <string name="auto_task_available_device">Даступныя прылады</string>
-  <string name="auto_task_conncet_to_some_device">Падключыцца да %s</string>
+  <string name="auto_task_conncet_to_some_device">Падлучыцца да %s</string>
   <string name="auto_task_create_success">Задача паспяхова створана</string>
   <string name="auto_task_custom_time">Усталяваць час</string>
   <string name="auto_task_custom_time_lable">хв.</string>
@@ -5442,12 +5442,12 @@
   <string name="auto_task_default_add_to_task_list">Дадаць у \"Мае задачы\"</string>
   <string name="auto_task_default_do_action">Тады</string>
   <string name="auto_task_default_if_exclude">Калі</string>
-  <string name="auto_task_default_task_summary_driver_car">Уключыць пункт доступу пры падключэнні да аўтамабільнай сістэмы праз Bluetooth</string>
+  <string name="auto_task_default_task_summary_driver_car">Уключыць пункт доступу пры падлучэнні да аўтамабільнай сістэмы праз Bluetooth</string>
   <string name="auto_task_default_task_summary_get_up">Выключыць рэжым \"Не турбаваць\" і зноў ўключыць Bluetooth, Wi-Fi і інтэрнэт</string>
   <string name="auto_task_default_task_summary_listen_music">Прайграць музыку і выбраць тып навушнікаў</string>
   <string name="auto_task_default_task_summary_meet">Запланаваць час сустрэчы і ўключыць рэжым \"Не турбаваць\"</string>
   <string name="auto_task_default_task_summary_noon_break">Запланаваць час абеду і ўключыць рэжым \"Не турбаваць\"</string>
-  <string name="auto_task_default_task_summary_save_power">Уключыць рэжым энергазберажэння, калі ўзровень зарада батарэі ніжэй 30%</string>
+  <string name="auto_task_default_task_summary_save_power">"Уключыць рэжым энергазберажэння, калі ўзровень зарада батарэі ніжэй 30%"</string>
   <string name="auto_task_default_task_summary_sleep">Запланаваць час адыходу да сну і наладзіць паводзіны прылады</string>
   <string name="auto_task_default_task_summary_watch_video">Запусціць праграму, ўключыць Wi-Fi, адрэгуляваць гучнасць</string>
   <string name="auto_task_default_task_title_driver_car">У машыне</string>
@@ -5510,7 +5510,7 @@
   <string name="auto_task_voice_dialog_alarm_title">Будзільнікi</string>
   <string name="auto_task_voice_dialog_call_title">Выклікі, паведамленнi, нагадванні</string>
   <string name="auto_task_voice_dialog_media_title">Музыка, гульні, медыя</string>
-  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым 20%\"</string>
+  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым %s\"</string>
   <string name="default_condition_title">Дадаць ўмову</string>
   <string name="default_condition_title_continue">Дадаць ўмову</string>
   <string name="default_result_summary">Напрыклад: \"Выключыць рэжым палёту\"</string>
@@ -5519,7 +5519,7 @@
   <string name="edit_new_task_name">Увядзіце назву задачы</string>
   <string name="eew_privacy_revoke_title">Адклікаць згоду з Палітыкай прыватнасці папярэджання пра землятрус</string>
   <string name="ew_monitor_privacy_revoke_title">Адклікаць згоду на Палітыку прыватнасці маніторынгу землятрусаў</string>
-  <string name="network_disable_dialog_content_cn">Ваша прылада павінна падключыцца да сеткі, каб вы маглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="network_disable_dialog_content_cn">Ваша прылада павінна падлучыцца да сеткі, каб вы маглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="new_condition_communication">Узаемадзеянне</string>
   <string name="new_condition_event">Падзеі</string>
   <string name="new_condition_setting_item">Налада</string>
@@ -5560,7 +5560,7 @@
   <string name="summary_condition_charge_to_target_percent">Пры зарадцы да %d%%</string>
   <string name="summary_condition_close_absorbed_mode">Пасля выключэння рэжыму канцэнтрацыі</string>
   <string name="summary_condition_in_charge">Падчас зарадкі</string>
-  <string name="summary_condition_insert_headset">Пры падключэнні правадных навушнікаў</string>
+  <string name="summary_condition_insert_headset">Пры падлучэнні правадных навушнікаў</string>
   <string name="summary_condition_missing_call">Прапушчаны выклік</string>
   <string name="summary_condition_no_in_charge">Калі не зараджаецца</string>
   <string name="summary_condition_open_absorbed_mode">Пасля ўключэння рэжыму канцэнтрацыі</string>
@@ -5569,7 +5569,7 @@
   <string name="summary_condition_scan_rubbish">Ачыстка</string>
   <string name="summary_condition_scan_virus">Антывірус</string>
   <string name="summary_condition_unplug_headset">Пры адключэнні правадных навушнікаў</string>
-  <string name="summary_condition_wired_charge">Пры падключэнні зараднай прылады</string>
+  <string name="summary_condition_wired_charge">Пры падлучэнні зараднай прылады</string>
   <string name="summary_condition_wireless_charge">Пры бесправадной зарадцы</string>
   <string name="summary_confirm_open_flashligt">Уключыць ліхтарык?</string>
   <string name="summary_confirm_open_meeting_tips">Уключыць напамін пра сустрэчу?</string>
@@ -5890,7 +5890,7 @@
   <string name="gb_xunyou_gift_type_three_new">Паскарэнне Xunyou на %d д.</string>
   <string name="gb_xunyou_gift_type_two_new">Паскарэнне Xunyou на %d у.</string>
   <string name="gs_sign_notification_new">Нагадваць аб рэгістрацыі ў %d ПП штодня</string>
-  <string name="gtb_setting_item_summary_smart_wlan_speed_new">Павялічыць хуткасць злучэння на %1$s-%2$s пры падключэнні да маршрутызатараў Mi/Redmi</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed_new">Павялічыць хуткасць злучэння на %1$s-%2$s пры падлучэнні да маршрутызатараў Mi/Redmi</string>
   <string name="memory_clean_no_need_clean_1_new" formatted="false">Вызвалена %s\nПаскорана на %s</string>
   <string name="menu_item_notification_optimize_text_new">%s занята</string>
   <string name="menu_summary_garbage_cleanup_new_new">%s сховішча</string>
@@ -5982,7 +5982,7 @@
   <string name="settings_negative_button_text">Не зараз</string>
   <string name="storage_app_public_desc">Займае %s, у тым ліку файлы, згенераваныя у агульным сховішчы</string>
   <string name="storage_app_public_title">Агульныя файлы</string>
-  <string name="storage_file_delete_tip">Выдаліць выбраныя элементы назаўжды? Некаторыя з іх могуць быць загружаны зноў пры неабходнасці.</string>
+  <string name="storage_file_delete_tip">Выдаліць абраныя элементы назаўжды? Некаторыя з іх могуць быць загружаны зноў пры неабходнасці.</string>
   <string name="storage_file_dialog_delete_title">Выдаліць элементы</string>
   <string name="storage_file_list_btn">Выдаліць %1$s</string>
   <string name="storage_file_list_form_default">SD-карта</string>
@@ -6038,7 +6038,7 @@
   <string name="gb_predownload_dialog_cancel">Не, дзякуй</string>
   <string name="gb_predownload_dialog_checked">Больш не паказваць</string>
   <string name="gb_predownload_dialog_confirm">Уключыць</string>
-  <string name="gb_predownload_dialog_message_china"><Data>"Абноўлены кантэнт для гэтай гульні можа быць загружаны на гэтую прыладу аўтаматычна пасля таго, як вы падключыцеся да Wi-Fi і выключыце экран. Такім чынам, вы зможаце выкарыстоўваць новую версію, як толькі яна будзе выпушчана.&lt;br>&lt;br>Перад выкарыстаннем гэтай функцыі прачытайце &lt;a href=\"%1$s\">Заяву аб фонавых абнаўленнях&lt;/a> і пагадзіцеся з ім."</Data></string>
+  <string name="gb_predownload_dialog_message_china"><Data>"Абноўлены кантэнт для гэтай гульні можа быць загружаны на гэтую прыладу аўтаматычна пасля таго, як вы падлучыцеся да Wi-Fi і выключыце экран. Такім чынам, вы зможаце выкарыстоўваць новую версію, як толькі яна будзе выпушчана.&lt;br>&lt;br>Перад выкарыстаннем гэтай функцыі прачытайце &lt;a href=\"%1$s\">Заяву аб фонавых абнаўленнях&lt;/a> і пагадзіцеся з ім."</Data></string>
   <string name="gb_predownload_dialog_title">Фонавыя абнаўленні ўжо даступныя</string>
   <string name="gb_predownload_message">Абнаўляйце King of Glory, Game for Peace і іншыя сумяшчальныя гульні ў фонавым рэжыме, калі вы не выкарыстоўваеце гэтую прыладу</string>
   <string name="gb_predownload_noti_message">%2$1.2f Гб абноўленага кантэнту ўжо знаходзіцца на гэтай прыладзе. Вы зможаце выкарыстоўваць яго, як толькі будзе выпушчана новая версія.</string>
@@ -6228,7 +6228,7 @@
   <string name="dialog_btn_yes_create_icon">Дадаць</string>
   <string name="dialog_msg_create_icon_content">Дадаць цэтлiк на працоўны стол?</string>
   <string name="dialog_msg_create_icon_not_remain_anymore">Больш не паказваць</string>
-  <string name="dialog_msg_delete_icon_content">Бяспека дазваляе чысціць кошык на вашай прыладзе, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г.д.</string>
+  <string name="dialog_msg_delete_icon_content">Бяспека дазваляе чысціць кошык на вашай прыладзе, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
   <string name="dialog_msg_delete_icon_title">Выдаліць гэты цэтлік на працоўным стале?</string>
   <string name="gb_beauty_cold_light">Халодны</string>
   <string name="gb_beauty_face">Упрыгожванне</string>
@@ -6236,10 +6236,61 @@
   <string name="gb_beauty_nature_light">Натуральны</string>
   <string name="gb_beauty_warm_light">Цёплы</string>
   <string name="manual_item_create_icon_title">Цэтлiк \"Бяспека\"</string>
-  <string name="power_center_battery_duration_screen_on">Засталося экраннага часу</string>
+  <string name="power_center_battery_duration_screen_on">Засталося часу</string>
   <string name="power_center_dialog_msg_title_screen_on">Вы атрымаеце %1$s экраннага часу, калі ўключыце гэтую функцыю. Вось парады па эканоміі зарада батарэі:</string>
   <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
   <string name="power_main_open_last_hour_minute_screen_on">Уключыце, каб дадаць %1$s %2$s экраннага часу</string>
+  <string name="chip_text">Тэкст чыпа</string>
+  <string name="exit_guide_track_component_value_app_predict">Праграмы 2*4</string>
+  <string name="exit_guide_track_component_value_health">Здароўе 2*2</string>
+  <string name="exit_guide_track_component_value_power">Батарэя 2*2</string>
+  <string name="exit_guide_track_component_value_privacy_protect">Абарона 2*2</string>
+  <string name="exit_guide_track_component_value_ram_jat">Паскарэнне 2*2</string>
+  <string name="exit_guide_track_function_value_app_predict">Кіраванне праграмамі</string>
+  <string name="exit_guide_track_function_value_health">Ваша здароўе</string>
+  <string name="exit_guide_track_function_value_power">Батарэя</string>
+  <string name="exit_guide_track_function_value_privacy_protect">Абарона прыватнасцi</string>
+  <string name="exit_guide_track_function_value_ram_jat">Аптымізацыя і паскарэнне</string>
+  <string name="exit_guide_track_quite_value_activity_finish">Закрыць</string>
+  <string name="exit_guide_track_quite_value_click_add">Націсніце, каб дадаць віджэт</string>
+  <string name="exit_guide_track_quite_value_click_exit">Націсніце, каб закрыць</string>
+  <string name="material_slider_range_end">Канец дыяпазону</string>
+  <string name="material_slider_range_start">Пачатак дыяпазону</string>
+  <string name="material_timepicker_am">ДП</string>
+  <string name="material_timepicker_pm">ПП</string>
+  <string name="quite_track_value_string_click_add_button">Націсніце, каб дадаць віджэт</string>
+  <string name="quite_track_value_string_click_empty">Націсніце на пустое месца</string>
+  <string name="quite_track_value_string_slide_down">Правядзіце ўніз</string>
+  <string name="scan_widget_guide_button_text">Дадаць віджэт</string>
+  <string name="scan_widget_guide_message">Цалкам абараніце свой тэлефон</string>
+  <string name="scan_widget_guide_title">Новы віджэт</string>
+  <string name="widget_appbehavior_apps_count_unit">раз</string>
+  <string name="widget_appbehavior_apps_title">Праграма А і яшчэ 3 праграмы</string>
+  <string name="widget_back_guide_appbehavior_summary">Прывтнасць і бяспека</string>
+  <string name="widget_back_guide_appbehavior_title">Абарона прыватнасцi</string>
+  <string name="widget_back_guide_apppredict_summary">Разумная рэкамендацыя, хуткі запуск праграм</string>
+  <string name="widget_back_guide_apppredict_title">Прапановы праграм</string>
+  <string name="widget_back_guide_cleaner_summary">Ачысціце тэлефон ад смецця адным націскам</string>
+  <string name="widget_back_guide_cleaner_title">Ачыстка кошыка</string>
+  <string name="widget_back_guide_health_summary">Ваша Здароўе на працоўным стале</string>
+  <string name="widget_back_guide_health_title">Здароўе</string>
+  <string name="widget_back_guide_power_summary">Прагляд зарада ўсіх прылад</string>
+  <string name="widget_back_guide_power_title">Батарэя</string>
+  <string name="widget_back_guide_ramjat_summary">Паскорце працу тэлефона, вызваліце ​​памяць адным націскам</string>
+  <string name="widget_back_guide_ramjat_title">Паскарэнне</string>
+  <string name="widget_back_guide_safe_summary">Кіруйце тэлефонам і пазнавайце яго статус</string>
+  <string name="widget_back_guide_safe_title">Мабільны менеджэр</string>
+  <string name="widget_behavior_perm_text">Чытанне фота і файлаў</string>
+  <string name="widget_button_text">Дадаць віджэт</string>
+  <string name="widget_cleaner_message">Выдаленае смецце</string>
+  <string name="widget_cleaner_text_1">Ачыстка</string>
+  <string name="widget_health_message">Тэлефон у бяспецы, працягвайце аптымізацыю</string>
+  <string name="widget_power_size_message">Засталося: 34 гадзіны 2 хвіліны</string>
+  <string name="widget_ramjat_cleaned_summary">823 Мб памяці вызвалена</string>
+  <string name="widget_ramjat_cleaned_text">Паскарэнне</string>
+  <string name="widget_ramjat_message">Свабодная памяць</string>
+  <string name="widget_safe_title">Смецце</string>
+  <string name="widget_safe_title_1">Занята памяці</string>
   <string name="application_mode_name">Макеты праграм</string>
   <string name="bh_buy_order_fail_tips_text">Адбылася памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="bh_card_order_detail">Інфармацыя аб замове</string>
@@ -6276,7 +6327,7 @@
   <string name="bh_product_list_all">Усе тарыфныя планы</string>
   <string name="bh_product_status_abnormal_click_phone_text">Націсніце, каб усталяваць уручную.</string>
   <string name="bh_product_status_abnormal_phone_text">Не атрымалася распазнаць нумар тэлефона.</string>
-  <string name="bh_product_status_no_net_text">Немагчыма падключыцца да сеткі</string>
+  <string name="bh_product_status_no_net_text">Немагчыма падлучыцца да сеткі</string>
   <string name="bh_product_status_no_resources_text">Гэтыя элементы зараз недаступныя. Паспрабуйце іншыя тарыфныя планы.</string>
   <string name="bh_purchase_dialog_cilck_to_buy">Купіць</string>
   <string name="bh_purchase_dialog_number_text">"Нумар тэлефона: "</string>
@@ -6375,15 +6426,15 @@
   <string name="terminal_privacy_ability_others">Іншыя механізмы</string>
   <string name="terminal_privacy_ability_others_summary">Дэманстрацыя экрана, тэсціраванне плацежнага асяроддзя, распазнаванне адбіткаў пальцаў і твару</string>
   <string name="terminal_privacy_ability_suggest">Рэкамендацыі</string>
-  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з тэчак працоўнага стала, стужкі віджэтаў і Mi ШІ</string>
+  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з тэчак працоўнага стала, персанальнага памочніка і Mi Кашалька</string>
   <string name="terminal_privacy_ability_summary">*Функцыі і механізмы абароны канфідэнцыйнасці на прыладзе могуць адрознівацца ў залежнасці ад мадэлі прылады</string>
   <string name="terminal_privacy_ability_txt">Тэкст</string>
   <string name="terminal_privacy_ability_txt_summary">Рэдагаванне тэксту, інтэлектуальныя субтытры, Taplus, паведамленні і агульны буфер абмену</string>
-  <string name="terminal_privacy_ability_voice">Разпазнаванне гаворкі</string>
+  <string name="terminal_privacy_ability_voice">Разнаванне гаворкі</string>
   <string name="terminal_privacy_ability_voice_summary">Галасавыя каманды і інтэлектуальныя субтытры</string>
   <string name="terminal_privacy_instruction">Абарона канфідэнцыйнасці на прыладзе ўключае функцыі, якія гарантуюць, што ваша асабістая інфармацыя будзе захоўвацца на гэтай прыладзе, а не загружацца ў воблака</string>
   <string name="terminal_privacy_summary">Апрацоўваць асабістую інфармацыю на гэтай прыладзе</string>
-  <string name="gamebox_game_center_app_not_find">Спачатку ўсталюйце гульні</string>
+  <string name="gamebox_game_center_app_not_find">Спачатку ўсталюеце гульні</string>
   <string name="gb_barrage_dnd_conflict_toast">Каб выкарыстоўваць каментары на экране, спачатку адключыце функцыю \"Не турбаваць\"</string>
   <string name="gb_dnd_barrage_conflict_toast">Вы не зможаце выкарыстоўваць каментары на экране, калі ўключаны рэжым \"Не турбаваць\"</string>
   <string name="blacklist_prefix_add_hint_only_sms">Блакіраваць паведамленні з нумароў з пэўнымі прэфіксамі</string>
@@ -6534,6 +6585,8 @@
   <string name="scan_status_not_complete">Не завершана</string>
   <string name="screen_type_external">Вонкавы экран</string>
   <string name="screen_type_internal">Унутраны экран</string>
+  <string name="model_type_pad">Планшэт</string>
+  <string name="model_type_phone">Тэлефон</string>
   <string name="gtb_casual_guide_toast">Адкрыйце для сябе яшчэ больш у гульнях</string>
   <string name="pc_close_notifi_action">Выключыць</string>
   <string name="vb_video_effects_dolby_tips">Пашыраны дыялог і Пашыранае стэрэа не будуць працаваць пры ўключаным імерсіўным гуку</string>
@@ -6586,4 +6639,19 @@
   <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">*Гэты эфект будзе прымяняцца толькі да вобласці прайгравання відэа.\n\nГэта функцыя не працуе з палепшанымі відэа.\n\nУключэнне аднаго выключыць другое.</string >
   <string name="vb_ve_settings_display_style_tips_with_conflict_tips">*Гэты эфект будзе прымяняцца да ўсяго экрана.\n\nГэта функцыя не працуе з палепшанымі відэа.\n\nУключэнне аднаго выключыць другое.</string>
   <string name="vb_video_effects_immersion_sound_summary_new">Выпрабуйце адчуванне прасторы пры прайграванні падтрымліваемага гуку</string>
+  <string name="app_name_securitycenter_new">Бяспека</string>
+  <string name="cta_main_purpose_new">Сардэчна запрашаем у Бяспеку! Вы можаце выкарыстоўваць Бяспеку і яе модулі (уключаючы кампаненты бяспекі MIUI, службы бяспекі і сістэмы), каб вызваліць месца на дыску, праверыць прыладу на наяўнасць вірусаў, кантраляваць выдатак зарада батарэі, аптымізаваць сваю прыладу для гульняў, кіраваць праграмамі і г. д. Кампаненты бяспекі MIUI будуць падлучацца да Інтэрнэту і выконваць сканаванне бяспекі, пакуль вы ўсталёўваеце праграмы і здзяйсняеце плацяжы.</string>
+  <string name="app_manager_thumbnail_shield_summary">Утаіць прэв\'ю праграм у раздзеле \"Нядаўнія\"</string>
+  <string name="blur_location_title">Прыблізнае месцазнаходжанне</string>
+  <string name="dynamic_performance_optimization_summary">Дынамічнае рэгуляванне раздзяляльнасцi падчас гульнявых сесій</string>
+  <string name="dynamic_performance_optimization_title">Дынамічная прадукцыйнасць</string>
+  <string name="gb_vision_enhance_frme_insertion_tips">"Разумная частата кадраў
+%d FPS"</string>
+  <string name="input_hint_search_app">Пошук праграм</string>
+  <string name="overlay_permission_dialog_comment_security_service">Дазвольце \"Інструментам бяспекі\" паказваць элементы па-над іншымі праграмамi. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="overlay_permission_dialog_message_security_service">Для нармальнай працы сістэме бяспекі патрабуюцца пэўныя дазволы.</string>
+  <string name="privacy_thumbnail_shield_title">Утойванне прэв\'ю</string>
+  <string name="privacy_thumbnail_shield_top_tip">Утаіць прэв\'ю праграм, якія адлюстроўваюцца ў раздзеле \"Нядаўнія\"</string>
+  <string name="sim_lock_verify_time_out">Час чакання пацверджання скончыўся. Паспрабуйце яшчэ раз.</string>
+  <string name="st_sms_intercept_oversea">Міжнародныя SMS</string>
 </resources>

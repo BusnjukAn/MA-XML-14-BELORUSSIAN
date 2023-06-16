@@ -939,4 +939,25 @@
   <string name="login_out">Выйсці</string>
   <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
   <string name="can_not_add_more_image">Немагчыма дадаць больш выяў/відэа</string>
+  <string name="dynamic_dialog_content">Вы збіраецеся адкрыць функцыю дынамічнага часопіса, якая адносіцца да спецыяльнага рэжыму запісу праблем і змяшчае інфармацыю аб рабоце праграмы (уключаючы сістэмныя выклікі і г. д.). Пасля ўключэння дынамічнага часопіса ў сістэме могуць узнікнуць такія праблемы, як затрымка і нагрэў (гэта нармальна). Пасля завяршэння запісу часопіса сістэма аўтаматычна выключыцца. Калі ласка, захоўвайце асцярожнасць і адпраўце водгук, як толькі праблема з\'явіцца зноў. Выбіраючы «Згодны» ніжэй, вы згаджаецеся з тым, што мы збяром вышэйзгаданыя дадзеныя для наступнага сеансу запісу і адправім іх нам для вырашэння вашай праблемы са зваротнай сувяззю</string>
+  <string name="dynamic_dialog_negative_text">Не згодзен</string>
+  <string name="dynamic_dialog_notification_text">Калі ласка, своечасова адпраўляйце водгук пасля таго, як праблема з\'явіцца зноў. Функцыя будзе аўтаматычна зачынена</string>
+  <string name="dynamic_dialog_notification_title">Дынамічнае атрыманне часопіса ўключана</string>
+  <string name="dynamic_dialog_positive_text">Згодзен</string>
+  <string name="dynamic_dialog_title">Заўвага аб прыватнасцi</string>
+  <string name="dynamic_log_float_dump_SF">дамп SurfaceFlinger</string>
+  <string name="dynamic_log_float_dump_activity">актыўнасць дампа</string>
+  <string name="dynamic_log_float_dump_window">акно дампа</string>
+  <string name="dynamic_log_load_text">Загружаецца...</string>
+  <string name="dynamic_log_restore_toast_text">Прылада аднаўляе дынамічны часопіс, паспрабуйце пазней!</string>
+  <string name="dynamic_log_title">Дынамічны часопіс</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="not_support_service_in_maintenance_mode">Гэтая служба не падтрымліваецца ў рэжыме абслугоўвання</string>
+  <string name="net_daig_network_repair">Аднаўленне сеткі</string>
+  <string name="net_diag_fix_guide_window_msg">Адбылася памылка сеткі. Націсніце, каб ліквідаваць непаладкі.</string>
+  <string name="net_diag_fixing">Выпраўленне сеткі. Гэта можа заняць хвіліну.</string>
+  <string name="net_diag_repair_msg">Падчас гэтага працэсу Wi-Fi будзе адключаны, а затым зноў падлучаны. Выправіць зараз?</string>
+  <string name="net_diag_repair_msg_china">Падчас гэтага працэсу Wi-Fi будзе адключаны, а затым зноў падлучаны. Выправіць зараз?</string>
+  <string name="net_diag_repair_static_ip_msg">Падчас гэтага працэсу канфігурацыі сеткі могуць быць скінутыя. Выправіць зараз?</string>
+  <string name="net_diag_repair_title">Выправіць сетку?</string>
 </resources>

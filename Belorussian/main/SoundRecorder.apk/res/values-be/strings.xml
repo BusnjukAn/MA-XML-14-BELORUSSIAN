@@ -681,9 +681,14 @@
   <string name="record_scenes_summaries_stereo_music">Запіс праз %d каналаў, праслухоўванне стэрэагуку ў навушніках</string>
   <string name="record_scenes_summaries_stereo_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
   <string name="record_scenes_summaries_voice">Перамясціце мікрафон бліжэй да крыніцы гуку для лепшай якасці</string>
-  <string name="record_while_in_call_tip">Немагчыма зрабіць запіс падчас выкліку</string>
+  <string name="record_while_in_call_tip">Немагчыма рабіць запіс падчас выкліку</string>
   <string name="invisible_mode_dialog_message">Немагчыма выкарыстоўваць мікрафон у рэжыме інкогніта. Спачатку выключыце рэжым інкогніта.</string>
   <string name="invisible_mode_dialog_negative">Адмена</string>
   <string name="invisible_mode_dialog_positive">Выключыць</string>
   <string name="invisible_mode_dialog_title">Вы інкогніта</string>
+  <string name="new_search_alll_records_hint">Пошук усіх запісаў</string>
+  <string name="new_search_app_records_hint">Пошук запісаў праграм</string>
+  <string name="new_search_call_records_hint">Пошук запісаў выклікаў</string>
+  <string name="new_search_fm_records_hint">Пошук запісаў радыё</string>
+  <string name="new_search_recorder_records_hint">Пошук у дыктафоне</string>
 </resources>

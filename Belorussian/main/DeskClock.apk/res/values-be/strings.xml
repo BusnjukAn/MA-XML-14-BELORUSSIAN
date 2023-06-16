@@ -780,9 +780,9 @@ dd.MM"</string>
   <string name="module_white_noise_download_data_new">Гадзінніку патрэбна спампаваць аўдыёфайлы таймераў з гукамі навакольнага шуму. Для запампоўкі спатрэбіцца ≈%d Мб мабільнага трафіку. Спампаваць іх зараз?</string>
   <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Для загрузкі аўдыёфайлаў таймераў з гукамі навакольнага шуму (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> Мб) і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашыя &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Выкарыстоўваецца мабільны інтэрнэт. Вы згодны?</Data></string>
   <string name="notification_adv_time_entries1">У вызначаны час</string>
-  <string name="notification_adv_time_entries2">За &lt;xliff id=\"MINUTES\" refersto=\"15\">%d&lt;/xliff> хвілін</string>
-  <string name="notification_adv_time_entries3">За &lt;xliff id=\"MINUTES\" refersto=\"30\">%d&lt;/xliff> хвілін</string>
-  <string name="notification_adv_time_entries4">За &lt;xliff id=\"HOUR\" refersto=\"1\">%d&lt;/xliff> гадзіну</string>
+  <string name="notification_adv_time_entries2">&lt;xliff id=\"MINUTES\" refersto=\"15\">%d&lt;/xliff> хвілін загадзя</string>
+  <string name="notification_adv_time_entries3">&lt;xliff id=\"MINUTES\" refersto=\"30\">%d&lt;/xliff> хвілін загадзя</string>
+  <string name="notification_adv_time_entries4">&lt;xliff id=\"HOUR\" refersto=\"1\">%d&lt;/xliff> гадзіну загадзя</string>
   <string name="notification_adv_time_entries5">Няма</string>
   <string name="sleep_duration_recommendation_new" formatted="false">Большасці людзей патрабуецца ад %d да %d гадзін сну ноччу</string>
   <string name="alarm_alert_close_entrance">Адключыць</string>
@@ -790,4 +790,8 @@ dd.MM"</string>
   <string name="notification_permission_desc">Калі вы не падасце дазволы на кіраванне апавяшчэннямі, вы не зможаце адключыць будзільнікі, калі яны зазваняць. Даць дазвол зараз?</string>
   <string name="open_notification_permission_remind">Дазволіць апавяшчэнням адключаць будзільнікі</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="alarm_alert">Будзільнік звоніць</string>
+  <string name="snooze_alarm_alert">Адкладзена да %s</string>
+  <string name="timer_alert_pause">Таймер прыпынены</string>
+  <string name="timer_alert_running">Таймер запушчаны</string>
 </resources>

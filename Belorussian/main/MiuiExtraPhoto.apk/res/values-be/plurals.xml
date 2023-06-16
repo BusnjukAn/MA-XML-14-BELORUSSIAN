@@ -102,4 +102,12 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
+	<plurals name="talkback_selection_denominator">
+     <item quantity="other">Усяго элементаў: %1$d</item>
+     <item quantity="one">Усяго элементаў: %1$d</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+     <item quantity="other">Абрана элементаў: %1$d</item>
+     <item quantity="one">Абрана элементаў: %1$d</item>
+    </plurals>
 </resources>

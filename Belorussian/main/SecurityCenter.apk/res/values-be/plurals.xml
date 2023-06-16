@@ -7,7 +7,10 @@
     <item quantity="many">Гадзіну таму</item>
   </plurals>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">%d гадзіну таму</item>
+    <item quantity="other">Гадзіну таму</item>
+    <item quantity="one">Гадзіну таму</item>
+    <item quantity="few">Гадзіну таму</item>
+    <item quantity="many">Гадзіну таму</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
     <item quantity="other">Паўгадзіны таму</item>
@@ -16,7 +19,10 @@
     <item quantity="many">Паўгадзіны таму</item>
   </plurals>
   <plurals name="abbrev_in_a_hour">
-    <item quantity="other">Праз %d гадзіну</item>
+    <item quantity="other">Праз гадзіну</item>
+    <item quantity="one">Праз гадзіну</item>
+    <item quantity="few">Праз гадзіну</item>
+    <item quantity="many">Праз гадзіну</item>
   </plurals>
   <plurals name="abbrev_in_half_hour">
     <item quantity="other">Праз паўгадзіны</item>
@@ -31,8 +37,10 @@
     <item quantity="many">Неадкладна</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">Праз %d хв.</item>
-    <item quantity="one">Праз %d хв.</item>
+    <item quantity="other">праз %d хв.</item>
+    <item quantity="one">праз 1 хв.</item>
+    <item quantity="few">праз %d хв.</item>
+    <item quantity="many">праз %d хв.</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Толькі што</item>
@@ -42,7 +50,9 @@
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
     <item quantity="other">%d хв. таму</item>
-    <item quantity="one">%d хв. таму</item>
+    <item quantity="one">1 хв. таму</item>
+    <item quantity="few">%d хв. таму</item>
+    <item quantity="many">%d хв. таму</item>
   </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">Дададзена %d гульняў</item>
@@ -163,16 +173,16 @@
     <item quantity="few">%s праграмы будуць абаронены блакаваннем праграм</item>
   </plurals>
   <plurals name="bg_network_allow_count">
-    <item quantity="other">%d праграм з падлучэннем да сеткі ў фоне</item>
-    <item quantity="one">%d праграма з падлучэннем да сеткі ў фоне</item>
-    <item quantity="few">%d праграмы з падлучэннем да сеткі ў фоне</item>
-    <item quantity="many">%d праграм з падлучэннем да сеткі ў фоне</item>
+    <item quantity="other">%d праграм з падключэннем да сеткі ў фоне</item>
+    <item quantity="one">%d праграма з падключэннем да сеткі ў фоне</item>
+    <item quantity="few">%d праграмы з падключэннем да сеткі ў фоне</item>
+    <item quantity="many">%d праграм з падключэннем да сеткі ў фоне</item>
   </plurals>
   <plurals name="bg_network_restrict_count">
-    <item quantity="other">%d праграм без падлучэння да сеткі ў фоне</item>
-    <item quantity="one">%d праграма без падлучэння да сеткі ў фоне</item>
-    <item quantity="few">%d праграмы без падлучэння да сеткі ў фоне</item>
-    <item quantity="many">%d праграм без падлучэння да сеткі ў фоне</item>
+    <item quantity="other">%d праграм без падключэння да сеткі ў фоне</item>
+    <item quantity="one">%d праграма без падключэння да сеткі ў фоне</item>
+    <item quantity="few">%d праграмы без падключэння да сеткі ў фоне</item>
+    <item quantity="many">%d праграм без падключэння да сеткі ў фоне</item>
   </plurals>
   <plurals name="cache_check_content">
     <item quantity="other">Абаронена %d праграм</item>
@@ -827,9 +837,9 @@
     <item quantity="one">Зразумела (%d сек.)</item>
   </plurals>
   <plurals name="power_off_warning_notification_message">
-    <item quantity="other">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
-    <item quantity="one">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
-    <item quantity="few">Ваша прылада выключыцца праз %d сек. Падлучыце зарадную прыладу.</item>
+    <item quantity="other">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
+    <item quantity="one">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
+    <item quantity="few">Ваша прылада выключыцца праз %d сек. Падключыце зарадную прыладу.</item>
   </plurals>
   <plurals name="power_optimize_app_autostart_summary">
     <item quantity="other">%d праграм запускаюцца аўтаматычна</item>
@@ -1330,8 +1340,8 @@
         <item quantity="one">Тэрмін дзеяння вашай падпіскі скончыцца праз %d дзень. Падоўжыце падпіску зараз, каб атрымліваць асалоду ад гульнёй без праблем.</item>
     </plurals>
     <plurals name="app_behavior_record_close_content_text">
-      <item quantity="one">Запісы аб дзеяннях праграмы захоўваюцца на гэтай прыладзе на працягу %d дня. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
-      <item quantity="other">Запісы аб дзеяннях праграмы захоўваюцца на гэтай прыладзе на працягу %d дзён. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
+      <item quantity="one">Запісы аб паводзінах праграмы захоўваюцца на гэтай прыладзе на працягу %d дня. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
+      <item quantity="other">Запісы аб паводзінах праграмы захоўваюцца на гэтай прыладзе на працягу %d дзён. Калі вы выключыце гэтую функцыю, новыя запісы больш не будуць з\'яўляцца, а старыя будуць выдаленыя. Усё роўна выключыць?</item>
     </plurals>
     <plurals name="added_apps_count">
          <item quantity="other">Дададзена праграм: %d</item>
@@ -1364,7 +1374,7 @@
       <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
          <item quantity="other">%2$d праграм, у тым ліку %1$s, могуць быць шкоднымі</item>
          <item quantity="few">%2$d праграмы, у тым ліку %1$s, могуць быць шкоднаснымі</item>
-         <item quantity="one">%2$d праграма, уключаючы %1$s, можа быць шкодаснай</item>
+         <item quantity="one">%2$d праграма, у тым ліку %1$s, можа быць шкодаснай</item>
      </plurals>
      <plurals name="power_center_battery_optimization">
          <item quantity="other">Аптымізаваць выкарыстанне батарэі ў %d сцэнарах</item>

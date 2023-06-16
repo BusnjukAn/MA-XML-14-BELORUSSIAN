@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>Да сігналу менш за хвіліну</item>
-        <item>Да сігналу: %1$s</item>
-        <item>Да сігналу: %2$s</item>
-        <item>Да сігналу: %1$s %2$s</item>
-        <item>Да сігналу: %3$s</item>
-        <item>Да сігналу: %1$s %3$s</item>
-        <item>Да сігналу: %2$s %3$s</item>
-        <item>Да сігналу: %1$s %2$s %3$s</item>
+        <item>Менш за хвіліну</item>
+        <item>Праз %1$s</item>
+        <item>Праз %2$s</item>
+        <item>Праз %1$s %2$s</item>
+        <item>Праз %3$s</item>
+        <item>Праз %1$s %3$s</item>
+        <item>Праз %2$s %3$s</item>
+        <item>Праз %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Аднаразова</item>
@@ -699,13 +699,22 @@
         <item>Да сігналу: %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
-        <item>Спрацуе праз менш за %d хвіліну.</item>
-        <item>Спрацуе праз %1$s.</item>
-        <item>Спрацуе праз %2$s.</item>
-        <item>Спрацуе праз %1$s і %2$s.</item>
-        <item>Спрацуе праз %3$s.</item>
-        <item>Спрацуе праз %1$s і %3$s.</item>
-        <item>Спрацуе праз %2$s і %3$s.</item>
-        <item>Спрацуе праз %1$s %2$s і %3$s.</item>
+        <item>Зазвініць праз менш за %d хвіліну.</item>
+        <item>Зазвініць праз %1$s.</item>
+        <item>Зазвініць праз %2$s.</item>
+        <item>Зазвініць праз %1$s і %2$s.</item>
+        <item>Зазвініць праз %3$s.</item>
+        <item>Зазвініць праз %1$s і %3$s.</item>
+        <item>Зазвініць праз %2$s і %3$s.</item>
+        <item>Зазвініць праз %1$s %2$s і %3$s.</item>
+    </string-array>
+	<string-array name="bedtime_guide_repeat_type_international">
+        <item>З ПН па ПТ</item>
+        <item>Кожны дзень</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Кожны дзень</item>
+        <item>З ПН па ПТ</item>
+        <item>Абраць дні</item>
     </string-array>
 </resources>

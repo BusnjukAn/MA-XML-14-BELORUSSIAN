@@ -8,6 +8,9 @@
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d гадзіну таму</item>
+        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіну таму</item>
+        <item quantity="many">%d гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -17,6 +20,9 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Праз %d гадзіну</item>
+        <item quantity="one">Праз %d гадзіну</item>
+        <item quantity="few">Праз %d гадзіну</item>
+        <item quantity="many">Праз %d гадзіну</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>
@@ -31,10 +37,10 @@
         <item quantity="many">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">праз %d хв.</item>
-        <item quantity="one">праз %d хв.</item>
-        <item quantity="few">праз %d хв.</item>
-        <item quantity="many">праз %d хв.</item>
+        <item quantity="other">Праз %d хв.</item>
+        <item quantity="one">Праз %d хв.</item>
+        <item quantity="few">Праз %d хв.</item>
+        <item quantity="many">Праз %d хв.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -175,14 +181,16 @@
         <item quantity="many">Інтэрвал паўтору зменены на %d хвілін</item>
     </plurals>
     <plurals name="snooze_duration_count">
-         <item quantity="other">Спрацуе %1$s разоў</item>
-         <item quantity="one">Спрацуе %1$s разоў</item>
-         <item quantity="few">Спрацуе %1$s разы</item>
+        <item quantity="other">Звінець %1$s разоў</item>
+        <item quantity="one">Звінець %1$s раз</item>
+        <item quantity="few">Звінець %1$s разы</item>
+        <item quantity="many">Звінець %1$s разоў</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-         <item quantity="other">%2$s паўтораў (інтэрвал %1$s хв.)</item>
-         <item quantity="one">%2$s паўтор (інтэрвал %1$s хв.)</item>
-         <item quantity="few">%2$s паўторы (інтэрвал %1$s хв.)</item>
+        <item quantity="other">Кожную %1$s хвіліну, звініць %2$s разоў</item>
+        <item quantity="one">Кожную %1$s хвіліну, звініць %2$s раз</item>
+        <item quantity="few">Кожную %1$s хвіліну, звініць %2$s раза</item>
+        <item quantity="many">Кожную %1$s хвіліну, звініць %2$s разоў</item>
     </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Кожныя %1$s хв.</item>
@@ -191,12 +199,13 @@
         <item quantity="many">Кожныя %1$s хв.</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-         <item quantity="other">Будзільнік спрацуе %2$s раз (кожныя %1$s хв.)</item>
-         <item quantity="one">Будзільнік спрацуе %2$s раз (%1$s хв.)</item>
-         <item quantity="few">>Будзільнік спрацуе %2$s разы (кожныя %1$s хв.)</item>
+        <item quantity="other">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
+        <item quantity="one">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
+        <item quantity="few">Будзільнік зазвоніць %2$s разы (інтэрвал %1$s хв.)</item>
+        <item quantity="many">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Адкласці на %d хвілін</item>
+        <item quantity="other">Адкласці на %d хвіліны</item>
         <item quantity="one">Адкласці на %d хвіліну</item>
         <item quantity="few">Адкласці на %d хвіліны</item>
         <item quantity="many">Адкласці на %d хвілін</item>
