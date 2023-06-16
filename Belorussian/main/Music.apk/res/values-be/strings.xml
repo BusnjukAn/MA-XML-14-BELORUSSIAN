@@ -1838,7 +1838,6 @@
   <string name="shortcut_success">Паспяхова створана. Паглядзіце на працоўным стале.</string>
   <string name="similar_podcasts">Падобныя падкасты</string>
   <string name="apply_permissions_greater_than_tiramisu">Вы можаце даць гэты дазвол у меню «Налады» > «Праграмы» > «Дазволы» > «Дазволы» > «Музыка і аўдыё/Фота і відэа» > «Музыка».</string>
-  <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
   <string name="hgm_failed_to_connect_hint">Праверце налады сеткі і паспрабуйце зноў. Калі праблема звязана з памылкай сервера hungama, мы выправім яе як мага хутчэй.</string>
   <string name="hgm_network_request_error_toast">Не ўдалося падключыцца да сервераў hungama. Паспрабуйце яшчэ раз.</string>
   <string name="local_download_download">Спампаваць</string>
