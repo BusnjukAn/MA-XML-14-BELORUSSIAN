@@ -1070,4 +1070,7 @@
   <string name="added_to_clipboard">Паспяхова скапіявана</string>
   <string name="clip_resource_deleted">Гэты аб\'ект больш не даступны</string>
   <string name="paste_unsupported_data">Немагчыма ўставіць гэтае змесціва</string>
+  <string name="audio_dialog_mode_meeting_recognize_close">Распазнаванне голасу адключана</string>
+  <string name="audio_dialog_mode_meeting_recognize_fail">Не атрымалася распазнаць голас</string>
+  <string name="toast_refuse_to_use_photos_in_excerpt_v14">Каб устаўляць выявы ў нататкі, надайце гэтай праграме доступ да ўсіх фота</string>
 </resources>
