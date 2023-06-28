@@ -969,7 +969,7 @@
   <string name="loading_image_thumbnail">Спампоўка эскізаў…</string>
   <string name="loading_members">Спампоўка удзельнікаў…</string>
   <string name="loading_suspend">Спампоўка будзе працягнутая пры падключэнні да сеткі Wi-Fi.</string>
-  <string name="loading_text_format" formatted="false">Выдаленне асабістай інфармацыі з фатаграфій (%d/%d)...</string>
+  <string name="loading_text_format">Выдаленне асабістай інфармацыі…</string>
   <string name="loading_video">Спампоўка відэа…</string>
   <string name="loading_video_compress_lib">Спампоўка модуля сціску відэа…</string>
   <string name="loading_video_fail_sync_without_network">Падлучыцеся да сеткі для спампоўкі дадзеных</string>
@@ -1607,6 +1607,7 @@
   <string name="search_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
   <string name="search_title_album">Альбом</string>
   <string name="search_title_app_screenshot">Скрыншоты праграмы</string>
+  <string name="search_title_daily">Час</string>
   <string name="search_title_history">Гісторыя пошуку</string>
   <string name="search_title_location">Месцазнаходжанне</string>
   <string name="search_title_more">Яшчэ</string>

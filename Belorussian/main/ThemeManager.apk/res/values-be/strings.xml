@@ -1602,7 +1602,7 @@
   <string name="large_icon_no_more">Тут пакуль нічога няма</string>
   <string name="large_icon_no_network">Не ўдалося падключыцца да сеткі</string>
   <string name="large_icon_not_support">Немагчыма ўсталяваць абразкі для %s</string>
-  <string name="large_icon_official">Афіцыйныя</string>
+  <string name="large_icon_official">Па змаўчанні</string>
   <string name="large_icon_picker_haven">Даступныя абразкі</string>
   <string name="large_icon_picker_more">Яшчэ</string>
   <string name="large_icon_picker_size">Памер абразка</string>
@@ -1619,10 +1619,11 @@
   <string name="large_icon_detail_warning_dialog_title">Налады суперабразкоў</string>
   <string name="large_icon_not_support_current_type">%s не падтрымліваецца для гэтага абразка</string>
   <string name="large_icon_theme">Тэмы</string>
-  <string name="historical_wallpaper">Выкарыстоўваліся раней</string>
+  <string name="historical_wallpaper">Выкарыстоўваемыя раней</string>
   <string name="resource_mi_ai_picker">Абярыце рынгтон Mi ШI</string>
   <string name="add_home_icon_success">Паспяхова дададзена</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="resource_search_hot_tag">Папулярныя</string>
   <string name="apply_not_support_video_wallpaper_warning">Відэа 4K, 8K і Dolby нельга выкарыстоўваць у якасці відэашпалер.</string>
+  <string name="find_more_free_theme">Паглядзець яшчэ</string>
 </resources>

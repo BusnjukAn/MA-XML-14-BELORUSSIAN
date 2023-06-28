@@ -359,4 +359,29 @@
         <item quantity="few">%s прагляда</item>
         <item quantity="many">%s праглядаў</item>
     </plurals>
+	<plurals name="ktv_card_message_your_turn">
+        <item quantity="other">Наступны спявак можа пачаць спяваць праз %1$s сек.</item>
+        <item quantity="one">Наступны спявак можа пачаць спяваць праз %1$s сек.</item>
+    </plurals>
+    <plurals name="ktv_people_queue">
+        <item quantity="other">%1$s чал. у чарзе</item>
+        <item quantity="one">%1$s чал. у чарзе</item>
+    </plurals>
+    <plurals name="ktv_sung_before_members">
+        <item quantity="other">%1$s чалавек праспявалі</item>
+        <item quantity="few">%1$s чалавека праспявалі</item>
+        <item quantity="one">%1$s чалавек праспяваў</item>
+    </plurals>
+	<plurals name="whitelist_multi_added">
+    <item quantity="other">Дададзена %d файлаў</item>
+    <item quantity="one">Дададзены %d файл</item>
+    <item quantity="few">Дададзена %d файла</item>
+    <item quantity="many">Дададзена %d файлаў</item>
+  </plurals>
+  <plurals name="whitelist_multi_added_before">
+    <item quantity="other">%d файлаў былі дададзены раней</item>
+    <item quantity="one">%d файл быў дададзены раней</item>
+    <item quantity="few">%d файла былі дададзены раней</item>
+    <item quantity="many">%d файлаў былі дададзены раней</item>
+  </plurals>
 </resources>

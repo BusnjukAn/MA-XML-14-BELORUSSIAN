@@ -769,4 +769,8 @@
          <item quantity="one">Выдаліць %d элемент?</item>
          <item quantity="few">Выдаліць %d элемента?</item>
     </plurals>
+	<plurals name="send_too_many_files_error">
+        <item quantity="other">Абярыце да %d элементаў для адпраўкі</item>
+        <item quantity="one">Абярыце да %d элемента для адпраўкі</item>
+    </plurals>
 </resources>

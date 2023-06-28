@@ -1852,4 +1852,17 @@
   <string name="local_out_dialog_title">Выконваецца выхад з Mi Музыкі</string>
   <string name="passport_account_error_longer_user_name">Імя не можа быць даўжэйшым за %d сімвалаў</string>
   <string name="passport_account_error_shorter_user_name">Імя павінна быць больш за %d сімвалаў</string>
+  <string name="add_songs_manually_bottom">Дадаць</string>
+  <string name="add_songs_manually_home">Дадаць песні ўручную</string>
+  <string name="add_songs_manually_setting">Дадаць песні ўручную</string>
+  <string name="create_shortcut_for_playlist">Стварыць цэтлiк плэйліста на працоўным стале?</string>
+  <string name="whitelist_add_exist">Некаторыя песні ўжо пазначаны ў раздзеле «Лакальныя песні» і не паказаны тут</string>
+  <string name="whitelist_add_failed">Не атрымалася дадаць файлы</string>
+  <string name="whitelist_desc_1">Калі Mi Музыка не знаходзіць песні, якія вы шукаеце, на вашай прыладзе, вы можаце дадаць іх уручную.</string>
+  <string name="whitelist_desc_2">Гэтыя файлы будуць адлюстроўвацца, нават калі памер файла і даўжыня песні не супадаюць ці яны знаходзяцца ва ўтоеных тэчках.</string>
+  <string name="whitelist_dialog_content">Выдаленыя файлы больш не будуць адлюстроўвацца ў выключэннях Mi Музыкі, але не будуць выдалены з вашай прылады. Выдаліць зараз?</string>
+  <string name="whitelist_dialog_title">Выдаліць файлы?</string>
+  <string name="whitelist_entrance_desc">Уручную дадайце файлы, якія Mi Музыка не знаходзіць аўтаматычна</string>
+  <string name="whitelist_entrance_text_1">"Не можаце знайсці песню? "</string>
+  <string name="whitelist_title">Выключэнні файлаў</string>
 </resources>
