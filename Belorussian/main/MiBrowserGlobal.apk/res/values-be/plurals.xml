@@ -437,4 +437,8 @@
         <item quantity="few">%d новыя апавяшчэнні</item>
         <item quantity="many">%d новых апавяшчэнняў</item>
     </plurals>
+	<plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">Не правяралася на працягу %d дзён</item>
+        <item quantity="one">Не правяралася на працягу %d дня</item>
+    </plurals>
 </resources>

@@ -2726,4 +2726,24 @@
   <string name="weather_card_vis">Бачнасць</string>
   <string name="weather_card_wind_spd">Хуткасць ветру</string>
   <string name="weather_cp_des">Надвор\'е ад Microsoft Start</string>
+  <string name="antivirus_btn_scanned">Сканаваць</string>
+  <string name="antivirus_desc_no_scanned">Націсніце для сканавання</string>
+  <string name="antivirus_desc_scanned">Усё добра</string>
+  <string name="antivirus_title">Антывірус</string>
+  <string name="branch_search_guide_pop_search">Пошук</string>
+  <string name="clean_cache_btn_clean">Ачысціць</string>
+  <string name="memory_btn_clean">Вызваліць</string>
+  <string name="mw_call_notification_answer_action">Адказаць</string>
+  <string name="mw_call_notification_answer_video_action">Відэа</string>
+  <string name="mw_call_notification_decline_action">Адхіліць</string>
+  <string name="mw_call_notification_hang_up_action">Павесіць трубку</string>
+  <string name="mw_call_notification_incoming_text">Уваходны выклік</string>
+  <string name="mw_call_notification_ongoing_text">Бягучы выклік</string>
+  <string name="mw_call_notification_screening_text">Праверка ўваходнага выкліку</string>
+  <string name="mw_copied">Скапіявана</string>
+  <string name="mw_elided_url_text_view_url_expanded">URL разгорнуты</string>
+  <string name="mw_elided_url_text_view_url_truncated">URL згорнуты</string>
+  <string name="mw_opening_android_media_picker">Не атрымалася адкрыць сродак выбару фатаграфій</string>
+  <string name="mw_permission_denied_error">Немагчыма абраць медыя з-за адмовы ў дазволе</string>
+  <string name="power_saving_btn_clean">Параметры</string>
 </resources>
