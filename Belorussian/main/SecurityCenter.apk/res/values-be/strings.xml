@@ -5510,7 +5510,7 @@
   <string name="auto_task_voice_dialog_alarm_title">Будзільнікi</string>
   <string name="auto_task_voice_dialog_call_title">Выклікі, паведамленнi, нагадванні</string>
   <string name="auto_task_voice_dialog_media_title">Музыка, гульні, медыя</string>
-  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым %s\"</string>
+  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым 20%\"</string>
   <string name="default_condition_title">Дадаць ўмову</string>
   <string name="default_condition_title_continue">Дадаць ўмову</string>
   <string name="default_result_summary">Напрыклад: \"Выключыць рэжым палёту\"</string>
