@@ -589,4 +589,6 @@
   <string name="save_to_local_failure_message">Немагчыма захаваць</string>
   <string name="save_to_local_icon_name">Захаваць</string>
   <string name="save_to_local_success_message">Паспяхова захавана</string>
+  <string name="act_find_city_location_button_text">Атрымаць бягучае месцазнаходжанне</string>
+  <string name="act_find_city_location_title">Бягучае месцазнаходжанне</string>
 </resources>

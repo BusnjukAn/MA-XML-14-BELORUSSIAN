@@ -412,4 +412,6 @@
   <string name="scroll_annotation">Прагортвайце і анатуйце</string>
   <string name="scroll_annotation_btn_quit">Выйсці з анатацый</string>
   <string name="scroll_annotation_quit_dialog_picture_msg">Захаваць анатацыі перад выхадам?</string>
+  <string name="privacy_mosaic_tip_long">Здымкі з пракруткай не падтрымліваюцца</string>
+  <string name="privacy_mosaic_tip_partial">Частковыя здымкі не падтрымліваюцца</string>
 </resources>

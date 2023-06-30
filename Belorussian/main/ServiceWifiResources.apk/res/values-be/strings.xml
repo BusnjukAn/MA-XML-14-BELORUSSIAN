@@ -86,7 +86,7 @@
 %1$s
 
 "</string>
-  <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 адбітак:
+  <string name="wifi_ca_cert_dialog_message_signature_name_text">"Подпіс:
 %1$s
 
 "</string>
@@ -94,8 +94,8 @@
 %1$s
 
 "</string>
-  <string name="wifi_ca_cert_dialog_preT_abort_text">Адключыцца</string>
-  <string name="wifi_ca_cert_dialog_preT_continue_text">Аставацца падлучаным</string>
+  <string name="wifi_ca_cert_dialog_preT_abort_text">Не падлучацца</string>
+  <string name="wifi_ca_cert_dialog_preT_continue_text">Падлучыцца</string>
   <string name="wifi_ca_cert_dialog_preT_message_hint">У сетцы %1$s адсутнічае сертыфікат.</string>
   <string name="wifi_ca_cert_dialog_preT_message_link">Даведайцеся, як дадаваць сертыфікаты</string>
   <string name="wifi_ca_cert_dialog_preT_title">Немагчыма праверыць гэтую сетку</string>

@@ -179,7 +179,7 @@
   <string name="HIPS_Perm_Intl_group_name_contact">Кантакты</string>
   <string name="HIPS_Perm_Intl_group_name_location">Месцазнаходжанне</string>
   <string name="HIPS_Perm_Intl_group_name_storage">Сховішча</string>
-  <string name="HIPS_Perm_Location">Атрымліваць інфармацыю аб месцазнаходжанні</string>
+  <string name="HIPS_Perm_Location">Месцазнаходжанне</string>
   <string name="HIPS_Perm_Location_Desc">Пошук дакладнага месцазнаходжання (праз GPS і сеткі)</string>
   <string name="HIPS_Perm_mediaVolume">Рэгулёўка гучнасці мультымедыя</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Дазволіць праграме рэгуляваць гучнасць мультымедыя</string>

@@ -184,4 +184,12 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
+  <plurals name="download_notification_wait_network">
+        <item quantity="other">Чаканне спампоўкi. Засталося файлаў: %1$s.</item>
+        <item quantity="one">Чаканне спампоўкi. Засталося файлаў: %1$s.</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Чаканне запампоўкi. Засталося файлаў: %1$s.</item>
+        <item quantity="one">Чаканне запампоўкi. Засталося файлаў: %1$s.</item>
+    </plurals>
 </resources>

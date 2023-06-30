@@ -761,7 +761,7 @@
   <string name="not_support_data_content3">3. Дадзеныя другой прасторы</string>
   <string name="not_support_data_content4">4. Кланаваныя праграмы</string>
   <string name="not_support_data_link">Элементы, якія нельга перадаць</string>
-  <string name="not_support_data_summary1">Тэмы, шпалеры, транспартныя і ключавыя карты нельга перадаць з дапамогай Mi Трансфер.</string>
+  <string name="not_support_data_summary1">Транспартныя і ключавыя карты нельга перадаць з дапамогай Mi Трансфер. Тэмы і шпалеры можна перанесці на некаторыя мадэлі.</string>
   <string name="not_support_data_summary2">Пэўныя праграмы ўводзяць строгія меры бяспекі, каб прадухіліць перадачу дадзеных. Такія праграмы могуць ўключаць у сябе банкаўскія ці фінансавыя паслугі.</string>
   <string name="not_support_data_summary3">З-за сістэмных абмежаванняў элементы з другой прасторы нельга перанесці з дапамогай Mi Трансфер.</string>
   <string name="not_support_data_summary4">Кланаваныя праграмы і іх дадзеныя таксама не могуць быць перададзены. Аднак вы можаце перанесці адпаведныя асноўныя праграмы.</string>

@@ -6642,7 +6642,7 @@
   <string name="app_name_securitycenter_new">Бяспека</string>
   <string name="cta_main_purpose_new">Сардэчна запрашаем у Бяспеку! Вы можаце выкарыстоўваць Бяспеку і яе модулі (уключаючы кампаненты бяспекі MIUI, службы бяспекі і сістэмы), каб вызваліць месца на дыску, праверыць прыладу на наяўнасць вірусаў, кантраляваць выдатак зарада батарэі, аптымізаваць сваю прыладу для гульняў, кіраваць праграмамі і г. д. Кампаненты бяспекі MIUI будуць падлучацца да Інтэрнэту і выконваць сканаванне бяспекі, пакуль вы ўсталёўваеце праграмы і здзяйсняеце плацяжы.</string>
   <string name="app_manager_thumbnail_shield_summary">Утаіць прэв\'ю праграм у раздзеле \"Нядаўнія\"</string>
-  <string name="blur_location_title">Прыблізнае месцазнаходжанне</string>
+  <string name="blur_location_title">Прыблізнае</string>
   <string name="dynamic_performance_optimization_summary">Дынамічнае рэгуляванне раздзяляльнасцi падчас гульнявых сесій</string>
   <string name="dynamic_performance_optimization_title">Дынамічная прадукцыйнасць</string>
   <string name="gb_vision_enhance_frme_insertion_tips">"Разумная частата кадраў
@@ -6654,4 +6654,13 @@
   <string name="privacy_thumbnail_shield_top_tip">Утаіць прэв\'ю праграм, якія адлюстроўваюцца ў раздзеле \"Нядаўнія\"</string>
   <string name="sim_lock_verify_time_out">Час чакання пацверджання скончыўся. Паспрабуйце яшчэ раз.</string>
   <string name="st_sms_intercept_oversea">Міжнародныя SMS</string>
+  <string name="precise_location_title">Дакладнае</string>
+  <string name="about_autostart_gloabl">Аб фонавым аўтазапуску</string>
+  <string name="activity_title_auto_start_manager_global">Аўтазапуск у фонавым рэжыме</string>
+  <string name="dialog_msg_auto_start_declare_global">Некаторыя праграмы могуць няправільна ўказваць, што MIUI не дазваляе ім запускацца. Праверце дазволы, прадстаўленыя асобным праграмам, у наладах.</string>
+  <string name="dialog_title_auto_start_declare_global">Аб аўтазапуску ў фонавым рэжыме</string>
+  <string name="pc_continuity_has_open_save_mode_notifi_sumary">Эканомія зарада батарэі будзе адключаная, калі %1$s дасягне %2$s або цалкам зараджана</string>
+  <string name="pc_continuity_has_open_save_mode_notifi_title">Эканомія зарада батарэі ўключана ў %s</string>
+  <string name="pc_continuity_open_save_mode_notifi_sumary">Батарэя %1$s разраджана да %2$s. Уключыце рэжым энергазберажэння, каб дадаць %3$s %4$s.</string>
+  <string name="pc_continuity_open_save_mode_notifi_title">Батарэя %s разраджана</string>
 </resources>

@@ -62,7 +62,7 @@
   <string name="cloud_storage_already_used">Занята: %1$s з %2$s</string>
   <string name="cloud_storage_default_title">Воблачнае сховішча</string>
   <string name="cloud_storage_full">Воблачнае сховішча запоўнена. Абновіце свой план, каб атрымаць больш месца для захоўвання.</string>
-  <string name="cloud_storage_info_type_backup">Рэзервовыя копіі</string>
+  <string name="cloud_storage_info_type_backup">Воблачныя рэзервовыя копіі</string>
   <string name="cloud_storage_info_type_drive">Mi дыск</string>
   <string name="cloud_storage_info_type_family">Сям\'я</string>
   <string name="cloud_storage_info_type_others">Іншае</string>
