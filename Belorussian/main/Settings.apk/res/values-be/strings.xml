@@ -10741,4 +10741,23 @@ ID:%s
   <string name="sensors_hal_log_summary">Выкарыстоўваць часопісы для датчыкаў HAL</string>
   <string name="sensors_hal_log_title">Часопісы датчыкаў HAL</string>
   <string name="wifi_validation">Праверка сеткі…</string>
+  <string name="bt_audio_share_notification_content">Націсніце, каб праглядзець параметры</string>
+  <string name="bt_audio_share_notification_title">Сумеснае выкарыстанне аўдыё</string>
+  <string name="doublepress_summary">Прайграванне і прыпыненне прайгравання</string>
+  <string name="doublepress_title">Выканайце рух падвойнага націскання</string>
+  <string name="gesture_supported_title">Даступныя жэсты</string>
+  <string name="leave_loclscreen_summary">Экран будзе аўтаматычна заблакаваны, калі вы адыдзеце на пэўную адлегласць ад сваёй прылады</string>
+  <string name="leave_loclscreen_title">Блакаванне экрана пры адыходзе</string>
+  <string name="leftright_waving_summary">Гартайце старонкі і наладжвайце ход прайгравання</string>
+  <string name="leftright_waving_title">Хваля па гарызанталі</string>
+  <string name="near_loclscreen_summary">Экран загараецца аўтаматычна, калі вы набліжаецеся да прылады. Апавяшчэнні будуць схаваны.</string>
+  <string name="near_loclscreen_title">Абуджэнне экрана пры вяртанні</string>
+  <string name="palm_circle_summary">Адказ або завяршэнне выклікаў, пераведзеных на планшэт</string>
+  <string name="palm_circle_title">Намалюйце круг</string>
+  <string name="supported_app_title">Падтрымлiваемыя праграмы</string>
+  <string name="tofgesture_description_summary" formatted="false">Трымайце далонь ад %d да %d см. ад экрана і выконвайце жэсты пасля таго, як абразок рукі з\'явіцца ў верхняй частцы экрана.</string>
+  <string name="tofgesture_enable_title">Распазнаваць бескантактавыя жэсты</string>
+  <string name="tofgesture_settings">Распазнаваць бескантактавыя жэсты</string>
+  <string name="updown_waving_summary">Рэгуляванне гучнасці мультымедыя і пераключэнне паміж кароткімі відэа</string>
+  <string name="updown_waving_title">Хваля па вертыкалі</string>
 </resources>

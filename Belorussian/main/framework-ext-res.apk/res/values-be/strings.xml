@@ -666,4 +666,13 @@
   <string name="sla_remind_text">Вы можаце выкарыстоўваць мабільныя дадзеныя для павелічэння хуткасці. Гэта можа прывесці да дадатковых выдаткаў трафіку.</string>
   <string name="sla_title">Паскарэнне</string>
   <string name="sla_traffic_text">Сёння вы ўжо выкарысталі %d Мб мабільнага трафіку. Вы можаце спыніць паскарэнне, каб зэканоміць мабільны трафік.</string>
+  <string name="free_form_recommend_tip">Плаваючае акно</string>
+  <string name="hovermode_text_confirm">Зразумела</string>
+  <string name="hovermode_text_doubleclick">Двойчы націсніце, каб прыпыніць/прайграць</string>
+  <string name="hovermode_text_drag">Правядзіце для павелічэння</string>
+  <string name="hovermode_text_help">Даведка</string>
+  <string name="hovermode_text_left">Рэгуляванне яркасці</string>
+  <string name="hovermode_text_prompt">Калі рэжым навядзення ўключаны, выкарыстоўвайце жэсты ў ніжняй палове экрана. Могуць быць адрозненні паміж праграмамі.</string>
+  <string name="hovermode_text_right">Рэгуляванне гучнасці</string>
+  <string name="split_screen_recommend_tip">Падзелены экран</string>
 </resources>
