@@ -2839,7 +2839,7 @@
   <string name="c_iwlan_exit_notification_negative_button">АДКЛАНІЦЬ</string>
   <string name="c_iwlan_exit_notification_positive_button">АДКРЫЦЬ НАЛАДЫ</string>
   <string name="c_iwlan_exit_notification_title">Перадача голасу праз мабільны інтэрнэт недаступная</string>
-  <string name="callFailed_secure_mode">Неэкстраны выклік у бяспечным рэжыме недаступны</string>
+  <string name="callFailed_secure_mode">Не экстраны выклік у бяспечным рэжыме недаступны</string>
   <string name="jp_sb_label_ndp">Устаўлена USIM іншага аператара,\nчакаецца ўвод кода разблакавання</string>
   <string name="jp_sb_sim_lock_unlock_psw_max_length">Уведзены код разблакавання змяшчае менш за 8 або больш за 16 лічбаў</string>
   <string name="jp_sb_unlock_failed">Памылка праверкі кода разблакавання</string>
