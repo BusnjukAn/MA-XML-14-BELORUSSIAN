@@ -17,7 +17,7 @@
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
   <string name="abc_menu_space_shortcut_label">Прабел</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
-  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_prepend_shortcut_label">Меню+</string>
   <string name="abc_search_hint">Пошук…</string>
   <string name="abc_searchview_description_clear">Выдаліць запыт</string>
   <string name="abc_searchview_description_query">Пошукавы запыт</string>
@@ -208,7 +208,7 @@
   <string name="accessibility_shutter_resume_button">Працягнуць</string>
   <string name="accessibility_shutter_saving_button">Захаванне</string>
   <string name="accessibility_stereo_button">Стэрэа</string>
-  <string name="accessibility_street_ev_panel_on">Адкрыць панэль EV</string>
+  <string name="accessibility_street_ev_panel_on">Прагляд значэнняў экспазіцыі</string>
   <string name="accessibility_super_eis_off">Стабільнае відэа выключана</string>
   <string name="accessibility_super_eis_on">Стабільнае відэа ўключана</string>
   <string name="accessibility_super_eis_pr_on">Стабільнае відэа PRO ўключана</string>
@@ -781,8 +781,8 @@
   <string name="download_cancel_hint">Скасаваць спампаванне %1$s?</string>
   <string name="download_confirm">Спампаваць</string>
   <string name="download_hint">%1$s Мб мабільнага трафіку будзе выкарыстана для спампоўкi элементаў. Усё роўна спампаваць?</string>
-  <string name="download_hint_check_on_wifi">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб зараз?</string>
-  <string name="download_hint_check_on_wifi_cn">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб зараз?</string>
+  <string name="download_hint_check_on_wifi">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб?</string>
+  <string name="download_hint_check_on_wifi_cn">Вы падлучаны да Wi-Fi. Спампаваць гэты файл памерам %1$s Мб?</string>
   <string name="download_hint_check_on_wifi_remind">Больш не нагадваць</string>
   <string name="download_hint_check_on_wifi_remind_cn">Больш не нагадваць</string>
   <string name="download_hint_cn">Падобна на тое, што ваша прылада не падключана да Wi-Fi. Выкарыстоўваць %1$s Мб мабільных дадзеных для запампоўкі аб\'ектаў зараз?</string>
@@ -850,7 +850,7 @@
   <string name="eye_light_rainbow">Вясёлка</string>
   <string name="eye_light_star">Зоркі</string>
   <string name="eye_light_window">Блік</string>
-  <string name="face_age_info">Узрост: %d</string>
+  <string name="face_age_info">Узрост: %d</string>
   <string name="face_analyze_info">Узрост: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Жаночы</string>
   <string name="face_analyze_info_male">Мужчынскі</string>
@@ -2216,10 +2216,10 @@
   <string name="sticker_tab1">Мілы</string>
   <string name="sticker_tab2">Пацешны</string>
   <string name="stop_save_low_battery">Захаваць (%d сек.)</string>
-  <string name="street_auto_desc">Аўтафокус</string>
-  <string name="street_far_desc">5 м фокус</string>
-  <string name="street_middle_desc">1.2 м фокус</string>
-  <string name="street_near_desc">0.6 м фокус</string>
+  <string name="street_auto_desc">Аўтаматычная адлегласць факусоўкі</string>
+  <string name="street_far_desc">%1$s-метровая дыстанцыя факусоўкі</string>
+  <string name="street_middle_desc">%1$s-метровая дыстанцыя факусоўкі</string>
+  <string name="street_near_desc">%1$s-метровая дыстанцыя факусоўкі</string>
   <string name="street_tip_far">Змесціце аб\'ект у межах %d метраў</string>
   <string name="street_tip_middle">Змесціце аб\'ект у межах %d метраў</string>
   <string name="street_tip_near">Змесціце аб\'ект у межах %1$s метраў</string>
@@ -2619,4 +2619,8 @@
   <string name="toast_camera_connect_success">Паспяхова падлучана. Прагляд трансляцыі з камеры.</string>
   <string name="toast_monitor_connect_success">Паспяхова падлучана. Праглядаем агульны папярэдні прагляд.</string>
   <string name="toast_monitor_connect_timeout">На іншай прыладзе агульны папярэдні прагляд зачынены.</string>
+  <string name="accessibility_focal_lens">Эквівалентная фокусная адлегласць %s мм</string>
+  <string name="street_preferred_description">Каб уключыць гэтую функцыю, перайдзіце ў \"Налады\" > \"Запуск камеры\" і абярыце \"Зрабіць фота\"</string>
+  <string name="street_top_tip">Глыбіня рэзкасці: %1$s м. - %2$s м.</string>
+  <string name="street_top_tip_infinity">Глыбіня рэзкасці: %1$s м. - %2$s</string>
 </resources>

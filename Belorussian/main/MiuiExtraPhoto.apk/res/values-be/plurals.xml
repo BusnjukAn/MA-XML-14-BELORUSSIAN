@@ -7,10 +7,7 @@
         <item quantity="many">Гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Гадзіну таму</item>
-        <item quantity="one">Гадзіну таму</item>
-        <item quantity="few">Гадзіну таму</item>
-        <item quantity="many">Гадзіну таму</item>
+        <item quantity="other">%d гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -19,10 +16,7 @@
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Праз гадзіну</item>
-        <item quantity="one">Праз гадзіну</item>
-        <item quantity="few">Праз гадзіну</item>
-        <item quantity="many">Праз гадзіну</item>
+        <item quantity="other">Праз %d гадзіну</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>
@@ -37,10 +31,10 @@
         <item quantity="many">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">праз %d хв</item>
-        <item quantity="one">праз 1 хв</item>
-        <item quantity="few">праз %d хв</item>
-        <item quantity="many">праз %d хв</item>
+        <item quantity="other">Праз %d хв</item>
+        <item quantity="one">Праз %d хв</item>
+        <item quantity="few">Праз %d хв</item>
+        <item quantity="many">Праз %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -50,7 +44,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d хв таму</item>
-        <item quantity="one">1 хв таму</item>
+        <item quantity="one">%d хв таму</item>
         <item quantity="few">%d хв таму</item>
         <item quantity="many">%d хв таму</item>
     </plurals>
