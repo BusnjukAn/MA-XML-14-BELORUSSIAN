@@ -292,12 +292,12 @@
   <string name="need_location_permission_title">Патрабуюцца дазволы</string>
   <string name="need_more_memory_cacel">Адмена</string>
   <string name="need_more_memory_confirm">Ачыстка</string>
-  <string name="need_more_memory_summary">Дадзеныя іншых праграм павінны быць сціснутыя перад перадачай. Mi Трансфер трэба дадаткова %1$s месца для стварэння сціснутых пакетаў.\n1. Паспрабуйце перанесці толькі важныя элементы.\n2. Выдаліце ​​непатрэбныя праграмы.\n3. Выкарыстоўвайце Ачыстку, каб вызваліць месца для захоўвання.</string>
+  <string name="need_more_memory_summary">Дадзеныя іншых праграм павінны быць сціснутыя перад перадачай. Mi Трансфер трэба дадаткова %1$s месца для стварэння сціснутых пакетаў.\n1. Паспрабуйце перанесці толькі важныя элементы.\n2. Выдаліце непатрэбныя праграмы.\n3. Выкарыстоўвайце Ачыстку, каб вызваліць месца для захоўвання.</string>
   <string name="need_more_memory_title">Недастаткова месца для захоўвання</string>
   <string name="new_app_name">Новая версія</string>
   <string name="new_main_activity_label">Mi Трансфер</string>
   <string name="new_trans_intro_desc_2">Няма неабходнасці ўводзіць пароль у новай версіі Mi Трансфер. Проста адкрыйце Mi Трансфер на вашай старой прыладзе, націсніце «Я адпраўнік» і націсніце імя пункту доступу для падлучэння.</string>
-  <string name="new_trans_intro_desc_3">Mi Трансфер патрабуецца месца для захоўвання, каб стварыць пакет перадачы на ​​старой прыладзе перад адпраўкай на новую. Вызваліце ​​месца для захоўвання, каб мець магчымасць працягнуць.</string>
+  <string name="new_trans_intro_desc_3">Mi Трансфер патрабуецца месца для захоўвання, каб стварыць пакет перадачы на старой прыладзе перад адпраўкай на новую. Вызваліце месца для захоўвання, каб мець магчымасць працягнуць.</string>
   <string name="new_trans_intro_desc_4">Могуць узнікнуць праблемы сумяшчальнасці прылад, сістэмы і версіі праграмы, якія перашкаджаюць паспяховай перадачы некаторых праграм.</string>
   <string name="new_trans_intro_desc_5">Некаторыя праграмы  (напрыклад, фінансавыя і аплатныя інструменты) не дазваляюць перадаваць паролі па меркаваннях бяспекі.</string>
   <string name="new_trans_intro_desc_6">Ваш новы тэлефон Mi можа не мець неабходных дазволаў для гэтага.</string>
@@ -318,7 +318,7 @@
   <string name="next">Далей</string>
   <string name="nickname">Мянушка</string>
   <string name="night">ПП</string>
-  <string name="no_more_memory_title">На гэтай прыладзе недастаткова месца для запуску перадачы. Вызваліце ​​месца для захоўвання і паспрабуйце зноў.</string>
+  <string name="no_more_memory_title">На гэтай прыладзе недастаткова месца для запуску перадачы. Вызваліце месца для захоўвання і паспрабуйце зноў.</string>
   <string name="no_network">Немагчыма злучыцца з сеткай</string>
   <string name="no_sim">SIM-карта адсутнічае.</string>
   <string name="noon">ПП</string>
@@ -348,7 +348,7 @@
   <string name="ok">ОК</string>
   <string name="old_app_name">Старая версія</string>
   <string name="old_task_cleared">Паспяхова выдаленыя старыя задачы</string>
-  <string name="old_wait_link">Абярыце элементы для перадачы на ​​старой прыладзе</string>
+  <string name="old_wait_link">Абярыце элементы для перадачы на старой прыладзе</string>
   <string name="old_wait_link_extra">Націсніце «Перадача»</string>
   <string name="option_feedback_title">Зваротная сувязь</string>
   <string name="organization">Арганізацыя</string>
@@ -541,7 +541,7 @@
   <string name="trans_receive_time_remained">Атрымана: %1$s | Засталося: %2$s</string>
   <string name="trans_send_time_remained">Адпраўлена: %1$s | Засталося: %2$s</string>
   <string name="trans_show_qr_code_label">Адкрыйце Mi Трансфер на старой прыладзе</string>
-  <string name="trans_sync_transfer_data_list">Абярыце элементы для перадачы на ​​старой прыладзе</string>
+  <string name="trans_sync_transfer_data_list">Абярыце элементы для перадачы на старой прыладзе</string>
   <string name="trans_time_format_second">Менш за хвіліну</string>
   <string name="trans_time_spent">Прайшло часу: %s</string>
   <string name="transfer_bottom_tip">Вы не зможаце выкарыстоўваць Wi-Fi або Bluetooth падчас перадачы. Не пакідай гэты экран.</string>
@@ -806,16 +806,16 @@
   <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
-  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">Выдаліць</string>
   <string name="abc_menu_enter_shortcut_label">Увод</string>
-  <string name="abc_menu_function_shortcut_label">Fn +</string>
-  <string name="abc_menu_meta_shortcut_label">Meta +</string>
-  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
   <string name="abc_menu_space_shortcut_label">Прабел</string>
-  <string name="abc_menu_sym_shortcut_label">Sym +</string>
-  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
   <string name="abc_search_hint">Пошук…</string>
   <string name="abc_searchview_description_clear">Выдаліць запыт</string>
   <string name="abc_searchview_description_query">Пошукавы запыт</string>
@@ -1026,6 +1026,9 @@
   <string name="league_client_update">Абнавіць %s</string>
   <string name="request_permission">Дазволіць</string>
   <string name="option_third_party_shared_info_instruction">Абмен дадзенымі ўсталяваных праграм</string>
-  <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Падобна на тое, што QQ Downloader - гэта сэрвіс рэзервовага капіявання вашай сістэмы. Выдаліце яго і перазагрузіце прыладу, каб выкарыстоўваць Mi Трансфер.</string>
+  <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Падобна на тое, што QQ Downloader ужо падае паслугі рэзервовага капіявання сістэмы. Выдаліце яго і перазагрузіце прыладу, каб выкарыстоўваць Mi Трансфер.</string>
   <string name="set_app_suspend">Цяпер выконваецца рэзервовае капіяванне гэтай праграмы. Дачакайцеся завяршэння рэзервовага капіявання і паспрабуйце яшчэ раз.</string>
+  <string name="cannot_use_mi_huanji_bacause_of_downloader">Праграма \"%s\" ужо падае паслугі рэзервовага капіявання сістэмы. Выдаліце яе і перазагрузіце прыладу, каб выкарыстоўваць Mi Трансфер.</string>
+  <string name="receiver_finish_not_transferred">Не перанесена</string>
+  <string name="receiver_finish_transferred">Перанесена</string>
 </resources>

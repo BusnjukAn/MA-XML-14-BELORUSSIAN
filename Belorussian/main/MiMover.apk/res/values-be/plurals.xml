@@ -195,4 +195,9 @@
     <item quantity="one">Усталяваць %d праграму</item>
     <item quantity="few">Усталяваць %d праграмы</item>
   </plurals>
+  <plurals name="transfer_failed_summary">
+        <item quantity="other">Немагчыма перанесці %d элементаў</item>
+        <item quantity="few">Немагчыма перанесці %d элемента</item>
+        <item quantity="one">Немагчыма перанесці %d элемент</item>
+    </plurals>
 </resources>
