@@ -3683,4 +3683,5 @@
   <string name="immersion_menu_all_photos">Усе элементы</string>
   <string name="immersion_menu_camera_photos">Альбом камеры</string>
   <string name="immersion_menu_photo_switch_notice">Націсніце, каб выбраць, ці адлюстроўваць тут усе элементы, або толькі альбом камеры</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 </resources>
