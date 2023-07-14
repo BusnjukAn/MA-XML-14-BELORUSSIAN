@@ -254,4 +254,8 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
+  <string name="super_clipboard_alert_dialog_cancel_button">Адмена</string>
+  <string name="super_clipboard_alert_dialog_sure_button">ОК</string>
+  <string name="super_clipboard_send_file">Уставіць файл з буфера абмену?</string>
+  <string name="super_clipboard_send_image">Уставіць выяву з буфера абмену?</string>
 </resources>

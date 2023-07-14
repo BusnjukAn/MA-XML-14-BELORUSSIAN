@@ -1859,4 +1859,5 @@
   <string name="pdf_viewer_reply_all">Адказаць усім гэтым файлам</string>
   <string name="please_save_sign_first">Захаваць подпіс</string>
   <string name="save_sign_pdf">Захаваць лакальна</string>
+  <string name="auto_start_open_prompt">Пошта не выкарыстоўвае аўтазапуск. Гэта можа паўплываць на сінхранізацыю электроннай пошты. Уключыць аўтазапуск?</string>
 </resources>

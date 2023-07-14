@@ -8,16 +8,16 @@
   <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
-  <string name="abc_menu_alt_shortcut_label">Alt +</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
   <string name="abc_menu_delete_shortcut_label">Delete</string>
   <string name="abc_menu_enter_shortcut_label">Enter</string>
-  <string name="abc_menu_function_shortcut_label">Fn +</string>
-  <string name="abc_menu_meta_shortcut_label">Meta +</string>
-  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
   <string name="abc_menu_space_shortcut_label">Прабел</string>
-  <string name="abc_menu_sym_shortcut_label">Sym +</string>
-  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
   <string name="abc_search_hint">Пошук…</string>
   <string name="abc_searchview_description_clear">Выдаліць запыт</string>
   <string name="abc_searchview_description_query">Пошукавы запыт</string>
@@ -138,7 +138,7 @@
   <string name="feedback_custom_hint">Апішыце праблемы, з якімі вы сутыкнуліся. Калі вы можаце падаць прапановы, мы будзем удзячныя за больш падрабязную інфармацыю!</string>
   <string name="find_device">Пошук прылады</string>
   <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яе месцазнаходжанне, заблакаваць або ачысціць дадзеныя на &lt;font color=#0097FF>%s&lt;/font>. Гэтую функцыю можна актываваць у Наладах у любы час.</string>
-  <string name="find_device_gdpr_prompt">Уключыўшы Пошук прылады, вы прымаеце нашу <u><a href="app://com.miui.cloudservice.gdpr.license">Палітыку прыватнасці</a></u>. Для скасавання дазволу адключыце гэтую функцыю.</string>
+  <string name="find_device_gdpr_prompt">Уключыўшы Пошук прылады, вы прымаеце нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Палітыку прыватнасці</u></a>. Для скасавання дазволу адключыце гэтую функцыю.</string>
   <string name="find_device_operation_failure_rpc">Не ўдалося выканаць аперацыю праз памылку RPC.</string>
   <string name="find_device_permissions_footer">Націсніце \"Надаць\", каб надаць выбраныя вамі дазволы.</string>
   <string name="find_device_permissions_header">Сардэчна запрашаем у Пошук прылады! Вы можаце выкарыстоўваць гэту праграму для пошуку, адсочвання і блакіроўкі вашай прылады, калі яа страчана. Для пошуку прылады патрабуюцца наступныя дазволы:</string>
@@ -705,7 +705,7 @@
   <string name="share_sdk_pref_category_search_local_title">Кантакты</string>
   <string name="share_sdk_pref_category_title_scan_qr_code">Сканаваць QR-код</string>
   <string name="share_sdk_pref_family_detail_title">Прагляд звестак аб сямейнай групе</string>
-  <string name="share_sdk_privacy_link_description">Прачытайце і прыміце <u><a href="https://account.xiaomi.com/about/protocol/privacy">Палітыку прыватнасці Xiaomi акаўнта</a></u> перад выкарыстаннем гэтага сэрвісу.</string>
+  <string name="share_sdk_privacy_link_description">Прачытайце і прыміце <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Палітыку прыватнасці Xiaomi акаўнта</u></a> перад выкарыстаннем гэтага сэрвісу.</string>
   <string name="share_sdk_qr_code_description">Запрашэнне %1$s</string>
   <string name="share_sdk_qr_code_expire_time">Тэрмін дзеяння QR-кода: %1$s</string>
   <string name="share_sdk_resend_invitation_times_exceed">Занадта шмат выходных запрашэнняў. Паспрабуйце ізноў праз 24 гадзіны.</string>
@@ -941,4 +941,5 @@
   <string name="privacy_runtime_perm_notification_desc">Для адпраўкі апавяшчэнняў воблачных сэрвісаў Xiaomi</string>
   <string name="privacy_runtime_perm_notification_title">Апавяшчэнні</string>
   <string name="upgrade_member_storage">Сяброўства ў Воблаке Xiaomi</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
 </resources>

@@ -1052,4 +1052,7 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
   <string name="yesterday">Учора</string>
+  <string name="detail_ad_download_btn">Спампаваць</string>
+  <string name="detail_ad_open_btn">Адкрыць</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
 </resources>
