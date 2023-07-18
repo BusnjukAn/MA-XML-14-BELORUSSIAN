@@ -2746,4 +2746,7 @@
   <string name="mw_opening_android_media_picker">Не атрымалася адкрыць сродак выбару фатаграфій</string>
   <string name="mw_permission_denied_error">Немагчыма абраць медыя з-за адмовы ў дазволе</string>
   <string name="power_saving_btn_clean">Параметры</string>
+  <string name="continue_watch_video">Працягнуць прагляд</string>
+  <string name="notify_rencet_play">Нядаўна прайграныя</string>
+  <string name="sniff_description">Атрымліваць падказкі, калі вэб-старонка змяшчае аб\'екты, якія можна спампаваць.</string>
 </resources>
