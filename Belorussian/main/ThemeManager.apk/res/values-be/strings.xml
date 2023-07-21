@@ -1626,4 +1626,9 @@
   <string name="resource_search_hot_tag">Папулярныя</string>
   <string name="apply_not_support_video_wallpaper_warning">Відэа 4K, 8K і Dolby нельга выкарыстоўваць у якасці відэашпалер.</string>
   <string name="find_more_free_theme">Паглядзець яшчэ</string>
+  <string name="ad_in_downloading">Спампоўванне</string>
+  <string name="ad_in_installing">Усталяванне</string>
+  <string name="ad_sub_textview_ad">Рэклама</string>
+  <string name="ad_sub_textview_permission">Дазволы</string>
+  <string name="ad_sub_textview_privacy">Прыватнасць</string>
 </resources>
