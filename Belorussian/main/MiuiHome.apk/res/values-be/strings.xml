@@ -175,7 +175,7 @@
   <string name="cate_order_reset">Скід</string>
   <string name="category_already_exists">Такая катэгорыя ўжо існуе</string>
   <string name="category_cannot_empty">Спачатку ўвядзіце катэгорыю</string>
-  <string name="category_choose_no_app_select_tip">Кожная катэгорыя павінна змяшчаць не менш за 1 праграму.</string>
+  <string name="category_choose_no_app_select_tip">Кожная катэгорыя павінна змяшчаць не менш за %d праграму.</string>
   <string name="category_drawer_name_hint">Увядзіце імя катэгорыі</string>
   <string name="category_edit_back_confirm_dialog_content">Захаваць змены зараз?</string>
   <string name="category_edit_back_confirm_dialog_negative_button">Адмена</string>
@@ -703,7 +703,7 @@
   <string name="remove_sys_app_title">Выдаліць цэтлiк з працоўнага стала?</string>
   <string name="reset_cate_tip_content">Будуць адноўлены групы праграм па змаўчанні. Усё роўна працягнуць?</string>
   <string name="reset_cate_tip_title">Аднавіць групы па змаўчанні</string>
-  <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
+  <string name="reset_description_first_time">Вы можаце аднавіць макет з %2$s на працягу %1$d гадзін</string>
   <string name="reset_description_others">Вы можаце аднавіць макет з %1$s</string>
   <string name="reset_fail">Не атрымалася аднавіць</string>
   <string name="reset_scene_prompt">Размяшчэнне абразкоў на галоўным экране будзе зменена на стандартнае.</string>
