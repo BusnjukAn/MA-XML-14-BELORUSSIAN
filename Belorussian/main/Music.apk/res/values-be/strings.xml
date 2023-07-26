@@ -1865,4 +1865,10 @@
   <string name="whitelist_entrance_desc">Уручную дадайце файлы, якія Mi Музыка не знаходзіць аўтаматычна</string>
   <string name="whitelist_entrance_text_1">"Не можаце знайсці песню? "</string>
   <string name="whitelist_title">Выключэнні файлаў</string>
+  <string name="jump_to_ytb_dialog_cancel">Адмена</string>
+  <string name="jump_to_ytb_dialog_desc">Вы будзеце перанакіраваны з Mi Музыкі ў праграму YouTube. Адкрыць YouTube?</string>
+  <string name="jump_to_ytb_dialog_ok">Пацвердзіць</string>
+  <string name="jump_to_ytb_dialog_title">Выхад з Mi Музыкі</string>
+  <string name="label">Пазнака</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>
