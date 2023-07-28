@@ -645,4 +645,6 @@
   <string name="request_permission_read_media_video">Доступ да відэа</string>
   <string name="request_permission_read_media_video_desc">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі відэа</string>
   <string name="request_permission_read_media_visual">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі фота і відэа</string>
+  <string name="exception_share_file">Не атрымалася запампаваць. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>
