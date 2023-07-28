@@ -613,4 +613,5 @@
   <string name="request_permissions_dialog_title">Патрабуюцца дазволы</string>
   <string name="session_failed_get_installed_apps_denied_detail">Каб мець магчымасць аўтаматычнага рэзервовага капіявання, дазвольце гэтай праграме у наладах доступ да спісу праграм, усталяваных на вашай прыладзе, і абярыце \"Заўсёды дазваляць\".</string>
   <string name="session_failed_get_installed_apps_denied_title">Патрабуюцца дазволы</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>

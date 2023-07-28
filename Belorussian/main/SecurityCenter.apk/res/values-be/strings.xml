@@ -6697,4 +6697,10 @@
   <string name="popular_action_video_clean_title_global">Ачысціць кэш відэа, каб вызваліць месца</string>
   <string name="storage_activity_title_personage">Асабістае</string>
   <string name="storage_activity_title_work">Працоўнае</string>
+  <string name="global_satisfaction_notification_channel">Апытанне задаволенасці карыстальнікаў</string>
+  <string name="permission_instruction_get_identifier">Доступ да ідэнтыфікатара прылады</string>
+  <string name="permission_instruction_read_history">Доступ да гісторыі праглядаў</string>
+  <string name="permission_instruction_receive_sms">Атрымліваць SMS і MMS</string>
+  <string name="permission_instruction_record_screen">Доступ да змесціва экрана</string>
+  <string name="permission_instruction_transfer_data_to_other_devices">Перанос дадзеных на іншыя прылады</string>
 </resources>

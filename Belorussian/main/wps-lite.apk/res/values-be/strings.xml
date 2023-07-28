@@ -467,4 +467,9 @@
   <string name="public_enter_now">Увайсці зараз</string>
   <string name="public_is_jump_wps_pen_mode">Вы ўвайшлі ў рэжым маркіроўкі?</string>
   <string name="public_penmode_download_message_tip">Можна выкарыстоўваць стілус для рэдагавання дакумента</string>
+  <string name="public_ack">Зразумела</string>
+  <string name="public_loadDocumentFileUnsupportedEncryptionError">Файл змяшчае метад шыфравання, які не падтрымліваецца, і яго немагчыма адкрыць.</string>
+  <string name="public_onlineSecurityDialogConfirm">Адкрыць у WPS</string>
+  <string name="public_onlineSecurityDialogMsg">Гэты файл з\'яўляецца бяспечным файлам, створаным WPS. Ён можа быць адкрыты толькі кліентам WPS, які падтрымлівае бяспечныя файлы. Выкарыстоўвайце кліент WPS для доступу.</string>
+  <string name="public_onlineSecurityDialogTitle">Немагчыма адкрыць файл</string>
 </resources>

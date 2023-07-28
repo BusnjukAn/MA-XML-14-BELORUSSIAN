@@ -415,4 +415,6 @@
   <string name="privacy_mosaic_tip_long">Здымкі з пракруткай не падтрымліваюцца</string>
   <string name="privacy_mosaic_tip_partial">Частковыя здымкі не падтрымліваюцца</string>
   <string name="copy_success_toast">Паспяхова скапіявана</string>
+  <string name="screenshot_detected_multiple_template">Некалькі праграм, у тым ліку %1$s, выявілі гэты здымак экрана</string>
+  <string name="screenshot_detected_template">Праграма %1$s выявіла гэты здымак экрана</string>
 </resources>

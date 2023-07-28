@@ -463,10 +463,10 @@
   <string name="stylus_ota_updating">Абнаўленне...</string>
   <string name="stylus_primary_key">Першая кнопка</string>
   <string name="stylus_quick_write">Напісаць</string>
-  <string name="stylus_quick_write_summary">Націсніце і ўтрымлівайце кнопку запісу, каб напісаць ці намаляваць.</string>
+  <string name="stylus_quick_write_summary">Націсніце і ўтрымлівайце кнопку запісу, каб напісаць ці намаляваць</string>
   <string name="stylus_schematic_diagram">Дэма</string>
   <string name="stylus_screen_shot">Зрабіць скрыншот</string>
-  <string name="stylus_screen_shot_summary">Націсніце і ўтрымлівайце кнопку скрыншота, каб зрабіць і адрэдагаваць скрыншот.</string>
+  <string name="stylus_screen_shot_summary">Націсніце і ўтрымлівайце кнопку скрыншота, каб зрабіць і адрэдагаваць скрыншот</string>
   <string name="stylus_settings_title">Стілус</string>
   <string name="stylus_shortcut_actions_summary">Націсніце і ўтрымлівайце першую кнопку, каб напісаць. Націсніце і ўтрымлівайце другую кнопку, каб зрабіць скрыншот.</string>
   <string name="stylus_shortcut_actions_title">Хуткія дзеянні</string>
