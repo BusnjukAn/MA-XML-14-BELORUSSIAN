@@ -212,7 +212,7 @@ ID:%s
   <string name="find_device_remote_exception">Здарылася RPC памылка</string>
   <string name="find_device_request_error">Здарылася памылка на серверы, пачакайце хвілінку і паспрабуйце зноў</string>
   <string name="find_device_request_prepare_error">Немагчыма атрымаць статус, паспрабуйце пазней зноў</string>
-  <string name="find_device_set_lost_model">Рэжым згубленай прылады</string>
+  <string name="find_device_set_lost_model">Рэжым страты</string>
   <string name="find_device_title">Пошук прылады</string>
   <string name="find_device_unknown_error">Немагчыма атрымаць статус прылады. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
   <string name="find_equipment">Пошук</string>
