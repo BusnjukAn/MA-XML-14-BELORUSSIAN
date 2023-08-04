@@ -1848,16 +1848,16 @@
   <string name="close_tips">Закрыць напамін</string>
   <string name="folder_junk_name_en5">Спам</string>
   <string name="message_invite_calendar_download_prompt">Спампуйце Каляндар, каб выкарыстоўваць гэтую функцыю</string>
-  <string name="translated_text_too_long">Змест перакладу занадта доўгі, паменшыце змест і паспрабуйце яшчэ раз.</string>
+  <string name="translated_text_too_long">Абярыце менш тэксту для капіявання і паспрабуйце яшчэ раз.</string>
   <string name="body_forward_email_text">[Пераслаць]</string>
   <string name="body_inline_pic_text">[Выява]</string>
   <string name="message_forward_has_signature_pdf">Вы перасылаеце падпісаныя PDF-файлы?</string>
   <string name="cancel_edit">Адмяніць рэдагаванне</string>
   <string name="drop_sign_operation">Адмяніць змены?</string>
   <string name="other_pdf_open">Іншыя спосабы адкрыцця</string>
-  <string name="pdf_save_local">Захаваць лакальна</string>
+  <string name="pdf_save_local">"Паспяхова захавана на прыладзе: "</string>
   <string name="pdf_viewer_reply_all">Адказаць усім гэтым файлам</string>
   <string name="please_save_sign_first">Захаваць подпіс</string>
-  <string name="save_sign_pdf">Захаваць лакальна</string>
-  <string name="auto_start_open_prompt">Пошта не выкарыстоўвае аўтазапуск. Гэта можа паўплываць на сінхранізацыю электроннай пошты. Уключыць аўтазапуск?</string>
+  <string name="save_sign_pdf">Захаваць на прыладзе</string>
+  <string name="auto_start_open_prompt">Дазвольце праграме аўтаматычна запускацца, каб яна магла сінхранізаваць вашу электронную пошту. Вы можаце прадаставіць гэты дазвол у наладах.</string>
 </resources>

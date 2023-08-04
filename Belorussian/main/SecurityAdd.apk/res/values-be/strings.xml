@@ -681,4 +681,5 @@
   <string name="pc_going_to_exit_extreme_mode_summary">Ваша прылада зараджаецца. Рэжым гібернацыі выключаны.</string>
   <string name="retry_action">Паспрабуйце зноў</string>
   <string name="pc_entered_extreme_mode_summary2">Батарэя вашай прылады амаль разраджана. У рэжыме гібернацыі вы не будзеце атрымліваць апавяшчэнні ад праграм, якія працуюць у фонавым рэжыме.</string>
+  <string name="superpower_toast_app_select_full_new">Вы можаце дадаць да %d элементаў у часта выкарыстоўваемыя праграмы</string>
 </resources>

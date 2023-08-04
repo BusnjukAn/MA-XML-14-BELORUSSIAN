@@ -6703,4 +6703,23 @@
   <string name="permission_instruction_receive_sms">Атрымліваць SMS і MMS</string>
   <string name="permission_instruction_record_screen">Доступ да змесціва экрана</string>
   <string name="permission_instruction_transfer_data_to_other_devices">Перанос дадзеных на іншыя прылады</string>
+  <string name="allow_onetime">Дазволіць аднаразова</string>
+  <string name="app_management_for_chain_start">Блакаваць адкрыццё іншых праграм</string>
+  <string name="app_management_for_chain_start_desc">Забараніць гэтай праграме падлучацца да іншых праграм або адчыняць іх</string>
+  <string name="app_management_for_device_id">Схаваць ідэнтыфікатары і прадухіліць адсочванне</string>
+  <string name="app_management_for_device_id_desc">Забараніць гэтай праграме доступ да вашага нумара тэлефона і асабістай інфармацыі</string>
+  <string name="app_management_for_independent_storage">Ізаляваць кэшаваныя дадзеныя</string>
+  <string name="app_management_for_independent_storage_desc">Дазволіць гэтай праграме доступ толькі да сваіх файлаў і дадзеных</string>
+  <string name="app_management_for_install">Заблакаваць загрузку праграм</string>
+  <string name="app_management_for_install_desc">Забараніць гэтай праграме спампоўку або ўсталёўку іншых праграм</string>
+  <string name="app_management_measures">Кіраванне праграмамі</string>
+  <string name="autostart_now_tip">"Заблакавана \"%1$s\" ад адкрыцця \"%2$s\" "</string>
+  <string name="chainstart_desc_for_exemption">Неправераная праграма \"%1$s\" адкрываецца \"%2$s\". Будзьце асцярожныя пры ажыццяўленні плацяжоў.</string>
+  <string name="overlay_permission_dialog_comment">Дазвольце Бяспецы адлюстроўваць элементы па-над іншымі праграмамi.</string>
+  <string name="overlay_permission_dialog_comment_pad">Дазвольце Бяспецы адлюстроўваць элементы па-над іншымі праграмамi.</string>
+  <string name="overlay_permission_dialog_message">Для нармальнай працы Бяспецы патрабуюцца дазволы.</string>
+  <string name="overlay_permission_dialog_message_pad">Для нармальнай працы Бяспецы патрабуюцца дазволы.</string>
+  <string name="overlay_permission_dialog_open">Налады</string>
+  <string name="overlay_permission_dialog_title">Патрабуюцца дазволы</string>
+  <string name="virus_auto_update_engine_1">Аўтаабнаўленне азначэнняў</string>
 </resources>

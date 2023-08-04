@@ -1631,4 +1631,8 @@
   <string name="ad_sub_textview_ad">Рэклама</string>
   <string name="ad_sub_textview_permission">Дазволы</string>
   <string name="ad_sub_textview_privacy">Прыватнасць</string>
+  <string name="warning_miui_optimization_closed_dialog_agree">Налады</string>
+  <string name="warning_miui_optimization_closed_dialog_disagree">Ужыць</string>
+  <string name="warning_miui_optimization_closed_dialog_message">Здаецца, вы не ўключылі аптымізацыю MIUI. Без яе гэтая тэма не будзе працаваць належным чынам пры прымяненні. Вы можаце прымяніць яе ў любым выпадку або ўключыць аптымізацыю MIUI у наладах.</string>
+  <string name="warning_miui_optimization_closed_dialog_title">Увага</string>
 </resources>
