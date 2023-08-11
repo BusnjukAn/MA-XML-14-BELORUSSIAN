@@ -1871,4 +1871,5 @@
   <string name="jump_to_ytb_dialog_title">Выхад з Mi Музыкі</string>
   <string name="label">Пазнака</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="song_swipe_navigation">Для пераключэння трэка правядзіце налева або направа</string>
 </resources>
