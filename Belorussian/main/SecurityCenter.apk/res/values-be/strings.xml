@@ -6722,4 +6722,12 @@
   <string name="overlay_permission_dialog_open">Налады</string>
   <string name="overlay_permission_dialog_title">Патрабуюцца дазволы</string>
   <string name="virus_auto_update_engine_1">Аўтаабнаўленне азначэнняў</string>
+  <string name="download_tvm_title">Плагін Кампанент тэлефоннага ключа</string>
+  <string name="install_tvm_component_desc">Каб забяспечыць бяспеку вашых транзакцый, усталюеце плагін Кампанент тэлефоннага ключа.</string>
+  <string name="install_tvm_component_title">Усталяваць плагін Кампанент тэлефоннага ключа</string>
+  <string name="tvm_install_failed">Не атрымалася ўсталяваць плагін</string>
+  <string name="tvm_install_successed">Плагін паспяхова ўсталяваны</string>
+  <string name="tvm_version_too_low">Спачатку абновіце плагін Кампанент тэлефоннага ключа</string>
+  <string name="upgrade_tvm_component_desc">Каб забяспечыць бяспеку вашых транзакцый, абновіце плагін Кампанент тэлефоннага ключа.</string>
+  <string name="upgrade_tvm_component_title">Абнавіць плагін Кампанент тэлефоннага ключа</string>
 </resources>

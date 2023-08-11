@@ -1121,4 +1121,10 @@
   <string name="find_app_by_color">Групаваць абразкі па колеру для хуткага пошуку праграм</string>
   <string name="free_style_title">Mi Space</string>
   <string name="free_style_unavailable_message">Mi Space больш не падтрымліваецца ў гэтай версіі. Аднак вы можаце працягваць выкарыстоўваць гэтую тэму.</string>
+  <string name="content_center">Кантэнт-цэнтр</string>
+  <string name="international_home_pull_down_content">Правядзіце ўніз працоуным стале, каб выканаць пошук на гэтай прыладзе і ў Інтэрнэце.</string>
+  <string name="international_home_pull_down_sub_content">Вы можаце пераключыць гэты жэст на адкрыццё Цэнтра кіравання ў меню «Налады» > «Працоуны стол» > «Жэст ўніз па працоуным стале».</string>
+  <string name="international_home_pull_down_up_btn_get">Зразумела</string>
+  <string name="international_home_pull_up_content">Правядзіце уверх па працоуным стале, каб адкрыць Кантэнт-цэнтр.</string>
+  <string name="international_home_pull_up_sub_content">Каб адкрыць пошук, правядзіце ўніз ад цэнтра працоўнага стала.</string>
 </resources>
