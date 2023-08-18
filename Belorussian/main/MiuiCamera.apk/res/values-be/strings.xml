@@ -2650,4 +2650,11 @@
   <string name="video_effect_entry_literature_art">Паэзія</string>
   <string name="video_effect_entry_orange_honey">Бурштын</string>
   <string name="video_effect_entry_romance">Зачараванне</string>
+  <string name="flat_selfie_title_accessibility">Сэлфi з задняй камеры</string>
+  <string name="gallery_delete_dialog_confirm">Выдаліць</string>
+  <string name="gallery_delete_dialog_msg">Выдаліць выбраныя элементы зараз?</string>
+  <string name="gallery_delete_dialog_title">Выдаліць элементы</string>
+  <string name="gallery_description">Мініяцюры папярэдняга прагляду будуць з\'яўляцца на экране падчас фотаздымкі.</string>
+  <string name="gallery_title">Прадпрагляд мініяцюр</string>
+  <string name="switch_gallery_preview_title_accessibility">Пераключыць прадпрагляд</string>
 </resources>

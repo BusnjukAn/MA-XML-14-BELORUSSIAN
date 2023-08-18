@@ -2749,4 +2749,27 @@
   <string name="continue_watch_video">Працягнуць прагляд</string>
   <string name="notify_rencet_play">Нядаўна прайграныя</string>
   <string name="sniff_description">Атрымліваць падказкі, калі вэб-старонка змяшчае аб\'екты, якія можна спампаваць.</string>
+  <string name="back_dialog_antivirus_primary_btn">Праверыць</string>
+  <string name="back_dialog_health_check_primary_btn">Аптымізаваць</string>
+  <string name="back_dialog_storage_content">%1$s месца ў сховішчы вашай прылады занята. Ачысціць зараз?</string>
+  <string name="back_dialog_storage_primary_btn">Ачысціць</string>
+  <string name="back_dialog_title_antivirus">Антывірус</string>
+  <string name="back_dialog_title_health_check">Аптымізаваць прыладу</string>
+  <string name="back_dialog_title_storage">Кіраванне сховішчам</string>
+  <string name="branch_app_title">Пошук праграм</string>
+  <string name="copy_success">Паспяхова скапіявана</string>
+  <string name="dialog_ad_callback_cancel">Адмена</string>
+  <string name="dialog_ad_callback_fraud_info">Махлярства або афёра</string>
+  <string name="dialog_ad_callback_inappropriate_picture">Недапушчальныя выявы</string>
+  <string name="dialog_ad_callback_others">Іншае</string>
+  <string name="dialog_ad_callback_title">Паведаміць аб праблеме</string>
+  <string name="dialog_dislike_reason_cancel">Адмена</string>
+  <string name="dialog_dislike_reason_not_interested">Мне не цікава</string>
+  <string name="dialog_dislike_reason_others">Іншая прычына</string>
+  <string name="dialog_dislike_reason_poor_quality">Нізкая якасць</string>
+  <string name="dialog_dislike_reason_repetitive">Паўтор</string>
+  <string name="dialog_dislike_title">Чаму вам не падабаецца гэтая рэклама?</string>
+  <string name="gps_prompt_title">Парады</string>
+  <string name="search_for_anything_test_1">Шукайце ў Інтэрнэце або на вашай прыладзе</string>
+  <string name="search_for_anything_test_2">Шукайце праграмы і многае іншае</string>
 </resources>

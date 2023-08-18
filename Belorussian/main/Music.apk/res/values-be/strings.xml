@@ -1872,4 +1872,6 @@
   <string name="label">Пазнака</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="song_swipe_navigation">Для пераключэння трэка правядзіце налева або направа</string>
+  <string name="youtube_tab_radar">Радар</string>
+  <string name="youtube_tab_trend">У трэндзе</string>
 </resources>

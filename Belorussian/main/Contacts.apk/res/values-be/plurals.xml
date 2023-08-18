@@ -4,13 +4,19 @@
     <item quantity="other">Гадзіну таму</item>
   </plurals>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">1 гадзіну таму</item>
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+        <item quantity="many">%d гадзін таму</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
     <item quantity="other">Паўгадзіны таму</item>
   </plurals>
   <plurals name="abbrev_in_a_hour">
-    <item quantity="other">Праз 1 гадзіну</item>
+        <item quantity="other">Праз %d гадзін</item>
+        <item quantity="one">Праз %d гадзіну</item>
+        <item quantity="few">Праз %d гадзіны</item>
+        <item quantity="many">Праз %d гадзін</item>
   </plurals>
   <plurals name="abbrev_in_half_hour">
     <item quantity="other">Праз паўгадзіны</item>

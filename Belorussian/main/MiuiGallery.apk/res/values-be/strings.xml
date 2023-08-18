@@ -3684,4 +3684,7 @@
   <string name="immersion_menu_camera_photos">Альбом камеры</string>
   <string name="immersion_menu_photo_switch_notice">Націсніце, каб выбраць, ці адлюстроўваць тут усе элементы, або толькі альбом камеры</string>
   <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="cta_hybrid_feedback_network_declare">Каб прагледзець рашэнні найболей распаўсюджаных праблем, спачатку дазвольце гэтай праграме падлучацца да сеткі.</string>
+  <string name="picture_not_support_privacy_watermark">Немагчыма дадаць вадзяны знак. Гэтая выява занадта маленькая.</string>
+  <string name="search_domestic_edit_hint">Пошук фота і відэа</string>
 </resources>
