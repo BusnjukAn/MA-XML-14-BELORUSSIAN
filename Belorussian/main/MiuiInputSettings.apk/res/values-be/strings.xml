@@ -611,4 +611,5 @@
   <string name="stylus_quick_note_summary">Калі экран выключаны, краніце яго стылусам, каб пачаць пісаць. Гэтая функцыя павялічвае энергаспажыванне.</string>
   <string name="stylus_quick_note_title">Пісаць з выключаным экранам</string>
   <string name="search_screen_shot">Здымкі экрана</string>
+  <string name="auto_disable_screenbuttons_dialog_title">Адключыць экранныя кнопкі для %s?</string>
 </resources>

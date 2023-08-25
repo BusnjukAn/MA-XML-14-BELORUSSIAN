@@ -87,8 +87,8 @@
   <string name="app_locale_preference_title">Мова</string>
   <string name="app_locales_picker_menu_title">Мовы праграмы</string>
   <string name="app_restricted_settings_lockscreen_title">Дазволіць абмежаваныя налады</string>
-  <string name="assistant_long_press_home_gesture_summary">Націсніце і ўтрымлівайце кнопку галоўнага экрана, каб выклікаць праграму \"Лічбавы памочнік\".</string>
-  <string name="assistant_long_press_home_gesture_title">Для выкліку Памочніка ўтрымлівайце кнопку галоўнага экрана</string>
+  <string name="assistant_long_press_home_gesture_summary">Для выкліку Лічбавага памочніка націсніце і ўтрымлівайце кнопку \"Дадому\"</string>
+  <string name="assistant_long_press_home_gesture_title">Утрыманне кнопкі \"Дадому\"</string>
   <string name="auto_clean_description">Аб гэтай функцыі\n%3$d. Запусціце гэтую функцыю адзін ці два разы, калі выявіце, што дынамік злёгку забіты пылам.\n%4$d. Калі дынамік моцна заблакаваны, запусціце гэтую функцыю %1$d-%2$d разоў, калыхаючы прыладу дынамікам уніз.</string>
   <string name="avatar_picker_title">Абярыце відарыс профілю</string>
   <string name="battery_info_status_full_charged">Акумулятар поўнасцю зараджаны</string>
