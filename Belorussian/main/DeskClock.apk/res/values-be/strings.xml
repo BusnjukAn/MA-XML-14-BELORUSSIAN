@@ -423,14 +423,14 @@
   <string name="alert_volume">Гучнасць званка</string>
   <string name="alert_volume_summary">Усталюйце гучнасць званка для сігналаў будзільнікаў і таймераў</string>
   <string name="auto_silence_summary">Усталюйце час, па заканчэнні якога сігналы будзільнікаў і таймеры будуць адключацца</string>
-  <string name="edit_label">Змяніць пазнаку будзільніка</string>
+  <string name="edit_label">Змяніць апісанне будзільніка</string>
   <string name="holiday_update_title">Абнавіць інфармацыю аб святах</string>
-  <string name="label_input_desc">Гэтая пазнака будзе адлюстроўвацца на экране пры адключэнні будзільніка</string>
-  <string name="label_input_hint">Калі ласка, увядзіце пазнаку</string>
+  <string name="label_input_desc">Гэтае апісанне будзе адлюстравана на экране падчас сігналу будзільніка</string>
+  <string name="label_input_hint">Напрыклад: Час ўставаць</string>
   <string name="more_alert_setting">Дадатковыя налады</string>
   <string name="net_permission_cancel">Не згодзен</string>
   <string name="net_permission_ok">Згодзен</string>
-  <string name="new_label">Дадаць пазнаку будзільніка</string>
+  <string name="new_label">Дадаць апісанне будзільніка</string>
   <string name="normal_settings">Асноўныя налады</string>
   <string name="other_settings">Дадатковыя налады</string>
   <string name="ringtone_digital_timer">Таймер</string>
@@ -719,7 +719,7 @@
   <string name="read_phone_state">Доступ да інфармацыі аб прыладзе</string>
   <string name="read_phone_state_desc">Доступ да статусу выкліку пры званку будзільніка</string>
   <string name="read_phone_state_desc_when_request">Для доступу да статусу выкліку для аўтаматычнага прыпынення будзільніка пры атрыманні выкліку</string>
-  <string name="remark_hint">Увядзіце пазнаку</string>
+  <string name="remark_hint">Дадайце апісанне</string>
   <string name="add_timer_dialog_title">Дадаць таймер</string>
   <string name="timer_alert_type_no">Адсутнічае</string>
   <string name="timer_desc_use_brush_teeth">Пачысціць зубы</string>
