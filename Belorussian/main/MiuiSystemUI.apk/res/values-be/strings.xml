@@ -2688,4 +2688,5 @@
   <string name="thermal_protection_warning">Ваша прылада перагрэлася. Цяпер нельга выкарыстоўваць гэтую функцыю.</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Немагчыма пераключацца паміж прасторамі ў рэжыме гібернацыі</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Немагчыма пераключацца паміж прасторамі з-за нізкага зарада батарэі</string>
+  <string name="sim_lock_bouncer_hint_msg">SIM-карта заблакаваная. Заменіце яе або ўвядзіце пароль для разблакавання.</string>
 </resources>

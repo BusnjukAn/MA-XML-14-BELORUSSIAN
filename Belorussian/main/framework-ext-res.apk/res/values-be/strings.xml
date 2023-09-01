@@ -675,4 +675,6 @@
   <string name="hovermode_text_prompt">Калі рэжым навядзення ўключаны, выкарыстоўвайце жэсты ў ніжняй палове экрана. Могуць быць адрозненні паміж праграмамі.</string>
   <string name="hovermode_text_right">Рэгуляванне гучнасці</string>
   <string name="split_screen_recommend_tip">Падзелены экран</string>
+  <string name="resolver_cast">Трансляцыя</string>
+  <string name="resolver_print">Друк</string>
 </resources>

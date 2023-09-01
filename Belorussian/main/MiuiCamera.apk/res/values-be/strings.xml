@@ -2657,4 +2657,5 @@
   <string name="gallery_description">Мініяцюры папярэдняга прагляду будуць з\'яўляцца на экране падчас фотаздымкі.</string>
   <string name="gallery_title">Прадпрагляд мініяцюр</string>
   <string name="switch_gallery_preview_title_accessibility">Пераключыць прадпрагляд</string>
+  <string name="frind_sign_button_accessibility">Адключыць дапаможную камеру</string>
 </resources>
