@@ -942,4 +942,9 @@
   <string name="privacy_runtime_perm_notification_title">Апавяшчэнні</string>
   <string name="upgrade_member_storage">Сяброўства ў Воблаке Xiaomi</string>
   <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="web_view_auto_login_fail">Немагчыма ўвайсці. Паўтарыце спробу.</string>
+  <string name="web_view_login_text">Уваход…</string>
+  <string name="web_view_reload_btn_text">Паўтарыце спробу</string>
+  <string name="web_view_reload_description_text">"Не атрымалася падлучыцца да сеткі.
+Праверце налады сеткі і паспрабуйце яшчэ раз."</string>
 </resources>

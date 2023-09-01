@@ -64,7 +64,7 @@
   <string name="equalizer">Эквалайзер</string>
   <string name="expand_button_title">Дадаткова</string>
   <string name="first_note">Праверце сваё слыхавое ўспрыманне, каб адпаведным чынам наладзіць гучнасць.</string>
-  <string name="four_note">Тэст зойме каля %d хв.</string>
+  <string name="four_note">Тэст зойме каля %d хвілін.</string>
   <string name="heard_no">Няма</string>
   <string name="heard_yes">Так</string>
   <string name="hearing_of_left_ear">Левае вуха</string>
@@ -144,7 +144,7 @@
   <string name="music_headset_optimization">Аптымізацыя гуку</string>
   <string name="music_headset_scenario_intelligent">Аўтаматычна</string>
   <string name="music_headset_scenario_music">Музыка</string>
-  <string name="music_headset_scenario_select">Перадусталёўка</string>
+  <string name="music_headset_scenario_select">Выбар сцэны</string>
   <string name="music_headset_scenario_video">Відэа</string>
   <string name="music_headset_scenario_vocal">Голас</string>
   <string name="music_headset_select_settings">Выберыце навушнікі</string>
@@ -223,7 +223,7 @@
   <string name="sound_transmission_function_generalize">Перадаваць гук з мікрафона вашага тэлефона на вонкавую прыладу Bluetooth</string>
   <string name="dolby_dax_geq_select_title">Перадусталёўкі</string>
   <string name="dolby_dax_geq_title">Графічны эквалайзер</string>
-  <string name="dolby_dax_profile_dynamic">Дынамічная</string>
+  <string name="dolby_dax_profile_dynamic">Дынамічны</string>
   <string name="dolby_dax_setting">Эфекты Dolby</string>
   <string name="dolby_dax_title">Аб\'ёмны гук</string>
   <string name="misound_effect_setting">Mi Гук</string>
@@ -558,4 +558,5 @@
   <string name="spatial_audio_summary_spk">Адчуйце эфект пагружэння i адчування прасторы пры прайграванні аўдыё</string>
   <string name="effect_virtual_surround_summary_spk">Павялічце глыбіню гуку для прайгравання аўдыё і відэа</string>
   <string name="effect_selection_headset">Эфекты навушнікаў</string>
+  <string name="sound_id_hz"> %d Гц</string>
 </resources>
