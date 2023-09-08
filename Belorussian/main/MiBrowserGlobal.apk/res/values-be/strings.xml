@@ -2806,4 +2806,8 @@
   <string name="follow_us_on_tiktok">Сачыце за намі ў TikTok</string>
   <string name="survey_feedback_general">Нармальная</string>
   <string name="toast_exit_branch">Націсніце яшчэ раз, каб выйсці</string>
+  <string name="site_content_has_update">Змесціва старонкі абноўлена</string>
+  <string name="time_segmented_evening_title">Вячэрні адпачынак</string>
+  <string name="time_segmented_morning_title">Добрай раніцы</string>
+  <string name="time_segmented_noon_title">Выбар пасля абеду</string>
 </resources>

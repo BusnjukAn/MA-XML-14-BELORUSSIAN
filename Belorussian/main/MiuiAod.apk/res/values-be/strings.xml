@@ -465,4 +465,6 @@
   <string name="searchview_clear_text_content_description">Ачысціць тэкст</string>
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="side_sheet_accessibility_pane_title">Бакавы ліст</string>
+  <string name="smart_style">Разумны рэжым</string>
+  <string name="smart_style_summary">Заўсёды адлюстроўваць элементы, за выключэннем выпадкаў, калі ваша прылада знаходзіцца ў кішэні, пры слабым навакольным асвятленні на працягу доўгага часу, ці калі вы не глядзіце на сваю прыладу.</string>
 </resources>

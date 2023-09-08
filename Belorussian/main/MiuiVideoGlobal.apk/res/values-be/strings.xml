@@ -2213,4 +2213,25 @@
 - Інтэрнэт-трансляцыя
 - Лакальны відэаплэер
 Mi Відэа неабходна збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую мы збіраем, у нашай Палітыцы прыватнасці. Вы можаце змяніць адпаведныя налады ў Профіль > Налады."</string>
+  <string name="back_recommend_exchange">Прагледзець</string>
+  <string name="back_recommend_exit">Выйсці</string>
+  <string name="back_recommend_title">Паглядзіце іншыя папулярныя відэа</string>
+  <string name="hide_video_toast">Гэты аб\'ект быў скрыты. Вы можаце знайсці скрытыя аб\'екты і кіраваць імі ў раздзеле «Лакальныя» &gt; «Папкі» &gt; «Скрытыя аб\'екты».</string>
+  <string name="local_diversion_moments_videos">Паглядзець моманты</string>
+  <string name="local_diversion_trending_videos">Паглядзець трэндавыя відэа</string>
+  <string name="local_new_user_speed_guide">Націсніце, утрымлівайце і зрушце, каб адрэгуляваць хуткасць прайгравання</string>
+  <string name="local_play_recommend_guide_card_bottom">Больш відэа</string>
+  <string name="local_reset_confirm">Увядзіце зноў</string>
+  <string name="local_reset_error_dif_info">Новы PIN-код не можа супадаць са старым</string>
+  <string name="local_reset_error_wrong_info">PIN-коды не супадаюць. Паспрабуйце зноў.</string>
+  <string name="local_reset_new_password">Увядзіце новы PIN-код</string>
+  <string name="local_reset_old_password">Увядзіце бягучы PIN-код</string>
+  <string name="local_reset_password_done">PIN-код паспяхова зменены</string>
+  <string name="local_reset_password_title">Змяніць PIN-код</string>
+  <string name="local_reset_tips">Увядзіце %d-значны PIN-код</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="native_body">Тэкст паведамлення</string>
+  <string name="native_headline">Загаловак</string>
+  <string name="native_media_view">Цэнтр мультымедыя</string>
+  <string name="skip_ad">Прапусціць</string>
 </resources>

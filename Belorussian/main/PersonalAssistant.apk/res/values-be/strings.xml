@@ -995,4 +995,18 @@
   <string name="pa_shortcut_desc_more_title">Яшчэ</string>
   <string name="pa_global_search_description">Пошук</string>
   <string name="pa_global_search_hint">Пошук…</string>
+  <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, стан усталёўкі: %3$s.
+Націсніце двойчы, каб праглядзець дэталі."</string>
+  <string name="pa_picker_detail_add_to_stack">Дадаць у групу</string>
+  <string name="pa_picker_detail_app_widget_in_dev">Гэты віджэт пакуль недаступны. Замест яго вы можаце праверыць іншыя віджэты.</string>
+  <string name="pa_picker_detail_view_more">Паглядзець больш</string>
+  <string name="pa_picker_stack_operate_empty_title">"Пакуль тут нічога няма.
+Каб пачаць, дадайце віджэты."</string>
+  <string name="pa_picker_stack_operate_title">Рэдагаваць групу</string>
+  <string name="pa_picker_toast_count_limit_for_stack">Дадайце да 10 элементаў</string>
+  <string name="pa_stack_summary">Перамясціць віджэты з новай інфармацыяй уверх</string>
+  <string name="pa_stack_text">Перамясціць абноўленыя элементы ўверх</string>
+  <string name="pa_widget_menu_edit_card_in_stack">Рэдагаваць \"%s\"</string>
+  <string name="pa_widget_menu_edit_stack">Рэдагаваць групу</string>
+  <string name="pa_widget_menu_remove_card_in_stack">Выдаліць \"%s\"</string>
 </resources>

@@ -466,4 +466,10 @@
         <item quantity="few">%s прагляда</item>
         <item quantity="many">%s праглядаў</item>
     </plurals>
+	<plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
+        <item quantity="one">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
+        <item quantity="few">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
+        <item quantity="many">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
+    </plurals>
 </resources>

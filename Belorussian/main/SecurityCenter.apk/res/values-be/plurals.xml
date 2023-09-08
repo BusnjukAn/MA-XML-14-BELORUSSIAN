@@ -1380,13 +1380,18 @@
          <item quantity="other">Аптымізаваць выкарыстанне батарэі ў %d сцэнарах</item>
          <item quantity="one">Аптымізаваць выкарыстанне батарэі ў %d сцэнары</item>
      </plurals>
-	<plurals name="hints_auto_start_disable_title_global">
-      <item quantity="other">%d праграмам не дазволена запускацца ў фонавым рэжыме</item>
-      <item quantity="one">%d праграме не дазволена запускацца ў фонавым рэжыме</item>
+	 <plurals name="hints_auto_start_disable_title_global">
+    <item quantity="other">%d праграмам не дазволена запускацца ў фонавым рэжыме</item>
+    <item quantity="one">%d праграме не дазволена запускацца ў фонавым рэжыме</item>
    </plurals>
    <plurals name="hints_auto_start_enable_title_global">
-      <item quantity="other">%d праграм могуць запускацца ў фонавым рэжыме</item>
-      <item quantity="few">%d праграмы могуць запускацца ў фонавым рэжыме</item>
-      <item quantity="one">%d праграма можа запускацца ў фонавым рэжыме</item>
+    <item quantity="other">%d праграм могуць запускацца ў фонавым рэжыме</item>
+    <item quantity="few">%d праграмы могуць запускацца ў фонавым рэжыме</item>
+    <item quantity="one">%d праграма можа запускацца ў фонавым рэжыме</item>
+   </plurals>
+   <plurals name="app_manager_updater_title">
+     <item quantity="other">Абнавіць %d праграм</item>
+     <item quantity="few">Абнавіць %d праграмы</item>
+     <item quantity="one">Абнавіць %d праграму</item>
    </plurals>
 </resources>

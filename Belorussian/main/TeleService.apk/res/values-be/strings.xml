@@ -2862,4 +2862,10 @@
   <string name="esim_is_activating_notification_message_for_o2">Актывацыя тарыфу…</string>
   <string name="intelligent_dual_sim_summary">Выкарыстоўваць мабільны інтэрнэт другой SIM-карты для павелічэння хуткасці злучэння</string>
   <string name="intelligent_dual_sim_title">Разумная падвойная SIM-карта</string>
+  <string name="dial_settings_screen_title">Налады нумаранабіральніка</string>
+  <string name="mobile_settings_screen_title">Мабільныя дадзеныя</string>
+  <string name="msim_setting_default_sms">SIM для SMS</string>
+  <string name="msim_setting_default_sms_description">SIM %d для SMS</string>
+  <string name="msim_setting_sms_pop_text">Абраць пры адпраўцы SMS</string>
+  <string name="other_settings_screen_title">Іншыя налады</string>
 </resources>
