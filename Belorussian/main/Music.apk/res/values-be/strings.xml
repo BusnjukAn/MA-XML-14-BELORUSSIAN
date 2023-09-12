@@ -1874,4 +1874,12 @@
   <string name="song_swipe_navigation">Для пераключэння трэка правядзіце налева або направа</string>
   <string name="youtube_tab_radar">Радар</string>
   <string name="youtube_tab_trend">У трэндзе</string>
+  <string name="get_one_minute_vip">Вы атрымалі %d-хвілінны VIP!</string>
+  <string name="one_minute_vip">%d-хвілінны VIP</string>
+  <string name="reward_received">Вы атрымалі VIP-падпіску!</string>
+  <string name="skip_ad">Прапусціць</string>
+  <string name="video_loading_fail">Не атрымалася загрузіць відэа</string>
+  <string name="web_reward_dialog_cancle">Адмена</string>
+  <string name="web_reward_dialog_ok">Выйсці</string>
+  <string name="youtube_tab_shorts">Кароткія вiдэа</string>
 </resources>

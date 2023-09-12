@@ -384,4 +384,16 @@
     <item quantity="few">%d файла былі дададзены раней</item>
     <item quantity="many">%d файлаў былі дададзены раней</item>
   </plurals>
+  <plurals name="reward_seconds_remaining">
+    <item quantity="other">VIP-падпіска праз %d секунд</item>
+    <item quantity="one">VIP-падпіска праз %d секунду</item>
+    <item quantity="few">VIP-падпіска праз %d секунды</item>
+    <item quantity="many">VIP-падпіска праз %d секунд</item>
+  </plurals>
+  <plurals name="web_reward_dialog_title">
+    <item quantity="other">Калі вы паглядзіце яшчэ %d секунд, то зможаце атрымаць у якасці ўзнагароды VIP-падпіску. Выйсці?</item>
+    <item quantity="one">Калі вы паглядзіце яшчэ %d секунду, то зможаце атрымаць у якасці ўзнагароды VIP-падпіску. Выйсці?</item>
+    <item quantity="few">Калі вы паглядзіце яшчэ %d секунды, то зможаце атрымаць у якасці ўзнагароды VIP-падпіску. Выйсці?</item>
+    <item quantity="many">Калі вы паглядзіце яшчэ %d секунд, то зможаце атрымаць у якасці ўзнагароды VIP-падпіску. Выйсці?</item>
+  </plurals>
 </resources>
