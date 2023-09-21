@@ -340,7 +340,7 @@
   <string name="cleaner_empty">Ачысціць ўсе</string>
   <string name="cleaner_empty_value_description">Ачыстка не патрабуецца</string>
   <string name="cleaner_photo_pick_delete_selected">Выдаліць выбраныя фота</string>
-  <string name="cleaner_raw_action">Праглядзець падрабязнасці</string>
+  <string name="cleaner_raw_action">Прагляд</string>
   <string name="cleaner_raw_description">Вызваліць месца для захоўвання, выдаліўшы вялікія RAW-выявы</string>
   <string name="cleaner_raw_title">Ачысціць RAW файлы</string>
   <string name="cleaner_scan_description">Аптымізацыя аб\'ектаў вызваляе месца на вашай прыладзе</string>
@@ -354,7 +354,7 @@
   <string name="cleaner_screen_shot_action">Прагляд</string>
   <string name="cleaner_screen_shot_description">Выдаліць больш непатрэбныя скрыншоты</string>
   <string name="cleaner_screen_shot_title">Выдаліць скрыншоты</string>
-  <string name="cleaner_similar_action">Праглядзець падрабязнасці</string>
+  <string name="cleaner_similar_action">Прагляд</string>
   <string name="cleaner_similar_description">Выдаліць дублікаты фота</string>
   <string name="cleaner_similar_title">Дублікаты фота</string>
   <string name="cleaner_slim_action">Пачаць аптымізацыю</string>
@@ -365,7 +365,7 @@
   <string name="cleaner_space_detail_description">Выдаліце непатрэбныя файлы для вызвалення месца</string>
   <string name="cleaner_stop_scan">Спыніць сканаванне</string>
   <string name="cleaner_title">Ачыстка</string>
-  <string name="cleaner_video_action">Праглядзець падрабязнасці</string>
+  <string name="cleaner_video_action">Прагляд</string>
   <string name="cleaner_video_description">Выдаліць відэа, якія займаюць месца ў сховішчы</string>
   <string name="cleaner_video_pick_delete_selected">Выдаліць выбраныя відэа</string>
   <string name="cleaner_video_title">Выдаліць відэа</string>
@@ -517,7 +517,7 @@
   <string name="document_provider_guide_step_3">%d. Націсніце кнопку бакавога меню.</string>
   <string name="document_provider_guide_step_4">%d. Абярыце \"SD-карта\".</string>
   <string name="document_provider_guide_step_5">%d. Націсніце \"Выбраць\".</string>
-  <string name="double_tap_for_hr_preview_108m">Двойчы націсніце зноў, каб пераключыцца на папярэдні прагляд 108MP</string>
+  <string name="double_tap_for_hr_preview_108m">Двойчы націсніце зноў, каб пераключыцца на папярэдні прагляд 108 МП</string>
   <string name="double_tap_to_higher_definition">Націсніце двойчы для прагляду ў HD</string>
   <string name="download_canceled">Спампоўка скасавана</string>
   <string name="download_error_format">Не атрымліваецца спампаваць %s</string>
@@ -900,7 +900,7 @@
   <string name="home_page_empty_action">Сфатаграфаваць</string>
   <string name="home_page_label">Фота</string>
   <string name="how_to_set_relation">Націсніце і ўтрымлівайце альбом, каб стварыць групу</string>
-  <string name="hr_preview_108m">Пераключыліся на папярэдні прагляд 108MP</string>
+  <string name="hr_preview_108m">Пераключыліся на папярэдні прагляд 108 МП</string>
   <string name="hybrid_check_network">Налады сеткі</string>
   <string name="hybrid_data_error">Адбылася памылка</string>
   <string name="hybrid_locating_fail">Не атрымліваецца знайсці месцазнаходжанне</string>
@@ -988,7 +988,7 @@
   <string name="macarons_download_sdscard_fail">Не атрымалася загрузіць. SD-карта недаступная.</string>
   <string name="macarons_download_storage_fail">Не атрымалася загрузіць. Недастаткова месца для захоўвання.</string>
   <string name="macarons_download_success">Убудова паспяхова загружаны</string>
-  <string name="macarons_downloading">Загрузка плагіна…</string>
+  <string name="macarons_downloading">Спампоўка плагіна…</string>
   <string name="macarons_select_image_range">Нельга выкарыстоўваць некалькі выяў для стварэння чароўнай віньеткі</string>
   <string name="macarons_select_video">Нельга выкарыстоўваць відэа для стварэння чароўных віньетак</string>
   <string name="main_discard_confirm_message">У вас ёсць незахаваныя змены</string>
@@ -1409,7 +1409,7 @@
   <string name="pic_to_pdf_all_not_support">Вылучаныя выявы нельга захаваць у фармаце PDF</string>
   <string name="pic_to_pdf_exit_notice">Гэты PDF-файл не будзе захаваны, калі вы выйдзеце зараз. Усё роўна выйсці?</string>
   <string name="pic_to_pdf_not_support_video">Відэа нельга захаваць у фармаце PDF</string>
-  <string name="pic_to_pdf_preview_loading">Загрузка папярэдняга прагляду…</string>
+  <string name="pic_to_pdf_preview_loading">Спампоўка папярэдняга прагляду…</string>
   <string name="pic_to_pdf_save_in">PDF-файл захаваны ў %s</string>
   <string name="pick_from_contact">Выбраць з кантактаў</string>
   <string name="pick_people_cover_fail">Адбылася памылка. Паспрабуйце яшчэ раз.</string>
@@ -1554,7 +1554,7 @@
   <string name="screen_editor_finish">Гатова</string>
   <string name="screen_editor_shell_disallowed_with_crop">Немагчыма дадаць рамку ​​прылады на абрэзаныя здымкі экрана</string>
   <string name="screen_editor_shell_net_error">Падключыцеся да сеткі, каб загрузіць рамку ​​прылады</string>
-  <string name="screen_editor_shell_res_downloading">Загрузка рамкi прылады...</string>
+  <string name="screen_editor_shell_res_downloading">Спампоўка рамкi прылады...</string>
   <string name="screen_editor_shell_storage_insufficient">Не ўдаецца загрузіць рамку ​​прылады з-за недахопу месца на дыску</string>
   <string name="screen_save_dialog_btn_cancel">Адмена</string>
   <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
@@ -1607,7 +1607,6 @@
   <string name="search_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
   <string name="search_title_album">Альбом</string>
   <string name="search_title_app_screenshot">Скрыншоты праграмы</string>
-  <string name="search_title_daily">Час</string>
   <string name="search_title_history">Гісторыя пошуку</string>
   <string name="search_title_location">Месцазнаходжанне</string>
   <string name="search_title_more">Яшчэ</string>
@@ -1636,8 +1635,8 @@
   <string name="secret_reason_unknow_reasons">Невядомая памылка</string>
   <string name="secret_reason_video_not_support">Немагчыма дадаваць відэа ў асабісты альбом</string>
   <string name="security_share_subtitle_default">Абарона прыватнасці</string>
-  <string name="security_share_subtitle_hide">Інфармацыя пра месцазнаходжанне была выдаленая</string>
-  <string name="security_share_subtitle_no_hide">Змяшчае інфармацыю пра месцазнаходжанне</string>
+  <string name="security_share_subtitle_hide">Месцазнаходжанне выдалена</string>
+  <string name="security_share_subtitle_no_hide">Змяшчае месцазнаходжанне</string>
   <string name="see_ignore_faces">Прагледзець прапушчаныя фота</string>
   <string name="select_all">Выбраць усё</string>
   <string name="select_image_operation">Дадаванне фота</string>
@@ -2308,7 +2307,7 @@
   <string name="art_still_download_with_metered_network_title">Платная сетка</string>
   <string name="art_still_load_data_fail">Не атрымалася загрузіць дадзеныя</string>
   <string name="art_still_module_finish">Убудова \"Мастацтва\" паспяхова загружана</string>
-  <string name="art_still_module_loading">Загрузка убудовы \"Мастацтва\"...</string>
+  <string name="art_still_module_loading">Спампоўка убудовы \"Мастацтва\"...</string>
   <string name="background_picture">Фон %1$d</string>
   <string name="cd_back">Аднавіць</string>
   <string name="cd_btn_back">Кнопка \"Назад\"</string>
@@ -2350,7 +2349,7 @@
   <string name="id_photo_download_with_metered_network_title">Платная сетка</string>
   <string name="id_photo_load_data_fail">Не атрымалася загрузіць дадзеныя</string>
   <string name="id_photo_module_finish">Падключаемы модуль \"Дакументы\" загружаны паспяхова</string>
-  <string name="id_photo_module_loading">Загрузка плагiна \"Дакументы\"...</string>
+  <string name="id_photo_module_loading">Спампоўка плагiна \"Дакументы\"...</string>
   <string name="magic_add_full">Вы можаце дадаць да %1$d чалавек</string>
   <string name="magic_background">​​Фон</string>
   <string name="magic_brush">Пэндзаль</string>
@@ -2402,7 +2401,7 @@
   <string name="magic_matting_face_fail">Не атрымалася апрацаваць твар</string>
   <string name="magic_matting_load_data_fail">Не атрымалася загрузіць дадзеныя</string>
   <string name="magic_matting_module_finish">Падключаемы модуль \"Контур\" паспяхова загружаны</string>
-  <string name="magic_matting_module_loading">Загрузка плагiна \"Контур\"…</string>
+  <string name="magic_matting_module_loading">Спампоўка плагiна \"Контур\"…</string>
   <string name="magic_metered_network_msg">Здаецца, ваша прылада падлучана да платнай сеткі. За запампоўку зыходных файлаў можа спаганяцца дадатковая плата. Усё роўна загрузіць?</string>
   <string name="magic_metered_network_title">Платная сетка</string>
   <string name="magic_mix_px">Выява занадта маленькая</string>
@@ -2483,7 +2482,7 @@
   <string name="video_post_download_with_metered_network_title">Платная сетка</string>
   <string name="video_post_load_data_fail">Не атрымалася загрузіць дадзеныя</string>
   <string name="video_post_module_finish">Убудова \"Відэаэфекты\" паспяхова загружана</string>
-  <string name="video_post_module_loading">Загрузка плагiна \"Відэаэфекты\"...</string>
+  <string name="video_post_module_loading">Спампоўка плагiна \"Відэаэфекты\"...</string>
   <string name="vlog_audio_select_change_local_music">Змяніць саўндтрэк</string>
   <string name="vlog_audio_select_range_title">Выбраць кліп</string>
   <string name="vlog_clip_add_trans_title">Дадаць пераход</string>
@@ -2505,12 +2504,12 @@
   <string name="magic_max_px">Гэта выява занадта вяліка</string>
   <string name="operation_replace_album_cover_status_default_mode_success">Вокладка альбома па змаўчанні паспяхова адноўлена</string>
   <string name="operation_replace_album_cover_status_success">Вокладка альбома паспяхова змененая</string>
-  <string name="photo_editor_navigator_download_title">Загрузка...</string>
+  <string name="photo_editor_navigator_download_title">Спампоўка...</string>
   <string name="photo_editor_navigator_sticker_download_failed">Не атрымалася загрузіць. Праверце налады сеткі і паспрабуйце ізноў</string>
   <string name="photo_editor_navigator_sticker_download_success">Паспяхова загружана</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Прылада не падлучана да Wi-Fi. Выкарыстоўваць %1$d Мб мабільных дадзеных для загрузкі плагіна?</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Прылада не падлучана да Wi-Fi. Выкарыстоўваць %1$d Мб мабільных дадзеных для загрузкі плагіна?</string>
-  <string name="photo_editor_navigator_sticker_download_without_wifi_title">Загрузка плагіна</string>
+  <string name="photo_editor_navigator_sticker_download_without_wifi_title">Спампоўка плагіна</string>
   <string name="auto_download_title">Абярыце якасць выявы</string>
   <string name="backup_settings">Сінхранізацыя з воблакам</string>
   <string name="backup_settings_more">Дадатковыя налады</string>
@@ -2527,7 +2526,7 @@
   <string name="mi_mover_working_desc">Mi Трансфер перадае элементы...</string>
   <string name="photo_size_not_support">Гэта раздзяляльнасць выявы не падтрымліваецца</string>
   <string name="see_more_settings">Дадатковыя налады</string>
-  <string name="sync_backup_disable_confirm_message_downloading">Калі вы выключыце сінхранізацыю зараз, бягучая загрузка зыходных файлаў, якія захоўваюцца ў воблаку, будзе перапыненая. Выявы высокай якасці, якія захоўваюцца на гэтай прыладзе, таксама больш не будуць даступныя. Усё роўна выключыць?</string>
+  <string name="sync_backup_disable_confirm_message_downloading">Калі вы выключыце сінхранізацыю зараз, бягучая спампоўка зыходных файлаў, якія захоўваюцца ў воблаку, будзе перапыненая. Выявы высокай якасці, якія захоўваюцца на гэтай прыладзе, таксама больш не будуць даступныя. Усё роўна выключыць?</string>
   <string name="sync_backup_disable_confirm_message_wait">Выявы высокай якасці, якія захоўваюцца на гэтай прыладзе, больш не будуць даступныя пасля выключэння сінхранізацыі. Вы можаце спампаваць зыходныя файлы з воблака і пасля гэтага адключыць сінхранізацыю.</string>
   <string name="sync_backup_disable_confirm_title">Адключыць сінхранізацыю</string>
   <string name="sync_backup_enable_confirm_message">Калі сінхранізацыя з воблакам ўключаная, элементы з гэтай прылады будуць загружаныя і аб\'яднаны з элементамі, якія захоўваюцца ў воблаку.</string>
@@ -2849,7 +2848,7 @@
   <string name="slim_action">Аптымізаваць</string>
   <string name="slim_action_auto_backup">Уключыць</string>
   <string name="slim_action_auto_backup_disable_description">Захоўвайце зыходныя фота і відэа ў воблаку, захоўваючы паменшаныя высакаякасныя копіі на гэтай прыладзе.</string>
-  <string name="slim_action_auto_backup_enable_description">Загрузка элементаў у воблака...</string>
+  <string name="slim_action_auto_backup_enable_description">Спампоўка элементаў у воблака...</string>
   <string name="slim_action_auto_backup_sub_tip">Вызваліць месца для захоўвання</string>
   <string name="slim_action_auto_backup_tip">Уключыць сінхранізацыю з воблакам</string>
   <string name="slim_complete_count">Аптымізавана %1$s і %2$s.</string>
@@ -2894,7 +2893,7 @@
   <string name="screen_talkback_small">Вельмі маленькі</string>
   <string name="screen_talkback_text">Тэкст</string>
   <string name="install_media_editor_message">Каб мець магчымасць рэдагаваць элементы, спачатку загрузіце плагін. Загрузіць зараз?</string>
-  <string name="install_media_editor_title">Загрузка плагіна</string>
+  <string name="install_media_editor_title">Спампоўка плагіна</string>
   <string name="app_summary_2">Захоўванне, кіраванне і рэдагаванне фота і відэа на гэтай прыладзе</string>
   <string name="cta_agreement_declare"><Data>Каб цалкам зразумець вашыя правы як карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, прачытайце і прыміце нашы &lt;a href=\"%1$s\">Карыстацкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем гэтай праграмы.</Data></string>
   <string name="cta_network_declare">Каб сінхранізаваць фота і відэа з воблакам Xiaomi, гэтай праграме неабходна падлучыцца да Інтэрнэту.</string>
@@ -3190,10 +3189,10 @@
   <string name="send_dolby_vision_video_continue">Працягнуць</string>
   <string name="today_of_year_function_closed_btn_tip">Уключыць</string>
   <string name="today_of_year_function_closed_tip">Вы яшчэ не ўключылі функцыю \"У гэты дзень\"</string>
-  <string name="double_tap_for_hr_preview_200m">Двойчы націсніце яшчэ раз, каб пераключыцца на папярэдні прагляд 200MP</string>
-  <string name="hr_preview_200m">Пераключана на прадпрагляд 200MP</string>
-  <string name="install_media_editor_download_description">Загрузка…</string>
-  <string name="install_media_editor_download_title">Загрузка плагіна рэдактара галерэі…</string>
+  <string name="double_tap_for_hr_preview_200m">Двойчы націсніце яшчэ раз, каб пераключыцца на папярэдні прагляд 200 МП</string>
+  <string name="hr_preview_200m">Пераключана на прадпрагляд 200 МП</string>
+  <string name="install_media_editor_download_description">Спампоўка…</string>
+  <string name="install_media_editor_download_title">Спампоўка плагіна рэдактара галерэі…</string>
   <string name="assistant_today_of_year_function_closed_tip">Уключыць</string>
   <string name="assistant_today_of_year_function_no_address_tip">У мінулае…</string>
   <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
@@ -3223,7 +3222,7 @@
   <string name="invite_user_now">Адправіць запрашэнне</string>
   <string name="invite_user_success_toast">Запрашэнне адпраўлена</string>
   <string name="invite_wechat_user_title">Запрасіць вас у агульны альбом \"%1$s\"</string>
-  <string name="local_secret_tip">Усе асабістыя элементы сінхранізуюцца з воблакам, калі гэтая функцыя ўключана. Вы можаце змяніць наладкі ў раздзеле \"Налады\" &gt; \"Сінхранізацыя з воблакам\" &gt; \"Кіраванне сінхранізаванымі альбомамі\" &gt; \"Асабісты альбом\".</string>
+  <string name="local_secret_tip">Вы можаце захоўваць усе асабістыя элементы на гэтай прыладзе, не сінхранізуючы іх з воблакам. Вы можаце змяніць свае налады ў меню «Налады» > «Сінхранізацыя з воблакам» > «Кіраванне сінхранізаванымі альбомамі».</string>
   <string name="look_baby_info">Прагледзець інфармацыю аб дзіцяці</string>
   <string name="menu_album_new_share_album">Новы агульны альбом</string>
   <string name="people_page_photo">Мініяцюра чалавека</string>
@@ -3683,8 +3682,22 @@
   <string name="immersion_menu_all_photos">Усе элементы</string>
   <string name="immersion_menu_camera_photos">Альбом камеры</string>
   <string name="immersion_menu_photo_switch_notice">Націсніце, каб выбраць, ці адлюстроўваць тут усе элементы, або толькі альбом камеры</string>
+  <string name="search_title_daily">Час</string>
   <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе адпраўлены на рэзервовы тэлефон (&lt;font color=#1F93FF>%s&lt;/font>).</string>
   <string name="cta_hybrid_feedback_network_declare">Каб прагледзець рашэнні найболей распаўсюджаных праблем, спачатку дазвольце гэтай праграме падлучацца да сеткі.</string>
   <string name="picture_not_support_privacy_watermark">Немагчыма дадаць вадзяны знак. Гэтая выява занадта маленькая.</string>
   <string name="search_domestic_edit_hint">Пошук фота і відэа</string>
+  <string name="backup_display">Напамін пра сховішча</string>
+  <string name="backup_google_description">Абараніце свае фота, захаваўшы іх рэзервовую копію ў сваім акаўнце Google</string>
+  <string name="backup_google_name">Google Фота</string>
+  <string name="backup_off_des">Уключыце сінхранізацыю з воблакам для аўтаматычнага рэзервовага капіявання фота і відэа</string>
+  <string name="backup_onedrive_description">Абараніце свае фота ў воблаку і атрымайце да іх доступ на любой прыладзе</string>
+  <string name="backup_onedrive_name">Microsoft OneDrive</string>
+  <string name="backup_onedrive_single_name">OneDrive</string>
+  <string name="global_cloud_action_upgrade_onedrive">Абнавіць OneDrive</string>
+  <string name="global_cloud_full_space_tip_message">Абнавіце тарыфны план воблачнага сховішча, каб мець магчымасць выконваць рэзервовае капіяванне ўсіх вашых фота і відэа ў воблака.</string>
+  <string name="manager_backup">Кіраванне</string>
+  <string name="backup_category_title">РЭЗЕРВОВАЕ КАПІЯВАННЕ</string>
+  <string name="open_backup">Уключыць</string>
+  <string name="select_backup">Абярыце рэзервовую копію</string>
 </resources>
