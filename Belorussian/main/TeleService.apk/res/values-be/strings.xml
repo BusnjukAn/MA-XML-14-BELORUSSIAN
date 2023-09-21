@@ -2868,4 +2868,11 @@
   <string name="msim_setting_default_sms_description">SIM %d для SMS</string>
   <string name="msim_setting_sms_pop_text">Абраць пры адпраўцы SMS</string>
   <string name="other_settings_screen_title">Іншыя налады</string>
+  <string name="enable_2g_dialog_title">Увага</string>
+  <string name="enable_2g_dialog_warn_message">Калі вы адключыце 2G і знаходзіцеся ў раёне, дзе 2G з\'яўляецца адзінай даступнай сеткай, вы не зможаце здзяйсняць экстраныя ці неэкстраныя выклікі. Усё роўна выключыць?</string>
+  <string name="no_ims_service_notification_content">Звярніцеся да свайго аператра, каб вырашыць гэтую праблему.</string>
+  <string name="prompt_to_suggest_no_ims_service_notification_title">Немагчыма выкарыстоўваць паслугу VoLTE</string>
+  <string name="ussdinitiated_title">Ініцыяваны сеанс USSD</string>
+  <string name="voice_link_switch_summary">Выкарыстоўвайце SIM-карту для перадачы даных, каб здзяйсняць выклікі, калі няма падлучэння да Інтэрнэту.</string>
+  <string name="voice_link_switch_title">Выклік з выкарыстаннем дадзеных</string>
 </resources>
