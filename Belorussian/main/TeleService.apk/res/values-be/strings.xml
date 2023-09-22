@@ -2856,7 +2856,6 @@
   <string name="sum_cfnl_disabled">Адключана</string>
   <string name="sum_cfnl_enabled">Пераадрасацыя на нумар: {0}</string>
   <string name="switch_confirm_btn_text">ОК</string>
-  <string name="ussdinitiated_title">USSD запушчаны</string>
   <string name="dsda_turn_off">Падвойны актыўны рэжым адключаны. Перазагрузіце прыладу, каб прымяніць змены.</string>
   <string name="dsda_turn_on">Падвойны актыўны рэжым уключаны. Перазагрузіце прыладу, каб прымяніць змены.</string>
   <string name="esim_is_activating_notification_message_for_o2">Актывацыя тарыфу…</string>
