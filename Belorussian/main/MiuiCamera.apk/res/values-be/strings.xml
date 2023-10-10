@@ -1958,7 +1958,7 @@
   <string name="pref_hybrid_video_mode_description">Выкарыстоўвайце тэхналогію HLG для паляпшэння колераў і дынамічнага дыяпазону відэа, запісаных з высокай разрознасццю</string>
   <string name="pref_i_n_r_b">Разумнае шумапрыглушэнне</string>
   <string name="pref_k_h">Унутрыканальныя маніторы</string>
-  <string name="pref_k_s_i">Манітор запісаў гук праз правадныя навушнікі, калі яны былі падлучаныя</string>
+  <string name="pref_k_s_i">Кантроль гуказапісу пры падлучэнні навушнікаў</string>
   <string name="pref_lens_dirty_detect_summary">Атрымліваць паведамленне, калі аб\'ектыў забруджаны</string>
   <string name="pref_lens_dirty_detect_title">Апавяшчаць аб брудным аб\'ектыве</string>
   <string name="pref_live_duration_title">Працягласць трансляцыі</string>
@@ -2658,4 +2658,5 @@
   <string name="gallery_title">Прадпрагляд мініяцюр</string>
   <string name="switch_gallery_preview_title_accessibility">Пераключыць прадпрагляд</string>
   <string name="frind_sign_button_accessibility">Адключыць дапаможную камеру</string>
+  <string name="pref_true_colour_video_mode_setting_dec">Здымайце рэалістычныя дэталі, цудоўныя колеры і дзіўны кантраст у рэжымах \"Відэа\" і \"Ручны\". Факусоўка з адсочваннем руху і кадаваньне H.264 не падтрымліваюцца. Гэтая функцыя можа быць несумяшчальная з некаторымі іншымі праграмамі.</string>
 </resources>
