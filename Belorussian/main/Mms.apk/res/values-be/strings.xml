@@ -97,9 +97,9 @@
   <string name="click_to_update">Націсніце, каб праверыць абнаўлення</string>
   <string name="click_to_view">Націсніце для прагляду</string>
   <string name="close">Зачыніць</string>
-  <string name="cloud_state_disabled">Уключыце сінхранізацыю з Mi Cloud</string>
-  <string name="cloud_state_sync_finished">Сінхранізавана з Mi Cloud</string>
-  <string name="cloud_state_syncing">Сінхранізацыя з Mi Cloud…</string>
+  <string name="cloud_state_disabled">Уключыце сінхранізацыю з Воблакам Xiaomi</string>
+  <string name="cloud_state_sync_finished">Сінхранізавана з Воблакам Xiaomi</string>
+  <string name="cloud_state_syncing">Сінхранізацыя з Воблакам Xiaomi…</string>
   <string name="cm_privacy_dialog_allow">Згодзен (згодна)</string>
   <string name="cm_privacy_dialog_cancel">Скасаваць</string>
   <string name="cm_privacy_dialog_spannable_tips">Палітыка прыватнасцi</string>
@@ -180,10 +180,10 @@
   <string name="delivery_report_activity">Справаздача пра дастаўку</string>
   <string name="delivery_toast_body">%s \nПаведамленне дасланае</string>
   <string name="delivery_toast_body_more">Паведамленне атрыманымі %1$s, а таксама %2$d іншымі людзьмі</string>
-  <string name="dialog_complain_tips">Дазвольце дадатку падлучацца да сеткі.</string>
+  <string name="dialog_complain_tips">Дазвольце праграме падлучацца да сеткі.</string>
   <string name="dialog_message_fake_cell_detect_error">Скарэктаваць інфармацыю пра гэта паведамленне? Для гэтага MIUI неабходна запампаваць нумар тэлефона (%1$s), змест паведамленнi і інфармацыю пра найблізкае месцазнаходжанне на свае серверы.</string>
-  <string name="dialog_message_mx">Mi Паведамленнi дазваляюць вам бясплатна адпраўляць паведамленнi іншым карыстальнікам MIUI. Для актывацыі Mi паведамленняў патрабуецца адпраўка SMS. Аплата спаганяецца па тарыфе вашага аператара. Перад выкарыстаннем Mi Паведамленнi вы павінны прыняць нашы \"%1$s\" і \"%2$s\".</string>
-  <string name="dialog_message_mx_rcs">Дадатак Mi Паведамленнi дазваляе адпраўляць пведамлення іншым прыладам MIUI і карыстальнікам China Mobile без якіх-небудзь збораў. Для актывацыі патрабуецца адправіць SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Вы павінны пагадзіцца з нашым \"%1$s\" а таксама \"%2$s\" перад выкарыстаннем дадатка. Згодны?</string>
+  <string name="dialog_message_mx">Mi Паведамленнi дазваляюць вам бясплатна адпраўляць паведамленнi іншым карыстальнікам Xiaomi. Для актывацыі Mi паведамленняў патрабуецца адпраўка SMS. Аплата спаганяецца па тарыфе вашага аператара. Перад выкарыстаннем Mi Паведамленнi вы павінны прыняць нашы \"%1$s\" і \"%2$s\".</string>
+  <string name="dialog_message_mx_rcs">Праграма Mi Паведамленнi дазваляе адпраўляць пведамлення іншым прыладам MIUI і карыстальнікам China Mobile без якіх-небудзь збораў. Для актывацыі патрабуецца адправіць SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Вы павінны пагадзіцца з нашым \"%1$s\" а таксама \"%2$s\" перад выкарыстаннем дадатка. Згодны?</string>
   <string name="dialog_message_networking">Паведамленнi павінны выкарыстоўваць Жоўтыя старонкі, каб мець магчымасць забяспечыць ідэнтыфікацыю адпраўніка. Паведамленням і Жоўтым старонкам неабходна падлучыцца да Інтэрнэту і атрымаць доступ да вашага месцазнаходжанню, каб працаваць належным чынам. Дазволіць?</string>
   <string name="dialog_message_networking_mx">Mi Паведамленнi дазваляе адпраўляць паведамленнi іншым прыладам MIUI без якіх-небудзь збораў. Для актывацыі Mi Паведамленнi патрабуецца выходнае SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Вы павінны пагадзіцца з нашым \"%1$s\" а таксама \"%2$s\" перад выкарыстаннем Mi Паведамленнi. Паведамленнях неабходна падлучыцца да Інтэрнэту і атрымаць доступ да вашага месцазнаходжанню, каб забяспечыць інтэлектуальную перадачу паведамленняў, распазнаванне ідэнтыфікатара адпраўніка і іншыя сэрвісы. Дазволіць?</string>
   <string name="dialog_message_networking_mx_rcs">Mi Паведамленнi дазваляе адпраўляць Паведамленнi іншым прыладам MIUI і карыстальнікам China Mobile без якіх-небудзь збораў. Для актывацыі паведамленнi Mi патрабуецца выходнае SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Вы павінны пагадзіцца з нашым \"%1$s\" а таксама \"%2$s\" перад выкарыстаннем Mi Message. Паведамленнях неабходна падлучыцца да Інтэрнэту і атрымаць доступ да вашага месцазнаходжанню, каб забяспечыць інтэлектуальную перадачу паведамленняў, распазнаванне ідэнтыфікатара адпраўніка і іншыя сэрвісы. Дазволіць?</string>
@@ -262,10 +262,10 @@
   <string name="forward_prefix">"Ад: "</string>
   <string name="found_old_messages">Запампаваць паведамленнi з %1$s у %2$s?</string>
   <string name="found_old_messages_title">Запампаваць паведамленнi з іншых SIM-картак?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Для сінхранізацыі паведамленняў з Mi Cloud, увайдзіце ў свой Xiaomi акаўнт і актывуйце сінхранізацыю SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Сінхранізаваць SMS з Mi Cloud у наладах паведамленняў.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Для сінхранізацыі паведамленняў з Воблакам Xiaomi, увайдзіце ў свой Xiaomi акаўнт і актывуйце сінхранізацыю SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Сінхранізаваць SMS з Воблакам Xiaomi у наладах паведамленняў.</string>
   <string name="found_wild_messages_guide_sync_not_started">Сінхранізацыя яшчэ не пачалася</string>
-  <string name="found_wild_messages_title">Сінхранізацыя з Mi Cloud</string>
+  <string name="found_wild_messages_title">Сінхранізацыя з Воблакам Xiaomi</string>
   <string name="from_label">"Ад: "</string>
   <string name="from_pkg_name">З праграмы:</string>
   <string name="ft_cfs_dialog_content">Файлы не могуць быць дастаўлены з выкарыстаннем RCS. Адправіць замест гэтага спасылку ў тэкставым паведамленнi?</string>
@@ -420,9 +420,9 @@
   <string name="mx_btn_enable_now">Уключыць</string>
   <string name="mx_count_dspt">Вы бяплатна адправілі %1$d SMS і %2$d MMS</string>
   <string name="mx_current_status">Налады</string>
-  <string name="mx_dspt">Адпраўляйце SMS і MMS іншым карыстальнікам MIUI, калі вы падлучаны да Wi-Fi, без дадатковай аплаты мабільным аператарам.</string>
-  <string name="mx_dspt_listview">Адпраўляйце паведамленнi другім карыстальнікам MIUI без дадатковай аплаты мабільным аператарам</string>
-  <string name="mx_dspt_provision">Mi Паведамленнi дазваляюць вам бясплатна адпраўляць паведамленнi іншым карыстальнікам MIUI праз інтэрнэт. Для паўторнай актывацыі Mi Паведамленняў можа спатрэбіцца адпраўка SMS. Аплата спаганяецца згодна тарыфе вашага аператара. Акрамя таго, калі гэтая функцыя ўключаная, ёй патрабуецца невялікая колькасць мабільнага трафіку для праверкі статусу адрасата. Вы згодны?</string>
+  <string name="mx_dspt">Адпраўляйце SMS і MMS іншым карыстальнікам Xiaomi, калі вы падлучаны да Wi-Fi, без дадатковай аплаты мабільным аператарам.</string>
+  <string name="mx_dspt_listview">Адпраўляйце паведамленнi іншым карыстальнікам Xiaomi без дадатковай аплаты мабільным аператарам</string>
+  <string name="mx_dspt_provision">Mi Паведамленнi дазваляюць вам бясплатна адпраўляць паведамленнi іншым карыстальнікам Xiaomi праз інтэрнэт. Для паўторнай актывацыі Mi Паведамленняў можа спатрэбіцца адпраўка SMS. Аплата спаганяецца згодна тарыфе вашага аператара. Акрамя таго, калі гэтая функцыя ўключаная, ёй патрабуецца невялікая колькасць мабільнага трафіку для праверкі статусу адрасата. Вы згодны?</string>
   <string name="mx_dspt_provision_ex2">Палітыка прыватнасцi</string>
   <string name="mx_enable">Mi Паведамленнi</string>
   <string name="mx_enable_ex">Mi Паведамленнi і тэлефанія</string>
@@ -554,7 +554,7 @@
   <string name="pref_title_delivery_reports">Справаздача пра дастаўку</string>
   <string name="pref_title_fwd_sender_info">Інфармацыя пра адпраўніка</string>
   <string name="pref_title_manage_sim_messages">Сховішча SIM-карты</string>
-  <string name="pref_title_miui_card">Адправіць як візітку Miui</string>
+  <string name="pref_title_miui_card">Адправіць як візітоўку MIUI</string>
   <string name="pref_title_mms_auto_retrieval">Спампоўваць змесціва MMS аўтаматычна</string>
   <string name="pref_title_mms_delete">Максімальная колькасць MMS</string>
   <string name="pref_title_mms_read_reports">Апавяшчаць аб чытанні MMS</string>
@@ -677,8 +677,8 @@
   <string name="recipients_contain_sub_sim_number">Падобна на тое, што сярод атрымальнікаў ёсць нумар другой SIM-карты. Адпраўце гэтае паведамленне, выкарыстоўваючы другую SIM-карту.</string>
   <string name="recipients_over_size">Занадта шмат атрымальнікаў.</string>
   <string name="recommend_bar_cancel">Ігнараваць</string>
-  <string name="recommend_bar_message_mx">Mi Паведамленнi дазваляюць вам бяплатна адпраўляць паведамленнi іншым карыстальнікам MIUI.</string>
-  <string name="recommend_bar_message_mx_rcs">Mi Паведамленнi дазваляюць вам бяплатна адпраўляць паведамленнi іншым карыстальнікам MIUI і карыстальнікам China Mobile у мацерыковым Кітаі.</string>
+  <string name="recommend_bar_message_mx">Mi Паведамленнi дазваляюць вам бяплатна адпраўляць паведамленнi іншым карыстальнікам Xiaomi.</string>
+  <string name="recommend_bar_message_mx_rcs">Mi Паведамленнi дазваляюць вам бяплатна адпраўляць паведамленнi іншым карыстальнікам Xiaomi і карыстальнікам China Mobile у мацерыковым Кітаі.</string>
   <string name="recommend_bar_message_rcs">Паведамленнi China Mobile дазваляюць вам бяплатна адпраўляць паведамленнi іншым карыстальнікам China Mobile у мацерыковым Кітаі.</string>
   <string name="recommend_bar_message_smart_message">Капіюйце аднаразовыя паролі, адсочвайце пакеты, выкарыстоўвайце смарт-меню і рабіце многае іншае</string>
   <string name="recommend_bar_ok">Уключыць</string>
@@ -869,7 +869,7 @@
   <string name="system_permission_declare_disagree">Адмена</string>
   <string name="system_permission_declare_double_link" formatted="false">Прачытайце і пагадзіцеся з нашымі %1s і %2s перад выкарыстаннем гэтай функцыі.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Сардэчна запрашаем у %1s! %2s</string>
-  <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэта дадатак не зможа нармальна працаваць.</string>
+  <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэта праграма не зможа нармальна працаваць.</string>
   <string name="system_permission_declare_privacy_declare">Мы паважаем і абараняем вашу прыватнасць.\nЗвярніце ўвагу, што %1s можа збіраць вашыя дадзеныя і для нармальнай працы патрабуюцца наступныя дазволу:</string>
   <string name="system_permission_declare_revoke_path">Вы можаце адклікаць аўтарызацыю і адключыць сэрвіс у наладах абмену паведамленнямі.</string>
   <string name="system_permission_declare_single_link">Прачытайце і пагадзіцеся з нашай %1s перад выкарыстаннем гэтай функцыі.</string>
@@ -962,7 +962,7 @@
   <string name="recommend_both_dialog_title">Сардэчна запрашаем у абмен паведамленнямі!</string>
   <string name="recommend_dialog_message">Вы можаце ўключыць Mi Паведамленне і Разумнае паведамленне для доступу да дадатковых функцый.</string>
   <string name="recommend_mx_dialog_title">Сардэчна запрашаем у Mi Паведамленне!</string>
-  <string name="recommend_mx_setting_summary">Mi Паведамленне дазваляе адпраўляць паведамленнi іншым Mi карыстальнікам праз Інтэрнэт без збірання платы.</string>
+  <string name="recommend_mx_setting_summary">Mi Паведамленне дазваляе адпраўляць паведамленнi іншым карыстальнікам Xiaomi праз Інтэрнэт без збірання платы.</string>
   <string name="recommend_smart_sms_dialog_title">Сардэчна запрашаем у Разумнае паведамленне!</string>
   <string name="recommend_smart_sms_setting_summary">Разумнае паведамленне забяспечвае распазнаванне ідэнтыфікатара адпраўніка і інтэлектуальныя меню.</string>
   <string name="turn_on">Уключыць</string>
@@ -1691,4 +1691,13 @@
   <string name="pref_title_perm_read_files">Доступ да файлаў і дакументаў</string>
   <string name="pref_title_perm_read_images_video">Доступ да фота і відэа</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="add_to_block_by_number_failed">Немагчыма дадаць %s у чорны спіс.\nПаспрабуйце яшчэ раз.</string>
+  <string name="add_to_block_by_tag_failed">Немагчыма дадаць паведамленні, якія змяшчаюць \"%s\", у чорны спіс.\nПаспрабуйце яшчэ раз.</string>
+  <string name="cloud_space_not_enough">Воблачнае сховішча запоўнена. Абнавіце сваё сяброўства, каб сінхранізаваць апошнія элементы.</string>
+  <string name="copy_message">Капіяваць</string>
+  <string name="copy_message_success">Скапіявана паспяхова</string>
+  <string name="fail_to_add_image">Немагчыма атрымаць доступ да скапіяваных элементаў</string>
+  <string name="pref_feedback_title">Справаздача</string>
+  <string name="search_sms">Пошук паведамленняў</string>
+  <string name="title_timed_remind_message_dialog">Усталяваць час напамінку</string>
 </resources>

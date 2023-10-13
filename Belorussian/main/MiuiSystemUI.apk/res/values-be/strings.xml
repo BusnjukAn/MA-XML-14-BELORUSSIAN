@@ -2394,7 +2394,7 @@
   <string name="material_timepicker_text_input_mode_description">Пераключыцца на рэжым тэксту пры ўводзе часу.</string>
   <string name="media_output_dialog_add_output">Дадайце прылады вываду</string>
   <string name="media_output_dialog_connect_failed">Не ўдалося падключыцца. Паўтарыце спробу.</string>
-  <string name="media_output_dialog_disconnected">%1$s (адключана)</string>
+  <string name="media_output_dialog_disconnected">(адключана)</string>
   <string name="media_output_dialog_group">Група</string>
   <string name="media_output_dialog_multiple_devices">Выбрана прылад: %1$d</string>
   <string name="media_output_dialog_pairing_new">Спалучыць з новай прыладай</string>

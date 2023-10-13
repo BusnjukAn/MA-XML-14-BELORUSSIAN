@@ -1637,4 +1637,5 @@
   <string name="warning_miui_optimization_closed_dialog_title">Увага</string>
   <string name="ad_sub_textview_introduction">Уводзіны</string>
   <string name="ad_sub_textview_version_with_colon">Версія：</string>
+  <string name="ad_installing">Усталяванне</string>
 </resources>

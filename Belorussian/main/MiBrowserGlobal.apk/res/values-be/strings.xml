@@ -2810,4 +2810,24 @@
   <string name="time_segmented_evening_title">Вячэрні адпачынак</string>
   <string name="time_segmented_morning_title">Добрай раніцы</string>
   <string name="time_segmented_noon_title">Паўдзённая падборка</string>
+  <string name="ad_flag_text">Рэклама</string>
+  <string name="browser_wallpaper">Шпалеры</string>
+  <string name="browser_wallpaper_activity">Промаакцыі</string>
+  <string name="browser_wallpaper_application">Ужыць</string>
+  <string name="browser_wallpaper_art">Мастацтва</string>
+  <string name="browser_wallpaper_currently_in_use">Ужыты</string>
+  <string name="browser_wallpaper_gallery">Мае фота</string>
+  <string name="browser_wallpaper_landscape">Пейзаж</string>
+  <string name="browser_wallpaper_more_btn">Паказаць больш</string>
+  <string name="browser_wallpaper_my">Мае шпалеры</string>
+  <string name="browser_wallpaper_preview">Папярэдні прагляд</string>
+  <string name="browser_wallpaper_sub">Атрымайце рэкамендацыі па святочным і спецыяльным шпалерам</string>
+  <string name="browser_wallpaper_subtitle">Персаналізуйце Mi Браўзэр з дапамогай прыгожых шпалер.</string>
+  <string name="browser_wallpaper_system_default">Па змаўчанні</string>
+  <string name="browser_wallpaper_title">Шпалеры</string>
+  <string name="native_body">Тэкст паведамлення</string>
+  <string name="native_headline">Загаловак</string>
+  <string name="native_media_view">Цэнтр мультымедыя</string>
+  <string name="skip_ad">Прапусціць</string>
+  <string name="slide_next_video_text">"Наступнае відэа: "</string>
 </resources>

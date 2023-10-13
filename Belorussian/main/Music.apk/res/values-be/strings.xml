@@ -1882,4 +1882,12 @@
   <string name="web_reward_dialog_cancle">Адмена</string>
   <string name="web_reward_dialog_ok">Выйсці</string>
   <string name="youtube_tab_shorts">Кароткія вiдэа</string>
+  <string name="lyrics_guide_button_text">Паспрабуйце</string>
+  <string name="lyrics_guide_four">Вярніцеся на старонку з тэкстамі песень для прагляду</string>
+  <string name="lyrics_guide_one">Краніце выніку пошуку, каб абраць яго</string>
+  <string name="lyrics_guide_three">Адрэдагуйце і захавайце тэкст песні</string>
+  <string name="lyrics_guide_title">Як шукаць і захоўваць тэксты песень</string>
+  <string name="lyrics_guide_two">Абярыце патрэбныя тэксты песень і скапіюйце іх</string>
+  <string name="lyrics_popup_title">Націсніце, каб знайсці тэксты песень</string>
+  <string name="select_lyrics_copy">Абярыце і скапіюйце тэкст песні</string>
 </resources>

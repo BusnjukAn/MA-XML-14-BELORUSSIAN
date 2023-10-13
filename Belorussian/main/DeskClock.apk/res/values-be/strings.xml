@@ -794,4 +794,11 @@ dd.MM"</string>
   <string name="snooze_alarm_alert">Адкладзена да %s</string>
   <string name="timer_alert_pause">Таймер прыпынены</string>
   <string name="timer_alert_running">Таймер запушчаны</string>
+  <string name="alarm_repeat_self_define_button">Наладзіць</string>
+  <string name="look_sleep_data">Прагляд дадзеных пра сон</string>
+  <string name="notification_permission_dialog_content">Дазвольце гэтай праграме адпраўляць апавяшчэнні, каб атрымліваць апавяшчэнні будзільніка. Вы можаце прадаставіць гэты дазвол у Наладах.</string>
+  <string name="notification_permission_dialog_not_open">Не зараз</string>
+  <string name="notification_permission_dialog_open">Налады</string>
+  <string name="notification_permission_dialog_title">Патрабуюцца дазволы</string>
+  <string name="upcoming_alarm_new">Будзільнік: %s</string>
 </resources>
