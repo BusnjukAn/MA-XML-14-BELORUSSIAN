@@ -472,4 +472,10 @@
   <string name="public_onlineSecurityDialogConfirm">Адкрыць у WPS</string>
   <string name="public_onlineSecurityDialogMsg">Гэты файл з\'яўляецца бяспечным файлам, створаным WPS. Ён можа быць адкрыты толькі кліентам WPS, які падтрымлівае бяспечныя файлы. Выкарыстоўвайце кліент WPS для доступу.</string>
   <string name="public_onlineSecurityDialogTitle">Немагчыма адкрыць файл</string>
+  <string name="public_2pic">Экспарт у выяву</string>
+  <string name="public_export_pdf">Экспарт у PDF</string>
+  <string name="public_pdf2word">PDF у Word</string>
+  <string name="public_pdfFillForm">Запоўніць форму</string>
+  <string name="public_privacy_policy">Палітыка прыватнасці</string>
+  <string name="public_writer2pic">Экспарт у файл толькі з выявай</string>
 </resources>
