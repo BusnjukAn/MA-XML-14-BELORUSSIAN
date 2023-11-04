@@ -55,8 +55,8 @@
         <item quantity="many">%d хв таму</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">%d гадзіны таму</item>
-        <item quantity="one">%d гадзіна таму</item>
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіну таму</item>
         <item quantity="few">%d гадзіны таму</item>
         <item quantity="many">%d гадзін таму</item>
     </plurals>
@@ -67,7 +67,7 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
-        <item quantity="other">%d дня таму</item>
+        <item quantity="other">%d дзён таму</item>
         <item quantity="one">%d дзень таму</item>
         <item quantity="few">%d дні таму</item>
         <item quantity="many">%d дзён таму</item>
@@ -81,11 +81,10 @@
     <plurals name="daily_forcast_drawer_on_home">
         <item quantity="other">Прагноз на %1$s дзён</item>
         <item quantity="one">Прагноз на %1$s дзень</item>
-        <item quantity="few">Прагноз на %1$s дня</item>
-        <item quantity="many">Прагноз на %1$s дзён</item>
+        <item quantity="few">Прагноз на %1$s днi</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Прагноз на %1$s дня</item>
+        <item quantity="other">Прагноз на %1$s дзён</item>
         <item quantity="one">Прагноз на %1$s дзень</item>
         <item quantity="few">Прагноз на %1$s дні</item>
         <item quantity="many">Прагноз на %1$s дзён</item>
@@ -139,16 +138,16 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">"%d аб'ектаў выдзелена"</item>
+        <item quantity="other">"%d аб'екта выдзеленая"</item>
         <item quantity="one">"%d аб'ект выдзелены"</item>
         <item quantity="few">"%d аб'екты выдзелены"</item>
         <item quantity="many">"%d аб'ектаў выдзелена"</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s людзей | </item>
-        <item quantity="one">%1$s чалавек | </item>
-        <item quantity="few">%1$s чалавекі | </item>
-        <item quantity="many">%1$s чалавек | </item>
+        <item quantity="other">%1$s людзей |</item>
+        <item quantity="one">%1$s чалавек |</item>
+        <item quantity="few">%1$s чалавекі |</item>
+        <item quantity="many">%1$s чалавек |</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвілін таму</item>
@@ -157,33 +156,33 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> галасоў"</item>
-        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> голас"</item>
-        <item quantity="few">"&lt;font color='#20a7ff'>%1$s&lt;/font> галасы"</item>
-        <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> галасоў"</item>
+        <item quantity="other">&lt;font color="'#20a7ff'">%1$s&lt;/font> галасоў</item>
+        <item quantity="one">&lt;font color="'#20a7ff'">%1$s&lt;/font> голас</item>
+        <item quantity="few">&lt;font color="'#20a7ff'">%1$s&lt;/font> галаса</item>
+        <item quantity="many">&lt;font color="'#20a7ff'">%1$s&lt;/font> галасоў</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Максімальная тэмпература: %1$s градусаў Цэльсія</item>
-        <item quantity="one">Максімальная тэмпература: %1$s градус Цэльсія</item>
-        <item quantity="few">Максімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="one">Максімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="few">Максімальная тэмпература: %1$s градус Цэльсія</item>
         <item quantity="many">Максімальная тэмпература: %1$s градусаў Цэльсія</item>
     </plurals>
     <plurals name="tts_report_temperature_high_fahrenheit">
         <item quantity="other">Максімальная тэмпература: %1$s градусаў Фарэнгейта</item>
-        <item quantity="one">Максімальная тэмпература: %1$s градус Фарэнгейта</item>
-        <item quantity="few">Максімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="one">Максімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="few">Максімальная тэмпература: %1$s градус Фарэнгейта</item>
         <item quantity="many">Максімальная тэмпература: %1$s градусаў Фарэнгейта</item>
     </plurals>
     <plurals name="tts_report_temperature_low_centigrade">
         <item quantity="other">Мінімальная тэмпература: %1$s градусаў Цэльсія</item>
-        <item quantity="one">Мінімальная тэмпература: %1$s градус Цэльсія</item>
-        <item quantity="few">Мінімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="one">Мінімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="few">Мінімальная тэмпература: %1$s градус Цэльсія</item>
         <item quantity="many">Мінімальная тэмпература: %1$s градусаў Цэльсія</item>
     </plurals>
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">Мінімальная тэмпература: %1$s градусаў Фарэнгейта</item>
-        <item quantity="one">Мінімальная тэмпература: %1$s градус Фарэнгейта</item>
-        <item quantity="few">Мінімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="one">Мінімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="few">Мінімальная тэмпература: %1$s градус Фарэнгейта</item>
         <item quantity="many">Мінімальная тэмпература: %1$s градусаў Фарэнгейта</item>
     </plurals>
     <plurals name="view_realtime_clear">
@@ -193,9 +192,9 @@
         <item quantity="many">Ясна</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s чалавек</item>
-        <item quantity="one"> | %1$s чалавек</item>
-        <item quantity="few"> | %1$s чалавекі</item>
-        <item quantity="many"> | %1$s чалавек</item>
+        <item quantity="other">| %1$s чалавек</item>
+        <item quantity="one">| %1$s чалавек</item>
+        <item quantity="few">| %1$s чалавекі</item>
+        <item quantity="many">| %1$s чалавек</item>
     </plurals>
 </resources>
